@@ -1,1 +1,238 @@
+body {
+color: #5D1E44;
+font-family: "Open Sans", "Sans Serif";
+}
+
+h1 {
+font-size: 30px;
+}
+
+p {
+font-size: 20px;
+}
+
+#startlisbon{
+padding-top:175px;
+background-size:cover;
+background-image: url("https://cloud.githubusercontent.com/assets/8695466/14051696/40d55cfc-f2c5-11e5-9bd6-382c5606439b.jpg");
+height:600px;
+text-align: center;
+}
+
+#startrome{
+padding-top:175px;
+background-size:cover;
+background-image: url("https://cloud.githubusercontent.com/assets/8695466/14066818/ee932e60-f454-11e5-8e57-cfca689d7de1.JPG");
+height:600px;
+text-align: center;
+}
+
+#startlisbon h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startrome h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
+
+#startrome p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
+
+#start {
+padding-top:175px;
+background-size:cover;
+background-image: url("https://cloud.githubusercontent.com/assets/8695466/4796743/afb60b72-5e05-11e4-91f0-a792a4778db9.jpg");
+height:600px;
+text-align: center;
+}
+
+#start h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#start p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
+
+#departurebtn{
+margin-top:25px;
+color:black;
+background:white;
+}
+
+#Requestgoogle {
+text-align: center;
+}
+
+#Requestgoogle img {
+margin-bottom: 2em;
+margin-top:2em;
+}
+
+#Requestgoogle h1{
+margin-top:2em;
+margin-bottom:1em;
+}
+
+#Digitalprofile {
+padding-top:1em;
+text-align: center;
+}
+
+#Digitalprofile img {
+margin-bottom: 2em;
+margin-top:2em;
+}
+
+#Digitalprofile h1{
+margin-top:2em;
+margin-bottom:1em;
+}
+
+#Facebook {
+padding-top:1em;
+text-align: center;
+}
+
+#Facebook img {
+margin-bottom: 2em;
+margin-top:2em;
+}
+
+#Facebook h1{
+margin-top:2em;
+margin-bottom:1em;
+}
+
+#cv {
+padding-top:1em;
+text-align:center;
+}
+
+#cv img {
+margin-bottom: 2em;
+margin-top:2em;
+}
+
+#cv h1{
+margin-top:2em;
+margin-bottom:1em;
+}
+
+#Callme {
+padding-top:1em;
+text-align:center;
+}
+
+#footer {
+background-color: #797975;
+font-size:10px;
+color:#5D1E44;
+text-align: center;
+}
+
+#footer a {
+color:white;
+}
+
+#spacer {
+height:50px;
+}
+
+#bonus{
+text-align:center;
+}
+
+#bonus img{
+margin-bottom:2em;
+}
+
+#bonus h1{
+margin-top:2em;
+margin-bottom:1em;
+}
+
+.btn {
+color:white;
+background:#5D1E44;
+}
+
+#content {
+text-indent:100%;
+white-space:nowrap;
+overflow:hidden;
+height:10px;
+} 
+
+#blog1 {
+padding-top: 100px;
+padding-bottom: 25px;
+text-align: justify;
+} 
+
+.blog-inner  {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 100%;
+    display: block;
+    }
+
+.nav-pills {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:20px;
+    width: 100%;
+    text-transform: none;
+    display: block;
+    font-family : "Open Sans", "Sans Serif";
+} 
+
+.navbar-default{
+    background-color: white
+}
+
+#velo {
+    margin-left: 10px
+}
+
+.nav a{
+    color: black;
+}
+
+#footer li{
+    color:white;
+    font-size:20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 
