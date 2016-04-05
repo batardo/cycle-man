@@ -239,3 +239,11 @@ img {
     text-align:center;
 }
 
+.col-md-4 #img {
+    width: 100px;
+	height: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
