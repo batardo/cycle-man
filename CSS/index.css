@@ -133,8 +133,13 @@ background-color:white;
 
 .blog {
 	width:680px;
-	text-align:justify;
+	text-align:center;
 	font-weight:300;
+	
+}
+
+.blog p {
+	letter-spacing:2px;
 	
 }
 
