@@ -102,9 +102,6 @@ img {
 .feature img {
 width: 200px;
 height: 200px;
-border-radius: 50%;
-over
-	
 }
 
 .feature p {
@@ -123,5 +120,6 @@ over
 #footer li {
 		font-weight:300;
 	letter-spacing:1px;
+	font-size:6px;
 }
 
