@@ -100,11 +100,11 @@ img {
 }
 
 .feature img {
-    width: 200px;
-	height: 200px;
-	-moz-border-radius: 50px;
-	-webkit-border-radius: 50px;
-	border-radius: 50%;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+over
+	
 }
 
 .feature p {
@@ -113,5 +113,10 @@ img {
 }
 .wrapper {
 	background-color: #F4F4F4;
+}
+
+.nav a {
+	font-weight:300;
+	letter-spacing:1px;
 }
 
