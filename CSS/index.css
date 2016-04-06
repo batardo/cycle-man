@@ -109,6 +109,7 @@ border-radius: 10%;
 .feature p {
 	font-weight:300;
 	letter-spacing:1px;
+	margin-top:10px;
 }
 .wrapper {
 	background-color: #F4F4F4;
