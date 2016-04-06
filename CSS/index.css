@@ -102,7 +102,7 @@ img {
 .feature img {
 width: 200px;
 height: 200px;
-border: 1px;
+border: 1px solid #F4F4F4;
 border-radius:20%;
 }
 
