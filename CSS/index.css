@@ -163,9 +163,8 @@ text-align:center;
 	
 }
 
-.col-sm-4 {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+.row {
+	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
 }
-
