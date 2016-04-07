@@ -113,7 +113,7 @@ height: 200px;
 border: 1px solid #A9A3A3;
 border-radius: 50%;
 text-align:center;
-transform: rotate(45deg);
+transform: rotate(90deg);
 }
 
 .feature p {
