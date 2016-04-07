@@ -107,13 +107,17 @@ border-radius: 10%;
 background-color:white;
 }
 
-#aboutme {
+#aboutme img {
 	width: 200px;
 height: 200px;
 border: 1px solid #A9A3A3;
 border-radius: 50%;
 text-align:center;
 transform: rotate(90deg);
+}
+
+#aboutme  {
+text-align:center;
 }
 
 .feature p {
