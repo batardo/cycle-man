@@ -132,8 +132,12 @@ background-color:white;
 }
 
 .blog {
-	width:680px;
-	text-align:center;
+	max-width: 800px;
+    	margin-left: auto;
+    	margin-right: auto;
+    	text-align: left;
+    	width: 100%;
+    	display: block;
 	font-weight:300;
 	
 }
