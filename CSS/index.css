@@ -17,6 +17,7 @@ background-size:cover;
 height:600px;
 text-align: center;
 background-image: url("https://cloud.githubusercontent.com/assets/18250643/14409538/5e23851a-ff16-11e5-9a27-26b5f732f996.jpg");
+background-attachment:fixed;
 }
 
 #startlisbon2{
@@ -25,6 +26,7 @@ background-size:cover;
 height:600px;
 text-align: center;
 background-image: url("https://cloud.githubusercontent.com/assets/18250643/14409455/0840a9fe-ff14-11e5-9b89-80c12a0a11a4.JPG");
+background-attachment:fixed;
 }
 
 #startlisbon h1 {
