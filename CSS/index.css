@@ -171,3 +171,9 @@ text-align:center;
 #mc_embed_signup {
 	padding-top:30px;
 }
+
+ul {
+list-style:none;
+margin-left:0;
+padding-left:0;
+}
