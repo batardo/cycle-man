@@ -160,8 +160,12 @@ text-align:center;
 	color:black;
 }
 
+
 .blog p {
 	letter-spacing:2px;
 	
 }
 
+#mc_embed_signup {
+	padding-top:30px;
+}
