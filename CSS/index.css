@@ -76,10 +76,6 @@ background-color:white;
 	background-color: #F4F4F4;
 }
 
------
-home
------ 
-
 #startlisbon{
 padding-top:175px;
 background-size:cover;
@@ -116,15 +112,8 @@ letter-spacing:2px;
 	padding-top:30px;
 }
 
-
------
------
-about
------
------
-
-#aboutme img {
-	width: 200px;
+#aboutme img { 
+width: 200px;
 height: 200px;
 border: 1px solid #A9A3A3;
 border-radius: 50%;
@@ -135,12 +124,6 @@ transform: rotate(90deg);
 text-align:center;
 }
 
-
------
------
-Nav
------
------
 
 .nav a {
 	font-weight:300;
@@ -170,25 +153,10 @@ Nav
     color: black;
 }
 
-
------
------
-route
------
------
-
-
 #map {
 	padding-top:30px;
 	text-align:center;
 }
-
-
------
------
-footer
------
------
 
 #footer {
 background-color: #CCCCCC;
