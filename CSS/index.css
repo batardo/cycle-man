@@ -3,7 +3,7 @@ color: #5D1E44;
 font-family: "Open Sans", "Sans Serif";
 }
 
-label {
+.label {
     display: inline;
     padding: .1em .3em .1em;
     font-size: 75%;
