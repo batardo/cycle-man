@@ -85,8 +85,9 @@ background-image: url("https://cloud.githubusercontent.com/assets/18250643/14409
 background-attachment:fixed;
 }
 
-#home: hover{
+#home:hover{
 	opacity:0.5;
+	background-color:#5D1E44;
 }
 
 #startlisbon2{
