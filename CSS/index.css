@@ -140,6 +140,15 @@ background-image: url("https://cloud.githubusercontent.com/assets/18250643/14967
 background-attachment:fixed;
 }
 
+#startlisbon7{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/15228487/b39967d2-188c-11e6-9048-fb4dfbb7215d.jpg");
+background-attachment:fixed;
+}
+
 #home:hover{
     opacity:0.5;
     color:#5D1E44;
@@ -194,6 +203,14 @@ display:inline-block;
 margin-bottom:25px;
 }
 
+#startlisbon7 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
 #startlisbon2 p {
 background:rgba(82, 150, 214, 0.4);
 display:inline-block;
@@ -225,6 +242,12 @@ letter-spacing:2px;
 }
 
 #startlisbon6 p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
+
+#startlisbon7 p {
 color: white;
 text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
 letter-spacing:2px;
