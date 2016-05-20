@@ -161,11 +161,10 @@ background-attachment:fixed;
 #startlisbon9{
 padding-top:175px;
 background-size:cover;
+height:600px;
 text-align: center;
 background-image: url("https://cloud.githubusercontent.com/assets/18250643/15431042/626683d2-1ea8-11e6-986e-1faa571565d4.jpg");
 background-attachment:fixed;
-max-width: 100%;
-height: auto;
 }
 
 #home:hover{
