@@ -207,16 +207,16 @@ background-attachment:fixed;
 #home:hover{
     opacity:0.5;
     color:#5D1E44;
-	transform: scale(1.2);
-   	-webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
    }
 
 #home {
-	transition-property: transform;
-	-webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-property: transform;
     transition-duration: .5s;
-	transition-timing-function: ease-out;
-	}
+    transition-timing-function: ease-out;
+    }
 
 #startlisbon2{
 padding-top:100px;
@@ -465,5 +465,8 @@ display:inline-block;
 margin-bottom:25px;
 }
 
+.table {
+font-size: 10px
+}
 
 
