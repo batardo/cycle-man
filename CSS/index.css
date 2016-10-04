@@ -1,442 +1,470 @@
----
-layout : index
----
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <title>Berlin Lisbon Express : Bike route from Berlin to Lisbon</title>
-    <meta name="description" content="Follow my bike trip from Berlin to Libson. See the Route I plan to bike on. 4 Countries, almost 3000 kilometers : Let's start the journey now!">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/CSS/index.css">
-    <script type="text/javascript" src="/JS/index.js"> </script>
-    
-    <meta property="og:title" content="Berlin Lisbon Express : Bike route from Berlin to Lisbon"/>
-    <meta property="og:url" content="https://www.berlin-lisbon-express.eu" />
-    <meta property="og:image" content="https://cloud.githubusercontent.com/assets/8695466/14020720/b835dc10-f1d8-11e5-8a51-a44104a3cbe7.jpg"/>
-    <meta property="og:description" content="Follow my bike trip from Berlin to Libson. See the Route I plan to bike on. 4 Countries, almost 3000 kilometers : Let's start the journey now!" />
-    <meta property="og:site_name" content="From Berlin to Lisbon by Bike" />
-    <meta property="fb:admins" content="Facebook numeric ID" />
-  </head>
-  
-  <body>
+body {
+color: #5D1E44;
+font-family: "Open Sans", "Sans Serif";
+font-size:18px;
+}
 
-<div id="spacertop">
-  </div>
- 
- <div class="container blog" align="center">
-  <div class="row">
-    <div class="col-xs-12" align="center">
-    <a href="https://en.komoot.de/tour/8229122/embed" target=_blank><img src="https://cloud.githubusercontent.com/assets/18250643/18954914/690ec3ce-8655-11e6-9a10-abdf9855c910.PNG" alt="bike route from berlin to lisbon"></a>
-    </div>
-  </div>
-  <div class="row"> 
-    <div class="col-xs-12" align="center">
-      </div>
-  </div>
-</div>
-  
+.label {
+    display: inline;
+    padding: .1em .3em .1em;
+    font-size: 75%;
+    font-weight: 300;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
 
-<div id="spacer">
-  </div>
-  
- <div class="container blog" align="center">
-     <div class="row">
-         <div class="col-xs-12">
-     <ul>
-            <h1 id="titleroute">Part 1: Bike route from Berlin to Strasbourg in 9 days</h1>
-      <p>It is actually easy. Start from <span class="label label-success">Berlin</span>, go south direction <span class="label label-success">Leipzig</span>. All flat, all nice. In Leipzig, follow <span class="label label-success">Würzburg</span> in Bavaria. <span class="label label-warning">Warning</span> : you will have to cross mountains, with one first peak at 800 meters (starting from 100 meters though). Once in Würzburg, go on towards <span class="label label-success">Karlsruhe</span>, then <span class="label label-success">Strasburg</span>. That way, you ovoid the "Schwarzwald". And hop, already in France!</p>
+h1 {
+font-size: 30px;
+}
 
-<div class="container blog" align="center">
-     <div class="row vcenter">
-         <div class="col-sm-7">
-          <iframe src="https://en.komoot.de/tour/11749387/embed" width="400" height="300" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </div>
-          <div class="col-sm-5">
-            <p>Day 1 - From Berlin to Lutherstadt Wittenberg</p>
-            <p>Difficulty : Low - profile pretty flat.</p>
-            <p>Accomodation : In Lutherstadt-Wittenberg there is a cheap, clean and renovated <a href="http://www.jugendherberge-wittenberg.de/">youth hostel</a>.</p>
-            </div>
-      </div>
-    </div>
+p {
+font-size: 20px;
+}
 
-<div id="spacertop">
-    </div>
+.vcenter {
+     display: flex;
+    align-items: center;
+}
 
-<div class="container blog" align="center">
-     <div class="row vcenter">
-         <div class="col-sm-7">
-          <iframe src="https://en.komoot.de/tour/11749492/embed" width="400" height="300" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </div>
-          <div class="col-sm-5">
-            <p>Day 2 </p>
-            <p>Difficulty : </p>
-            <p>Accomodation : </p>
-            </div>
-      </div>
-    </div>
+ul {
+list-style:none;
+margin-left:0;
+padding-left:0;
+padding-top:20px;
+padding-bottom:20px;
+}
 
-    <div id="spacertop">
-    </div>
+img {
+    max-width: 100%;
+    height: auto;
+}
 
-<div class="container blog" align="center">
-     <div class="row vcenter">
-         <div class="col-sm-7">
-          <iframe src="https://en.komoot.de/tour/11749603/embed" width="400" height="300" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </div>
-          <div class="col-sm-5">
-            <p>Day 3 </p>
-            <p>Difficulty : </p>
-            <p>Accomodation : </p>
-            </div>
-      </div>
-    </div>
+#spacer {
+height:50px;
+}
 
-    <div id="spacertop">
-    </div>
+#spacertop {
+height:100px;
+}
 
-<div class="container blog" align="center">
-     <div class="row vcenter">
-         <div class="col-sm-7">
-          <iframe src="https://en.komoot.de/tour/11749750/embed" width="400" height="300" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </div>
-          <div class="col-sm-5">
-            <p>Day 4 </p>
-            <p>Difficulty : </p>
-            <p>Accomodation : </p>
-            </div>
-      </div>
-    </div>
+#content {
+text-indent:100%;
+white-space:nowrap;
+overflow:hidden;
+height:10px;
+}
 
-<div id="spacertop">
-    </div>
+.btn {
+color:white;
+background:#5D1E44;
+}
 
-<div class="container blog" align="center">
-     <div class="row vcenter">
-         <div class="col-sm-7">
-          <iframe src="https://en.komoot.de/tour/11750127/embed" width="400" height="300" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </div>
-          <div class="col-sm-5">
-            <p>Day 5 </p>
-            <p>Difficulty : </p>
-            <p>Accomodation : </p>
-            </div>
-      </div>
-    </div>
+.feature img {
+width: 200px;
+height: 200px;
+border: 1px solid #A9A3A3;
+border-radius: 10%;
+background-color:white;
+}
 
-<div id="spacertop">
-    </div>
+.featurebtm img {
+width: 200px;
+height: 200px;
+background-color:white;
+}
 
-<div class="container blog" align="center">
-     <div class="row vcenter">
-         <div class="col-sm-7">
-          <iframe src="https://en.komoot.de/tour/11750188/embed" width="400" height="300" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </div>
-          <div class="col-sm-5">
-            <p>Day 6 </p>
-            <p>Difficulty : </p>
-            <p>Accomodation : </p>
-            </div>
-      </div>
-    </div>
+.featurebtmbike img {
+width: 250px;
+height: 200px;
+background-color:white;
+}
+
+.blog {
+    max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: justify;
+        width: 100%;
+        display: block;
+    font-weight:300;
+    color:black;
+}
+
+.blog p {
+    letter-spacing:2px;
+}
+
+.feature p {
+    font-weight:300;
+    letter-spacing:1px;
+    margin-top:10px;
+}
+
+.featurebtm p {
+    font-weight:300;
+    letter-spacing:1px;
+    margin-top:10px;
+}
+
+.wrapper {
+    background-color: #F4F4F4;
+}
+
+#startlisbon{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/14409538/5e23851a-ff16-11e5-9a27-26b5f732f996.jpg");
+background-attachment:fixed;
+}
+
+#startlisbon3{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/14653771/d3647b2a-067a-11e6-9d82-ff0b55844048.jpg");
+background-attachment:fixed;
+}
+
+#startlisbon4{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/14753695/4242df92-08d7-11e6-8719-6d8beffb8619.jpg");
+background-attachment:fixed;
+}
+
+#startlisbon5{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/14921448/97c48d16-0e32-11e6-8660-83f5a7bf0edf.jpg");
+background-attachment:fixed;
+}
+
+#startlisbon6{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/14967187/67303ea8-10b6-11e6-81f5-0911424b7bab.jpg");
+background-attachment:fixed;
+}
+
+#startlisbon7{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/15228487/b39967d2-188c-11e6-9048-fb4dfbb7215d.jpg");
+background-attachment:fixed;
+}
+
+#startlisbon8{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/15403612/22d16b32-1dfa-11e6-803a-5f1374c89c05.png");
+background-attachment:fixed;
+}
+
+#startlisbon9{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/15431089/9cb3838c-1ea8-11e6-864b-34e2042b056a.jpg");
+background-attachment:fixed;
+}
+
+#startlisbon10{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/15517005/c3fdacd8-21f5-11e6-8f2f-be6c48d039c5.jpg");
+background-attachment:fixed;
+}
+
+#startlisbon11{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/15629509/82d793b8-251a-11e6-994f-82e0c1be0904.jpg");
+background-attachment:fixed;
+}
+
+#home:hover{
+    opacity:0.5;
+    color:#5D1E44;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+   }
+
+#home {
+    transition-property: transform;
+    -webkit-transition-property: transform;
+    transition-duration: .5s;
+    transition-timing-function: ease-out;
+    }
+
+#startlisbon2{
+padding-top:100px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/14409455/0840a9fe-ff14-11e5-9b89-80c12a0a11a4.JPG");
+background-attachment:fixed;
+}
+
+#startlisbon h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon3 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon4 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon5 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon6 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon7 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon8 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon9 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon10 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon11 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbon2 p {
+background:rgba(82, 150, 214, 0.4);
+display:inline-block;
+}
+
+#startlisbon p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
 
 
-<div id="spacertop">
-    </div>
+#startlisbon3 p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
 
-<div class="container blog" align="center">
-     <div class="row vcenter">
-         <div class="col-sm-7">
-          <iframe src="https://en.komoot.de/tour/11750325/embed" width="400" height="300" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </div>
-          <div class="col-sm-5">
-            <p>Day 7 </p>
-            <p>Difficulty : </p>
-            <p>Accomodation : </p>
-            </div>
-      </div>
-    </div>
+#startlisbon4 p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
 
-    <div id="spacertop">
-    </div>
+#startlisbon5 p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
 
-<div class="container blog" align="center">
-     <div class="row vcenter">
-         <div class="col-sm-7">
-          <iframe src="https://en.komoot.de/tour/11750352/embed" width="400" height="300" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </div>
-          <div class="col-sm-5">
-            <p>Day 8 </p>
-            <p>Difficulty : </p>
-            <p>Accomodation : </p>
-            </div>
-      </div>
-    </div>
+#startlisbon6 p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
 
-     <div id="spacertop">
-    </div>
+#startlisbon7 p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
 
-<div class="container blog" align="center">
-     <div class="row vcenter">
-         <div class="col-sm-7">
-          <iframe src="https://en.komoot.de/tour/11750427/embed" width="400" height="300" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        </div>
-          <div class="col-sm-5">
-            <p>Day 9 </p>
-            <p>Difficulty : </p>
-            <p>Accomodation : </p>
-            </div>
-      </div>
-    </div>
+#startlisbon8 p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
 
- <div id="spacertop">
-    </div>
+#startlisbon9 p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
+
+#startlisbon10 p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
+
+#startlisbon11 p {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+letter-spacing:2px;
+}
+
+#mc_embed_signup {
+    padding-top:30px;
+}
+
+#aboutme img { 
+width: 200px;
+height: 200px;
+border: 1px solid #A9A3A3;
+border-radius: 50%;
+transform: rotate(90deg);
+}
+
+#aboutme  {
+text-align:center;
+}
 
 
-      <h2 id="titleroute">Part 2 : France</h2>
-      <p>Go from Strasburg to <span class="label label-success">Colmar</span>. Stop there because it's beautiful. Go down Alsace and join the <a href="http://www.eurovelo6-france.com/" target="blank">Eurovelo6</a> bike path. I will start it from <span class="label label-success">Montbéliard</span>. This will lead me until <span class="label label-success">Dijon</span>. It will be then all flat until the French/Spanish border going through <span class="label label-success">Montluçon</span>, <span class="label label-success">Limoges</span>, <span class="label label-success">Bordeaux</span> and the Basque country!
+.nav a {
+    font-weight:300;
+    letter-spacing:1px;
+    text-transform:uppercase;
+}
 
-       <div id="spacertop">
-    </div>
+.nav-pills {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:20px;
+    width: 100%;
+    text-transform: none;
+    display: block;
+    font-family : "Open Sans", "Sans Serif";
+} 
 
-      <h3 id="titleroute">Part 3 : Spain & Portugal</h3>
-      <p>Let's do first 1 and 2, and then we see 3 & 4.</p> 
-      <p>Keep in mind : <span class="label label-success">When there's a will, there's a way!</strong></p>
+.navbar-default{
+    background-color: white
+}
 
-         <div id="spacertop">
-    </div>
-      
-      <p>You recognized your city on my way? You <a href="mailto:contact@berlin-lisbon-express.eu">contact me</a>. </p>
-      <p>You want to join me on the tour? You <a href="mailto:contact@berlin-lisbon-express.eu">contact me</a>.</p>
-      
-      <div id="spacertop">
-    </div>
+#velo {
+    margin-left: 10px
+}
 
-      <h4 id="titleroute">34 steps to go from Berlin to Lisbon by bike</h4> 
-      
-      <table align="center">
-      <tr>
-        <th>From</th>
-        <th>>To</th>
-        <th>Kilometers</th>
-      </tr>
-      
-      <tr>
-        <td>Berlin</td>
-        <td>Lutherstadt</td>
-        <td>98</td>
-      </tr>
+.nav a{
+    color: black;
+}
 
-      <tr>
-        <td>Lutherstadt</td>
-        <td>Leipzig</td>
-        <td>69</td>
-      </tr>
+#map {
+    padding-top:30px;
+    text-align:center;
+}
 
-      <tr>
-        <td>Leipzig</td>
-        <td>Jena</td>
-        <td>90</td>
-      </tr>
+#footer {
+background-color: #CCCCCC;
+font-size:20px;
+color:black;
+text-align: center;
+}
 
-      <tr>
-        <td>Jena</td>
-        <td>Ilmenau</td>
-        <td>85</td>
-      </tr>
+#footer li {
+    font-weight:300;
+    letter-spacing:2px;
+    font-size:20px;
+    color:black;   
+}
 
-      <tr>
-        <td>Ilmenau</td>
-        <td>Schweinfurt</td>
-        <td>130</td>
-      </tr>
+#footer a {
+font-weight:300;
+color:black;
+font-size:20px
+}
 
-       <tr>
-        <td>Schweinfurt</td>
-        <td>Würzburg</td>
-        <td>47</td>
-      </tr>
+#title {
+    padding-bottom:10px;
+    color:black;
+    font-size:20px;
+}
 
-       <tr>
-        <td>Würzburg</td>
-        <td>Mosbach</td>
-        <td>119</td>
-      </tr>
+#titleroute {
+    padding-bottom:20px;
+    color:black;
+    font-size:25px;
+    text-transform:uppercase;
+}
 
-       <tr>
-        <td>Mosbach</td>
-        <td>Karlsruhe</td>
-        <td>80</td>
-      </tr>
+#route h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
 
-       <tr>
-        <td>Karlsruhe</td>
-        <td>Strasbourg</td>
-        <td>84</td>
-      </tr>
-
-       <tr>
-        <td>Strasbourg</td>
-        <td>Colmar</td>
-        <td>75</td>
-      </tr>
-
-       <tr>
-        <td>Colmar</td>
-        <td>Belfort</td>
-        <td>85</td>
-      </tr>
-
-      <tr>
-        <td>Belfort</td>
-        <td>Montbéliard</td>
-        <td>35</td>
-      </tr>
-
-      <tr>
-        <td>Montbéliard</td>
-        <td>Besançon</td>
-        <td>99</td>
-      </tr>
-
-      <tr>
-        <td>Besançon</td>
-        <td>Dole</td>
-        <td>70</td>
-      </tr>
-
-      <tr>
-        <td>Dole</td>
-        <td>Chalon-sur-saône</td>
-        <td>100</td>
-      </tr>
-
-      <tr>
-        <td>Chalon-sur-saône</td>
-        <td>Paray-le-Monial</td>
-        <td>110</td>
-      </tr>
-
-      <tr>
-        <td>Paray-le-Monial</td>
-        <td>Saulcet</td>
-        <td>95</td>
-      </tr>
-
-      <tr>
-        <td>Saulcet</td>
-        <td>Auzances</td>
-        <td>100</td>
-      </tr>
-
-      <tr>
-        <td>Auzances</td>
-        <td>Limoges</td>
-        <td>116</td>
-      </tr>
-
-      <tr>
-        <td>Limoges</td>
-        <td>Bourdeilles</td>
-        <td>106</td>
-      </tr>
-
-      <tr>
-        <td>Bourdeilles</td>
-        <td>Bordeaux</td>
-        <td>148</td>
-      </tr>
-
-      <tr>
-        <td>Bordeaux</td>
-        <td>Mimizan-plage</td>
-        <td>113</td>
-      </tr>
-
-      <tr>
-        <td>Mimizan-plage</td>
-        <td>Cap Breton</td>
-        <td>80</td>
-      </tr>
-
-      <tr>
-        <td>Cap Breton</td>
-        <td>San Sebastian</td>
-        <td>85</td>
-      </tr>
-
-      <tr>
-        <td>San Sebastian</td>
-        <td>Arrasate</td>
-        <td>85</td>
-      </tr>
-
-      <tr>
-        <td>Arrasate</td>
-        <td>Aguilar de Bureba</td>
-        <td>115</td>
-      </tr>
-
-      <tr>
-        <td>Aguilar de Bureba</td>
-        <td>Burgos</td>
-        <td>48</td>
-      </tr>
-
-      <tr>
-        <td>Burgos</td>
-        <td>Valladolid</td>
-        <td>142</td>
-      </tr>
-
-       <tr>
-        <td>Valladolid</td>
-        <td>Salamanca</td>
-        <td>122</td>
-      </tr>
-
-       <tr>
-        <td>Salamanca</td>
-        <td>Sancti Spiritus</td>
-        <td>65</td>
-      </tr>
-
-       <tr>
-        <td>Sancti Spiritus</td>
-        <td>Indhana a nova</td>
-        <td>155</td>
-      </tr>
-
-       <tr>
-        <td>Indhana a nova</td>
-        <td>Proenca a nova</td>
-        <td>85</td>
-      </tr>
-
-       <tr>
-        <td>Proenca a nova</td>
-        <td>Santarem</td>
-        <td>117</td>
-      </tr>
-
-       <tr>
-        <td>Santarem</td>
-        <td>Lisboa</td>
-        <td>80</td>
-      </tr>
-    
-   </table>
-
-     </div>
-  </div>
-</div>
-
- <div id="spacertop">
-    </div>
-    
-
- </body>
+.table td{
+font-size: 10px
+}
