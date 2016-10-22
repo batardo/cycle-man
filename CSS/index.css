@@ -71,18 +71,6 @@ border-radius: 10%;
 background-color:white;
 }
 
-.featurebtm img {
-width: 200px;
-height: 200px;
-background-color:white;
-}
-
-.featurebtmbike img {
-width: 250px;
-height: 200px;
-background-color:white;
-}
-
 .blog {
     max-width: 800px;
         margin-left: auto;
@@ -103,13 +91,6 @@ background-color:white;
     letter-spacing:1px;
     margin-top:10px;
 }
-
-.featurebtm p {
-    font-weight:300;
-    letter-spacing:1px;
-    margin-top:10px;
-}
-
 .wrapper {
     background-color: #F4F4F4;
 }
@@ -207,16 +188,7 @@ background-attachment:fixed;
 #home:hover{
     opacity:0.5;
     color:#5D1E44;
-    transform: scale(1.2);
-    -webkit-transform: scale(1.2);
-   }
-
-#home {
-    transition-property: transform;
-    -webkit-transition-property: transform;
-    transition-duration: .5s;
-    transition-timing-function: ease-out;
-    }
+}
 
 #startlisbon2{
 padding-top:100px;
@@ -457,20 +429,38 @@ font-size:20px
     text-transform:uppercase;
 }
 
-#route h1 {
-color: white;
-text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
-background:rgba(0,0,0,0.4);
-display:inline-block;
-margin-bottom:25px;
-}
+#thxlist {
+    width:70px;
+    height:70px;
+    margin-right: 15px;
+}    
 
-table
-{
-    border-collapse: collapse;
-}
-td, th /* Mettre une bordure sur les td ET les th */
-{
-    border: 1px solid black;
-    padding: 2px
-}
+#thxlistshawo {
+    width:60px;
+    height:60px;
+    margin-right: 15px;
+    margin-left: 5px;
+}    
+
+
+#thxlistlogo {
+    width:55px;
+    height:55px;
+    margin-right: 20px;
+    margin-left: 10px;
+
+}    
+
+li {
+    list-style: none;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}  
+
+#merci {
+    background-color: #F4F4F4;
+
+}  
+
+
