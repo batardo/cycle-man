@@ -451,7 +451,7 @@ font-size:20px
 
 }    
 
-li {
+.blog li {
     list-style: none;
     padding-right: 15px;
     padding-bottom: 10px;
