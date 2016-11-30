@@ -190,7 +190,7 @@ padding-top:80px;
 background-size:cover;
 height:300px;
 text-align: center;
-background-image: url("image/berlinstrasbourg.jpg");
+background-image: url("/Images/berlinstrasbourg.jpg");
 background-attachment:fixed;
 }
 
@@ -199,7 +199,7 @@ padding-top:80px;
 background-size:cover;
 height:300px;
 text-align: center;
-background-image: url("image/jura.jpg");
+background-image: url("/Images/jura.jpg");
 background-attachment:fixed;
 }
 
@@ -208,7 +208,7 @@ padding-top:80px;
 background-size:cover;
 height:300px;
 text-align: center;
-background-image: url("image/lisbon.jpg");
+background-image: url("/Images/lisbon.jpg");
 background-attachment:fixed;
 }
 
