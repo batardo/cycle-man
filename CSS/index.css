@@ -510,9 +510,10 @@ text-align: center;
 
 #footer2 {
 background-color: #F4F4F4;
-font-size:20px;
+font-size:10px;
 color:black;
-text-align: left;
+text-align: center;
+padding:10px;
 }
 
 #footer li {
