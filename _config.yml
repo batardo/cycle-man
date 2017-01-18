@@ -1,0 +1,5 @@
+ gems: [jekyll-redirect-from, jekyll-coffeescript, jekyll-watch, jekyll-assets]
+ gems:
+  - jekyll-redirect-from
+  
+ # This will require each of these gems automatically.
