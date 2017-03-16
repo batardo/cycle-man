@@ -1,4 +1,4 @@
-Sitemap: http://www.belin-lisbon-express.eu/sitemap.xml
+Sitemap: http://www.berlin-lisbon-express.eu/sitemap.xml
 
 User-agent: *
 
