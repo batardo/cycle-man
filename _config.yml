@@ -9,7 +9,7 @@ redcarpet:
 
 # White-listed plugins
 gems:
-
+  - jekyll-sitemap
   - jekyll-redirect-from
   
  # This will require each of these gems automatically.
