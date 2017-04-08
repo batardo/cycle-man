@@ -13,23 +13,10 @@
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/CSS/index.css">
 
-    {% if page.url == '/bike.route/germany-portugal.html' %}
+    {% if page.category == 'route' %}
      <link rel="alternate" hreflang="en" href="http://www.berlin-lisbon-express.eu/bike-route/germany-portugal.html" /> 
     <link rel="alternate" hreflang="fr" href="http://www.berlin-lisbon-express.eu/itineraire-velo/allemagne-portugal.html" />
     <link rel="alternate" hreflang="de" href="http://www.berlin-lisbon-express.eu/fahrradroute.html" />
-
-    {% elsif page.url == '/itineraire-velo/allemagne-portugal.html' %}
-    
-    <link rel="alternate" hreflang="en" href="http://www.berlin-lisbon-express.eu/bike-route/germany-portugal.html" /> 
-    <link rel="alternate" hreflang="fr" href="http://www.berlin-lisbon-express.eu/itineraire-velo/allemagne-portugal.html" />
-    <link rel="alternate" hreflang="de" href="http://www.berlin-lisbon-express.eu/fahrradroute.html" />
-
-    {% elsif page.url == '/fahrradroute.html' %}
-
-    <link rel="alternate" hreflang="en" href="http://www.berlin-lisbon-express.eu/bike-route/germany-portugal.html" /> 
-    <link rel="alternate" hreflang="fr" href="http://www.berlin-lisbon-express.eu/itineraire-velo/allemagne-portugal.html" />
-    <link rel="alternate" hreflang="de" href="http://www.berlin-lisbon-express.eu/fahrradroute.html" />
-
     
     {% endif %}
     
