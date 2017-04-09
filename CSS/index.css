@@ -492,7 +492,10 @@ text-align:center;
 }
 
 .nav-pills {
-    max-width: 900px;
+    width: 100%;
+  text-align: center;
+
+
     margin-left: auto;
     margin-right: auto;
     font-size:20px;
@@ -503,12 +506,48 @@ text-align:center;
 } 
 
 .navbar-default{
-    background-color: white
+    background-color: white;
+     width: 100%;
+  text-align: center;
+}
+
+.navbar-fixed-top{
+    background-color: white;
+     width: 100%;
+  text-align: center;
+}
+
+.navbar {
+    background-color: white;
+     width: 100%;
+  text-align: center;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar .navbar-right {
+  padding-right: 100px;
 }
 
 #velo {
-    margin-left: 10px
+    margin-left: 10px;
+    padding-top: 20px;
 }
+
+#flag {
+    width:30px;
+    height:30px;
+    padding-right: 5px;
+}
+
 
 .nav a{
     color: black;
