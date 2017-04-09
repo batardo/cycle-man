@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{page.description}}" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/CSS/index.css">
+
+    {% if page.category == 'route' %}
+     <link rel="alternate" hreflang="en" href="http://www.berlin-lisbon-express.eu/bike-route/germany-portugal.html" /> 
+    <link rel="alternate" hreflang="fr" href="http://www.berlin-lisbon-express.eu/itineraire-velo/allemagne-portugal.html" />
+    <link rel="alternate" hreflang="de" href="http://www.berlin-lisbon-express.eu/fahrradroute.html" />
+    
+    {% endif %}
+    
+    
+     </head>
+
+<body>
+
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+   
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <ul class="nav navbar-nav">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="https://batardo.github.io/Images/UK_Flag.svg" id="flag"><span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="/itineraire-velo/allemagne-portugal.html"><img src="https://batardo.github.io/Images/FR_Flag.svg" id="flag"> Français</a></li>
+            <li><a href="/bike-route/germany-portugal.html"><img src="https://batardo.github.io/Images/UK_Flag.svg" id="flag"> English</a></li>
+            <li><a href="/fahrradroute.html"><img src="https://batardo.github.io/Images/DE_Flag.svg" id="flag"> Deutsch</a></li>
+          </ul>
+        </li>
+      </ul>
+
+    
+      <ul class="nav navbar-nav">
+        <li><a href="/index.html">Blog</a></li>
+        <li><a href="/bike-route/germany-portugal.html">Itinéraire</a></li>
+        <li><a href="/setup.html">Set-up</a></li>
+        <li><a href="/donate.html">Donate</a></li>
+        <li><a href="/aboutme.html">About me</a></li>
+         <li><a href="/thankyou.html">Merci</a></li>
+       </ul>
+        
+       
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+ 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>  
+ 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75978873-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<div id="spacertop">
+  </div>
+    
+      {{ content }}
+
+<div id="spacertop">
+  </div>
+    
+ <div class="container">
+  <div id="footer">
+  <div class="row">
+    <div class="col-xs-4">
+      <ul class="list-footer">
+        <li id="title"><strong>Host me!</strong></li>
+        <li><a href="https://www.couchsurfing.com/people/max-gallo" target="_blank">Couchsurfing</a></li>
+        <li><a href="https://de.warmshowers.org/" target="_blank">Warmshowers</a></li>
+      </ul>
+    </div>
+    <div class="col-xs-4">
+       <ul class="list-footer">
+        <li id="title"><strong>Donate</strong></li>
+        <li><a href="/donate.html">Integrate Refugees in Berlin</a></li>
+      </ul>
+    </div>
+    <div class="col-xs-4">
+       <ul class="list-footer">
+        <li id="title"><strong>Follow me</strong></li>
+        <li><a href="mailto:contact@berlin-lisbon-express.eu" target="_blank">Contact</a></li>
+        <li><a href=index.html#startlisbon2 target="_blank">Newsletter</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+    <div class="row" id="footer2">
+      <div class="col-xs-12">
+        About <a href="/about-berlin-lisbon-express.html">berlin-lisbon-express.eu</a>
+      </div>
+    </div>
+  </div> 
+</body>
+</html>
