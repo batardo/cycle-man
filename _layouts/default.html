@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/CSS/index.css">
+    <link rel="stylesheet" href="style.css">
 
     {% if page.category == 'route' %}
      <link rel="alternate" hreflang="en" href="http://www.berlin-lisbon-express.eu/bike-route/germany-portugal.html" /> 
@@ -24,7 +24,8 @@
      </head>
 
 <body>
-    
+
+
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -38,19 +39,9 @@
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <div class="row">
-          <div class="col-xs-12">
-      <ul class="nav navbar-nav">
-        <li><a href="/index.html">Blog</a></li>
-        <li><a href="/bike-route/germany-portugal.html">Bike route</a></li>
-        <li><a href="/setup.html">Set-up</a></li>
-        <li><a href="/donate.html">Donate</a></li>
-        <li><a href="/aboutme.html">About me</a></li>
-         <li><a href="/thankyou.html">Thank you</a></li>
-       </ul>
-        
-        <ul class="nav navbar-nav navbar-right">
+   
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <ul class="nav navbar-nav">
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="https://batardo.github.io/Images/UK_Flag.svg" id="flag"><span class="caret"></span></a>
           <ul class="dropdown-menu">
@@ -60,10 +51,22 @@
           </ul>
         </li>
       </ul>
-    </div>
-  </div>
-</div>
-</nav> 
+
+    
+      <ul class="nav navbar-nav">
+        <li><a href="/index.html">Blog</a></li>
+        <li><a href="/bike-route/germany-portugal.html">Route</a></li>
+        <li><a href="/setup.html">Set-up</a></li>
+        <li><a href="/donate.html">Donate</a></li>
+        <li><a href="/aboutme.html">About me</a></li>
+         <li><a href="/thankyou.html">Thank you</a></li>
+       </ul>
+        
+       
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
  
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>  
