@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
--<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/</loc>
 
@@ -16,7 +16,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/itineraire-velo/allemagne-portugal.html</loc>
 
@@ -27,7 +27,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/bike-route/germany-portugal.html</loc>
 
@@ -38,7 +38,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/fahrradroute.html</loc>
 
@@ -49,7 +49,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/index.html</loc>
 
@@ -60,7 +60,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/setup.html</loc>
 
@@ -71,7 +71,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/donate.html</loc>
 
@@ -82,7 +82,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/aboutme.html</loc>
 
@@ -93,7 +93,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/thankyou.html</loc>
 
@@ -104,7 +104,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/route.html</loc>
 
@@ -115,7 +115,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/about-berlin-lisbon-express.html</loc>
 
@@ -126,7 +126,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/itineraire-velo/france-portugal.html</loc>
 
@@ -137,7 +137,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/itineraire-velo/france-espagne.html</loc>
 
@@ -148,7 +148,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/itineraire-velo/traverser-france-a-velo.html</loc>
 
@@ -159,7 +159,7 @@
 </url>
 
 
--<url>
+<url>
 
 <loc>http://www.berlin-lisbon-express.eu/itineraire-velo/france-portugal</loc>
 
