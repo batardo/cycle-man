@@ -1,36 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-  <url>
-    <loc>http://www.berlin-lisbon-express.eu/index.html</loc> 
-  </url>
-<url>
-    <loc>http://www.berlin-lisbon-express.eu/bike-route/germany-portugal.html</loc> 
-  </url>
-<url>
-    <loc>http://www.berlin-lisbon-express.eu/setup.html</loc> 
-  </url>
-<url>
-    <loc>http://www.berlin-lisbon-express.eu/aboutme.html</loc> 
-  </url>
-<url>
-    <loc>http://www.berlin-lisbon-express.eu/thankyou.html</loc> 
-  </url>
 
-<url>
-    <loc>http://www.berlin-lisbon-express.eu/about-berlin-lisbon-express.html</loc> 
-  </url>
+-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-    <loc>http://www.berlin-lisbon-express.eu/itineraire-velo/allemagne-portugal.html</loc> 
-  </url>
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<url>
-    <loc>http://www.berlin-lisbon-express.eu/itineraire-velo/traverser-france-a-velo.html</loc> 
-  </url>
-<url>
-    <loc>http://www.berlin-lisbon-express.eu/itineraire-velo/france-espagne.html</loc> 
-  </url>
-  <url>
-    <loc>http://www.berlin-lisbon-express.eu/itineraire-velo/france-portugal.html</loc> 
-  </url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/itineraire-velo/allemagne-portugal.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/bike-route/germany-portugal.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/fahrradroute.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/index.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/setup.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/donate.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/aboutme.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/thankyou.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/route.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/about-berlin-lisbon-express.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/itineraire-velo/france-portugal.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/itineraire-velo/france-espagne.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/itineraire-velo/traverser-france-a-velo.html</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.berlin-lisbon-express.eu/itineraire-velo/france-portugal</loc>
+
+<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>
+
 </urlset>
