@@ -5,5 +5,6 @@ User-agent: *
 Allow: /
 
 Disallow: /stats.html
+Disallow: /itineraire.html
 Disallow: /itineraire/france.html
 Disallow: /?__strx_date=*
