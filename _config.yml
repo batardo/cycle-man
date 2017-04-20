@@ -5,3 +5,5 @@ gems:
   - jekyll-seo-tag
   
  # This will require each of these gems automatically.
+
+theme: jekyll-theme-minimal
