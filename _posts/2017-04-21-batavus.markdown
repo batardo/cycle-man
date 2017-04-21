@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Vélo de randonnée - Batavus Course"
-date:   2017-04-21 17:00:00
----
-
-Un vrai petit bijou
-
