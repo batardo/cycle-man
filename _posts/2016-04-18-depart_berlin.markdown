@@ -1,4 +1,4 @@
-    ---
+---
 layout: default-fr
 title:  "Départ de Berlin Südkreuz"
 date:   2016-04-18 08:00:00
@@ -24,7 +24,7 @@ category: post
 
       <div class="row vcenter">      
         <div class="col-sm-12">
-            <a href="/index-fr.html" align="right">>>Retour au blog</a>
+        <a href="/index-fr.html" align="right"><p>>>Retour au blog</p></a>
           </div>
         </div>
 
@@ -32,7 +32,6 @@ category: post
   </div>
 
 
-  
 
 
 
