@@ -17,7 +17,7 @@ category: post
 
       <div class="row vcenter">      
         <div class="col-sm-12">
-            <p>Départ avec Solenne depuis la gare de Berlin-Südkreuz. Évidemment je m'y suis rendu à vélo. Étrange de partir de chez soi, comme tous les matins à vélo, à la différence que cette fois-ci je ne vais pas au travail mais à Lisbonne ! Mais pas de temps pour me perdre dans ce genre de considérations, c'est ma première sortie à vélo chargé comme une mule, je suis donc attentif au comportement du vélo, stabilité, pneu.  Je roule au pas jusqu'à la gare à l'écoute du moindre frottement ou bruit suspect, pas encore certain que mon monture apprécie les 20 kilos supplémentaires.</p>
+            <p>Départ avec Solenne depuis la gare de Berlin-Südkreuz. Évidemment je m'y suis rendu à vélo. Étrange de partir de chez soi, comme tous les matins à vélo, à la différence que cette fois-ci je ne vais pas au travail mais à Lisbonne ! Mais pas de temps pour me perdre dans ce genre de considérations, c'est ma première sortie à vélo chargé comme une mule, je suis donc attentif au comportement du vélo, stabilité, pneu.  Je roule au pas jusqu'à la gare à l'écoute du moindre frottement ou bruit suspect, pas encore certain que ma monture apprécie les 20 kilos supplémentaires.</p>
           </div>
         </div>
 
