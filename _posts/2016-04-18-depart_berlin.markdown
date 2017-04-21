@@ -8,7 +8,7 @@ category: post
 <div class="container blog" align="center">
      <div class="row vcenter">
          <div class="col-sm-12">
-          <a href="https://cloud.githubusercontent.com/assets/18250643/14654074/3acc72c6-067c-11e6-93f0-47da05d13b4b.jpg" target="_blank" id="home"><img src="https://cloud.githubusercontent.com/assets/18250643/14654074/3acc72c6-067c-11e6-93f0-47da05d13b4b.jpg" id="home" alt="departure"></a>
+        <img src="https://cloud.githubusercontent.com/assets/18250643/14654074/3acc72c6-067c-11e6-93f0-47da05d13b4b.jpg" id="home" alt="depart berlin südkreuz">
         </div>
       </div>
 
