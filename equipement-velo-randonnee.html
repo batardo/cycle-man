@@ -8,11 +8,15 @@ description: "Vélo, Sacoches, GPS, porte-bagages : voici ma check-list du maté
  <div class="container blog" align="center" id="">
   <div class="row">
     <div class="col-xs-12">
-      <p> </p>
-
-      <p></p>
-
-      <p></p>
+      
+      <h1>Vélo de randonnée : batavus course</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+     
+     
       </div>
       </div>
       </div>
