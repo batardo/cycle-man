@@ -1,6 +1,7 @@
 ---
 layout: default-fr
 title:  "Départ de Berlin Südkreuz"
+description: "Premiers coup de pédales. En route pour Lisbonne"
 date:   2016-04-18 08:00:00
 category: post
 ---
