@@ -25,7 +25,7 @@ category: blog
 
       <div class="row vcenter">      
         <div class="col-sm-12">
-        <a href="/index-fr.html"><p align="right">>>Retour au blog</p></a>
+        <a href="/blog.html"><p align="right">>>Retour au blog</p></a>
           </div>
         </div>
 
