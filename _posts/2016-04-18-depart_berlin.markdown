@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Départ de Berlin Südkreuz"
-description: "Premiers coup de pédales. En route pour Lisbonne"
+description: "En route pour Lisbonne : premiers coupd de pédales."
 category: blog
 ---
 
