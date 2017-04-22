@@ -16,9 +16,6 @@ category: blog
       </div>
     </div>
 
-    <div id="spacer">
-</div>
-
 <div class="container blog" align="center">
      <div class="row vcenter">
          <div class="col-sm-4">
