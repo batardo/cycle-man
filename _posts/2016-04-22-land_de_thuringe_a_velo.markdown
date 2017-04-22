@@ -36,7 +36,7 @@ category: blog
 
      <div class="row vcenter">
          <div class="col-sm-12">
-          <iframe width="210" height="157" src="https://www.youtube.com/embed/-ejrGpYaHug" frameborder="0" allowfullscreen></iframe>
+          <iframe width="210" height="157" src="https://www.youtube.com/embed/-ejrGpYaHug" align="center" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
         
