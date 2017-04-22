@@ -18,7 +18,7 @@ category: blog
       <div class="row vcenter">      
         <div class="col-sm-12">
             <p>Il nous aura fallu deux jours pour relier les quelques 170 kilomètres de Berlin à notre première ville étape du parcours, Leipzig. Il s'agit d'une route à vélo très empruntée par les personnes de la région pour faire de la randonnée à vélo. Idéal pour un week-end par exemple. Sur la page <a href="/itineraire-velo/allemagne-portugal.html">itinéraire</a> de ce blog, vous retrouverez mon parcours et télécharger mes tracks GPS correspondantes. Si vous avez peur des camions, il existe une route à vélo moins directe (250 kilomètres) mais plus jolie (et sans voiture), dont voici le site officiel : <a href="http://www.radweg-berlin-leipzig.de/" target="_blank">radweg-berlin-leipzig.de</a> (en allemand évidemment!)</p>
-<p>Question physique, les premiers kilomètres sont un peu éprouvants, le temps pour le corps de s'adapter au nouveau rythme, à la positiion assise sur un vélo 6 heures par jour. Pour ma part les articulations au niveau de genou montrent des signes de faiblesses en fin de journées.</p>
+<p>Question physique, les premiers kilomètres sont un peu éprouvants, le temps pour le corps de s'adapter au nouveau rythme, à la positiion assise sur un vélo 6 heures par jour. Pour ma part les articulations au niveau de genou montrent des signes de faiblesses en fin de journées. Pas de remède miracle dans ce cas, une bonne nuit de sommeil, et demain tout ira bien.</p>
             <p></p>
           </div>
         </div>
