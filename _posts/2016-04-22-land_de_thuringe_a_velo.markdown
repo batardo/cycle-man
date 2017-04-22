@@ -10,6 +10,8 @@ category: blog
          <div class="col-sm-12">
           <img src="https://cloud.githubusercontent.com/assets/18250643/14753714/5b8bd29c-08d7-11e6-9ff2-706bc4367ae4.jpg" id="" alt="veloroute vallee de l'ilm">
         </div>
+      </div>
+      <div class="row vcenter">
           <div class="col-sm-12">
             <h1>Véloroute de la vallée de l'Ilm</h1>
             <p>Magnifique petite route à vélo parfaitement aménagée, bien indiquée, remonte tranquillement de Weimar au nord vers la forêt de Thuringe en suivant son cour d'eau. Une ballade de 123 kilomètres très agréable. On passe par des villes de moyennes tailles, où il est recommandé  de s'arrêter vers midi sur la place du marché, à l'heure de la "thüringer wurst". Plus d'infos sur cet itinéraire à vélo sur <a href="http://www.ilmtal-radweg.de/radweg/" target="_blank">le site officiel</a>. J'ai pour ma part suivi cette piste jusqu'à Ilmenau où j'ai passé la nuit avant d'attaquer la forêt de Thuringe et ses reliefs</p>
@@ -36,7 +38,9 @@ category: blog
          <div class="col-sm-12">
           <iframe width="210" height="157" src="https://www.youtube.com/embed/-ejrGpYaHug" frameborder="0" allowfullscreen></iframe>
         </div>
+      </div>
         
+         <div class="row vcenter">
          <div class="col-sm-12">
 
            <h1>"Ce batavus est une ferrari"</h1>
