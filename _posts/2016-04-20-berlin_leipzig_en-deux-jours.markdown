@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Berlin - Leipzig en 2 jours"
-description:   "Le corps commence à se chauffer."
+description:   "170 kilomètres pour la chauffe"
 category: blog
 ---
 
