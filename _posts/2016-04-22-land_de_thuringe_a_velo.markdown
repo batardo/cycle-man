@@ -22,13 +22,11 @@ category: blog
 </div>
 
      <div class="row vcenter">
-          <div class="col-sm-8">
+          <div class="col-sm-12">
             <h1>Forêt de Thuringe</h1>
             <p>Des sapins à en perdre la vue, mais non, imperturbable je reste concentré sur mon guidon et ma première difficulté jusqu'ici en matière de dénivelé. On monte jusqu'à 850 mètres d'altitude. Route très peu fréquentée, que du plaisir ! Un regret : pas de belle vue dégagée une fois arrivé au col. C'est aussi lors de cette étape que ma relation avec mon GPS Garmin a commencé à se dégrader. Il n'avait pas encore compris que mon vélo de course n'était pas fait pour ses chemins de terre boueux, ce qui m'a valu quelques détours de plusieurs kilomètres. Selon le type de GPS que vous avez, vous pouvez régler le type de route souhaité, sur le Garmin Touring Edge, c'est possible en tout cas, je l'ai découvert par la suite...</p>
-          </div>
+         
      
-
-         <div class="col-sm-4">
          <img src="https://cloud.githubusercontent.com/assets/18250643/14753731/7c18deec-08d7-11e6-9315-600083683f2a.jpg" id="" alt="foret de thuringe">
         </div>
          </div>
