@@ -40,13 +40,14 @@ category: blog
 
       <div class="col-sm-12">
           <p align="center"><iframe width="400" height="300" src="https://www.youtube.com/embed/-ejrGpYaHug" frameborder="0" allowfullscreen></iframe></p>
+          <h1 align="center">"Ce batavus est une ferrari"</h1>
         </div>
       </div>
 
         <div class="row vcenter">
          <div class="col-sm-12">
 
-           <h1>"Ce batavus est une ferrari"</h1>
+           
            <p>Dans cette belle région, je n'ai rencontré que des gens sympas. Merci à Konrad et Sophie, rencontrés via l'appli Warmshowers et qui m'ont hébergé à Jena et Ilmenau. Et puis il y a ce monsieur, rencontré dans un village au moment de ma pause banane, qui n'en revenait pas de mon Batavus. Cela fait toujours plaisir. Je continue mon chemin, direction la Bavière.</p>
                       
         </div>
