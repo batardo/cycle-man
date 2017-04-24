@@ -115,6 +115,15 @@ background-image: url("https://cloud.githubusercontent.com/assets/18250643/14409
 background-attachment:fixed;
 }
 
+#startlisbonf{
+padding-top:175px;
+background-size:cover;
+height:300px;
+text-align: center;
+background-image: url("https://cloud.githubusercontent.com/assets/18250643/14409538/5e23851a-ff16-11e5-9a27-26b5f732f996.jpg");
+background-attachment:fixed;
+}
+
 #startlisbon3{
 padding-top:175px;
 background-size:cover;
@@ -290,6 +299,14 @@ margin-bottom:25px;
 }
 
 #startlisbon h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#startlisbonf h1 {
 color: white;
 text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
 background:rgba(0,0,0,0.4);
