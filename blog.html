@@ -25,12 +25,12 @@ description: "Étape par étape, de Berlin à Lisbonne, 3.300 kilomètres de ran
     
    <section>
     {% if post.title == 'Départ de Berlin Südkreuz' %}
- <img class="inline pull-right" src="/Images/berlinstrasbourg.JPG" alt="screen departsolenne" width="100">
+ <img class="inline pull-left" src="/Images/berlinstrasbourg.JPG" alt="screen departsolenne" width="150">
 
 
   {% endif %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-   <i>{{ post.description }}</i>
+      <li id="blogf"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+   <p id="blogf"><i>{{ post.description }}</i></p>
 
   </section>
 
