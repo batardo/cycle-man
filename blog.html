@@ -28,6 +28,8 @@ description: "Étape par étape, de Berlin à Lisbonne, 3.300 kilomètres de ran
    
     {% if post.title == 'Départ de Berlin Südkreuz' %}
  <img id="" class="inline pull-left" src="/Images/berlinstrasbourg.JPG" alt="screen departsolenne" width="150">
+  <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+   <p id="blogf">{{ post.description }}</p>
 
   {% elsif post.title == 'Vents et crevaisons' %}
  <img id="" class="inline pull-left" src="https://cloud.githubusercontent.com/assets/18250643/14654111/5b7ddd8e-067c-11e6-9d8b-fbc2275c8c42.jpg" alt="crevaisons" width="150">
@@ -42,8 +44,7 @@ description: "Étape par étape, de Berlin à Lisbonne, 3.300 kilomètres de ran
   {% endif %}
        
    
-   <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-   <p id="blogf">{{ post.description }}</p>
+  
 
      {% endfor %}
   </ul>
