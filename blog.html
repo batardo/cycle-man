@@ -22,7 +22,7 @@ description: "Étape par étape, de Berlin à Lisbonne, 3.300 kilomètres de ran
 
   <ul class="posts">
 
-      <li id="">
+      <li>
        
        {% for post in site.posts %}
    
@@ -44,10 +44,10 @@ description: "Étape par étape, de Berlin à Lisbonne, 3.300 kilomètres de ran
 
   {% endif %}
 
-   <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-   <p id="">{{ post.description }}</p></li>
- 
-   
+   <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a><p>{{ post.description }}</p>
+
+    </li>
+
 
      {% endfor %}
   
