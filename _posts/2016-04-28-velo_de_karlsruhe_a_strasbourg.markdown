@@ -23,11 +23,14 @@ category: blog
 
 
 <p>J’ai vu sur la carte qu’il était possible de traverser le Rhin à d’autres endroits, par exemple Kehl ou bien encore Gambsheim (FR) – Rheinhau (DE), mais ce sont des itinéraires beaucoup plus empruntés sur lesquels il y a beaucoup plus de trafic, donc certainement moins intéressant. Donc si vous voulez suivre mon itinéraire vous pouvez retrouvez mon tracé ainsi que mes tracks en fichier .gpx pour importer directement dans votre GPS sur la page <a href="/itineraire-velo/allemagne-portugal.html">itinéraire</a></p>
+</br>
 
-<a href="https://en.komoot.de/tour/11750427/embed" target=_blank><img src="https://raw.githubusercontent.com/batardo/batardo.github.io/master/Images/Routes//11750427_09.JPG" alt="itinéraire vélo de Karlsruhe à Strasbourg" id="mapa"></a>
+<a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="https://raw.githubusercontent.com/batardo/batardo.github.io/master/Images/Routes//11750427_09.JPG" alt="itinéraire vélo de Karlsruhe à Strasbourg" id="mapa"></a>
             
           </div>
         </div>
+        
+        <div="spacer"></div>
 
 
       <div class="row vcenter">      
