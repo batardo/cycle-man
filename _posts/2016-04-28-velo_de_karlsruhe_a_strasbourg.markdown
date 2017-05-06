@@ -25,8 +25,9 @@ category: blog
 
               <br/>
 
-            J’ai vu sur la carte qu’il était possible de traverser le Rhin à d’autres endroits, par exemple Kehl ou bien encore Gambsheim (FR) – Rheinhau (DE), mais ce sont des itinéraires beaucoup plus empruntés sur lesquels il y a beaucoup plus de trafic, donc certainement moins intéressant. Donc si vous voulez suivre mon itinéraire vous pouvez retrouvez mon tracé ainsi que mes tracks en fichier .gpx pour importer directement dans votre GPS sur la page <a href="/itineraire-velo/allemagne-portugal.html">itinéraire</a>
+            J’ai vu sur la carte qu’il était possible de traverser le Rhin à d’autres endroits, par exemple Kehl ou bien encore Gambsheim (FR) – Rheinhau (DE), mais ce sont des itinéraires beaucoup plus empruntés sur lesquels il y a beaucoup plus de trafic, donc certainement moins intéressant. Donc si vous voulez suivre mon itinéraire vous pouvez retrouvez mon tracé ainsi que mes tracks en fichier .gpx pour importer directement dans votre GPS sur la page <a href="/itineraire-velo/allemagne-portugal.html">itinéraire</a>.
 
+              <br/>
               <br/>
 
 
