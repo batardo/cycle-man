@@ -1,5 +1,5 @@
 ---
-layout: post-de
+layout: default-de
 title:  "Radweg von Karlsruhe nach Straßburg"
 description: "Über den Rhein mit der Fähre"
 category: blog-de
