@@ -4,6 +4,7 @@ title:  "Traversée du land de Thuringe"
 description:   "Vallée de l'Ilm, fôret et saucisses de Thuringe"
 category: blog
 lang: fr
+ref: post
 ---
   
   <div class="container blog" align="center">
