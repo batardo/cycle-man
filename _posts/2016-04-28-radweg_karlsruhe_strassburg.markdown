@@ -4,6 +4,7 @@ title:  "Radweg von Karlsruhe nach Straßburg"
 description: "Über den Rhein mit der Fähre"
 category: blog
 lang: de
+ref: ferry
 ---
 
 <div class="container blog" align="center">
