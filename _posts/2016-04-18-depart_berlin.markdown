@@ -4,6 +4,7 @@ title:  "Départ de Berlin Südkreuz"
 description: "En route pour Lisbonne : premiers coups de pédales."
 category: blog
 lang: fr
+ref: post
 ---
 
 <div class="container blog" align="center">
