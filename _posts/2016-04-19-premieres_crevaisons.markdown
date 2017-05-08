@@ -4,6 +4,7 @@ title:  "Vents et crevaisons"
 description:   "Les toutes premières galères"
 category: blog
 lang: fr
+ref: post
 ---
 
 <div class="container blog" align="center">
