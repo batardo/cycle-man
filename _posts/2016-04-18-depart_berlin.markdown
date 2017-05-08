@@ -3,6 +3,7 @@ layout: post
 title:  "Départ de Berlin Südkreuz"
 description: "En route pour Lisbonne : premiers coups de pédales."
 category: blog
+lang: fr
 ---
 
 <div class="container blog" align="center">
