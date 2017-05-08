@@ -2,7 +2,6 @@
 layout: default-de
 title:  "Radweg von Karlsruhe nach Straßburg"
 description: "Über den Rhein mit der Fähre"
-category: blog
 lang: de
 ref: post
 ---
@@ -44,7 +43,7 @@ ref: post
 
       <div class="row vcenter">      
         <div class="col-sm-12">
-        <a href="/blog-de.html"><p align="right">>>Zurück zum Blog</p></a>
+        <a href="/blog.html"><p align="right">>>Zurück zum Blog</p></a>
           </div>
         </div>
 
