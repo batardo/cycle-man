@@ -3,6 +3,7 @@ layout: post
 title:  "Vents et crevaisons"
 description:   "Les toutes premières galères"
 category: blog
+lang: fr
 ---
 
 <div class="container blog" align="center">
