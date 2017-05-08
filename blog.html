@@ -3,6 +3,7 @@ category: blog
 layout: default-fr
 title: "Blog sur mon voyage à vélo de Berlin à Lisbonne"
 description: "Étape par étape, de Berlin à Lisbonne, 3.300 kilomètres de randonnée à vélo."
+lang: fr
 ---
 
  
@@ -20,6 +21,7 @@ description: "Étape par étape, de Berlin à Lisbonne, 3.300 kilomètres de ran
 
       <div class="container blog" align="center">
 
+       {% assign posts=site.posts | where:"lang", page.lang %}
         {% for post in site.posts %}
 
      <div class="row vcenter">
