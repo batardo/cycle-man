@@ -3,6 +3,7 @@ layout: post
 title:  "Piste cyclable de Karlsruhe à Strasbourg"
 description: "La traversée du Rhin en ferry"
 category: blog
+lang: fr
 ---
 
 <div class="container blog" align="center">
