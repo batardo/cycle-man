@@ -3,6 +3,7 @@ layout: post
 title:  "Traversée du land de Thuringe"
 description:   "Vallée de l'Ilm, fôret et saucisses de Thuringe"
 category: blog
+lang: fr
 ---
   
   <div class="container blog" align="center">
