@@ -3,6 +3,7 @@ layout: post
 title:  "Berlin - Leipzig en 2 jours"
 description: 170 kilomètres pour la chauffe
 category: blog
+lang: fr
 ---
 
 <div class="container blog" align="center">
