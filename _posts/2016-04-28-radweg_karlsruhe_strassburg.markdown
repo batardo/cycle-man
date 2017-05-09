@@ -44,7 +44,7 @@ category: blog
 
       <div class="row vcenter">      
         <div class="col-sm-12">
-        <a href="/blog.html"><p align="right">>>Zurück zum Blog</p></a>
+        <a href="/blog/de/"><p align="right">>>Zurück zum Blog</p></a>
           </div>
         </div>
 
