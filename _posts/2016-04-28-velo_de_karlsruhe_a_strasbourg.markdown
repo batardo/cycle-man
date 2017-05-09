@@ -1,5 +1,5 @@
 ---
-layout: default fr
+layout: default-fr
 title:  "Piste cyclable de Karlsruhe à Strasbourg"
 description: "La traversée du Rhin en ferry"
 category: blog
