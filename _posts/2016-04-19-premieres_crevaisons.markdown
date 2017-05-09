@@ -27,7 +27,7 @@ ref: post
 
       <div class="row vcenter">      
         <div class="col-sm-12">
-        <a href="/blog.html"><p align="right">>>Retour au blog</p></a>
+        <a href="/blog/"><p align="right">>>Retour au blog</p></a>
           </div>
         </div>
 
