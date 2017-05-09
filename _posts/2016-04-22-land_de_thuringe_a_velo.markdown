@@ -42,7 +42,7 @@ ref: post
          <div class="col-sm-12">
 
            <h2>Merci aux Warmshowers</h2>
-           <p>Dans cette belle région, je n'ai rencontré que des gens sympas. Merci à Konrad et Sophie, rencontrés via l'appli Warmshowers et qui m'ont hébergé à Jena et Ilmenau. Et puis il y a ce monsieur, rencontré dans un village au moment de ma pause banane, qui n'en revenait pas de mon Batavus. Cela fait toujours plaisir. Je continue mon chemin, direction la Bavière.</p>
+           <p>Dans cette belle région, je n'ai rencontré que des gens sympas. Merci à Konrad et Sophie, rencontrés via le site de Warm Showers et qui m'ont hébergé à Jena et Ilmenau. Et puis il y a ce monsieur, rencontré dans un village au moment de ma pause banane, qui n'en revenait pas de mon Batavus. Cela fait toujours plaisir. Je continue mon chemin, direction la Bavière.</p>
                       
 
 
@@ -59,7 +59,7 @@ ref: post
 
  <div class="row vcenter">      
         <div class="col-sm-12">
-        <a href="/blog.html"><p align="right">>>Retour au blog</p></a>
+        <a href="/blog/"><p align="right">>>Retour au blog</p></a>
           </div>
         </div>
 
