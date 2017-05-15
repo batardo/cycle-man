@@ -27,7 +27,7 @@ category: blog
 
               <br/>
 
-            Alternativ gibt es auch. Auf der Karte sieht man, dass man der Rhein auch an anderen Stellen kreuzen kann. Allerdings sind es Brücken bzw. Straßen, die sehr gefahren sind. Also vielleicht nicht zu empfehlen. Wenn du meine Strecke fahren willst, kannst du dir auf dieser Seite <a href="/farradroute.html">Fahrradroute</a> die entsprechende .gpx Datei herunterladen.
+            Alternativ gibt es auch. Auf der Karte sieht man, dass man der Rhein auch an anderen Stellen kreuzen kann. Allerdings sind es Brücken bzw. Straßen, die sehr gefahren sind. Also vielleicht nicht zu empfehlen. Wenn du meine Strecke fahren willst, kannst du dir auf dieser Seite <a href="/fahrradroute.html">Fahrradroute</a> die entsprechende .gpx Datei herunterladen.
 
 
               <br/>
