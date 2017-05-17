@@ -95,6 +95,17 @@ background-color:white;
 
 .blog p {
     letter-spacing:2px;
+    padding-bottom:5px
+}
+
+.blog h1 {
+    padding-top:10px;
+    padding-bottom:10px
+}
+
+.blog h2 {
+    padding-top:10px;
+    padding-bottom:10px
 }
 
 .feature p {
@@ -637,6 +648,14 @@ font-size:20px
     padding-top: 10px;
     font-size: 15px;
 }  
+
+#blogj  {
+    list-style: square;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    font-size: 15px;
+}  
+
 
 #merci {
     background-color: #F4F4F4;
