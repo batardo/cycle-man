@@ -17,9 +17,7 @@ layout: "default-fr-no-index"
 
 </div>
 </div>
-</div>
 
-<div class="container blog" align="center">
 <div class="row vcenter">      
 <div class="col-xs-12">
 
@@ -57,7 +55,12 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <p>
 Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat d'achat</p>
 
+</div>
+</div>
 
+
+<div class="row vcenter">      
+<div class="col-xs-12">
 
  <table align="center">
       <tr>
@@ -86,7 +89,11 @@ Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve
         <td>9€ ou 4,5€ pour les adhérents</td>
       </tr>
     </table>
+  </div>
+</div>
 
+<div class="row vcenter">      
+<div class="col-xs-12">
 
 <h2 id="blog">À quoi ressemble un numéro d'immatriculation ?</h2>
 
