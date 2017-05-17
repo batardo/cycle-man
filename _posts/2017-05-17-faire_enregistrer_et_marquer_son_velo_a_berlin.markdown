@@ -15,7 +15,7 @@ layout: default-fr-no-index
 
 <h1>Le marquage et l'enregistrement de son vélo à Berlin</h1>
 
-<img src="/Images/polizei.jpeg" alt="marquage de vélo par la police" align="center">
+<img src="/Images/polizeig.jpeg" alt="marquage de vélo par la police" align="center">
 
 <p>À Berlin comme dans le reste de l'Allemagne, le marquage de vélo est gratuit. Pour cela il suffit de se rendre dans son bureau de police de quartier
 aux heures prévues à cet effet. Mais avant de rentrer plus en détail, remettons les choses dans leur contexte.</p>
@@ -79,17 +79,17 @@ Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve
     </table>
 
 
-<h3>A quoi ressemble un numéro d'immatriculation</h3>
+<h2>A quoi ressemble un numéro d'immatriculation</h2>
 
-<h4>Faire changer le code de son vélo</h4>
+<h2>Faire changer le code de son vélo</h2>
 
 
-<h5>Enregister son vélo avec l'application "Fahrradpass"</h5>
+<h2>Enregister son vélo avec l'application "Fahrradpass"</h2>
 <p> A quoi ca sert<P>
   En cas de perte ou vol de votre vélo, vous 
 Sur cette application de la police allemande vous permet d'enregistrer les données d'un ou plusieurs vélo. C
 
-<h6>Comment géolocaliser  votre vélo</h6>
+<h2>Comment géolocaliser  votre vélo</h2>
 
 
  </div>      
