@@ -74,7 +74,6 @@ Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve
       <tr>
         <td>Police</td>
         <td>Dans votre police de quartier. Cf. <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site web de la police</a></td>
-        
         <td>Une fois par mois environ. Cf. <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site web de la police</a></td>
         <td>Sticker</td>
         <td>Gratuit</td>
@@ -83,12 +82,12 @@ Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve
        <tr>
         <td>ADFC</td>
         <td>Mitte, Gesundbrunnenstraße, 28 Berlin-Mitte</td>
-        
         <td>Les mercredis et vendredis de 17:00 à 19:30</td>
         <td>Gravure du numéro dans le cadre. Profondeur: 0,2 millimètres.</td>
         <td>9€ ou 4,5€ pour les adhérents</td>
       </tr>
     </table>
+
   </div>
 </div>
 
@@ -110,3 +109,4 @@ Sur cette application de la police allemande vous permet d'enregistrer les donn�
 </div>
 </div>
 </div>
+
