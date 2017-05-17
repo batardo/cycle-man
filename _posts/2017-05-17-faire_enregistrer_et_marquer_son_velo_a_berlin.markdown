@@ -31,6 +31,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possbibles. Mais av
 
 <p id="blog"><strong>Pourquoi faire encoder son vélo, à quoi ça sert ?</strong>
   
+  <ul id="blogj">
   <li>Tout d'abord si votre vélo est retrouvé, il pourra plus facilement vous être restitué, première raison.</li> 
   <li>Ensuite, un vélo marqué avec un code est très difficile à revendre, car l'acquéreur se rendra vite compte que les initiales ne correspondent pas avec 
   l'identité du vendeur. Qui dit difficile à vendre, dit inintéressant à voler.</li>
@@ -38,6 +39,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possbibles. Mais av
   codé dans le cadre du vélo ne correspondra pas avec l'identité de son usager.</li>
   <li>A l'inverse, si vous souhaitez vendre votre vélo, vous serez encore plus crédible grâce votre votre code et de votre passport vélo.
    Vous prouverez aisément que vous en êtes le propriétaire.</li>
+   </ul>
 
   </p>
 
