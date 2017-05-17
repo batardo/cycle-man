@@ -15,6 +15,14 @@ layout: "default-fr-no-index"
 
 <p id="blog" align="center"><img src="/Images/polizei.jpeg" alt="marquage de vélo par la police" align="center"></p>
 
+</div>
+</div>
+</div>
+
+<div class="container blog" align="center">
+<div class="row vcenter">      
+<div class="col-sm-12">
+
 <p id="blog">À Berlin comme dans le reste de l'Allemagne, le marquage de vélo est gratuit. Pour cela il suffit de se rendre dans son bureau de police de quartier
 aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais avant de rentrer plus en détail, remettons les choses dans leur contexte.<p>
 
@@ -29,7 +37,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
 <h2 id="blog">Le marquage de vélo à Berlin</h2>
 
-<p id="blog"><strong>Pourquoi faire encoder son vélo, à quoi ça sert ?</strong>
+<p id="blog"><strong>Pourquoi faire encoder son vélo, à quoi ça sert ?</strong></p>
   
   <ul id="blogj">
   <li id="blogj">Tout d'abord si votre vélo est retrouvé, il pourra plus facilement vous être restitué, première raison.</li> 
@@ -40,8 +48,6 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
   <li id="blogj">A l'inverse, si vous souhaitez vendre votre vélo, vous serez encore plus crédible grâce votre code et de votre passeport vélo.
    Vous prouverez aisément que vous en êtes le propriétaire.</li>
    </ul>
-
-  </p>
 
 <p id="blog"><strong>Où et quand faire marquer son vélo à Berlin</strong></p>
 <p id="blog">Des rendez-vous sont très régulièrement proposés sur le site de la <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">police allemande</a> dans chaque quartier de Berlin. Ce service est gratuit. La police vous donnera alors un sticker sur lequel votre numéro figurera. Cet autocollant à apposer sur le cadre de votre vélo est issu de la même matière que celle des sceaux apposés sur les plaques d'immatriculation de voiture en Allemagne, donc très résistant aux intempéries. Il est extrêmement difficile à décoller. Lors de l'immatriculation de votre vélo, la police enregistrera dans ses fichiers les informations telles que le fabricant du vélo, sa couleur, et son numéro du cadre si celui-ci est disponible.</p>
@@ -97,4 +103,3 @@ Sur cette application de la police allemande vous permet d'enregistrer les donn�
 </div>
 </div>
 </div>
-
