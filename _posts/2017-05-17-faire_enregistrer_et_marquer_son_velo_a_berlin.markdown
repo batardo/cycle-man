@@ -32,12 +32,12 @@ aux heures prévues à cet effet. D'autres alternatives sont possbibles. Mais av
 <p id="blog"><strong>Pourquoi faire encoder son vélo, à quoi ça sert ?</strong>
   
   <ul id="blogj">
-  <li>Tout d'abord si votre vélo est retrouvé, il pourra plus facilement vous être restitué, première raison.</li> 
-  <li>Ensuite, un vélo marqué avec un code est très difficile à revendre, car l'acquéreur se rendra vite compte que les initiales ne correspondent pas avec 
+  <li id="blogj">Tout d'abord si votre vélo est retrouvé, il pourra plus facilement vous être restitué, première raison.</li> 
+  <li id="blogj">Ensuite, un vélo marqué avec un code est très difficile à revendre, car l'acquéreur se rendra vite compte que les initiales ne correspondent pas avec 
   l'identité du vendeur. Qui dit difficile à vendre, dit inintéressant à voler.</li>
-  <li>Si le voleur avait seulement l'intention de faire un tour, là aussi il peut se faire attrapper lors d'un contrôle de police car une fois de plus le numéro
+  <li id="blogj">Si le voleur avait seulement l'intention de faire un tour, là aussi il peut se faire attrapper lors d'un contrôle de police car une fois de plus le numéro
   codé dans le cadre du vélo ne correspondra pas avec l'identité de son usager.</li>
-  <li>A l'inverse, si vous souhaitez vendre votre vélo, vous serez encore plus crédible grâce votre votre code et de votre passport vélo.
+  <li id="blogj">A l'inverse, si vous souhaitez vendre votre vélo, vous serez encore plus crédible grâce votre votre code et de votre passport vélo.
    Vous prouverez aisément que vous en êtes le propriétaire.</li>
    </ul>
 
@@ -46,7 +46,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possbibles. Mais av
 <p id="blog"><strong>Où et quand faire marquer son vélo à Berlin</strong></p>
 <p id="blog">Rendez-vous dans votre police de quartier. Vous pouvez prendre un rendez-vous directement 
    sur le site de la <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">police allemande</a>. Des rendez-vous sont très régulièrement proposés. Ce service est gratuit. La police vous donnera alors un sticker sur lequel votre numéro figurera. Cet autocollant à apposer sur le cadre de votre vélo est issu de la même matière que celle des sceaux apposés sur les plaques d'immutriculation de voiture en Allemagne, donc très résistant aux intempéries. Il est extrêmement difficile à décoller. Lors de l'immatriculation de votre vélo, la police enregistrera dans ses fichiers les informations telles que le fabricant du vélo, sa couleur, et son numéro du cadre si celui-ci est disponible.</p>
-    <p>La variante encore plus sûre de faire marquer votre vélo à Berlin et de vous rendre dans les ateliers de l'ADFC à Berlin. Le marquage du vélo coûte 9EUR. Pour cela votre numéro sera gravé directement dans le cadre de votre vélo, qu'il soit en acier, en alu ou en carbonne. La gravure sera profonde de 0,2 milimètres. Plus d'informations sur le site de <a href="http://adfc-berlin.de/service/selbsthilfewerkstatt/codierung.html">l'ADFC</a>Sans rendez-vous à l'ADFC les mercredis et vendredis de 17:00 à 19:30. L'atelier se situe au nord de Rosentaler Platz dans le quartier de Berlin-Mitte</p>
+    <p>La variante encore plus sûre de faire marquer votre vélo à Berlin et de vous rendre dans les ateliers de l'ADFC à Berlin. Le marquage du vélo coûte 9EUR. Pour cela votre numéro sera gravé directement dans le cadre de votre vélo, qu'il soit en acier, en alu ou en carbonne. La gravure sera profonde de 0,2 milimètres. Plus d'informations sur le site de <a href="http://adfc-berlin.de/service/selbsthilfewerkstatt/codierung.html" target="_blank">l'ADFC</a>. Sans rendez-vous à l'ADFC les mercredis et vendredis de 17:00 à 19:30. L'atelier se situe au nord de Rosentaler Platz dans le quartier de Berlin-Mitte</p>
 
 <p id="blog"><strong>De quels pièces d'identité et justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong>
 
