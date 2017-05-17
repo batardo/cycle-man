@@ -48,8 +48,8 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
    sur le site de la <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">police allemande</a>. Des rendez-vous sont très régulièrement proposés. Ce service est gratuit. La police vous donnera alors un sticker sur lequel votre numéro figurera. Cet autocollant à apposer sur le cadre de votre vélo est issu de la même matière que celle des sceaux apposés sur les plaques d'immatriculation de voiture en Allemagne, donc très résistant aux intempéries. Il est extrêmement difficile à décoller. Lors de l'immatriculation de votre vélo, la police enregistrera dans ses fichiers les informations telles que le fabricant du vélo, sa couleur, et son numéro du cadre si celui-ci est disponible.</p>
     <p>La variante encore plus sûre de faire marquer votre vélo à Berlin et de vous rendre dans les ateliers de l'ADFC à Berlin. Le marquage du vélo coûte 9EUR. Pour cela votre numéro sera gravé directement dans le cadre de votre vélo, qu'il soit en acier, en alu ou en carbone. La gravure sera profonde de 0,2 millimètres. Plus d'informations sur le site de <a href="http://adfc-berlin.de/service/selbsthilfewerkstatt/codierung.html" target="_blank">l'ADFC</a>. Sans rendez-vous à l'ADFC les mercredis et vendredis de 17:00 à 19:30. L'atelier se situe au nord de Rosentaler Platz dans le quartier de Berlin-Mitte</p>
 
-<p id="blog"><strong>De quels pièces d'identité et justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong>
-
+<p id="blog"><strong>De quels pièces d'identité et justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong></p>
+<p>
 Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat d'achat</p>
 
 
@@ -90,8 +90,8 @@ Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve
 
 <h2 id="blog">Enregister son vélo avec l'application "Fahrradpass"</h2>
 
-<p id="blog"> <strong>A quoi ca sert ?</strong>
-  En cas de perte ou vol de votre vélo, vous 
+<p id="blog"> <strong>A quoi ca sert ?</strong></p>
+<p>En cas de perte ou vol de votre vélo, vous 
 Sur cette application de la police allemande vous permet d'enregistrer les données d'un ou plusieurs vélo.</p>
 
 </div>
