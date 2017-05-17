@@ -13,7 +13,7 @@ layout: "default-fr-no-index"
 
 <h1 id="blog">Le marquage et l'enregistrement de son vélo à Berlin</h1>
 
-<p id="blog" align="center"><img src="/Images/polizei.jpeg" alt="marquage de vélo par la police" align="center"></p>
+<p id="blog" align="center"><img src="/Images/polizei.jpeg" alt="marquage de vélo par la police"></p>
 
 </div>
 </div>
@@ -22,7 +22,7 @@ layout: "default-fr-no-index"
 <div class="col-xs-12">
 
 <p id="blog">À Berlin comme dans le reste de l'Allemagne, le marquage de vélo est gratuit. Pour cela il suffit de se rendre dans son bureau de police de quartier
-aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais avant de rentrer plus en détail, remettons les choses dans leur contexte.<p>
+aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais avant de rentrer plus en détail, remettons les choses dans leur contexte.</p>
 
 <h2 id="blog">Le vols de vélo à Berlin en quelques chiffres</h2>
 
@@ -52,8 +52,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
     <p>La variante encore plus sûre de faire marquer votre vélo à Berlin et de vous rendre dans les ateliers de l'ADFC à Berlin. Le marquage du vélo coûte 9EUR. Pour cela votre numéro sera gravé directement dans le cadre de votre vélo, qu'il soit en acier, en alu ou en carbone. La gravure sera profonde de 0,2 millimètres. Plus d'informations sur le site de <a href="http://adfc-berlin.de/service/selbsthilfewerkstatt/codierung.html" target="_blank">l'ADFC</a>. Sans rendez-vous à l'ADFC les mercredis et vendredis de 17:00 à 19:30. L'atelier se situe au nord de Rosentaler Platz dans le quartier de Berlin-Mitte</p>
 
 <p id="blog"><strong>De quels justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong></p>
-<p>
-Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat d'achat</p>
+<p>Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat d'achat</p>
 
 </div>
 </div>
