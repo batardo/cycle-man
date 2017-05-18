@@ -9,7 +9,7 @@ layout: "default-fr-no-index"
 <div class="container" id="fahrradcodierung">
      <div class="row">
          <div class="col-xs-12">
-          <h1>"Le marquage et l'enregistrement de son vélo à Berlin</h1>
+          <h1>Le marquage et l'enregistrement de son vélo à Berlin</h1>
         </div>
       </div>
     </div>
