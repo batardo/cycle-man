@@ -14,7 +14,7 @@ layout: "default-fr-no-index"
       </div>
     </div>
     
-    <div class="spacer">
+    <div id="spacer">
     </div>
 
 <div class="container blog" align="center">
