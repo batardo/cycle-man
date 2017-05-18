@@ -14,8 +14,7 @@ layout: "default-fr-no-index"
       </div>
     </div>
     
-    <div id="spacer">
-    </div>
+  <br/>
 
 <div class="container blog" align="center">
   <div class="row vcenter">      
@@ -47,7 +46,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
    Vous prouverez aisément que vous en êtes le propriétaire.</li>
    </ul>
 
-<p id="blog"><strong>Où et quand faire marquer son vélo à Berlin</strong></p>
+<p id="blog"><strong>Où et quand faire marquer son vélo à Berlin ?</strong></p>
 <p id="blog">Des rendez-vous sont très régulièrement proposés sur le site de la <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">police allemande</a> dans chaque quartier de Berlin. Ce service est gratuit. La police vous donnera alors un sticker sur lequel votre numéro figurera. Cet autocollant à apposer sur le cadre de votre vélo est issu de la même matière que celle des sceaux apposés sur les plaques d'immatriculation de voiture en Allemagne, donc très résistant aux intempéries. Il est extrêmement difficile à décoller. Lors de l'immatriculation de votre vélo, la police enregistrera dans ses fichiers les informations telles que le fabricant du vélo, sa couleur, et son numéro du cadre si celui-ci est disponible.</p>
     <p>La variante encore plus sûre de faire marquer votre vélo à Berlin et de vous rendre dans les ateliers de l'ADFC à Berlin. Le marquage du vélo coûte 9EUR. Pour cela votre numéro sera gravé directement dans le cadre de votre vélo, qu'il soit en acier, en alu ou en carbone. La gravure sera profonde de 0,2 millimètres. Plus d'informations sur le site de <a href="http://adfc-berlin.de/service/selbsthilfewerkstatt/codierung.html" target="_blank">l'ADFC</a>. Sans rendez-vous à l'ADFC les mercredis et vendredis de 17:00 à 19:30. L'atelier se situe au nord de Rosentaler Platz dans le quartier de Berlin-Mitte</p>
 
@@ -59,7 +58,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <div class="row vcenter">      
 <div class="col-xs-12">
 
-<p id="blog"><strong>Police ou ADFC</strong></p>
+<p id="blog"><strong>Police ou ADFC ?</strong></p>
 
  <table align="center">
       <tr>
@@ -77,7 +76,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
         <td>Une fois par mois environ. Cf. <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site web de la police</a></td>
         <td>Sticker</td>
         <td>Gratuit</td>
-        <td><img src="/Images/polizei.jpeg" width="150px"></td>
+        <td><img src="/Images/polizei.jpeg"></td>
       </tr>
 
        <tr>
@@ -86,7 +85,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
         <td>Les mercredis et vendredis de 17:00 à 19:30</td>
         <td>Gravure du numéro dans le cadre. Profondeur: 0,2 millimètres.</td>
         <td>9€ ou 4,5€ pour les adhérents</td>
-        <td><img src="/Images/Gravur.jpg" width="150px"></td>
+        <td><img src="/Images/Gravur.jpg"></td>
       </tr>
     </table>
 
@@ -102,7 +101,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <h2 id="blog">À quoi ressemble un numéro d'immatriculation ?</h2>
 
 
-<h2 id="blog">Comment faire changer le code de son vélo</h2>
+<h2 id="blog">Comment faire changer le code de son vélo ?</h2>
 
 
 <h2 id="blog">Enregister son vélo avec l'application "Fahrradpass"</h2>
