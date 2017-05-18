@@ -13,6 +13,9 @@ layout: "default-fr-no-index"
         </div>
       </div>
     </div>
+    
+    <div class="spacer">
+    </div>
 
 <div class="container blog" align="center">
   <div class="row vcenter">      
