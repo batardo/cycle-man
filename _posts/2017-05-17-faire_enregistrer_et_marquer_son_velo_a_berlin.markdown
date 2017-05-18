@@ -6,20 +6,17 @@ category: blog
 layout: "default-fr-no-index"
 ---
 
+<div class="container" id="fahrradcodierung">
+     <div class="row">
+         <div class="col-xs-12">
+          <h1>"Le marquage et l'enregistrement de son vélo à Berlin</h1>
+        </div>
+      </div>
+    </div>
 
 <div class="container blog" align="center">
-<div class="row vcenter">      
-<div class="col-xs-12">
-
-<h1 id="blog">Le marquage et l'enregistrement de son vélo à Berlin</h1>
-
-<p id="blog" align="center"><img src="/Images/polizei.jpeg" alt="marquage de vélo par la police"></p>
-
-</div>
-</div>
-
-<div class="row vcenter">      
-<div class="col-xs-12">
+  <div class="row vcenter">      
+    <div class="col-xs-12">
 
 <p id="blog">À Berlin comme dans le reste de l'Allemagne, le marquage de vélo est gratuit. Pour cela il suffit de se rendre dans son bureau de police de quartier
 aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais avant de rentrer plus en détail, remettons les choses dans leur contexte.</p>
