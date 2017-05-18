@@ -65,8 +65,8 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
         <th></th>
         <th>Où?</th>
         <th>Quand?</th>
-        <th>Comment</th>
         <th>Combien?</th>
+        <th>Comment</th>
         <th></th>
       </tr>
       
@@ -74,18 +74,16 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
         <td>Police</td>
         <td>Dans votre police de quartier. Cf. <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site web de la police</a></td>
         <td>Une fois par mois environ. Cf. <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site web de la police</a></td>
-        <td>Sticker</td>
         <td>Gratuit</td>
-        <td><img src="/Images/polizei.jpeg"></td>
+        <td>Sticker<br/><img src="/Images/polizei.jpeg"></td>
       </tr>
 
        <tr>
         <td>ADFC</td>
         <td>Mitte, Gesundbrunnenstraße, 28 Berlin-Mitte</td>
         <td>Les mercredis et vendredis de 17:00 à 19:30</td>
-        <td>Gravure du numéro dans le cadre. Profondeur: 0,2 millimètres.</td>
         <td>9€ ou 4,5€ pour les adhérents</td>
-        <td><img src="/Images/Gravur.jpg"></td>
+        <td>Gravure du numéro dans le cadre. Profondeur: 0,2 millimètres.<br/><img src="/Images/Gravur.jpg"></td>
       </tr>
     </table>
 
