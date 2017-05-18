@@ -89,6 +89,8 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
   </div>
 </div>
 
+<br/>
+
 <p id="blog"><strong>De quels justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong></p>
 <p>Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat d'achat</p>
 
