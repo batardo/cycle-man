@@ -99,7 +99,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
 <h2 id="blog">À quoi ressemblerait mon numéro d'immatriculation de vélo ?</h2>
 
-<p id="blog">Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police. Précisément vous devez renseigner les informations suivantes :
+<p id="blog">Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police. Précisément vous devez renseigner les informations suivantes :</p>
 
 <ul>
 <li id="blogj">Numéro de la ville</li>
