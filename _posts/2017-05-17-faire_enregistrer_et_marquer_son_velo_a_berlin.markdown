@@ -98,7 +98,28 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <div class="col-xs-12">
 
 <h2 id="blog">À quoi ressemble un numéro d'immatriculation ?</h2>
+<p id="blog">Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police.
+<br/>
 
+Précisément vous devez renseigner les informations suivantes:
+
+<li>Numéro de la ville</li>
+<li>Numéro de la rue</li>
+<li>Numéro du numéro</li>
+<li>Vos initiales</li>
+<li>Année d'immatriculation</li>
+
+Si vous souhaitez faire un test et voir à quoi ressemblerait votre numéro d'immatriculation, l'ADFC a mis en place un <a href="http://www.fa-technik.adfc.de/Codierung/fein.pl" target="_blank">générateur de code</a> 
+
+J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au Frankfurter Allee, 77, 10247-Berlin, immatriculé en 2017. Et voici le résultat :
+<br/>
+
+<p id="blog" align="center"><img src="/Images/code.jpg"></p>
+Etiquette ADFC
+<p id="blog" align="center"><img src="/Images/etiquetteADFC.jpg"></p>
+<br/>
+Etiquette Police
+<p id="blog" align="center"><img src="/Images/etiquettepolice.jpg"></p>
 
 <h2 id="blog">Comment faire changer le code de son vélo ?</h2>
 
