@@ -101,7 +101,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
 <p id="blog">Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police. Précisément vous devez renseigner les informations suivantes :</p>
 
-<ul>
+<ul id="blogj">
 <li id="blogj">Numéro de la ville</li>
 <li id="blogj">Numéro de la rue</li>
 <li id="blogj">Numéro du numéro</li>
