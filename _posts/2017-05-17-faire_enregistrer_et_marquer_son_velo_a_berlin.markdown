@@ -102,14 +102,14 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <p id="blog">Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police. Précisément vous devez renseigner les informations suivantes :
 
 <ul>
-<li id="blog">Numéro de la ville</li>
-<li id="blog">Numéro de la rue</li>
-<li id="blog">Numéro du numéro</li>
-<li id="blog">Vos initiales</li>
-<li id="blog">Année d'immatriculation</li>
+<li id="blogj">Numéro de la ville</li>
+<li id="blogj">Numéro de la rue</li>
+<li id="blogj">Numéro du numéro</li>
+<li id="blogj">Vos initiales</li>
+<li id="blogj">Année d'immatriculation</li>
 </ul>
 
-Si vous souhaitez faire un test et voir à quoi ressemblerait votre numéro d'immatriculation, l'ADFC a mis en place un <a href="http://www.fa-technik.adfc.de/Codierung/fein.pl" target="_blank">générateur de code</a>. J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au Frankfurter Allee, 77, 10247-Berlin, immatriculé en 2017. Et voici le résultat :
+<p id="blog">Si vous souhaitez faire un test et voir à quoi ressemblerait votre numéro d'immatriculation, l'ADFC a mis en place un <a href="http://www.fa-technik.adfc.de/Codierung/fein.pl" target="_blank">générateur de code</a>. J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au Frankfurter Allee, 77, 10247-Berlin, immatriculé en 2017. Et voici le résultat :</p>
 
 <p align="center"><img src="/Images/code.JPG"></p>
 <br/>
