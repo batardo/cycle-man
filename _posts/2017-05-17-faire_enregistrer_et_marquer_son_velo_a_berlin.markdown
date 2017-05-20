@@ -37,18 +37,13 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <p id="blog"><strong>Pourquoi faire encoder son vélo, à quoi ça sert ?</strong></p>
   
   <ul id="blogj">
-  <li id="blogj">Tout d'abord si votre vélo est retrouvé, il pourra plus facilement vous être restitué, première raison.</li> 
-  <li id="blogj">Ensuite, un vélo marqué avec un code est très difficile à revendre, car l'acquéreur se rendra vite compte que les initiales ne correspondent pas avec 
+  <li id="blogj">Tout d'abord si votre vélo est retrouvé, il pourra plus facilement vous être restitué</li> <li id="blogj">Ensuite, un vélo marqué avec un code est très difficile à revendre, car l'acquéreur pourra voir que les initiales visibles dans le code ne correspondent pas avec 
   l'identité du vendeur. Qui dit difficile à vendre, dit inintéressant à voler.</li>
-  <li id="blogj">Si le voleur avait seulement l'intention de faire un tour, là aussi il peut se faire attraper lors d'un contrôle de police car une fois de plus le numéro
-  codé dans le cadre du vélo ne correspondra pas avec l'identité de son usager.</li>
-  <li id="blogj">A l'inverse, si vous souhaitez vendre votre vélo, vous serez encore plus crédible grâce votre code et de votre passeport vélo.
-   Vous prouverez aisément que vous en êtes le propriétaire.</li>
    </ul>
 
 <p id="blog"><strong>Où et quand faire marquer son vélo à Berlin ?</strong></p>
-<p id="blog">Des rendez-vous sont très régulièrement proposés sur le site de la <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">police allemande</a> dans chaque quartier de Berlin. Ce service est gratuit. La police vous donnera alors un sticker sur lequel votre numéro figurera. Cet autocollant à apposer sur le cadre de votre vélo est issu de la même matière que celle des sceaux apposés sur les plaques d'immatriculation de voiture en Allemagne, donc très résistant aux intempéries. Il est extrêmement difficile à décoller. Lors de l'immatriculation de votre vélo, la police enregistrera dans ses fichiers les informations telles que le fabricant du vélo, sa couleur, et son numéro du cadre si celui-ci est disponible.</p>
-    <p>La variante encore plus sûre de faire marquer votre vélo à Berlin et de vous rendre dans les ateliers de l'ADFC à Berlin. Le marquage du vélo coûte 9EUR. Pour cela votre numéro sera gravé directement dans le cadre de votre vélo, qu'il soit en acier, en alu ou en carbone. La gravure sera profonde de 0,2 millimètres. Plus d'informations sur le site de <a href="http://adfc-berlin.de/service/selbsthilfewerkstatt/codierung.html" target="_blank">l'ADFC</a>. Sans rendez-vous à l'ADFC les mercredis et vendredis de 17:00 à 19:30. L'atelier se situe au nord de Rosentaler Platz dans le quartier de Berlin-Mitte</p>
+<p id="blog">Des rendez-vous sont très régulièrement proposés sur le site de la <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">police</a> dans chaque quartier de Berlin. Ce service est gratuit. La police vous donnera alors une étiquette spéciale sur laquelle figurera votre numéro d'identification. Cet autocollant à apposer sur le cadre de votre vélo est fabriqué avec la matière des sceaux apposés sur les plaques d'immatriculation des voitures allemandes, donc très résistant aux intempéries et extrêmement difficile à retirer. Lors de l'immatriculation de votre vélo, la police enregistrera dans ses fichiers les informations telles que le fabricant du vélo, sa couleur, et son numéro du cadre si celui-ci est disponible.</p>
+    <p>La variante encore plus sûre de faire marquer votre vélo à Berlin et de vous rendre dans les ateliers de l'ADFC à Berlin. Le marquage du vélo coûte 9EUR. Pour cela votre numéro sera gravé directement dans le cadre de votre vélo, qu'il soit en acier, en alu ou en carbone. La gravure sera profonde de 0,2 millimètres. Plus d'informations sur le site de <a href="http://adfc-berlin.de/service/selbsthilfewerkstatt/codierung.html" target="_blank">l'ADFC</a>. Sans rendez-vous à l'ADFC les mercredis et vendredis de 17:00 à 19:30. L'atelier se situe au nord de Rosentaler Platz dans le quartier de Berlin-Mitte.</p>
 
 
 </div>
@@ -60,13 +55,16 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
 <p id="blog"><strong>Police ou ADFC ?</strong></p>
 
- <table align="center">
+ <table class="table table-hover" align="center">
+  <thead>
       <tr>
         <th></th>
         <th>Police</th>
         <th>ADFC</th>
         </tr>
+      </thead>
       
+      <tbody>
       <tr>
         <td>Où ?</td>
         <td>Dans votre police de quartier.<br/>Voir le <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site internet</a></td>
@@ -90,9 +88,10 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
       <tr>
         <td>Méthode</td>
-        <td>Etiquette<br/><img src="/Images/codepolizei.jpg" width="300px" height="150px"></td>
-        <td>Gravure<br/><img src="/Images/codegravur.png" width="300px" height="150px"></td>
+        <td>Etiquette spéciale<br/><img src="/Images/codepolizei.jpg" width="300px" height="150px"></td>
+        <td>Gravure de 0,1 - 0,2 mm<br/><img src="/Images/codegravur.png" width="300px" height="150px"></td>
       </tr>
+    </tbody>
     </table>
 
   </div>
@@ -101,7 +100,15 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <br/>
 
 <p id="blog"><strong>De quels justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong></p>
-<p>Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat d'achat</p>
+<p>Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat de vente.</p>
+
+<p id="blog"><strong>Comment faire si je vends mon vélo ?</strong></p>
+<p>Il faut alors établir un contrat de vente avec le nouvel acquérir sur lequel devra figurer toutes les données relatives à l'encodage. L'ADFC a mis à disposition un <a href="/Images/100114_ADFC_Musterkaufvertrag.pdf" download>contrat type</a> que vous pouvez télécharger. Le nouveau propriétaire n'est pas obligé de changer de numéro, mais il peut le faire. L'ancien code sera alors barré.</p>
+
+<p id="blog"><strong>Que se passe-t'il en cas de déménagement ?</strong></p>
+<p>Aucun problème. Pas de besoin de changer de numéro. Si l'année d'immatriculation est bien présente dans le numéro d'immatriculation, la police pourra alors avoir accès à l'ancienne adresse du propriétaire, car comme vous le savez (ou pas), il est obligatoire en Allemagne d'enregistrer son domicile auprès des autorités.</p>
+
+
 
 <div class="row vcenter">      
 <div class="col-xs-12">
@@ -120,7 +127,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
 <p id="blog" align="center"><img src="/Images/codeEIN.jpg"></p>
 
-<p id="blog">Si vous souhaitez faire un test et voir à quoi ressemblerait votre numéro d'immatriculation, l'ADFC a mis en place un <a href="http://www.fa-technik.adfc.de/Codierung/fein.pl" target="_blank">générateur de code</a>. <br/>
+<p id="blog">Si vous souhaitez voir à quoi ressemblerait votre numéro d'immatriculation, l'ADFC a mis en place un <a href="http://www.fa-technik.adfc.de/Codierung/fein.pl" target="_blank">générateur de code</a>. <br/>
 J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au Frankfurter Allee, 77, 10247-Berlin, immatriculé en 2017. Et voici le résultat :</p>
 
 <p align="center"><img src="/Images/code.JPG"></p>
