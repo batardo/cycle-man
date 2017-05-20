@@ -69,7 +69,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
       
       <tr>
         <td>Où ?</td>
-        <td>Dans votre police de quartier. Voir le <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site internet</a></td>
+        <td>Dans votre police de quartier.<br/>Voir le <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site internet</a></td>
         <td>Atelier de l'ADFC<br/>
           Gesundbrunnenstraße, 28<br/>
           Berlin-Mitte</td>
@@ -77,7 +77,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
         <tr>
         <td>Quand ?</td>
-        <td>Une fois par mois environ. Voir le <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">calendrier</a></td>
+        <td>Une fois par mois environ.<br/>Voir le <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">calendrier</a></td>
          <td>Les mercredis et vendredis<br/>
           de 17:00 à 19:30</td>
        </tr>
@@ -90,8 +90,8 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
       <tr>
         <td>Méthode</td>
-        <td>Gravure<br/><img src="/Images/polizei.jpeg"></td>
-        <td>Étiquette<br/><img src="/Images/Gravur.jpg"></td>
+        <td>Gravure<br/><img src="/Images/polizei.jpeg" with="300px"></td>
+        <td>Étiquette<br/><img src="/Images/Gravur.jpg" width"300px"></td>
       </tr>
     </table>
 
