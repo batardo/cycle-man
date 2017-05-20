@@ -90,7 +90,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
       <tr>
         <td>Méthode</td>
-        <td>Gravure<br/><img src="/Images/polizei.jpeg" with="250px"></td>
+        <td>Gravure<br/><img src="/Images/polizei.jpeg" with="150px"></td>
         <td>Étiquette<br/><img src="/Images/Gravur.jpg" width="250px"></td>
       </tr>
     </table>
