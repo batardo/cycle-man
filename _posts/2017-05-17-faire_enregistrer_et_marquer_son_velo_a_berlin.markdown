@@ -61,28 +61,39 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <p id="blog"><strong>Police ou ADFC ?</strong></p>
 
  <table align="center">
+
+
+
       <tr>
         <th></th>
-        <th>Où?</th>
-        <th>Quand?</th>
-        <th>Combien?</th>
-        <th>Sticker ou gravure?</th>
-      </tr>
+        <th>Police</th>
+        <th>ADFC</th>
+        </tr>
       
       <tr>
-        <td>Police</td>
-        <td>Dans votre police de quartier. Cf. <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site web de la police</a></td>
-        <td>Une fois par mois environ. Cf. <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site web de la police</a></td>
+        <td>Où ?</td>
+        <td>Dans votre police de quartier. Voir le <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">site internet</a></td>
+        <td>Atelier de l'ADFC<br/>
+          Gesundbrunnenstraße, 28<br/>
+          Berlin-Mitte</td>
+        </tr>
+
+        <tr>
+        <td>Quand ?</td>
+        <td>Une fois par mois environ. Voir le <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">calendrier</a></td>
+         <td>Les mercredis et vendredis de 17:00 à 19:30</td>
+       </tr>
+       
+       <tr>
+        <td>Combien ?<td>
         <td>Gratuit</td>
-        <td><img src="/Images/polizei.jpeg"></td>
+        <td>4,5€ pour les adhérents, sinon 9€</td>
       </tr>
 
-       <tr>
-        <td>ADFC</td>
-        <td>Mitte, Gesundbrunnenstraße, 28 Berlin-Mitte</td>
-        <td>Les mercredis et vendredis de 17:00 à 19:30</td>
-        <td>9€ ou 4,5€ pour les adhérents</td>
-        <td><img src="/Images/Gravur.jpg"></td>
+      <tr>
+        <td>Méthode</td>
+        <td>Gravure<br/><img src="/Images/polizei.jpeg"></td>
+        <td>Étiquette<br/><img src="/Images/Gravur.jpg"></td>
       </tr>
     </table>
 
@@ -102,12 +113,14 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <p id="blog">Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police. Précisément vous devez renseigner les informations suivantes :</p>
 
 <ul id="blogj">
-<li id="blogj">Numéro de la ville</li>
-<li id="blogj">Numéro de la rue</li>
-<li id="blogj">Numéro du numéro</li>
-<li id="blogj">Vos initiales</li>
+<li id="blogj">Code de la ville</li>
+<li id="blogj">Code de la rue</li>
+<li id="blogj">Numéro de rue</li>
+<li id="blogj">Initiales du propriétaire</li>
 <li id="blogj">Année d'immatriculation</li>
 </ul>
+
+<p id="blog" align="center"><img src="/Images/codeEIN.jpeg"></p>
 
 <p id="blog">Si vous souhaitez faire un test et voir à quoi ressemblerait votre numéro d'immatriculation, l'ADFC a mis en place un <a href="http://www.fa-technik.adfc.de/Codierung/fein.pl" target="_blank">générateur de code</a>. <br/>
 J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au Frankfurter Allee, 77, 10247-Berlin, immatriculé en 2017. Et voici le résultat :</p>
@@ -130,4 +143,3 @@ Sur cette application de la police allemande vous permet d'enregistrer les donn�
 </div>
 </div>
 </div>
-
