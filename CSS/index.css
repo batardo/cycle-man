@@ -685,5 +685,6 @@ font-size:20px
     padding: 5px;
     text-align: left;
     color:black;
+    max-width: 800px;
 }
 
