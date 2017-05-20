@@ -61,9 +61,6 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <p id="blog"><strong>Police ou ADFC ?</strong></p>
 
  <table align="center">
-
-
-
       <tr>
         <th></th>
         <th>Police</th>
@@ -81,11 +78,12 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
         <tr>
         <td>Quand ?</td>
         <td>Une fois par mois environ. Voir le <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">calendrier</a></td>
-         <td>Les mercredis et vendredis de 17:00 à 19:30</td>
+         <td>Les mercredis et vendredis<br/>
+          de 17:00 à 19:30</td>
        </tr>
        
        <tr>
-        <td>Combien ?<td>
+        <td>Combien ?</td>
         <td>Gratuit</td>
         <td>4,5€ pour les adhérents, sinon 9€</td>
       </tr>
@@ -120,7 +118,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <li id="blogj">Année d'immatriculation</li>
 </ul>
 
-<p id="blog" align="center"><img src="/Images/codeEIN.jpeg"></p>
+<p id="blog" align="center"><img src="/Images/codeEIN.jpg"></p>
 
 <p id="blog">Si vous souhaitez faire un test et voir à quoi ressemblerait votre numéro d'immatriculation, l'ADFC a mis en place un <a href="http://www.fa-technik.adfc.de/Codierung/fein.pl" target="_blank">générateur de code</a>. <br/>
 J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au Frankfurter Allee, 77, 10247-Berlin, immatriculé en 2017. Et voici le résultat :</p>
@@ -143,3 +141,4 @@ Sur cette application de la police allemande vous permet d'enregistrer les donn�
 </div>
 </div>
 </div>
+
