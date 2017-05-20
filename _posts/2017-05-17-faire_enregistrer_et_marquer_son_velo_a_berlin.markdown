@@ -77,8 +77,8 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
       <tr>
         <td>Méthode</td>
-        <td>Etiquette spéciale<br/><img src="/Images/codepolizei.jpg" width="300px" height="150px"></td>
-        <td>Gravure de 0,1 - 0,2 mm<br/><img src="/Images/codegravur.png" width="300px" height="150px"></td>
+        <td>Etiquette spéciale</td>
+        <td>Gravure de 0,1 - 0,2 mm<br/></td>
       </tr>
     </tbody>
     </table>
@@ -87,6 +87,54 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 </div>
 
 <br/>
+
+<p id="blog"><strong>Gravure ou étiquette ?</strong></p>
+
+<table class="table" align="center">
+  <thead>
+      <tr>
+        <th></th>
+        <th>Gravure</th>
+        <th>Etiquette</th>
+        </tr>
+      </thead>
+      
+      <tbody>
+      <tr>
+        <td>Estethique</td>
+        <td>1</td>
+        <td>0br/>
+        </tr>
+
+        <tr>
+        <td>Durabilité</td>
+        <td>1</td>
+        <td>0/td>
+       </tr>
+       
+       <tr>
+        <td>Effet dissuasif</td>
+        <td>0</td>
+        <td>41</td>
+      </tr>
+
+      <tr>
+        <td>Prix</td>
+        <td>0</td>
+        <td>1</td>
+      </tr>
+    </tbody>
+    </table>
+
+<p>L'étiquette pour faire simple : si vous êtes de passage dans la ville, et que vous savez déjà que vous allez revendre votre vélo dans 1 an, mettez une étiquette. Si votre vélo est acheté d'occasion, n'a pas trop de valeur estethique ou sentimentale, vous n'aurez aucun problème à collet une etiquette sur votre cadre, même si elle ne sont pas très jolie.</p>
+
+<p align="center"><img src="/Images/codepolizei.jpg" width="300px"></p>
+
+<p>La gravure si vous avez déjà investi pour beaucoup dans votre vélo, vous pouvez mettre 8,5 en plus. Une fois gravé, c'est pour la vie.</p>
+
+<p align="center"><img src="/Images/codegravur.png" width="300px"></p>
+
+
 
 <p id="blog"><strong>De quels justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong></p>
 <p>Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat de vente.</p>
