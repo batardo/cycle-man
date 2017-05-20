@@ -78,7 +78,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
       <tr>
         <td>Méthode</td>
         <td>Etiquette spéciale</td>
-        <td>Gravure de 0,1 - 0,2 mm<br/></td>
+        <td>Gravure de 0,1 - 0,2 mm</td>
       </tr>
     </tbody>
     </table>
