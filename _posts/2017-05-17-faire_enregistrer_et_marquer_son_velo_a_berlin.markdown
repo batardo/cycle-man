@@ -44,7 +44,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <p id="blog"><strong>Où et quand faire marquer son vélo à Berlin ?</strong></p>
 <p>Vous avez le choix entre la police ou l'ADFC.</p>
 
- <table class="table table-hover" align="center">
+ <table class="table" align="center">
   <thead>
       <tr>
         <th></th>
