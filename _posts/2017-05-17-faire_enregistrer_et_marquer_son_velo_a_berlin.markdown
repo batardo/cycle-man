@@ -42,18 +42,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
    </ul>
 
 <p id="blog"><strong>Où et quand faire marquer son vélo à Berlin ?</strong></p>
-<p id="blog">Des rendez-vous sont très régulièrement proposés sur le site de la <a href="https://www.berlin.de/land/kalender/?c=63" target="_blank">police</a> dans chaque quartier de Berlin. Ce service est gratuit. La police vous donnera alors une étiquette spéciale sur laquelle figurera votre numéro d'identification. Cet autocollant à apposer sur le cadre de votre vélo est fabriqué avec la matière des sceaux apposés sur les plaques d'immatriculation des voitures allemandes, donc très résistant aux intempéries et extrêmement difficile à retirer. Lors de l'immatriculation de votre vélo, la police enregistrera dans ses fichiers les informations telles que le fabricant du vélo, sa couleur, et son numéro du cadre si celui-ci est disponible.</p>
-    <p>La variante encore plus sûre de faire marquer votre vélo à Berlin et de vous rendre dans les ateliers de l'ADFC à Berlin. Le marquage du vélo coûte 9EUR. Pour cela votre numéro sera gravé directement dans le cadre de votre vélo, qu'il soit en acier, en alu ou en carbone. La gravure sera profonde de 0,2 millimètres. Plus d'informations sur le site de <a href="http://adfc-berlin.de/service/selbsthilfewerkstatt/codierung.html" target="_blank">l'ADFC</a>. Sans rendez-vous à l'ADFC les mercredis et vendredis de 17:00 à 19:30. L'atelier se situe au nord de Rosentaler Platz dans le quartier de Berlin-Mitte.</p>
-
-
-</div>
-</div>
-
-
-<div class="row vcenter">      
-<div class="col-xs-12">
-
-<p id="blog"><strong>Police ou ADFC ?</strong></p>
+<p>Vous avez le choix entre la police ou l'ADFC.</p>
 
  <table class="table table-hover" align="center">
   <thead>
