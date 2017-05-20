@@ -83,10 +83,6 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
     </tbody>
     </table>
 
-  </div>
-</div>
-
-<br/>
 
 <p id="blog"><strong>Gravure ou étiquette ?</strong></p>
 
@@ -145,10 +141,6 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <p id="blog"><strong>Que se passe-t'il en cas de déménagement ?</strong></p>
 <p>Aucun problème. Pas de besoin de changer de numéro. Si l'année d'immatriculation est bien présente dans le numéro d'immatriculation, la police pourra alors avoir accès à l'ancienne adresse du propriétaire, car comme vous le savez (ou pas), il est obligatoire en Allemagne d'enregistrer son domicile auprès des autorités.</p>
 
-
-
-<div class="row vcenter">      
-<div class="col-xs-12">
 
 <h2 id="blog">À quoi ressemblerait mon numéro d'immatriculation de vélo ?</h2>
 
