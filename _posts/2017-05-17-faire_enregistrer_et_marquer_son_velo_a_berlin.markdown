@@ -40,12 +40,12 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
   <li id="plan"><a href="#d">De quels justificatifs ai-je besoin ?</a></li> 
   <li id="plan"><a href="#e">Que faire en cas de déménagement ? </a></li>
   <li id="plan"><a href="#f">Que faire en cas de vente ?</a></li>
-  <li id="plan"><a href="#g">A quoi ressemble mon numéro d'immatriculation</a></li>
+  <li id="plan"><a href="#g">A quoi ressemble mon numéro d'immatriculation ?</a></li>
 
   <p>Faire enregistrer son vélo</p>
 
   <li id="plan">À quoi sert l'enregistrement de son vélo ? </li>
-  <li id="plan">L'application Fahrradpass</li>
+  <li id="plan">"L'application <i>Fahrradpass</i></li>
 
 <h2 id="blog">Le marquage de vélo à Berlin</h2>
 
@@ -172,16 +172,16 @@ Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, 
 <p>Aucun problème. Pas de besoin de changer de numéro. Si l'année d'immatriculation est bien présente dans le numéro d'immatriculation, la police pourra alors avoir accès à l'ancienne adresse du propriétaire, car comme vous le savez (ou pas), il est obligatoire en Allemagne d'enregistrer son domicile auprès des autorités.</p>
 
 
-<p id="g">À quoi ressemblerait mon numéro d'immatriculation de vélo ?</p>
+<p id="g"><strong>À quoi ressemblerait mon numéro d'immatriculation de vélo ?<strong></p>
 
 <p id="blog">Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police. Précisément vous devez renseigner les informations suivantes :</p>
 
 <ul id="blogj">
-<li id="blogj">Code de la ville</li>
-<li id="blogj">Code de la rue</li>
-<li id="blogj">Numéro de rue</li>
-<li id="blogj">Initiales du propriétaire</li>
-<li id="blogj">Année d'immatriculation</li>
+<li id="plan">Code de la ville</li>
+<li id="plan">Code de la rue</li>
+<li id="plan">Numéro de rue</li>
+<li id="plan">Initiales du propriétaire</li>
+<li id="plan">Année d'immatriculation</li>
 </ul>
 
 <p id="blog" align="center"><img src="/Images/codeEIN.jpg"></p>
@@ -198,11 +198,12 @@ Etiquette Police
 <p align="center"><img src="/Images/etiquettepolice.JPG"></p>
 
 
-<h2 id="blog">Enregister son vélo avec l'application "Fahrradpass"</h2>
+<h2 id="blog">Faire enregistrer son vélo à Berlin</h2>
 
-<p id="blog"> <strong>A quoi ca sert ?</strong></p>
+<p id="h"><strong>A quoi ca sert ?</strong></p>
 <p>En cas de perte ou vol de votre vélo, vous 
 Sur cette application de la police allemande vous permet d'enregistrer les données d'un ou plusieurs vélo.</p>
+<p id="i"><strong>L'application "F"ahrradpass"</p>
 
 </div>
 </div>
