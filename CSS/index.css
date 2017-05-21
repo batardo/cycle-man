@@ -707,6 +707,8 @@ font-size:20px
 }
 
 #plan {
-    list-style: none;
+    list-style: square;
     padding-right: 15px;
+    padding-top:1px;
+    padding-bottom:1px;
 }
