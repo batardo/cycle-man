@@ -34,12 +34,13 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
   <p> Faire marquer son vélo</p>
 
-  <li>A quoi ça sert ?</li>
-  <li>Où et quand faire encoder son vélo : police ou ADFC ?</li>
-  <li>Comment : gravure ou étiquette ?</li>
-  <li>De quels justificatifs ai-je besoin ?</li> 
-  <li>Que faire en cas de déménagement ? </li>
-  <li>Que faire en cas de vente ?</li>
+  <li><a href="a">A quoi ça sert ?</a></li>
+  <li><a href="b">Où et quand faire encoder son vélo : police ou ADFC ?</a></li>
+  <li><a href="c">Comment : gravure ou étiquette ?</a></li>
+  <li><a href="d">De quels justificatifs ai-je besoin ?</a></li> 
+  <li><a href="e">Que faire en cas de déménagement ? </a></li>
+  <li><a href="f">Que faire en cas de vente ?</a></li>
+  <li><a href="g">A quoi ressemble mon numéro d'immatriculation</a></li>
 
   <p> Faire enregistrer son vélo</p>
 
@@ -48,14 +49,14 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
 <h2 id="blog">Le marquage de vélo à Berlin</h2>
 
-<p id="blog"><strong>Pourquoi faire encoder son vélo, à quoi ça sert ?</strong></p>
+<p id="a"><strong>Pourquoi faire encoder son vélo, à quoi ça sert ?</strong></p>
   
   <ul id="blogj">
   <li id="blogj">Tout d'abord si votre vélo est retrouvé, il pourra plus facilement vous être restitué</li> <li id="blogj">Ensuite, un vélo marqué avec un code est très difficile à revendre, car l'acquéreur pourra voir que les initiales visibles dans le code ne correspondent pas avec 
   l'identité du vendeur. Qui dit difficile à vendre, dit inintéressant à voler.</li>
    </ul>
 
-<p id="blog"><strong>Où et quand faire marquer son vélo à Berlin ?</strong></p>
+<p id="b"><strong>Où et quand faire marquer son vélo à Berlin ?</strong></p>
 <p>Vous avez le choix entre la police ou l'ADFC.</p>
 
  <table class="table" align="center">
@@ -98,7 +99,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
     </table>
 
 
-<p id="blog"><strong>Gravure ou étiquette ?</strong></p>
+<p id="c"><strong>Gravure ou étiquette ?</strong></p>
 
 <p>Tout dépend ce qui vous importe :</p>.
 
@@ -161,17 +162,17 @@ Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, 
 <p align="center"><img src="/Images/codegravur.png" width="300px"></p>
 
 
-<p id="blog"><strong>De quels justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong></p>
+<p id="d"><strong>De quels justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong></p>
 <p>Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat de vente.</p>
 
-<p id="blog"><strong>Comment faire si je vends mon vélo ?</strong></p>
+<p id="e"><strong>Comment faire si je vends mon vélo ?</strong></p>
 <p>Il faut alors établir un contrat de vente avec le nouvel acquérir sur lequel devra figurer toutes les données relatives à l'encodage. L'ADFC a mis à disposition un <a href="/Images/100114_ADFC_Musterkaufvertrag.pdf" download>contrat type</a> que vous pouvez télécharger. Le nouveau propriétaire n'est pas obligé de changer de numéro, mais il peut le faire. L'ancien code sera alors barré.</p>
 
-<p id="blog"><strong>Que se passe-t'il en cas de déménagement ?</strong></p>
+<p id="f"><strong>Que se passe-t'il en cas de déménagement ?</strong></p>
 <p>Aucun problème. Pas de besoin de changer de numéro. Si l'année d'immatriculation est bien présente dans le numéro d'immatriculation, la police pourra alors avoir accès à l'ancienne adresse du propriétaire, car comme vous le savez (ou pas), il est obligatoire en Allemagne d'enregistrer son domicile auprès des autorités.</p>
 
 
-<h2 id="blog">À quoi ressemblerait mon numéro d'immatriculation de vélo ?</h2>
+<p id="g">À quoi ressemblerait mon numéro d'immatriculation de vélo ?</p>
 
 <p id="blog">Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police. Précisément vous devez renseigner les informations suivantes :</p>
 
