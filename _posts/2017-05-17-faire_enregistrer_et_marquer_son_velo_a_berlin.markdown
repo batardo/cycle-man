@@ -86,7 +86,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
 <p id="blog"><strong>Gravure ou étiquette ?</strong></p>
 
-<p>Tout dépend ce qui vous importe</p>.
+<p>Tout dépend ce qui vous importe :</p>.
 
 <table class="table" align="center">
   <thead>
@@ -135,10 +135,9 @@ L'effet dissuasif : un bon point pour l'étiquette. On la voit, tout le monde la
 <br/>
 En le prix : là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
 
- <p>Pour faire simple :
+ <p>Pour faire simple :</p>
 
-  <br/>
-
+ <p>
 Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, il vous transporte, mais ce n'est pas l'amour fou ? Mettez-lui une étiquette "finger weg!". Après tout, elle ne lui ira pas si mal.</p>
 
 <p align="center"><img src="/Images/codepolizei.jpg" width="300px"></p>
