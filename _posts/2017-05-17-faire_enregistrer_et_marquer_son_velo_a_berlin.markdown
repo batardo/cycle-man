@@ -34,13 +34,13 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
   <p> Faire marquer son vélo</p>
 
-  <li><a href="a">A quoi ça sert ?</a></li>
-  <li><a href="b">Où et quand faire encoder son vélo : police ou ADFC ?</a></li>
-  <li><a href="c">Comment : gravure ou étiquette ?</a></li>
-  <li><a href="d">De quels justificatifs ai-je besoin ?</a></li> 
-  <li><a href="e">Que faire en cas de déménagement ? </a></li>
-  <li><a href="f">Que faire en cas de vente ?</a></li>
-  <li><a href="g">A quoi ressemble mon numéro d'immatriculation</a></li>
+  <li><a href="#a">A quoi ça sert ?</a></li>
+  <li><a href="#b">Où et quand faire encoder son vélo : police ou ADFC ?</a></li>
+  <li><a href="#c">Comment : gravure ou étiquette ?</a></li>
+  <li><a href="#d">De quels justificatifs ai-je besoin ?</a></li> 
+  <li><a href="#e">Que faire en cas de déménagement ? </a></li>
+  <li><a href="#f">Que faire en cas de vente ?</a></li>
+  <li><a href="#g">A quoi ressemble mon numéro d'immatriculation</a></li>
 
   <p> Faire enregistrer son vélo</p>
 
