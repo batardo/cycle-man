@@ -34,18 +34,18 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
   <p> Faire marquer son vélo</p>
 
-  <li id="summary"><a href="#a">A quoi ça sert ?</a>
-  <li id="summary"><a href="#b">Où et quand faire encoder son vélo : police ou ADFC ?</a></li>
-  <li id="summary"><a href="#c">Comment : gravure ou étiquette ?</a></li>
-  <li id="summary"><a href="#d">De quels justificatifs ai-je besoin ?</a></li> 
-  <li id="summary"><a href="#e">Que faire en cas de déménagement ? </a></li>
-  <li id="summary"><a href="#f">Que faire en cas de vente ?</a></li>
-  <li id="summary"><a href="#g">A quoi ressemble mon numéro d'immatriculation</a></li>
+  <li id="plan"><a href="#a">A quoi ça sert ?</a>
+  <li id="plan"><a href="#b">Où et quand faire encoder son vélo : police ou ADFC ?</a></li>
+  <li id="plan"><a href="#c">Comment : gravure ou étiquette ?</a></li>
+  <li id="plan"><a href="#d">De quels justificatifs ai-je besoin ?</a></li> 
+  <li id="plan"><a href="#e">Que faire en cas de déménagement ? </a></li>
+  <li id="plan"><a href="#f">Que faire en cas de vente ?</a></li>
+  <li id="plan"><a href="#g">A quoi ressemble mon numéro d'immatriculation</a></li>
 
   <p>Faire enregistrer son vélo</p>
 
-  <li id="summary">À quoi sert l'enregistrement de son vélo ? </li>
-  <li id="summary">L'application Fahrradpass</li>
+  <li id="plan">À quoi sert l'enregistrement de son vélo ? </li>
+  <li id="plan">L'application Fahrradpass</li>
 
 <h2 id="blog">Le marquage de vélo à Berlin</h2>
 
