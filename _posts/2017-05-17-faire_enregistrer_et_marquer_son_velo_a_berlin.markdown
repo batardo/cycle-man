@@ -86,6 +86,8 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
 <p id="blog"><strong>Gravure ou étiquette ?</strong></p>
 
+<p>Tout d'abord ce qui vous importe</p>.
+
 <table class="table" align="center">
   <thead>
       <tr>
@@ -97,7 +99,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
       
       <tbody>
       <tr>
-        <td>Estethique</td>
+        <td>Estéthique</td>
         <td>1</td>
         <td>0</td>
         </tr>
@@ -122,14 +124,21 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
     </tbody>
     </table>
 
-<p>L'étiquette pour faire simple : si vous êtes de passage dans la ville, et que vous savez déjà que vous allez revendre votre vélo dans 1 an, mettez une étiquette. Si votre vélo est acheté d'occasion, n'a pas trop de valeur estethique ou sentimentale, vous n'aurez aucun problème à collet une etiquette sur votre cadre, même si elle ne sont pas très jolie.</p>
+<p>Je m'explique</P>
+<P>L'esthétique: la gravure l'emporte, car les etiquettes sont moches, c'est sans appel.</p>.
+<p>Durabilité: deuxième point pour la gravure: car même si les étiquettes sont réputées indécollables (Source: Police), il n'en reste pas moins qu'un gravure, c'est pour la vie.</p>
+<p>Effet dissuasif: un bon point pour l'étiquette. On les voit, tout le monde les voit et donc à fortiori, le voleur les voit...</p>
+<p>Bon là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
+
+ <p>Pour faire simple:</p>
+
+<p>Vous êtes de passage? Votre vélo et vous c'est du court terme? Il dépanne, il vous transporte, mais ce n'est pas l'amour fou? Mettez-lui une étiquette "finger weg!". Après tout, elle ne lui ira pas si mal.</p>
 
 <p align="center"><img src="/Images/codepolizei.jpg" width="300px"></p>
 
-<p>La gravure si vous avez déjà investi pour beaucoup dans votre vélo, vous pouvez mettre 8,5 en plus. Une fois gravé, c'est pour la vie.</p>
+<p>Vous et votre vélo c'est du solide. Vous avez déjà beaucoup investi dans votre relation. Entre vous c'est du durable. Gravez-moi tout ca. Les 9€ en valent la chandelle.</p>
 
 <p align="center"><img src="/Images/codegravur.png" width="300px"></p>
-
 
 
 <p id="blog"><strong>De quels justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong></p>
