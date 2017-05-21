@@ -44,9 +44,9 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
   <p>Faire enregistrer son vélo</p>
 
-  <li id="plan"><a href="#h">Pourquoi faire enregistrer son vélo ? </li></a>
-  <li id="plan"><a href="#i">Faire enregistrer ou faire marquer son vélo ? </li></a>
-  <li id="plan"><a href="#j">L'application "Fahrradpass"</li></a>
+  <li id="plan"><a href="#h">Pourquoi faire enregistrer son vélo ?</a></li>
+  <li id="plan"><a href="#i">Faire enregistrer ou faire marquer son vélo ?</a></li>
+  <li id="plan"><a href="#j">L'application "Fahrradpass"</a></li>
 
 <h2 id="blog">Le marquage de vélo à Berlin</h2>
 
