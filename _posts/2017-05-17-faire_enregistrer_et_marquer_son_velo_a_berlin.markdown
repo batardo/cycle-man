@@ -30,22 +30,22 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
   Ces indicateurs révèlent certes une tendance mais de reflètent pas la réalité, puisque que la majorité des vélos volés ne sont pas signalés à la police...<br/>
   Toujours selon le <i>berliner morgenpost</i> le taux d'élucidation des vols de vélo dans la ville de Berlin est de 3,5%. 
   Donc ne comptez pas dessus, vos chances de revoir votre monture sont très faibles. Alors le mieux reste de ne pas se faire voler son vélo. 
-  Oui, d'accord, mais comment faire ? Deux choses sont possibiles :</p>
+  Oui, d'accord, mais comment faire ? Deux choses sont possibles :</p>
 
   <p> Faire marquer son vélo</p>
 
-  <li><a href="#a">A quoi ça sert ?</a></li>
-  <li><a href="#b">Où et quand faire encoder son vélo : police ou ADFC ?</a></li>
-  <li><a href="#c">Comment : gravure ou étiquette ?</a></li>
-  <li><a href="#d">De quels justificatifs ai-je besoin ?</a></li> 
-  <li><a href="#e">Que faire en cas de déménagement ? </a></li>
-  <li><a href="#f">Que faire en cas de vente ?</a></li>
-  <li><a href="#g">A quoi ressemble mon numéro d'immatriculation</a></li>
+  <li id="summary"><a href="#a">A quoi ça sert ?</a>
+  <li id="summary"><a href="#b">Où et quand faire encoder son vélo : police ou ADFC ?</a></li>
+  <li id="summary"><a href="#c">Comment : gravure ou étiquette ?</a></li>
+  <li id="summary"><a href="#d">De quels justificatifs ai-je besoin ?</a></li> 
+  <li id="summary"><a href="#e">Que faire en cas de déménagement ? </a></li>
+  <li id="summary"><a href="#f">Que faire en cas de vente ?</a></li>
+  <li id="summary"><a href="#g">A quoi ressemble mon numéro d'immatriculation</a></li>
 
-  <p> Faire enregistrer son vélo</p>
+  <p>Faire enregistrer son vélo</p>
 
-  <li>À quoi sert l'enregistrement de son vélo ? </li>
-  <li>L'application P</li>
+  <li id="summary">À quoi sert l'enregistrement de son vélo ? </li>
+  <li id="summary">L'application Fahrradpass</li>
 
 <h2 id="blog">Le marquage de vélo à Berlin</h2>
 
