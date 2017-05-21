@@ -124,15 +124,21 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
     </tbody>
     </table>
 
-<p>Je m'explique</P>
-<P>L'esthétique: la gravure l'emporte, car les etiquettes sont moches, c'est sans appel.</p>.
-<p>Durabilité: deuxième point pour la gravure: car même si les étiquettes sont réputées indécollables (Source: Police), il n'en reste pas moins qu'un gravure, c'est pour la vie.</p>
-<p>Effet dissuasif: un bon point pour l'étiquette. On les voit, tout le monde les voit et donc à fortiori, le voleur les voit...</p>
-<p>Bon là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
+<p>Je m'explique :
+  <br/>
+L'esthétique: la gravure l'emporte, car les etiquettes sont moches, c'est sans appel.
+  <br/>
+Durabilité: deuxième point pour la gravure: car même si les étiquettes sont réputées indécollables (Source: Police), il n'en reste pas moins qu'une gravure, c'est pour la vie.
+<br/>
+Effet dissuasif: un bon point pour l'étiquette. On la voit, tout le monde la voit et donc à fortiori, le voleur la voit.
+<br/>
+Là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
 
- <p>Pour faire simple:</p>
+ <p>Pour faire simple:
 
-<p>Vous êtes de passage? Votre vélo et vous c'est du court terme? Il dépanne, il vous transporte, mais ce n'est pas l'amour fou? Mettez-lui une étiquette "finger weg!". Après tout, elle ne lui ira pas si mal.</p>
+  <br/>
+
+Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, il vous transporte, mais ce n'est pas l'amour fou ? Mettez-lui une étiquette "finger weg!". Après tout, elle ne lui ira pas si mal.</p>
 
 <p align="center"><img src="/Images/codepolizei.jpg" width="300px"></p>
 
