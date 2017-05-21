@@ -34,7 +34,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
   <p> Faire marquer son vélo</p>
 
-  <li id="plan"><a href="#a">A quoi ça sert ?</a>
+  <li id="plan"><a href="#a">A quoi ça sert ?</a></li>
   <li id="plan"><a href="#b">Où et quand faire encoder son vélo : police ou ADFC ?</a></li>
   <li id="plan"><a href="#c">Comment : gravure ou étiquette ?</a></li>
   <li id="plan"><a href="#d">De quels justificatifs ai-je besoin ?</a></li> 
@@ -45,7 +45,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
   <p>Faire enregistrer son vélo</p>
 
   <li id="plan">À quoi sert l'enregistrement de son vélo ? </li>
-  <li id="plan">"L'application <i>Fahrradpass</i></li>
+  <li id="plan">L'application "Fahrradpass"</li>
 
 <h2 id="blog">Le marquage de vélo à Berlin</h2>
 
@@ -139,9 +139,10 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
     </tbody>
     </table>
 
-<p>Explications</p>
+<p>Explications
 
-<p>  
+<br/>
+<br/>  
 Sur l'esthétique la gravure l'emporte, car les etiquettes sont moches, c'est sans appel.
   <br/>
 La gravure se démarque à nouveau avec son point "durabilité" car même si les étiquettes sont réputées indécollables (source: police), il n'en reste pas moins qu'une gravure, c'est pour la vie.
@@ -150,9 +151,9 @@ L'effet dissuasif : un bon point pour l'étiquette. On la voit, tout le monde la
 <br/>
 En le prix : là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
 
- <p>Pour faire simple :</p>
-
- <p>
+ <p>Pour faire simple :
+<br/>
+<br/>
 Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, il vous transporte, mais ce n'est pas l'amour fou ? Mettez-lui une étiquette "finger weg!". Après tout, elle ne lui ira pas si mal.</p>
 
 <p align="center"><img src="/Images/codepolizei.jpg" width="300px"></p>
@@ -203,7 +204,7 @@ Etiquette Police
 <p id="h"><strong>A quoi ca sert ?</strong></p>
 <p>En cas de perte ou vol de votre vélo, vous 
 Sur cette application de la police allemande vous permet d'enregistrer les données d'un ou plusieurs vélo.</p>
-<p id="i"><strong>L'application "F"ahrradpass"</strong></p>
+<p id="i"><strong>L'application "Fahrradpass"</strong></p>
 
 </div>
 </div>
