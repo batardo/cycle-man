@@ -44,8 +44,9 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
   <p>Faire enregistrer son vélo</p>
 
-  <li id="plan">À quoi sert l'enregistrement de son vélo ? </li>
-  <li id="plan">L'application "Fahrradpass"</li>
+  <li id="plan"><a href="#h">Pourquoi faire enregistrer son vélo ? </li></a>
+  <li id="plan"><a href="#i">Faire enregistrer ou faire marquer son vélo ? </li></a>
+  <li id="plan"><a href="#j">L'application "Fahrradpass"</li></a>
 
 <h2 id="blog">Le marquage de vélo à Berlin</h2>
 
@@ -201,10 +202,14 @@ Etiquette Police
 
 <h2 id="blog">Faire enregistrer son vélo à Berlin</h2>
 
-<p id="h"><strong>A quoi ca sert ?</strong></p>
-<p>En cas de perte ou vol de votre vélo, vous 
-Sur cette application de la police allemande vous permet d'enregistrer les données d'un ou plusieurs vélo.</p>
-<p id="i"><strong>L'application "Fahrradpass"</strong></p>
+<p id="h"><strong>A quoi sert d'enregistrer son vélo ?</strong></p>
+<p>En cas de perte de votre vélo, la police pourra se mettre à le rechercher selon les informations que vous aurez bien voulu donner lors de l'enregistrement.</p>
+
+<p id="i"><strong>Faire enregistrer ou marque son vélo : quelles différences ?</strong></p>
+<p>Un vélo enregistré peut activement, rapidement et plus efficacement être recherché en cas de perte ou de vol.</p>
+
+<p id="j"><strong>L'application "Fahrradpass"</strong></p>
+<p></p>
 
 </div>
 </div>
