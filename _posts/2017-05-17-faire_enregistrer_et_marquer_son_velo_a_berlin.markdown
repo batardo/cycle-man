@@ -124,17 +124,18 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
     </tbody>
     </table>
 
-<p>Je m'explique :
-  <br/>
+<p>Explications</p>
+
+<p>  
 Sur l'esthétique la gravure l'emporte, car les etiquettes sont moches, c'est sans appel.
   <br/>
-La gravure se démarque à nouveau avec son point "durabilité" car même si les étiquettes sont réputées indécollables (Source: Police), il n'en reste pas moins qu'une gravure, c'est pour la vie.
+La gravure se démarque à nouveau avec son point "durabilité" car même si les étiquettes sont réputées indécollables (source: police), il n'en reste pas moins qu'une gravure, c'est pour la vie.
 <br/>
-L'Effet dissuasif : un bon point pour l'étiquette. On la voit, tout le monde la voit et donc à fortiori, le voleur la voit.
+L'effet dissuasif : un bon point pour l'étiquette. On la voit, tout le monde la voit et donc à fortiori, le voleur la voit.
 <br/>
-En le prix :là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
+En le prix : là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
 
- <p>Pour faire simple:
+ <p>Pour faire simple :
 
   <br/>
 
