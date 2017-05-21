@@ -126,13 +126,13 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
 <p>Je m'explique :
   <br/>
-L'esthétique: la gravure l'emporte, car les etiquettes sont moches, c'est sans appel.
+<strong>L'esthétique</strong>: la gravure l'emporte, car les etiquettes sont moches, c'est sans appel.
   <br/>
-Durabilité: deuxième point pour la gravure: car même si les étiquettes sont réputées indécollables (Source: Police), il n'en reste pas moins qu'une gravure, c'est pour la vie.
+<strong>Durabilité</strong>: deuxième point pour la gravure: car même si les étiquettes sont réputées indécollables (Source: Police), il n'en reste pas moins qu'une gravure, c'est pour la vie.
 <br/>
-Effet dissuasif: un bon point pour l'étiquette. On la voit, tout le monde la voit et donc à fortiori, le voleur la voit.
+<strong>Effet dissuasif</strong>: un bon point pour l'étiquette. On la voit, tout le monde la voit et donc à fortiori, le voleur la voit.
 <br/>
-Là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
+<strong>Prix:</strong>Là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
 
  <p>Pour faire simple:
 
