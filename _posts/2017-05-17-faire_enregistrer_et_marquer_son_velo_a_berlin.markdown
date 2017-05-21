@@ -203,7 +203,7 @@ Etiquette Police
 <p id="h"><strong>A quoi ca sert ?</strong></p>
 <p>En cas de perte ou vol de votre vélo, vous 
 Sur cette application de la police allemande vous permet d'enregistrer les données d'un ou plusieurs vélo.</p>
-<p id="i"><strong>L'application "F"ahrradpass"</p>
+<p id="i"><strong>L'application "F"ahrradpass"</strong></p>
 
 </div>
 </div>
