@@ -30,7 +30,21 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
   Ces indicateurs révèlent certes une tendance mais de reflètent pas la réalité, puisque que la majorité des vélos volés ne sont pas signalés à la police...<br/>
   Toujours selon le <i>berliner morgenpost</i> le taux d'élucidation des vols de vélo dans la ville de Berlin est de 3,5%. 
   Donc ne comptez pas dessus, vos chances de revoir votre monture sont très faibles. Alors le mieux reste de ne pas se faire voler son vélo. 
-  Oui, d'accord, mais comment faire ?</p>
+  Oui, d'accord, mais comment faire ? Deux choses sont possibiles :</p>
+
+  <p> Faire marquer son vélo</p>
+
+  <li>A quoi ça sert ?</li>
+  <li>Où et quand faire encoder son vélo : police ou ADFC ?</li>
+  <li>Comment : gravure ou étiquette ?</li>
+  <li>De quels justificatifs ai-je besoin ?</li> 
+  <li>Que faire en cas de déménagement ? </li>
+  <li>Que faire en cas de vente ?</li>
+
+  <p> Faire enregistrer son vélo</p>
+
+  <li>À quoi sert l'enregistrement de son vélo ? </li>
+  <li>L'application P</li>
 
 <h2 id="blog">Le marquage de vélo à Berlin</h2>
 
