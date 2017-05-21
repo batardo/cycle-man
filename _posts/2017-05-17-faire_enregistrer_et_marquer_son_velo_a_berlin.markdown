@@ -99,7 +99,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
       <tr>
         <td>Estethique</td>
         <td>1</td>
-        <td>0</td/>
+        <td>0</td>
         </tr>
 
         <tr>
