@@ -172,7 +172,7 @@ Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, 
 <p>Aucun problème. Pas de besoin de changer de numéro. Si l'année d'immatriculation est bien présente dans le numéro d'immatriculation, la police pourra alors avoir accès à l'ancienne adresse du propriétaire, car comme vous le savez (ou pas), il est obligatoire en Allemagne d'enregistrer son domicile auprès des autorités.</p>
 
 
-<p id="g"><strong>À quoi ressemblerait mon numéro d'immatriculation de vélo ?<strong></p>
+<p id="g"><strong>À quoi ressemblerait mon numéro d'immatriculation de vélo ?</strong></p>
 
 <p id="blog">Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police. Précisément vous devez renseigner les informations suivantes :</p>
 
