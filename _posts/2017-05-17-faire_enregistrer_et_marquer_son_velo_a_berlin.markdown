@@ -206,7 +206,7 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 <p id="j"><strong>L'application "Fahrradpass"</strong></p>
 <p>Aves cette application vous pouvez enregistrer un deux ou 10 vélos et pour chacun d'entre eux leur faire un passeport dans lequel peuvent figurer les informations suivantes:</p>
 
-<ul>
+<ul id="blogj">
 <li id="plan">Code</li>
 <li id="plan">Code du cadre</li>
 <li id="plan">Description</li>
