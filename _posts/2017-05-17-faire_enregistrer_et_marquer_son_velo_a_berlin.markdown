@@ -44,9 +44,9 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
   <p>Faire enregistrer son vélo</p>
 
-  <li id="plan"><a href="#h">Pourquoi faire enregistrer son vélo ? </li></a>
-  <li id="plan"><a href="#i">Faire enregistrer ou faire marquer son vélo ? </li></a>
-  <li id="plan"><a href="#j">L'application "Fahrradpass"</li></a>
+  <li id="plan"><a href="#h">Pourquoi faire enregistrer son vélo ?</a> </li>
+  <li id="plan"><a href="#i">Faire enregistrer ou faire marquer son vélo ?</a></li>
+  <li id="plan"><a href="#j">L'application "Fahrradpass"</a></li>
 
 <h2 id="blog">Le marquage de vélo à Berlin</h2>
 
@@ -102,7 +102,7 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
 <p id="c"><strong>Gravure ou étiquette ?</strong></p>
 
-<p>Tout dépend ce qui vous importe :</p>.
+<p>Tout dépend ce qui vous importe :</p>
 
 <table class="table" align="center">
   <thead>
@@ -157,7 +157,7 @@ En le prix : là franchement, on chipotte. Mais c'est mathématique: 9 > 0€...
 <br/>
 Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, il vous transporte, mais ce n'est pas l'amour fou ? Mettez-lui une étiquette "finger weg!". Après tout, elle ne lui ira pas si mal.</p>
 
-<p align="center"><img src="/Images/codepolizei.jpg" width="300px"></p>
+<p align="center"><img src="/Images/etiquettepolice.JPG"></p>
 
 <p>Vous et votre vélo c'est du solide. Vous avez déjà beaucoup investi dans votre relation. Entre vous c'est du durable. Gravez-moi tout ca. Les 9€ en valent la chandelle.</p>
 
@@ -192,12 +192,6 @@ Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, 
 J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au Frankfurter Allee, 77, 10247-Berlin, immatriculé en 2017. Et voici le résultat :</p>
 
 <p align="center"><img src="/Images/code.JPG"></p>
-<br/>
-Etiquette ADFC
-<p align="center"><img src="/Images/etiquetteADFC.JPG"></p>
-<br/>
-Etiquette Police
-<p align="center"><img src="/Images/etiquettepolice.JPG"></p>
 
 
 <h2 id="blog">Faire enregistrer son vélo à Berlin</h2>
@@ -206,7 +200,7 @@ Etiquette Police
 <p>En cas de perte de votre vélo, la police pourra se mettre à le rechercher grâce aux informations signalées lors de l'enregistrement. Ces mêmes informations pourront également être transmises à l'assurance.</p>
 
 <p id="i"><strong>Faire enregistrer ou marquer son vélo : quelles différences ?</strong></p>
-<p>En cas de vol, un vélo enregistré est plus facilement et plus rapidement recherché par la Police. Le marquage lui, facilite la restitution à son propriétaire mais c'est aussi une mesure de prévention contre le vol, car il rend le vélo moins attractif à voler.</p>
+<p>En cas de vol, un vélo enregistré est plus facilement et plus rapidement recherché par la police. Le marquage lui, facilite la restitution à son propriétaire mais c'est aussi une mesure de prévention contre le vol, car il rend le vélo moins attractif à voler.</p>
 
 
 <p id="j"><strong>L'application "Fahrradpass"</strong></p>
