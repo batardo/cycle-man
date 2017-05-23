@@ -204,7 +204,18 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 
 
 <p id="j"><strong>L'application "Fahrradpass"</strong></p>
-<p>Enregistrer tous ces vélos en une applications</p>
+<p>Aves cette application vous pouvez enregistrer un deux ou 10 vélos et pour chacun d'entre eux leur faire un passeport dans lequel peuvent figurer les informations suivantes:</p>
+
+<ul>
+<li id="plan">Code</li>
+<li id="plan">Code du cadre</li>
+<li id="plan">Description</li>
+<li id="plan">Photo</li>
+<li id="plan">Accessoires (Par exemple GPS)</li>
+<li id="plan">Détoriation</li>
+</ul>
+ 
+<p>En cas de perte de votre vélo, ces informations peuvent être exportée directement de l'application pour être envoyée par exemple à la police ou à votre assurance. Par ailleurs en cas de contrôle de la police vous avez toujours votre passeport avec vous.</p>
 
 </div>
 </div>
