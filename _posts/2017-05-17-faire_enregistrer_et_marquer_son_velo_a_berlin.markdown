@@ -9,7 +9,7 @@ layout: "default-fr-no-index"
 <div class="container blog" id="fahrradcodierung">
      <div class="row">
          <div class="col-xs-12">
-          <h1>Le marquage et l'enregistrement de son vélo à Berlin</h1>
+          <h1>Le marquage et l'enregistrement de son vélo en Allemagne</h1>
         </div>
       </div>
     </div>
@@ -41,6 +41,8 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
   <li id="plan"><a href="#e">Que faire en cas de déménagement ? </a></li>
   <li id="plan"><a href="#f">Que faire en cas de vente ?</a></li>
   <li id="plan"><a href="#g">A quoi ressemble mon numéro d'immatriculation ?</a></li>
+  <li id="plan"><a href="#k">Pourquoi le numéro de cadre ne suffit pas ?</a></li>
+  <li id="plan"><a href="#l">La gravure du numéro d'immatriculation peut-elle endommager mon vélo ?</a></li>
 
   <p>Faire enregistrer son vélo</p>
 
@@ -193,6 +195,16 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 
 <p align="center"><img src="/Images/code.JPG"></p>
 
+<p id="k"><strong>Pourquoi le numéro de cadre ne suffit pas ?</strong></p>
+<ul id="blogj">
+<li id="plan">Selon les fabricants un vélo peut avoir jusqu'à trois numéros de cadre à retrouver -ou pas- à des endroits différents sur le vélo.</li>
+<li id="plan">Les numéros de cadre ne sont pas toujours individuels. Selon les fabricants ils peuvent être identiques pour un lot ou une production</li>
+<li id="plan">Pas toujours facile de retrouver ce numéro rendu non visible, caché derrière un composant, ou par une couche de laque.</li>
+</ul>
+<p>Bref, pour plus de clarité, il vaut mieux avoir un numéro d'immatriculation individuel et visible</p>.
+
+<p id="l"><strong>La gravure du numéro d'immatriculation peut-elle endommager mon vélo ?</strong></p>
+<p>En Allemagne déja plus d'un million de vélso ont été marqués par la gravure sans que les dommages prédits par certains ne se soient produits. Une expertise du professeur Ernst von der Osten-Sacken de l'université d'Aix-la-Chapelle confirme qu'une gravure d'une profondeur allant jusqu'à 0,15 millimètres n'a aucune répercussion sur la stabilité d'un cadre en acier ou aluminium, information relayée sur le site de l'ADFC, une référence en Allemagne en matiére de vélo.</p>
 
 <h2 id="blog">Faire enregistrer son vélo à Berlin</h2>
 
@@ -201,14 +213,14 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 
 <p id="i"><strong>Faire enregistrer ou marquer son vélo : quelles différences ?</strong></p>
 <p>En cas de vol, un vélo enregistré est plus facilement et plus rapidement recherché par la police. Le marquage lui, facilite la restitution à son propriétaire mais c'est aussi une mesure de prévention contre le vol, car il rend le vélo moins attractif à voler.</p>
-
+<p>Il est important de préciser qu'il s'agit de deux démarches différentes qui sont totalement indépendantes l'une de l'autre. Un vélo marqué n'a pas besoin d'être enregistré et vice-versa.</p>
 
 <p id="j"><strong>L'application "Fahrradpass"</strong></p>
-<p>Aves cette application vous pouvez enregistrer un deux ou 10 vélos et pour chacun d'entre eux leur faire un passeport dans lequel peuvent figurer les informations suivantes:</p>
+<p>Aves cette application vous pouvez enregistrer un deux ou 10 vélos et pour chacun d'entre créer un passeport dans lequel sont enregistrées les informations suivantes:</p>
 
 <ul id="blogj">
 <li id="plan">Code d'immatriculation</li>
-<li id="plan">Code cadre du fabricant</li>
+<li id="plan">Numéro de cadre du fabricant</li>
 <li id="plan">Description</li>
 <li id="plan">Photo</li>
 <li id="plan">Accessoires (Par exemple GPS)</li>
@@ -216,6 +228,8 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 </ul>
  
 <p>En cas de perte de votre vélo, ces informations peuvent être exportées directement de l'application pour être envoyée par exemple à la police ou à votre assurance. Par ailleurs en cas de contrôle de la police vous avez toujours votre passeport avec vous.</p>
+
+
 
 </div>
 </div>
