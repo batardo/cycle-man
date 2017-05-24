@@ -34,13 +34,13 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
   <p> Faire marquer son vélo</p>
 
-  <li id="plan"><a href="#a">A quoi ça sert ?</a></li>
+  <li id="plan"><a href="#a">À quoi ça sert ?</a></li>
   <li id="plan"><a href="#b">Où et quand faire encoder son vélo : police ou ADFC ?</a></li>
   <li id="plan"><a href="#c">Comment : gravure ou étiquette ?</a></li>
   <li id="plan"><a href="#d">De quels justificatifs ai-je besoin ?</a></li> 
   <li id="plan"><a href="#e">Que faire en cas de déménagement ? </a></li>
   <li id="plan"><a href="#f">Que faire en cas de vente ?</a></li>
-  <li id="plan"><a href="#g">A quoi ressemble mon numéro d'immatriculation ?</a></li>
+  <li id="plan"><a href="#g">À quoi ressemble mon numéro d'immatriculation ?</a></li>
   <li id="plan"><a href="#k">Pourquoi le numéro de cadre ne suffit pas ?</a></li>
   <li id="plan"><a href="#l">La gravure du numéro d'immatriculation peut-elle endommager mon vélo ?</a></li>
 
@@ -176,7 +176,7 @@ Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, 
 <p>Aucun problème. Pas de besoin de changer de numéro. Si l'année d'immatriculation est bien présente dans le numéro d'immatriculation, la police pourra alors avoir accès à l'ancienne adresse du propriétaire, car comme vous le savez (ou pas), il est obligatoire en Allemagne d'enregistrer son domicile auprès des autorités.</p>
 
 
-<p id="g"><strong>À quoi ressemblerait mon numéro d'immatriculation de vélo ?</strong></p>
+<p id="g"><strong>À quoi ressemble mon numéro d'immatriculation de vélo ?</strong></p>
 
 <p id="blog">Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police. Précisément vous devez renseigner les informations suivantes :</p>
 
@@ -193,18 +193,18 @@ Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, 
 <p id="blog">Si vous souhaitez voir à quoi ressemblerait votre numéro d'immatriculation, l'ADFC a mis en place un <a href="http://www.fa-technik.adfc.de/Codierung/fein.pl" target="_blank">générateur de code</a>. <br/>
 J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au Frankfurter Allee, 77, 10247-Berlin, immatriculé en 2017. Et voici le résultat :</p>
 
-<p align="center"><img src="/Images/code.JPG"></p>
+<p align="center"><img src="/Images/code.JPG" width="400px"></p>
 
 <p id="k"><strong>Pourquoi le numéro de cadre ne suffit pas ?</strong></p>
 <ul id="blogj">
 <li id="plan">Selon les fabricants un vélo peut avoir jusqu'à trois numéros de cadre à retrouver -ou pas- à des endroits différents sur le vélo.</li>
-<li id="plan">Les numéros de cadre ne sont pas toujours individuels. Selon les fabricants ils peuvent être identiques pour un lot ou une production</li>
+<li id="plan">Les numéros de cadre ne sont pas toujours individuels. Selon les fabricants ils peuvent être identiques à une même production.</li>
 <li id="plan">Pas toujours facile de retrouver ce numéro rendu non visible, caché derrière un composant, ou par une couche de laque.</li>
 </ul>
-<p>Bref, pour plus de clarité, il vaut mieux avoir un numéro d'immatriculation individuel et visible</p>.
+<p>Bref, si vous voulez donner un maximum de chance à votre vélo d'être identifié, il vaut mieux avoir un numéro d'immatriculation individuel et visible.</p>.
 
 <p id="l"><strong>La gravure du numéro d'immatriculation peut-elle endommager mon vélo ?</strong></p>
-<p>En Allemagne déja plus d'un million de vélso ont été marqués par la gravure sans que les dommages prédits par certains ne se soient produits. Une expertise du professeur Ernst von der Osten-Sacken de l'université d'Aix-la-Chapelle confirme qu'une gravure d'une profondeur allant jusqu'à 0,15 millimètres n'a aucune répercussion sur la stabilité d'un cadre en acier ou aluminium, information relayée sur le site de l'ADFC, une référence en Allemagne en matiére de vélo.</p>
+<p>En Allemagne déja plus d'un million de vélso ont été marqués par la gravure sans que les dommages prédits par certains ne se soient produits. Une étude du professeur Ernst von der Osten-Sacken de l'université d'Aix-la-Chapelle confirme qu'une gravure d'une profondeur allant jusqu'à 0,15 millimètres n'a aucune répercussion sur la stabilité d'un cadre en acier ou aluminium, information relayée sur le site de l'ADFC, une référence en Allemagne en matiére de vélo.</p>
 
 <h2 id="blog">Faire enregistrer son vélo à Berlin</h2>
 
@@ -216,7 +216,7 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 <p>Il est important de préciser qu'il s'agit de deux démarches différentes qui sont totalement indépendantes l'une de l'autre. Un vélo marqué n'a pas besoin d'être enregistré et vice-versa.</p>
 
 <p id="j"><strong>L'application "Fahrradpass"</strong></p>
-<p>Aves cette application vous pouvez enregistrer un deux ou 10 vélos et pour chacun d'entre créer un passeport dans lequel sont enregistrées les informations suivantes:</p>
+<p>Aves cette application vous pouvez tranquilement depuis chez vous enregistrer un deux ou 10 vélos et pour chacun d'entre créer un passeport dans lequel sont enregistrées les informations suivantes:</p>
 
 <ul id="blogj">
 <li id="plan">Code d'immatriculation</li>
@@ -228,7 +228,6 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 </ul>
  
 <p>En cas de perte de votre vélo, ces informations peuvent être exportées directement de l'application pour être envoyée par exemple à la police ou à votre assurance. Par ailleurs en cas de contrôle de la police vous avez toujours votre passeport avec vous.</p>
-
 
 
 </div>
