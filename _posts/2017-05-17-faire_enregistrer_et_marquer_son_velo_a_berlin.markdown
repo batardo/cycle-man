@@ -1,6 +1,6 @@
 ---
-title : "Faire marquer et enregistrer son vélo à Berlin" 
-description: "Marquage de vélo, enregistrement, géolocalisation : tous les moyens sont bons pour se protéger contre le vol de vélo à Berlin."
+title : "Faire marquer et enregistrer son vélo en Allemagne" 
+description: "Prévenir et guérir : contre le vol de vélo tous les moyens sont bons, surtout le marquage et l'enregistrement de son être cher."
 lang: fr
 category: blog
 layout: "default-fr-no-index"
