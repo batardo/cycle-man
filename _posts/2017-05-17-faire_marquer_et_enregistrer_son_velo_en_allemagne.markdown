@@ -20,13 +20,12 @@ layout: "default-fr-no-index"
   <div class="row vcenter">      
     <div class="col-xs-12">
 
-<p id="blog">À Berlin comme dans le reste de l'Allemagne, le marquage de vélo est gratuit. Pour cela il suffit de se rendre dans son bureau de police de quartier
-aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais avant de rentrer plus en détail, remettons les choses dans leur contexte.</p>
+<p id="blog">En Allemagne, le marquage de vélo est gratuit. Pour cela il suffit par exemple de se rendre dans son bureau de police de quartier aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais avant de rentrer plus en détail, remettons les choses dans leur contexte.</p>
 
 
 <h2 id="blog">Les vols de vélo en Allemagne</h2>
 
-<p>Quelques chiffres en comparaison avec la France</p>
+<p><strong>Quelques chiffres en comparaison avec la France</strong></p>
 
 <table class="table" align="center">
   <thead>
@@ -34,8 +33,8 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
         <th></th>
         <th>France</th>
         <th>Allemagne</th>
-        <th>Source, Date - FR</th>
-        <th>Source, Date - DE</th>
+        <th>Source (fr)</th>
+        <th>Source (de)</th>
         </tr>
       </thead>
       
@@ -64,16 +63,24 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 
         <tr>
         <td>Taux d'élucidation</td>
-        <td>9%</td>
         <td>3%</td>
+        <td>9%</td>
         <td>Ministère de l'intérieur, 2015</td>
         <td>Bundesministerium des Innern, 2016</td>
+        </tr>
+
+        <tr>
+        <td>Nombre de vélo marqués</td>
+        <td>240 000</td>
+        <td>1 000 000</td>
+        <td>Ministère de l'intérieur, 2016</td>
+        <td>ADFC, 2016</td>
         </tr>
 
       </tbody>
     </table>
 
-<p>Le vol de vélo, une super tendance, surtout à Berlin</p>
+<p><strong>Le vol de vélo, une super tendance, surtout à Berlin</strong></p>
 
   <p id="blog">Selon le <i>berliner morgenpost</i> quelques 34 000 vélos ont été déclarés volés à Berlin en 2016, soit un peu moins de 4 vélos volés par heure. 
   La tendance est à la hausse. On note une constante augmentation, +70% par rapport à 2010 où "seulement" 20.000 vélos avaient été volés. 
@@ -81,13 +88,12 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
   <br/>
   <br/>
   Toujours selon le <i>berliner morgenpost</i> le taux d'élucidation des vols de vélo dans la ville de Berlin est de 3,5%. 
-  Donc ne comptez pas dessus, vos chances de revoir votre monture sont très faibles. Alors le mieux reste de ne pas se faire voler son vélo. 
-  Oui, d'accord, mais comment faire ? Deux choses sont possibles :</p>
+  Donc ne comptez pas dessus, vos chances de revoir votre monture sont très faibles. Alors le mieux reste de ne pas se faire voler son vélo. Alors il te reste deux choses à faire :
 
   <p> Faire marquer son vélo</p>
 
   <li id="plan"><a href="#a">À quoi ça sert ?</a></li>
-  <li id="plan"><a href="#b">Où et quand faire encoder son vélo : police ou ADFC ?</a></li>
+  <li id="plan"><a href="#b">Où et quand faire encoder son vélo à Berlin : police ou ADFC ?</a></li>
   <li id="plan"><a href="#c">Comment : gravure ou étiquette ?</a></li>
   <li id="plan"><a href="#d">De quels justificatifs ai-je besoin ?</a></li> 
   <li id="plan"><a href="#e">Que faire en cas de déménagement ? </a></li>
@@ -107,8 +113,8 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
 <p id="a"><strong>Pourquoi faire marquer son vélo, à quoi ça sert ?</strong></p>
   
   <ul id="blogj">
-  <li id="blogj">Tout d'abord si votre vélo est retrouvé, il pourra plus facilement vous être restitué</li> <li id="blogj">Ensuite, un vélo marqué avec un code est très difficile à revendre, car l'acquéreur pourra voir que les initiales visibles dans le code ne correspondent pas avec 
-  l'identité du vendeur. Qui dit difficile à vendre, dit inintéressant à voler.</li>
+  <li id="blogj">Chaque année la police retrouve des vélos sans pouvoir les identifier. En France par exemple, sur les 150 000 vélos retrouvés chaque année, seuls 3% sont restitués ! Alors fais marquer ton vélo, il pourra plus facilement t'être restitué.</li> 
+  <li id="blogj">Ensuite, un vélo marqué est plus difficile à revendre, cela dissuade donc de le voler.</li>
    </ul>
 
 <p id="b"><strong>Où et quand faire marquer son vélo à Berlin ?</strong></p>
