@@ -154,7 +154,7 @@ ref: marquagevelo
       <tr>
         <td>Methode</td>
         <td>Aufkleber</td>
-        <td>Gravur bis 0,2 mm/td>
+        <td>Gravur bis 0,2 mm</td>
       </tr>
     </tbody>
     </table>
