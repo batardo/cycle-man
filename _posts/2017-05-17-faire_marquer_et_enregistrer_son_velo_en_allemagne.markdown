@@ -51,6 +51,8 @@ layout: "default-fr-no-index"
         <td>Vélos par habitant</td>
         <td>4,6 pour 10 habitants</td>
         <td>8,9 pour 10 habitants </td>
+        <td></td>
+        <td></td>
         </tr>
 
         <tr>
@@ -88,7 +90,7 @@ layout: "default-fr-no-index"
   <br/>
   <br/>
   Toujours selon le <i>berliner morgenpost</i> le taux d'élucidation des vols de vélo dans la ville de Berlin est de 3,5%. 
-  Donc ne comptez pas dessus, vos chances de revoir votre monture sont très faibles. Alors le mieux reste de ne pas se faire voler son vélo. Alors il te reste deux choses à faire :
+  Donc ne comptez pas dessus, vos chances de revoir votre monture sont très faibles. Alors le mieux reste de ne pas se faire voler son vélo. Alors il te reste deux choses à faire :</p>
 
   <p> Faire marquer son vélo</p>
 
