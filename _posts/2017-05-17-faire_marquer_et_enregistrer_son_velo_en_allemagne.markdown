@@ -298,7 +298,7 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 </div>
 
  <div class="col-xs-6">
-<p align="center"><a href='https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Disponible sur Google Play' width="135px" height="40px" src='https://play.google.com/intl/en_us/badges/images/generic/fr_badge_web_generic.png'/></a></p>
+<p align="center"><a href='https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Disponible sur Google Play' width="135px" height="40px" src='/Images/qq.png'/></a></p>
 </div>
 </div>
 </div>
