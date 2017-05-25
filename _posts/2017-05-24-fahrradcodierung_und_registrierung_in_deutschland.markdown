@@ -110,7 +110,7 @@ ref: marquagevelo
  
 <h2 id="blog">#Codiere Dein Fahrrad</h2>
  
-<p id="a"><strong>warum sollte ich mein Fahrrad codieren lassen ?</strong></p>
+<p id="a"><strong>Warum sollte ich mein Fahrrad codieren lassen ?</strong></p>
  
   <ul id="blogj">
   <li id="blogj">Es werden jährlich gestohlene Fahrräder gefunden, aber nicht identifiziert ! Lass doch Dein Fahrrad codieren, so gehst du sicher, dass es Dir zurück gegeben wird.</li>
