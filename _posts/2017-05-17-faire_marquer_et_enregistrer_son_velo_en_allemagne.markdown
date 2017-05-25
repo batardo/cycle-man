@@ -294,11 +294,11 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 
 <div class="row">
   <div class="col-xs-6">
-<a href="https://itunes.apple.com/de/app/fahrradpass/id438072942" target="_blank"><img src="/Images/kk.svg" alt="telecharger fahrradpass pour ios"></a>
+<p align="center"><a href="https://itunes.apple.com/de/app/fahrradpass/id438072942" target="_blank"><img src="/Images/kk.svg" alt="telecharger fahrradpass pour ios"></a></p>
 </div>
 
  <div class="col-xs-6">
-<a href='https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Disponible sur Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/fr_badge_web_generic.png'/></a>
+<p align="center"><a href='https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Disponible sur Google Play' width="135px" height="40px" src='https://play.google.com/intl/en_us/badges/images/generic/fr_badge_web_generic.png'/></a></p>
 </div>
 </div>
 </div>
