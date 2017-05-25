@@ -3,7 +3,7 @@ title : "Faire marquer et enregistrer son vélo en Allemagne"
 description: "Prévenir et guérir : contre le vol de vélo tous les moyens sont bons, surtout le marquage et l'enregistrement."
 lang: fr
 category: blog
-layout: "default-fr-no-index"
+layout: "default-fr"
 ---
 
 <div class="container blog" id="fahrradcodierung">
