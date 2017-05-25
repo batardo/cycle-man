@@ -292,7 +292,7 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 
 <div class="row">
   <div class="col-xs-6">
-<a href="https://itunes.apple.com/de/app/fahrradpass/id438072942" target="_blank"><img src="Images/Download_on_the_App_Store_Badge_FR_135x40.svg" alt="telecharger fahrradpass pour ios"></a>
+<a href="https://itunes.apple.com/de/app/fahrradpass/id438072942" target="_blank"><img src="Images/kk.svg" alt="telecharger fahrradpass pour ios"></a>
 </div>
 
  <div class="col-xs-6">
