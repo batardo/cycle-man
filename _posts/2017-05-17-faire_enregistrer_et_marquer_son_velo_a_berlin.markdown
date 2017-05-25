@@ -23,11 +23,63 @@ layout: "default-fr-no-index"
 <p id="blog">À Berlin comme dans le reste de l'Allemagne, le marquage de vélo est gratuit. Pour cela il suffit de se rendre dans son bureau de police de quartier
 aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais avant de rentrer plus en détail, remettons les choses dans leur contexte.</p>
 
-<h2 id="blog">Le vols de vélo à Berlin en quelques chiffres</h2>
+
+<h2 id="blog">Les vols de vélo en Allemagne</h2>
+
+<p>Quelques chiffres en comparaison avec la France</p>
+
+<table class="table" align="center">
+  <thead>
+      <tr>
+        <th></th>
+        <th>France</th>
+        <th>Allemagne</th>
+        <th>Source, Date - FR</th>
+        <th>Source, Date - DE</th>
+        </tr>
+      </thead>
+      
+      <tbody>
+      <tr>
+        <td>Nombre de vélos</td>
+        <td>26 000 000</td>
+        <td>71 000 000</td>
+        <td>communes.com, 2012</td>
+        <td>ZIV, 2016</td>
+      </tr>
+
+        <tr>
+        <td>Vélos par habitant</td>
+        <td>4,6 pour 10 habitants</td>
+        <td>8,9 pour 10 habitants </td>
+        </tr>
+
+        <tr>
+        <td>Nombre de vélos volés</td>
+        <td>303.000</td>
+        <td>332.000</td>
+        <td>Ministère de l'intérieur, 2015</td>
+        <td>Bundesministerium des Innern, 2016</td>
+        </tr>
+
+        <tr>
+        <td>Taux d'élucidation</td>
+        <td>9%</td>
+        <td>3%</td>
+        <td>Ministère de l'intérieur, 2015</td>
+        <td>Bundesministerium des Innern, 2016</td>
+        </tr>
+
+      </tbody>
+    </table>
+
+<p>Le vol de vélo, une super tendance, surtout à Berlin</p>
 
   <p id="blog">Selon le <i>berliner morgenpost</i> quelques 34 000 vélos ont été déclarés volés à Berlin en 2016, soit un peu moins de 4 vélos volés par heure. 
   La tendance est à la hausse. On note une constante augmentation, +70% par rapport à 2010 où "seulement" 20.000 vélos avaient été volés. 
-  Ces indicateurs révèlent certes une tendance mais de reflètent pas la réalité, puisque que la majorité des vélos volés ne sont pas signalés à la police...<br/>
+  Ces indicateurs révèlent certes une tendance mais de reflètent pas la réalité, puisque que la majorité des vélos volés ne sont pas signalés à la police...
+  <br/>
+  <br/>
   Toujours selon le <i>berliner morgenpost</i> le taux d'élucidation des vols de vélo dans la ville de Berlin est de 3,5%. 
   Donc ne comptez pas dessus, vos chances de revoir votre monture sont très faibles. Alors le mieux reste de ne pas se faire voler son vélo. 
   Oui, d'accord, mais comment faire ? Deux choses sont possibles :</p>
@@ -50,9 +102,9 @@ aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais ava
   <li id="plan"><a href="#i">Faire enregistrer ou faire marquer son vélo ?</a></li>
   <li id="plan"><a href="#j">L'application "Fahrradpass"</a></li>
 
-<h2 id="blog">Le marquage de vélo à Berlin</h2>
+<h2 id="blog">#Fais marquer ton vélo</h2>
 
-<p id="a"><strong>Pourquoi faire encoder son vélo, à quoi ça sert ?</strong></p>
+<p id="a"><strong>Pourquoi faire marquer son vélo, à quoi ça sert ?</strong></p>
   
   <ul id="blogj">
   <li id="blogj">Tout d'abord si votre vélo est retrouvé, il pourra plus facilement vous être restitué</li> <li id="blogj">Ensuite, un vélo marqué avec un code est très difficile à revendre, car l'acquéreur pourra voir que les initiales visibles dans le code ne correspondent pas avec 
@@ -206,7 +258,7 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 <p id="l"><strong>La gravure du numéro d'immatriculation peut-elle endommager mon vélo ?</strong></p>
 <p>En Allemagne déja plus d'un million de vélso ont été marqués par la gravure sans que les dommages prédits par certains ne se soient produits. Une étude du professeur Ernst von der Osten-Sacken de l'université d'Aix-la-Chapelle confirme qu'une gravure d'une profondeur allant jusqu'à 0,15 millimètres n'a aucune répercussion sur la stabilité d'un cadre en acier ou aluminium, information relayée sur le site de l'ADFC, une référence en Allemagne en matiére de vélo.</p>
 
-<h2 id="blog">Faire enregistrer son vélo à Berlin</h2>
+<h2 id="blog">Faire enregistrer son vélo</h2>
 
 <p id="h"><strong>A quoi sert d'enregistrer son vélo ?</strong></p>
 <p>En cas de perte de votre vélo, la police pourra se mettre à le rechercher grâce aux informations signalées lors de l'enregistrement. Ces mêmes informations pourront également être transmises à l'assurance.</p>
