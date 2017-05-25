@@ -4,6 +4,7 @@ description: "Prévenir et guérir : contre le vol de vélo tous les moyens sont
 lang: fr
 category: blog
 layout: "default-fr"
+ref: marquagevelo
 ---
 
 <div class="container blog" id="fahrradcodierung">
