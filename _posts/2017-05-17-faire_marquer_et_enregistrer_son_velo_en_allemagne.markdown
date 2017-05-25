@@ -114,7 +114,7 @@ layout: "default-fr-no-index"
   
   <ul id="blogj">
   <li id="blogj">Chaque année la police retrouve des vélos sans pouvoir les identifier. En France par exemple, sur les 150 000 vélos retrouvés chaque année, seuls 3% sont restitués ! Alors fais marquer ton vélo, il pourra plus facilement t'être restitué.</li> 
-  <li id="blogj">Ensuite, un vélo marqué est plus difficile à revendre, cela dissuade donc de le voler.</li>
+  <li id="blogj">Un vélo marqué est plus difficile à revendre, donc moins intéressant à voler.</li>
    </ul>
 
 <p id="b"><strong>Où et quand faire marquer son vélo à Berlin ?</strong></p>
@@ -206,20 +206,20 @@ layout: "default-fr-no-index"
 <br/>  
 Sur l'esthétique la gravure l'emporte, car les etiquettes sont moches, c'est sans appel.
   <br/>
-La gravure se démarque à nouveau avec son point "durabilité" car même si les étiquettes sont réputées indécollables (source: police), il n'en reste pas moins qu'une gravure, c'est pour la vie.
+Durabilité: même si les étiquettes sont réputées indécollables (source: police), il n'en reste pas moins qu'une gravure, c'est pour la vie.
 <br/>
 L'effet dissuasif : un bon point pour l'étiquette. On la voit, tout le monde la voit et donc à fortiori, le voleur la voit.
 <br/>
-En le prix : là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
+Le prix : là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'étiquette égalise. </p>
 
  <p>Pour faire simple :
 <br/>
 <br/>
-Vous êtes de passage ? Votre vélo et vous c'est du court terme ? Il dépanne, il vous transporte, mais ce n'est pas l'amour fou ? Mettez-lui une étiquette "finger weg!". Après tout, elle ne lui ira pas si mal.</p>
+Tu es de passage ? Ton vélo et toi c'est du court terme ? Il dépanne, il te transporte, mais ce n'est pas l'amour fou ? Mets-lui une étiquette "finger weg!". Après tout, elle ne lui ira pas si mal.</p>
 
 <p align="center"><img src="/Images/etiquettepolice.JPG"></p>
 
-<p>Vous et votre vélo c'est du solide. Vous avez déjà beaucoup investi dans votre relation. Entre vous c'est du durable. Gravez-moi tout ca. Les 9€ en valent la chandelle.</p>
+<p>Toi et ton vélo c'est du solide. Tu as déjà beaucoup investi dans votre relation. Entre vous c'est du durable. Grave-moi tout ca. Les 9€ en valent la chandelle.</p>
 
 <p align="center"><img src="/Images/codegravur.png" width="300px"></p>
 
@@ -285,9 +285,18 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 <li id="plan">Détoriation</li>
 </ul>
  
-<p>En cas de perte de votre vélo, ces informations peuvent être exportées directement de l'application pour être envoyée par exemple à la police ou à votre assurance. Par ailleurs en cas de contrôle de la police vous avez toujours votre passeport avec vous.</p>
+<p>En cas de perte de votre vélo, ces informations peuvent être exportées directement de l'application pour être envoyée par exemple à la police ou à votre assurance. Par ailleurs en cas de contrôle de la police vous avez toujours votre passeport avec vous. L'application est téléchargeable pour les smartphones iOS et Android</p>
 
+</div>
+</div>
 
+<div class="row">
+  <div class="col-xs-6">
+<a href="https://itunes.apple.com/de/app/fahrradpass/id438072942" target="_blank"><img src="Images/Download_on_the_App_Store_Badge_FR_135x40.svg" alt="telecharger fahrradpass pour ios"></a>
+</div>
+
+ <div class="col-xs-6">
+<a href='https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Disponible sur Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/fr_badge_web_generic.png'/></a>
 </div>
 </div>
 </div>
