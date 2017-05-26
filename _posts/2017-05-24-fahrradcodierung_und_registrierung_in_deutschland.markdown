@@ -108,7 +108,7 @@ ref: marquagevelo
   <li id="plan"><a href="#i">Registrieren oder Codieren lassen, welcher Unterschied ?</a></li>
   <li id="plan"><a href="#j">Die App Fahrradpass</a></li>
  
-<h2 id="blog">#Codiere Dein Fahrrad</h2>
+<h2 id="blog">Codiere Dein Fahrrad</h2>
  
 <p id="a"><strong>Warum sollte ich mein Fahrrad codieren lassen ?</strong></p>
  
