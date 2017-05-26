@@ -82,7 +82,7 @@ layout: default-de
       </tbody>
     </table>
  
-<p><strong>Fahrraddiebstahl : der neue Trend in Berlin</strong></p>
+  <p><strong>Fahrraddiebstahl : der neue Trend in Berlin</strong></p>
  
   <p id="blog">Laut der Zeitschrifft <i>berliner morgenpost</i> wurden 2016 um die 34.000 Fahrräder in der Hauptstadt geklaut, etwa 4 Fahrräder pro Stunde im Schnitt. Der Trend geht nach oben. Die Anzahl an gestohlenen Fahrrädern ist um +70% im Vergleich zu 2010 gestiegen.
   <br/>
@@ -90,7 +90,8 @@ layout: default-de
   Laut der gleichen Quelle liegt die Auflösungsquote in Berlin bei 3,5%. Damit sind die Chancen deines geliebten wieder zu sehen sehr niedrig. Du solltest lieber schauen, was du gegen Fahrraddiebstahl machen kannst. Gute Nachricht: auf dieser Seite bist du richtig. Hier erfährst du alles über Fahrradcodierung und Registrierung :</p>
  
   <p>Fahrrad codieren lassen</p>
- 
+
+  <ul id="blogj">
   <li id="plan"><a href="#a">Warum sollte ich meine Fahrrad codieren lassen ?</a></li>
   <li id="plan"><a href="#b">Wo und wann mein Fahrrad in Berlin codieren lassen : Polizei oder ADFC ?</a></li>
   <li id="plan"><a href="#c">Welche Methode : Gravur oder Aufkleber?</a></li>
@@ -100,12 +101,15 @@ layout: default-de
   <li id="plan"><a href="#g">Wie setzt sich meine Codiernummer zusammen?</a></li>
   <li id="plan"><a href="#k">Reicht einfach die Rahmnummer aus?</a></li>
   <li id="plan"><a href="#l">Kann die Gravur meinen Rahmen beschädigen?</a></li>
+  </ul>
  
   <p>Fahrrad registrieren</p>
  
+  <ul id="blogj">
   <li id="plan"><a href="#h">Wofür?</a> </li>
   <li id="plan"><a href="#i">Registrieren oder Codieren lassen, welcher Unterschied ?</a></li>
   <li id="plan"><a href="#j">Die App Fahrradpass</a></li>
+  </ul id="blogj">
  
 <h2 id="blog">#Codiere Dein Fahrrad</h2>
  
