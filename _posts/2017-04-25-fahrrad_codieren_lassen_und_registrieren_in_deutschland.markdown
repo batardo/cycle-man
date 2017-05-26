@@ -1,5 +1,5 @@
 ---
-title : "Fahrradcordierung und Registrierung in Deutschland"
+title : "Fahrradcodierung und Registrierung in Deutschland"
 description: "Fahrrad codieren oder registrieren lassen : gegen Fahrraddiebstähle sind alle Mittel erlaubt."
 lang: de
 ref: marquagevelo
