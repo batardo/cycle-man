@@ -108,7 +108,7 @@ ref: marquagevelo
   <li id="plan"><a href="#i">Registrieren oder Codieren lassen, welcher Unterschied ?</a></li>
   <li id="plan"><a href="#j">Die App Fahrradpass</a></li>
  
-<h2 id="blog">Codiere Dein Fahrrad</h2>
+<h2 id="blog">#Codiere Dein Fahrrad</h2>
  
 <p id="a"><strong>Warum sollte ich mein Fahrrad codieren lassen ?</strong></p>
  
@@ -263,7 +263,7 @@ Ich habe mal für unseren Freund Jean-jacques Prévert, Frankfurter Allee, 77, 1
 <p id="l"><strong>Kann die Gravur meiner Codiernummer meinen Rahmen beschädigen</strong></p>
 <p>Nein. Es wurden mittlerweile in Deutschland über ein Million Fahrräder codiert, ohne dass Unfälle eintreten sind. Ein Gutachten des Professoren E. v. d. Osten-Sacken der TH von Aachen bestätigt, dass die Gravur bis zu 0,15 mm keine Auswirkung auf die Stabilität eines Alu oder Stahlrahmen haben kann.</p>
  
-<h2 id="blog">Fahrrad registrieren/h2>
+<h2 id="blog">Fahrrad registrieren</h2>
  
 <p id="h"><strong>Warum sollte ich mein Fahrrad registrieren?</strong></p>
 <p>Sollte Dein Fahrrad gestohlen werden, so kann die Polizei schneller und einfacher Dein Fahrrad suchen. Die Daten die der Polizei übermittelt können auch für deine Versicherung verwendet werden, falls Du eine hast.</p>
