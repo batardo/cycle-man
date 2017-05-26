@@ -4,7 +4,6 @@ description: "Fahrrad codieren oder registrieren lassen : gegen Fahrraddiebstäh
 lang: de
 category: blog
 layout: "default-de"
-ref: marquagevelo
 ---
  
 <div class="container blog" id="fahrradcodierung">
