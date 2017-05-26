@@ -265,7 +265,7 @@ Ich habe mal für unseren Freund Jean-jacques Prévert, Frankfurter Allee, 77, 1
 <p id="l"><strong>Kann die Gravur meiner Codiernummer meinen Rahmen beschädigen</strong></p>
 <p>Nein. Es wurden mittlerweile in Deutschland über ein Million Fahrräder codiert, ohne dass Unfälle eintreten sind. Ein Gutachten des Professoren E. v. d. Osten-Sacken der TH von Aachen bestätigt, dass die Gravur bis zu 0,15 mm keine Auswirkung auf die Stabilität eines Alu oder Stahlrahmen haben kann.</p>
 
-<p id="m"><strong>Fahrrad codiern lassen in Frankreich</strong></p>
+<p id="m"><strong>Fahrrad codieren lassen in Frankreich</strong></p>
 <p>Eckdaten im Vergleich zu Deutschland</p>
 
 <table class="table" align="center">
@@ -289,7 +289,7 @@ Ich habe mal für unseren Freund Jean-jacques Prévert, Frankfurter Allee, 77, 1
 <td>Wer</td>
 <td>130 Geschäfte
 <br/>
-Siehe die<a href="https://www.bicycode.org/le-bicycode.rub-2/ou-faire-marquer-son-velo.rub-11/" target="_blank">Liste</a> 
+Siehe die <a href="https://www.bicycode.org/le-bicycode.rub-2/ou-faire-marquer-son-velo.rub-11/" target="_blank">Liste</a> 
 </td>
 <td>Die Polizei
 <br/>
