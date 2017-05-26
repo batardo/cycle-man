@@ -102,6 +102,7 @@ layout: default-de
   <li id="plan"><a href="#g">Wie setzt sich meine Codiernummer zusammen?</a></li>
   <li id="plan"><a href="#k">Reicht einfach die Rahmennummer aus?</a></li>
   <li id="plan"><a href="#l">Kann die Gravur meinen Rahmen beschädigen?</a></li>
+  <li id="plan"><a href="#m">Fahrradcodierung in Deutschland</a></li>
  
   <p>Fahrrad registrieren</p>
  
@@ -263,6 +264,64 @@ Ich habe mal für unseren Freund Jean-jacques Prévert, Frankfurter Allee, 77, 1
  
 <p id="l"><strong>Kann die Gravur meiner Codiernummer meinen Rahmen beschädigen</strong></p>
 <p>Nein. Es wurden mittlerweile in Deutschland über ein Million Fahrräder codiert, ohne dass Unfälle eintreten sind. Ein Gutachten des Professoren E. v. d. Osten-Sacken der TH von Aachen bestätigt, dass die Gravur bis zu 0,15 mm keine Auswirkung auf die Stabilität eines Alu oder Stahlrahmen haben kann.</p>
+
+<p id="m"><strong>Fahrrad codiern lassen in Frankreich</strong></p>
+<p>Eckdaten im Vergleich zu Deutschland</p>
+
+<table class="table" align="center">
+  <thead>
+      <tr>
+        <th></th>
+        <th>Frankreich</th>
+        <th>Deutschland</th>
+        </tr>
+      </thead>
+
+<tbody>
+
+<tr>
+<td>Codiernummer</td>
+<td>BICYCODE</td>
+<td>EIN Nummer</td>
+</tr>
+
+<tr>
+<td>Wer</td>
+<td>130 Geschäfte
+<br/>
+Siehe die<a href="https://www.bicycode.org/le-bicycode.rub-2/ou-faire-marquer-son-velo.rub-11/" target="_blank">Liste</a> 
+</td>
+<td>Die Polizei
+<br/>
+ADFC
+<br/>
+Manche Händler
+</td>
+</tr>
+
+<tr>
+<td>Preis</td>
+<td>Zwischen 5€ und 10€</td>
+<td>Zwischen 0€ und 9€</td>
+</tr>
+
+<tr>
+<td>Methode</td>
+<td>Gravur</td>
+<td>Gravur und Aufkleber</td>
+</tr>
+
+<tr>
+<td>Anzahl codierte Fahrräder</td>
+<td>220.000</td>
+<td>Mehr als 1 million</td>
+</tr>
+
+</tbody>
+</table>
+
+<p>Dass die Anzahl an codierten Fahrrädern in Deutschland deutlich höher als in Frankreich ist, ist gar nicht so verwunderlich : günstiger und zugänglicher. Außerdem hat die ADFC in Deutschland früher mit der Fahrradcodierung angefangen.</p>
+
  
 <h2 id="blog">Fahrrad registrieren</h2>
  
