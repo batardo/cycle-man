@@ -51,8 +51,8 @@ layout: default-de
  
         <tr>
         <td>Fahrrad pro Einwohner</td>
-        <td>4,6 pour 10 habitants</td>
-        <td>8,9 pour 10 habitants </td>
+        <td>4,6 für 10 Einwohner</td>
+        <td>8,9 für 10 Einwohner</td>
         <td></td>
         <td></td>
         </tr>
@@ -100,7 +100,7 @@ layout: default-de
   <li id="plan"><a href="#e">Was passiert wenn ich umziehe? </a></li>
   <li id="plan"><a href="#f">Kann ich ein codiertes Fahrrad verkaufen?</a></li>
   <li id="plan"><a href="#g">Wie setzt sich meine Codiernummer zusammen?</a></li>
-  <li id="plan"><a href="#k">Reicht einfach die Rahmnummer aus?</a></li>
+  <li id="plan"><a href="#k">Reicht einfach die Rahmennummer aus?</a></li>
   <li id="plan"><a href="#l">Kann die Gravur meinen Rahmen beschädigen?</a></li>
  
   <p>Fahrrad registrieren</p>
@@ -216,7 +216,7 @@ Der Preis : gut, beide kosten nicht die Welt, aber trotzdem  0€ < 9€ = Aufkl
  <p>FAZIT:
 <br/>
 <br/>
-Wenn Dein Fahrrad eine vorübergehende Lösung ist, dann nimm doch den Aufkleber. Ist zwar hässlich, aber wer weiss, vielleicht passt er zu deinem Rad ?</p>
+Wenn Dein Fahrrad eine vorübergehende Lösung ist, dann nimm doch den Aufkleber. Ist zwar hässlich, aber wer weiß, vielleicht passt er zu deinem Rad ?</p>
  
 <p align="center"><img src="/Images/etiquettepolice.JPG"></p>
  
@@ -281,7 +281,7 @@ Ich habe mal für unseren Freund Jean-jacques Prévert, Frankfurter Allee, 77, 1
 <li id="plan">Rahmennummer</li>
 <li id="plan">Beschreibung</li>
 <li id="plan">Foto</li>
-<li id="plan">Zunehöre (z.B Navi)</li>
+<li id="plan">Zubehöre (z.B Navi)</li>
 <li id="plan">Schaden</li>
 </ul>
  
