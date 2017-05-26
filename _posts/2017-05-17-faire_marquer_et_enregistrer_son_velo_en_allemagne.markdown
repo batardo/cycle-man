@@ -104,6 +104,8 @@ ref: marquagevelo
   <li id="plan"><a href="#g">À quoi ressemble mon numéro d'immatriculation ?</a></li>
   <li id="plan"><a href="#k">Pourquoi le numéro de cadre ne suffit pas ?</a></li>
   <li id="plan"><a href="#l">La gravure du numéro d'immatriculation peut-elle endommager mon vélo ?</a></li>
+  <li id="plan"><a href="#m">Le marquage de vélo en France</a></li>
+
 
   <p>Faire enregistrer son vélo</p>
 
@@ -266,6 +268,63 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 
 <p id="l"><strong>La gravure du numéro d'immatriculation peut-elle endommager mon vélo ?</strong></p>
 <p>En Allemagne déjà plus d'un million de vélos ont été marqués par la gravure sans que les dommages prédits par certains ne se soient produits. Une étude du professeur Ernst von der Osten-Sacken de l'université d'Aix-la-Chapelle confirme qu'une gravure d'une profondeur allant jusqu'à 0,15 millimètres n'a aucune répercussion sur la stabilité d'un cadre en acier ou aluminium, information relayée sur le site de l'ADFC, une référence en Allemagne en matière de vélo.</p>
+
+<p id="l"><strong>Faire marquer son vélo en France</strong></p>
+<p>Les spécificités de la France en comparaison avec l'Allemagne.</p>
+
+<table class="table" align="center">
+  <thead>
+      <tr>
+        <th></th>
+        <th>France</th>
+        <th>Allemagne</th>
+        </tr>
+      </thead>
+
+<tbody>
+
+<tr>
+<td>Numéro d'immatriculation</td>
+<td>BICYCODE</td>
+<td>Numéro EIN</td>
+</tr>
+
+<tr>
+<td>Par qui?</td>
+<td>130 opérateurs en France
+<br/>
+Voir la <a href="https://www.bicycode.org/le-bicycode.rub-2/ou-faire-marquer-son-velo.rub-11/" target="_blank">liste</a> 
+</td>
+<td>La police
+<br/>
+L'ADFC
+<br/>
+Certains revendeurs
+</td>
+</tr>
+
+<tr>
+<td>Prix</td>
+<td>Entre 5€ et 10€</td>
+<td>Entre 0€ et 9€</td>
+</tr>
+
+<tr>
+<td>Methode</td>
+<td>Gravure</td>
+<td>Gravure et étiquette</td>
+</tr>
+
+<tr>
+<td>Nombre de vélos marqués</td>
+<td>220.000</td>
+<td>Plus d'un million</td>
+</tr>
+
+</tbody>
+
+<p>À la lecture de ce tableau on comprend mieux pourquoi le nombre de de vélos marqués en Allemagne est bien plus important qu'en France : gratuité et plus grande accessibilité. Par ailleurs, l'Allemagne a sous l'impulsion de l'ADFC commencé bien avant la France à faire marquer ses vélos. L'ADFC et la police allemande sont très actifs et lancent régulièrement de grandes campagnes de marquage de vélos.</p>
+
 
 <h2 id="blog">Faire enregistrer son vélo</h2>
 
