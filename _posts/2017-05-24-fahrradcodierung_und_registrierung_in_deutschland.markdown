@@ -3,7 +3,7 @@ title : "Fahrradcordierung und Registrierung in Deutschland"
 description: "Fahrrad codieren oder registrieren lassen : gegen Fahrraddiebstähle sind alle Mittel erlaubt."
 lang: de
 category: blog
-layout: "default-de"
+layout: default-de
 ---
  
 <div class="container blog" id="fahrradcodierung">
@@ -600,4 +600,3 @@ Ich habe mal für unseren Freund Jean-jacques Prévert, Frankfurter Allee, 77, 1
 </div>
 </div>
  
-
