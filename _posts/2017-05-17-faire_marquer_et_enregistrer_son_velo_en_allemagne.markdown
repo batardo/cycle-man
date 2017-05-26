@@ -109,7 +109,7 @@ ref: marquagevelo
 
   <li id="plan"><a href="#h">Pourquoi faire enregistrer son vélo ?</a> </li>
   <li id="plan"><a href="#i">Faire enregistrer ou faire marquer son vélo ?</a></li>
-  <li id="plan"><a href="#j">L'application "Fahrradpass"</a></li>
+  <li id="plan"><a href="#j">L'application "Fahrradpass" pour créer son passeport vélo</a></li>
 
 <h2 id="blog">#Fais marquer ton vélo</h2>
 
@@ -172,13 +172,13 @@ ref: marquagevelo
       <tr>
         <th></th>
         <th>Gravure</th>
-        <th>Etiquette</th>
+        <th>Étiquette</th>
         </tr>
       </thead>
       
       <tbody>
       <tr>
-        <td>Estéthique</td>
+        <td>Esthétique</td>
         <td>1</td>
         <td>0</td>
         </tr>
@@ -265,7 +265,7 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 <p>Bref, si vous voulez donner un maximum de chance à votre vélo d'être identifié, il vaut mieux avoir un numéro d'immatriculation individuel et visible.</p>.
 
 <p id="l"><strong>La gravure du numéro d'immatriculation peut-elle endommager mon vélo ?</strong></p>
-<p>En Allemagne déja plus d'un million de vélso ont été marqués par la gravure sans que les dommages prédits par certains ne se soient produits. Une étude du professeur Ernst von der Osten-Sacken de l'université d'Aix-la-Chapelle confirme qu'une gravure d'une profondeur allant jusqu'à 0,15 millimètres n'a aucune répercussion sur la stabilité d'un cadre en acier ou aluminium, information relayée sur le site de l'ADFC, une référence en Allemagne en matiére de vélo.</p>
+<p>En Allemagne déjà plus d'un million de vélos ont été marqués par la gravure sans que les dommages prédits par certains ne se soient produits. Une étude du professeur Ernst von der Osten-Sacken de l'université d'Aix-la-Chapelle confirme qu'une gravure d'une profondeur allant jusqu'à 0,15 millimètres n'a aucune répercussion sur la stabilité d'un cadre en acier ou aluminium, information relayée sur le site de l'ADFC, une référence en Allemagne en matière de vélo.</p>
 
 <h2 id="blog">Faire enregistrer son vélo</h2>
 
@@ -277,7 +277,7 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 <p>Il est important de préciser qu'il s'agit de deux démarches différentes qui sont totalement indépendantes l'une de l'autre. Un vélo marqué n'a pas besoin d'être enregistré et vice-versa.</p>
 
 <p id="j"><strong>L'application "Fahrradpass"</strong></p>
-<p>Aves cette application vous pouvez tranquilement depuis chez vous enregistrer un deux ou 10 vélos et pour chacun d'entre créer un passeport dans lequel sont enregistrées les informations suivantes:</p>
+<p>Avec cette application vous pouvez tranquillement depuis chez vous enregistrer un deux ou 10 vélos et pour chacun d'entre créer un passeport dans lequel sont enregistrées les informations suivantes:</p>
 
 <ul id="blogj">
 <li id="plan">Code d'immatriculation</li>
@@ -285,7 +285,7 @@ J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au F
 <li id="plan">Description</li>
 <li id="plan">Photo</li>
 <li id="plan">Accessoires (Par exemple GPS)</li>
-<li id="plan">Détoriation</li>
+<li id="plan">Détérioration</li>
 </ul>
  
 <p>En cas de perte de votre vélo, ces informations peuvent être exportées directement de l'application pour être envoyée par exemple à la police ou à votre assurance. Par ailleurs en cas de contrôle de la police vous avez toujours votre passeport avec vous. L'application est téléchargeable pour les smartphones iOS et Android</p>
