@@ -3,7 +3,7 @@ title : "Radweg von Berlin zum Liepnizsee"
 description: "Radweg zu einem der schönsten Seen Berlins."
 lang: de
 category: blog
-layout: "default-fr-no-index"
+layout: "default-de"
 ---
  
 <div class="container blog" >
@@ -144,7 +144,7 @@ layout: "default-fr-no-index"
 </div>
 
 <div class="row">
-  <div class="col-xs-12"
+  <div class="col-xs-12">
 
 
 
@@ -159,3 +159,6 @@ layout: "default-fr-no-index"
 
 </div>
 </div>
+
+
+
