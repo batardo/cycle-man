@@ -1,26 +1,29 @@
 ---
-title : "Mit dem Fahrrad von Berlin zum Liepnizsee"
+title : "Radweg von Berlin zum Liepnizsee"
 description: "Radweg zu einem der schönsten Seen Berlins."
 lang: de
 category: blog
 layout: "default-de"
 ---
  
-<div class="container blog" id="liepnizsee">
-     <div class="row">
+<div class="container blog" >
+     <div class="row" id="liepnizsee">
          <div class="col-xs-12">
           <h1>Radweg von Berlin zum Liepnizsee</h1>
         </div>
       </div>
-    </div>
+  
 
-<p>Ich fahre mehrmals im Jahr zum Lieptnizsee, für mich den schönsten See Berlins. Mit dem Fahrrad kommt man von Tür zu Tür fast genauso schnell wie mit den Öffentlichen Verkehrsmitteln.</p>
+<div class="row">
+  <div class="col-xs-12">
+
+<p>Ich fahre mehrmals im Jahr zum Lieptnizsee, für mich den schönsten See Berlins. </p>
    
 <iframe src="https://www.komoot.de/tour/17207986/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
 
 <p><strong>Wie lange braucht man zum Lieptnizsee mit Fahrrad?</strong><p>
-<p>Ich bin zweimal den Weg gefahren ich brauchte zwischen 1:30 und 1:55. Hier die genaue Zeiten</p>
+<p>Ich bin zweimal den Weg gefahren ich brauchte zwischen 1:30 und 1:55. Mit dem Fahrrad fährt man von Tür zu Tür fast genauso schnell wie mit den Öffentlichen Verkehrsmitteln. Hier die genaue Zeiten</p>
 
 <p>
 
@@ -78,3 +81,6 @@ layout: "default-de"
       </tr>
       </tbody>
     </table>
+
+  </div>
+</div>
