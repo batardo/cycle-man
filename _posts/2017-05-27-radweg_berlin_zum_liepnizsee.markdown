@@ -20,7 +20,7 @@ layout: "default-fr-no-index"
 <p>Ich fahre mehrmals im Jahr zum Lieptnizsee, für mich den schönsten See Berlins. </p>
    
 
-<p><strong>Wie lange braucht man zum Lieptnizsee mit Fahrrad?</strong><p>
+<p><strong>Wie lange braucht man zum Lieptnizsee mit Fahrrad?</strong></p>
 <p>Ich bin zweimal den Weg gefahren ich brauchte zwischen 1:30 und 1:55. Mit dem Fahrrad fährt man von Tür zu Tür fast genauso schnell wie mit den Öffentlichen Verkehrsmitteln. Hier die genaue Zeiten</p>
 
 
@@ -83,10 +83,10 @@ layout: "default-fr-no-index"
 
 <p align="center"><iframe src="https://www.komoot.de/tour/17207986/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></p>
 
-<p><strong>GPS Dateien zum herunterlagen</strong></p>
+<p><strong>GPS Dateien zum herunterladen</strong></p>
 
-<li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
-<li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rückfahrt.gpx" download="">Rückfahrt</a></li>
+<li><img src="Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
+<li><img src="Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rückfahrt.gpx" download="">Rückfahrt</a></li>
 
 </div>
 </div>
