@@ -3,7 +3,7 @@ title : "Radweg von Berlin zum Liepnizsee"
 description: "Radweg zu einem der schönsten Seen Berlins."
 lang: de
 category: blog
-layout: "default-de"
+layout: "default-fr-no-index"
 ---
  
 <div class="container blog" >
@@ -70,7 +70,6 @@ layout: "default-de"
         <td>Zepernick</td>
         <td>01:10</td>
       </tr>
-       </tr>
           <tr>
         <td>Schönow</td>
         <td>01:30</td>
