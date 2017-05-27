@@ -143,6 +143,14 @@ text-align: center;
 background-image: url("/Images/polizei.jpeg");
 }
 
+#liepnizsee{
+padding-top:100px;
+background-size:cover;
+height:300px;
+text-align: center;
+background-image: url("/Images/liepnizsee.jpg");
+}
+
 #startlisbon3{
 padding-top:175px;
 background-size:cover;
