@@ -85,8 +85,8 @@ layout: "default-fr-no-index"
 
 <p><strong>GPS Dateien zum herunterladen</strong></p>
 
-<li><img src="Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
-<li><img src="Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rückfahrt.gpx" download="">Rückfahrt</a></li>
+<li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
+<li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rückfahrt.gpx" download="">Rückfahrt</a></li>
 
 </div>
 </div>
