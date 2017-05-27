@@ -21,9 +21,12 @@ layout: "default-fr-no-index"
    
 
 <p><strong>Wie lange braucht man zum Lieptnizsee mit Fahrrad?</strong></p>
-<p>Ich bin zweimal den Weg gefahren ich brauchte zwischen 1:30 und 1:55. Mit dem Fahrrad fährt man von Tür zu Tür fast genauso schnell wie mit den Öffentlichen Verkehrsmitteln. Hier die genaue Zeiten</p>
 
+</div>
 
+<div class="row">
+   <div class="col-xs-6">
+    <p>Hinfahrt</p>
 <table class="table" align="center">
   <thead>
       <tr>
@@ -77,6 +80,71 @@ layout: "default-fr-no-index"
       </tr>
       </tbody>
     </table>
+  </div>
+
+<div class="col-xs-6">
+  <p>Rückfahrt</p>
+<table class="table" align="center">
+  <thead>
+      <tr>
+        <th>Punkt</th>
+        <th>Zeit</th>
+        </tr>
+      </thead>
+      
+      <tbody>
+      
+          <tr>
+        <td>Liepnizsee</td>
+        <td>00:00</td>
+      </tr>
+       <tr>
+        <td>Schönow</td>
+        <td>00:20</td>
+      </tr>
+       <tr>
+        <td>Zepernick</td>
+        <td>00:33</td>
+      </tr>
+         <tr>
+        <td>Panketal</td>
+        <td>00:38</td>
+      </tr> 
+      <tr>
+        <td>Schwanebeck</td>
+        <td>00:48</td>
+      </tr>
+       <tr>
+        <td>Malchow</td>
+        <td>00:58</td>
+      </tr>
+      <tr>
+        <td>Berlin-Weißensee</td>
+        <td>01:06</td>
+      </tr>
+        <tr>
+        <td>Greifswalderstrasse</td>
+        <td>01:11</td>
+      </tr>
+         
+       <td>Alexanderplatz</td>
+        <td>01:25</td>
+      </tr>
+
+      <tr>
+        <td>Prinzenstraße</td>
+        <td>01:35</td>
+      </tr>
+      
+       
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12"
+
 
 
 <p><strong>Karte</strong></p>
@@ -90,6 +158,3 @@ layout: "default-fr-no-index"
 
 </div>
 </div>
-
-
-
