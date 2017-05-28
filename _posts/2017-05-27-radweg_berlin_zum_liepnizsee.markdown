@@ -3,7 +3,7 @@ title : "Radweg von Berlin zum Liepnizsee"
 description: "Radweg zu einem der schönsten Seen Berlins."
 lang: de
 category: blog
-layout: "default-de"
+layout: "default-fr-no-index"
 ---
  
 <div class="container blog" >
@@ -157,7 +157,7 @@ layout: "default-de"
   <div class="col-xs-6">
 
 <p>Hinfahrt</p>
-><iframe src="https://www.komoot.de/tour/17207986/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></p>
+<iframe src="https://www.komoot.de/tour/17207986/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
 </div>
 
@@ -192,3 +192,6 @@ layout: "default-de"
 
 </div>
 </div>
+
+
+
