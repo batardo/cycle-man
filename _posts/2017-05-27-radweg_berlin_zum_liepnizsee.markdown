@@ -21,6 +21,7 @@ layout: "default-fr-no-index"
    
 
 <p><strong>Wie lange braucht man zum Lieptnizsee mit Fahrrad?</strong></p>
+<p>Je nach dem wo man in Berlin startet braucht man zwichen 1 und 2 Stunden um den Liepnizsee zu erreichen.</p>
 
 </div>
 
@@ -143,8 +144,13 @@ layout: "default-fr-no-index"
   </div>
 </div>
 
+
 <div class="row">
   <div class="col-xs-12">
+
+  <p><strong>Zum Liepnitzsee schneller mit dem Rad als mit der BVG?</strong></p>
+  <p>Nein, wir wollen nicht übertreiben. Aber fast genauso schnell. Mit der BVG braucht man auch 1:30, wenn man von Kreubzberg U-Bahnhof Prinzenstraße startet. Dabei müsste man aber 3 mal umsteigen... Ich fahre lieber fahrrad.</p>
+  <p align="center"><img src="Images/bvg.png"></p>
 
 
 
@@ -177,7 +183,7 @@ layout: "default-fr-no-index"
 
 <p><strong>GPS Dateien zum herunterladen</strong></p>
 
-<p>Dateien im .gpx Format können direkt in eueren Geräten importiert werden.</p>
+<p>Dateien im .gpx Format können kostenlos heruntergeladen werden und direkt in eueren Geräten importiert werden.</p>
 
 </div>
 </div>
@@ -186,7 +192,7 @@ layout: "default-fr-no-index"
   <div class="col-xs-6">
 
 <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
-<p>Zwischen Zepernick uns Schönow habe ich mich verfahren. Umweg von circa 2 km.</p>
+<p>Zwischen Zepernick und Schönow habe ich mich verfahren. Umweg von circa 2 km.</p>
 
 </div>
 
@@ -196,6 +202,9 @@ layout: "default-fr-no-index"
 <p>Bei der Rückfahrt habe ich mich nicht verfahren :)</p>
 
 </div>
-
 </div>
+
+
+
+
 </div>
