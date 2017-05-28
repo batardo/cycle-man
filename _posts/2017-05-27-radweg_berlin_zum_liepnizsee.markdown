@@ -17,7 +17,7 @@ layout: "default-fr-no-index"
 <div class="row">
   <div class="col-xs-12">
 
-<p>Ich fahre mehrmals im Jahr zum Lieptnizsee, für mich den schönsten See Berlins. </p>
+<p>Ich fahre mehrmals im Jahr zum Lieptnizsee, für mich den schönsten See Berlins. Ich bin mit Rennrad den Radweg gefahren und habe dabei die Strecke mit meiner Fahrrad Navi aufgenommen.</p>
    
 
 <p><strong>Wie lange braucht man zum Lieptnizsee mit Fahrrad?</strong></p>
@@ -177,6 +177,8 @@ layout: "default-fr-no-index"
 
 <p><strong>GPS Dateien zum herunterladen</strong></p>
 
+<p>Dateien im .gpx Format können direkt in eueren Geräten importiert werden.</p>
+
 </div>
 </div>
 
@@ -184,13 +186,14 @@ layout: "default-fr-no-index"
   <div class="col-xs-6">
 
 <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
-
+<p>Zwischen Zepernick uns Schönow habe ich mich verfahren. Umweg von circa 2 km.</p>
 
 </div>
 
 <div class="col-xs-6">
 
 <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rückfahrt.gpx" download="">Rückfahrt</a></li>
+<p>Bei der Rückfahrt habe ich mich nicht verfahren :)</p>
 
 </div>
 
