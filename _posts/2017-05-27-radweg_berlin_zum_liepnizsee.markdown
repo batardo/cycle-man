@@ -150,7 +150,7 @@ layout: "default-fr-no-index"
 
   <p><strong>Zum Liepnitzsee schneller mit dem Rad als mit der BVG?</strong></p>
   <p>Nein, wir wollen nicht übertreiben. Aber fast genauso schnell. Mit der BVG braucht man auch 1:30, wenn man von Kreubzberg U-Bahnhof Prinzenstraße startet. Dabei müsste man aber 3 mal umsteigen... Ich fahre lieber fahrrad.</p>
-  <p align="center"><img src="Images/bvg.png"></p>
+  <p align="center"><img src="/Images/bvg.png"></p>
 
 
 
