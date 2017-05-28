@@ -148,17 +148,47 @@ layout: "default-de"
 
 
 
-<p><strong>Karte</strong></p>
+<p><strong>Karte des Radwegs von Berlin zum Liepnizsee</strong></p>
 
-<p align="center"><iframe src="https://www.komoot.de/tour/17207986/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></p>
+</div>
+</div>
+
+<div class="row">
+  <div class="col-xs-6">
+
+<p>Hinfahrt</p>
+><iframe src="https://www.komoot.de/tour/17207986/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></p>
+
+</div>
+
+<div class="col-xs-6">
+<p>Rückfahrt</p>
+<iframe src="https://www.komoot.com/tour/17208073/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+
+</div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
 
 <p><strong>GPS Dateien zum herunterladen</strong></p>
 
+</div>
+</div>
+
+<div class="row">
+  <div class="col-xs-6">
+
 <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
+
+
+</div>
+
+<div class="col-xs-6">
+
 <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rückfahrt.gpx" download="">Rückfahrt</a></li>
 
 </div>
+
 </div>
-
-
-
+</div>
