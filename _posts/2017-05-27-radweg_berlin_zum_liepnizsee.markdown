@@ -157,13 +157,17 @@ layout: "default-fr-no-index"
   <div class="col-xs-6">
 
 <p>Hinfahrt</p>
-<iframe src="https://www.komoot.de/tour/17207986/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<p align="center">
+<iframe src="https://www.komoot.de/tour/17207986/embed" width="300" height="600" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</p>
 
 </div>
 
 <div class="col-xs-6">
 <p>Rückfahrt</p>
-<iframe src="https://www.komoot.com/tour/17208073/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<p align="center">
+<iframe src="https://www.komoot.com/tour/17208073/embed" width="300" height="600" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</p>
 
 </div>
 </div>
@@ -192,6 +196,3 @@ layout: "default-fr-no-index"
 
 </div>
 </div>
-
-
-
