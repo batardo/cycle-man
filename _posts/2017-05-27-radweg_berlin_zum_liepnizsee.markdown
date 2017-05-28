@@ -206,9 +206,13 @@ layout: "default-fr-no-index"
 <div class="col-xs-12">
 <p><strong>Ist das schwer? Profil der Strecke</strong></p>
 <p>Nein. Von Berlin zum Lieptnizsee steigt es zwar aber nicht viel und langsam: 60 meter insgesamt in 35 kilometer. Im Vergleich : zwischen Hermannplatz und Bodinstraße steigt man 20 meter in was... 500 meter vielleicht?</p>
-<p align="center"><img src="Images/profil.png"></p>
+<p align="center"><img src="/Images/profil.png"></p>
+
 
 </div>
 </div>
+
+
+
 
 </div>
