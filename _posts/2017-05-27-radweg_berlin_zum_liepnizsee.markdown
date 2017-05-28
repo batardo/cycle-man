@@ -21,7 +21,7 @@ layout: "default-fr-no-index"
    
 
 <p><strong>Wie lange braucht man zum Lieptnizsee mit Fahrrad?</strong></p>
-<p>Je nach dem wo man in Berlin startet braucht man zwichen 1 und 2 Stunden um den Liepnizsee zu erreichen.</p>
+<p>Je nach dem wo man in Berlin startet braucht man zwichen 1 und 2 Stunden, um den Liepnizsee zu erreichen.</p>
 
 </div>
 
@@ -202,9 +202,13 @@ layout: "default-fr-no-index"
 <p>Bei der Rückfahrt habe ich mich nicht verfahren :)</p>
 
 </div>
+
+<div class="col-xs-12">
+<p><strong>Ist das schwer? Profil der Strecke</strong></p>
+<p>Nein. Von Berlin zum Lieptnizsee steigt es zwar aber nicht viel und langsam: 60 meter insgesamt in 35 kilometer. Im Vergleich : zwischen Hermannplatz und Bodinstraße steigt man 20 meter in was... 500 meter vielleicht?</p>
+<p align="center"><img src="Images/profil.png"></p>
+
 </div>
-
-
-
+</div>
 
 </div>
