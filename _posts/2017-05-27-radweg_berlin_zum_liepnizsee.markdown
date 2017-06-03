@@ -4,6 +4,7 @@ description: "Radweg zu einem der schönsten Seen Berlins."
 lang: de
 category: blog
 layout: "default-de"
+comments: true
 ---
  
 <div class="container blog" >
