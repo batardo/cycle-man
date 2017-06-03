@@ -5,6 +5,7 @@ description: "Über den Rhein mit der Fähre"
 lang: de
 ref: post
 category: blog
+comments: true
 ---
 
 <div class="container blog" align="center">
