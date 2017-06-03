@@ -5,6 +5,7 @@ description:   "Les toutes premières galères"
 category: blog
 lang: fr
 ref: post
+comments: true
 ---
 
 <div class="container blog" align="center">
