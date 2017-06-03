@@ -5,6 +5,7 @@ description:   "Vallée de l'Ilm, fôret et saucisses de Thuringe"
 category: blog
 lang: fr
 ref: post
+comments: true
 ---
   
   <div class="container blog" align="center">
