@@ -1,10 +1,11 @@
 ---
 layout: default-fr
 title:  "Berlin - Leipzig en 2 jours"
-description: Itinéraire parmi les plus direct : 170 kilomètres pour la chauffe.
+description: "Itinéraire parmi les plus direct : 170 kilomètres pour la chauffe."
 category: blog
 lang: fr
 ref: post
+comments: true
 ---
 
 <div class="container blog" align="center">
