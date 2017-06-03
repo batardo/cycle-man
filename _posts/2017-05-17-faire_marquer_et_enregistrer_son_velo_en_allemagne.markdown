@@ -5,6 +5,7 @@ lang: fr
 category: blog
 layout: "default-fr"
 ref: marquagevelo
+comments: true
 ---
 
 <div class="container blog" id="fahrradcodierung">
