@@ -5,6 +5,7 @@ description: "La traversée du Rhin en ferry"
 category: blog
 lang: fr
 ref: post
+comments: true
 ---
 
 <div class="container blog" align="center">
