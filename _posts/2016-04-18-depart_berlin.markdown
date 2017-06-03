@@ -5,6 +5,7 @@ description: "En route pour Lisbonne : premiers coups de pédales."
 category: blog
 lang: fr
 ref: post
+comments: true
 ---
 
 <div class="container blog" align="center">
