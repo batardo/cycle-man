@@ -5,6 +5,7 @@ lang: de
 ref: marquagevelo
 category: blog
 layout: default-de
+comments: true
 ---
 
 
