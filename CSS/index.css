@@ -299,6 +299,14 @@ display:inline-block;
 margin-bottom:25px;
 }
 
+#berlinstrasbourg h2 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
 #strasbourghendaye h1 {
 color: white;
 text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
