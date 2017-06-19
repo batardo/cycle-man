@@ -1,5 +1,5 @@
 ---
-title : "Radweg von Berlin zum Liepnizsee"
+title : "Radweg von Berlin zum Liepnitzsee"
 description: "Radweg zu einem der schönsten Seen Berlins."
 lang: de
 category: blog
@@ -8,9 +8,9 @@ comments: true
 ---
  
 <div class="container blog" >
-     <div class="row" id="liepnizsee">
+     <div class="row" id="Liepnitzsee">
          <div class="col-xs-12">
-          <h1>Radweg von Berlin zum Liepnizsee</h1>
+          <h1>Radweg von Berlin zum Liepnitzsee</h1>
         </div>
       </div>
   
@@ -18,11 +18,11 @@ comments: true
 <div class="row">
   <div class="col-xs-12">
 
-<p>Ich fahre mehrmals im Jahr zum Lieptnizsee, für mich den schönsten See Berlins. Ich bin mit Rennrad den Radweg gefahren und habe dabei die Strecke mit meiner Fahrrad Navi aufgenommen.</p>
+<p>Ich fahre mehrmals im Jahr zum Liepnitzsee, für mich den schönsten See Berlins. Ich bin mit Rennrad den Radweg gefahren und habe dabei die Strecke mit meiner Fahrrad Navi aufgenommen.</p>
    
 
 <p><strong>Wie lange braucht man zum Lieptnizsee mit Fahrrad?</strong></p>
-<p>Je nach dem wo man in Berlin startet braucht man zwichen 1 und 2 Stunden, um den Liepnizsee zu erreichen.</p>
+<p>Je nach dem wo man in Berlin startet braucht man zwichen 1 und 2 Stunden, um den Liepnitzsee zu erreichen.</p>
 
 </div>
 
@@ -77,7 +77,7 @@ comments: true
         <td>01:30</td>
       </tr>
           <tr>
-        <td>Liepnizsee</td>
+        <td>Liepnitzsee</td>
         <td>01:55</td>
       </tr>
       </tbody>
@@ -97,7 +97,7 @@ comments: true
       <tbody>
       
           <tr>
-        <td>Liepnizsee</td>
+        <td>Liepnitzsee</td>
         <td>00:00</td>
       </tr>
        <tr>
@@ -155,7 +155,7 @@ comments: true
 
 
 
-<p><strong>Karte des Radwegs von Berlin zum Liepnizsee</strong></p>
+<p><strong>Karte des Radwegs von Berlin zum Liepnitzsee</strong></p>
 
 </div>
 </div>
