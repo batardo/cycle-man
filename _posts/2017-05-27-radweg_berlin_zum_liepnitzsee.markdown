@@ -1,6 +1,6 @@
 ---
-title : "Radweg von Berlin zum Liepnitzsee"
-description: "Radweg zu einem der schönsten Seen Berlins."
+title : "Radweg von Berlin zum Liepnitzsee - Schnell und schön zum See fahren."
+description: "Radweg zu einem der schönsten Seen Berlins. In 90 Minuten durch Berlin und Brandenburg: jetzt kostenlos GPX Dateien herunterladen."
 lang: de
 category: blog
 layout: "default-de"
