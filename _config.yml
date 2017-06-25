@@ -1,3 +1,5 @@
+include: ['.htaccess']
+
 # White-listed plugins
 gems:
   - jekyll-sitemap
