@@ -8,7 +8,7 @@ comments: true
 ---
  
 <div class="container blog" >
-     <div class="row" id="liepnitzsee">
+     <div class="row" id="Liepnitzsee">
          <div class="col-xs-12">
           <h1>Radweg von Berlin zum Liepnitzsee</h1>
         </div>
@@ -18,7 +18,10 @@ comments: true
 <div class="row">
   <div class="col-xs-12">
 
-<p>Ich fahre mehrmals im Jahr zum Liepnitzsee, für mich den schönsten See Berlins. Ich bin mit Rennrad den Radweg gefahren und habe dabei die Strecke mit meiner Fahrrad Navi aufgenommen.</p>
+<p>Ich fahre mehrmals im Jahr zum Liepnitzsee, für mich den schönsten See Berlins. Ich bin mit Rennrad den Radweg gefahren und habe dabei die Strecke mit meiner Fahrrad Navi aufgenommen.
+<br/>
+UDPATE: Wenn ihr kein Rennrad habt, sondern ein Fahrrad mit dickeren Reifen (City-Bike, Mountain Bike...) und wollt bequem und schon zum Lieptnitzsee fahren, habe ich auch eine zweite Route für Euch aufgenommen. <a href="streckebis">Mehr Info zur dieser Strecke</a>.
+</p>
    
 
 <p><strong>Wie lange braucht man zum Lieptnizsee mit Fahrrad?</strong></p>
@@ -212,6 +215,22 @@ comments: true
 
 </div>
 </div>
+
+<h2 id="streckebis">Mit dem Rad zum Lieptnitzsee : die alternativ-Route</h2>
+
+<p>Wer keine Lust auf Straßen, Autos und Abgassen hat, sollte diesen Radweg fahren. Langsamer dafür schöner. </p>
+
+<p>Vorraussetzungen für diesen Radweg:
+
+  <ul>
+    <li id="plan">Du hast Zeit</li>
+    <li id="plan">Du magst es in der Natur zu sein, durch die Felder zu fahren</li>
+    <li id="plan">Du hast keinen Rennrad sondern einen good-old city bike, oder auch einen Mountainbike</li>
+    <li id="plan">Dich stört es nicht auf Wegen zu fahren, die nicht Asphaltisch sind</li>
+    <li id="plan">Du hast ein BVG Abo A-B<li>
+    </ul>
+
+    Welcome on board Baby, das ist Deine Route zum Liepnitzsee. Ab in die S-Bahn Richtung Berlin-Buch. Dort startet meinen Radweg zum Liepnitzsee.</p>
 
 
 
