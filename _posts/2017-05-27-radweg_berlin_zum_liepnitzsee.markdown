@@ -217,6 +217,9 @@ UDPATE: Wenn ihr kein Rennrad habt, sondern ein Fahrrad mit dickeren Reifen (Cit
 </div>
 </div>
 
+<div class="row">
+  <div class="col-xs-12">
+
 <h2 id="streckebis">Mit dem Rad zum Lieptnitzsee : die alternativ-Route</h2>
 
 <p>Wer keine Lust auf Straßen, Autos und Abgassen hat, sollte diesen Radweg fahren. Langsamer dafür schöner. </p>
@@ -240,5 +243,6 @@ UDPATE: Wenn ihr kein Rennrad habt, sondern ein Fahrrad mit dickeren Reifen (Cit
 <iframe src="https://www.komoot.com/tour/18926180/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </p>
 
-
+</div>
+</div>
 </div>
