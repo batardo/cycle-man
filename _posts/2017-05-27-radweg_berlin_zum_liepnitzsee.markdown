@@ -8,7 +8,7 @@ comments: true
 ---
  
 <div class="container blog" >
-     <div class="row" id="Liepnitzsee">
+     <div class="row" id="liepnitzsee">
          <div class="col-xs-12">
           <h1>Radweg von Berlin zum Liepnitzsee</h1>
         </div>
