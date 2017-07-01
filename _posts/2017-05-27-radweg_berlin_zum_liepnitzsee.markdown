@@ -227,10 +227,16 @@ UDPATE: Wenn ihr kein Rennrad habt, sondern ein Fahrrad mit dickeren Reifen (Cit
     <li id="plan">Du magst es in der Natur zu sein, durch die Felder zu fahren</li>
     <li id="plan">Du hast keinen Rennrad sondern einen good-old city bike, oder auch einen Mountainbike</li>
     <li id="plan">Dich stört es nicht auf Wegen zu fahren, die nicht Asphaltisch sind</li>
-    <li id="plan">Du hast ein BVG Abo A-B<li>
+    <li id="plan">Du hast ein BVG Abo A-B</li>
     </ul>
 
     Welcome on board Baby, das ist Deine Route zum Liepnitzsee. Ab in die S-Bahn Richtung Berlin-Buch. Dort startet meinen Radweg zum Liepnitzsee.</p>
+
+<p align="center">
+<iframe src="https://www.komoot.com/tour/18926180/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</p>
+
+<p align="center"><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/alternativ.gpx" download="">GPX Datei herunterladen</a></p>
 
 
 
