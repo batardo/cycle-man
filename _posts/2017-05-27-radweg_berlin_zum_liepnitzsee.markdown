@@ -20,7 +20,8 @@ comments: true
 
 <p>Ich fahre mehrmals im Jahr zum Liepnitzsee, für mich den schönsten See Berlins. Ich bin mit Rennrad den Radweg gefahren und habe dabei die Strecke mit meiner Fahrrad Navi aufgenommen.
 <br/>
-UDPATE: Wenn ihr kein Rennrad habt, sondern ein Fahrrad mit dickeren Reifen (City-Bike, Mountain Bike...) und wollt bequem und schon zum Lieptnitzsee fahren, habe ich auch eine zweite Route für Euch aufgenommen. <a href="#streckebis">Mehr Info zur dieser Strecke</a>.
+<br/>
+<strong>UDPATE</strong>: Wenn ihr kein Rennrad habt, sondern ein Fahrrad mit dickeren Reifen (City-Bike, Mountain Bike...) und wollt bequem und schon zum Lieptnitzsee fahren, habe ich auch eine zweite Route für Euch aufgenommen. <a href="#streckebis">Mehr Info zur dieser Strecke</a>.
 </p>
    
 
@@ -243,6 +244,7 @@ UDPATE: Wenn ihr kein Rennrad habt, sondern ein Fahrrad mit dickeren Reifen (Cit
 <iframe src="https://www.komoot.com/tour/18926180/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </p>
 
+</div>
 </div>
 </div>
 
