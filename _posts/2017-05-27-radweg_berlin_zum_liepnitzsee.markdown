@@ -233,7 +233,7 @@ UDPATE: Wenn ihr kein Rennrad habt, sondern ein Fahrrad mit dickeren Reifen (Cit
     Welcome on board Baby, das ist Deine Route zum Liepnitzsee. Ab in die S-Bahn Richtung Berlin-Buch. Dort startet meinen Radweg zum Liepnitzsee.</p>
 
 
-<p align=""><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/alternativ.gpx" download="">GPX Datei herunterladen</a></p>
+<p align="center"><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/alternativ.gpx" download="">GPX Datei herunterladen</a></p>
 
 <p align="center">
 <iframe src="https://www.komoot.com/tour/18926180/embed" width="640" height="440" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
