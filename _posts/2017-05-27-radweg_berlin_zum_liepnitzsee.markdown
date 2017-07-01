@@ -225,7 +225,7 @@ comments: true
 
 <p>Wer keine Lust auf Straßen, Autos und Abgassen hat, sollte diesen Radweg fahren. Langsamer dafür schöner. </p>
 
-<p>Vorraussetzungen für diesen Radweg:
+Vorraussetzungen für diesen Radweg:
 
   <ul>
     <li id="plan">Du hast Zeit</li>
@@ -235,7 +235,7 @@ comments: true
     <li id="plan">Du hast ein BVG Abo A-B</li>
     </ul>
 
-    Welcome on board Baby, das ist Deine Route zum Liepnitzsee. Ab in die S-Bahn Richtung Berlin-Buch. Dort startet meinen Radweg zum Liepnitzsee.</p>
+    Welcome on board Baby, das ist Deine Route zum Liepnitzsee. Ab in die S-Bahn Richtung Berlin-Buch. Dort startet meinen Radweg zum Liepnitzsee.
 
 
 <p align="center"><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/alternativ.gpx" download="">GPX Datei herunterladen</a></p>
