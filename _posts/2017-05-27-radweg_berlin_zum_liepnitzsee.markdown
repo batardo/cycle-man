@@ -28,6 +28,7 @@ UDPATE: Wenn ihr kein Rennrad habt, sondern ein Fahrrad mit dickeren Reifen (Cit
 <p>Je nach dem wo man in Berlin startet braucht man zwichen 1 und 2 Stunden, um den Liepnitzsee zu erreichen.</p>
 
 </div>
+</div>
 
 <div class="row">
    <div class="col-xs-6">
@@ -240,5 +241,4 @@ UDPATE: Wenn ihr kein Rennrad habt, sondern ein Fahrrad mit dickeren Reifen (Cit
 </p>
 
 
-</div>
 </div>
