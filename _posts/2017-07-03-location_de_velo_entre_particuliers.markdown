@@ -103,13 +103,6 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
         <td>Non incluse</td>
       </tr>
 
-       <tr>
-        <td>Moyen de paiement</td>
-        <td>Carte de crédit<br/>Paypal</td>
-        <td>Non précisé</td>
-        <td>Carte de crédit</td>
-      </tr>
-
       <tr>
         <td>Paiement</td>
         <td>Au moment de la réservation via la plateforme</td>
@@ -131,15 +124,9 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
         <td>Gratuit pour le mise en ligne d'annonces<br/>1/3 du montant de la location</td>
       </tr>
 
-      <tr>
-        <td>Service client</td>
-        <td>E-mail (anglais)</td>
-        <td>Numéro de téléphone (allemand/anglais)</td>
-        <td>Formulaire contact</td>
-      </tr>
        
         <tr>
-        <td>Basé à</td>
+        <td>Siège</td>
         <td>Santa Monica, USA</td>
         <td>Berlin, Allemagne</td>
         <td>Theix, (Bretagne) France</td>
@@ -160,7 +147,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
       </tr>
 
       <tr>
-        <td>Créee en</td>
+        <td>Date de création</td>
         <td>2012</td>
         <td>2015</td>
         <td>2016</td>
