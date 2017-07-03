@@ -128,6 +128,6 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
 
 <p id="blog">Je vais continuer mes recherches sur les plateformes et places de marchés existantes déjà en France. Si vous en avez déjà testé quelques-unes, n’hésitez pas à me le signaler.</p>
 
-</div class="container blog" align="center">
+</div>
 
 
