@@ -20,12 +20,24 @@ layout: default-fr-no-index
   <div class="col-xs-6">
 <p id="blog">Pas besoin de vous en faire la promo, si vous êtes sur cette page, c’est que vous en êtes déjà convaincu(e) : se déplacer à vélo c’est bien.
 Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer un vélo, j’ai trouvé la location entre particuliers assez innovante. Je l’ai donc testé pour mieux pouvoir vous en parler. Au Rapport.</p>
+</div>
+
+
+<div class="col-xs-6">
+<p id="blog">Vous avez un ou deux vélos en trop. Vous n'avez que deux jambes pour 6 pédales et n'avez pas le temps ni l'argent pour entretenir tout ce mobilier. Disons qu'avant de devoir acheter un appartement pour loger ce beau monde, vous faites bien de vous renseigner pour mettre en location votre vélo</p>
+
+</div>
+</div>
+
+
+<div class="row"> 
+  <div class="col-xs-6">
 <p id ="blog"><a href="#louerunvélo">Je cherche à louer un vélo</a></p>
 </div>
 
 <div class="col-xs-6">
-<p id="blog">Vous avez un ou deux vélos en trop. Vous n'avez que deux jambes pour 6 pédales et n'avez pas le temps ni l'argent pour entretenir tout ce mobilier. Disons qu'avant de devoir acheter un appartement pour loger ce beau monde, vous faites bien de vous renseigner pour mettre en location votre vélo</p>
 <p id ="blog"> <a href="#mettreenloc">Je veux mettre un vélo en location</a></p>
+
 </div>
 </div>
 
@@ -47,7 +59,7 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 <p id="">Propriétaires : attention en cas de perte, de vol, ou d’accident. Assurez-vous que votre vélo soit bien assuré et renseignez-vous auprès de la plateforme utilisée pour mettre le vélo en location des démarches à suivre dans ce cas.</p>
 
 <p id="blog">Où mettre en son vélo en location?</p>
-<p id =""> <a href="#marketplaces">Tableau comparatif des plateformes</a></p>
+<p id =""> <a href="#marketplace">Tableau comparatif des plateformes</a></p>
 
 
 
