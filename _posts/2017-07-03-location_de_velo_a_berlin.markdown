@@ -7,6 +7,7 @@ comments: true
 layout: default-fr-no-index
 ---
 
+<div class="container blog" align="center">
 <h1>La location de vélo entre particuliers</h1>
 
 <p id="blog">Pas besoin de vous en faire la promo, si vous êtes sur cette page, c’est que vous en êtes déjà convaincu(e) : Berlin est une ville où l’on se déplace bien à vélo.
@@ -126,4 +127,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
 <p id="blog">Upperbike m’a semblé beaucoup plus artisanal, mais aussi plus local, sachant que l’entreprise est basée à Berlin. Si vous avez un vélo qui n’a pas beaucoup de valeur, alors pas besoin d’assurance ni de Splinlister. Vous percevrez ainsi 100% des revenus de votre location.</p>
 
 <p id="blog">Je vais continuer mes recherches sur les plateformes et places de marchés existantes déjà en France. Si vous en avez déjà testé quelques-unes, n’hésitez pas à me le signaler.</p>
+
+</div class="container blog" align="center">
+
 
