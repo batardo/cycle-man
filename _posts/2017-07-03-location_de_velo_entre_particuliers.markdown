@@ -90,6 +90,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
         <th></th>
         <th>Spinlister</th>
         <th>Upperbike</th>
+        <th>Bebike</th>
         </tr>
       </thead>
 
@@ -99,54 +100,70 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
         <td>Assurance</td>
         <td>1000€ en cas d’accident<br/>10000€ en cas de vol </td>
         <td>Non incluse</td>
+        <td>Non incluse</td>
       </tr>
 
        <tr>
         <td>Moyen de paiement</td>
         <td>Carte de crédit<br/>Paypal</td>
         <td>Non précisé</td>
+        <td>Carte de crédit</td>
       </tr>
 
       <tr>
         <td>Paiement</td>
-        <td>Au moment de la réservation à Spinlister</td>
+        <td>Au moment de la réservation via la plateforme</td>
         <td>Direct entre propriétaire et loueur</td>
+        <td>Au moment de la réservation via la plateforme</td>
       </tr>
 
       <tr>
         <td>Monnaie</td>
         <td>Dollar</td>
         <td>Euro</td>
+        <td>Euro</td>
       </tr>
 
       <tr>
         <td>Prix</td>
-        <td>Gratuit pour la mise en ligne d’une annonce.<br/>17,5% du montant de la location</td>
+        <td>Gratuit pour la mise en ligne d’annonces<br/>17,5% du montant de la location</td>
         <td>Gratuit</td>
+        <td>Gratuit pour le mise en ligne d'annonces<br/>1/3 du montant de la location</td>
       </tr>
 
       <tr>
         <td>Service client</td>
         <td>E-mail (anglais)</td>
         <td>Numéro de téléphone (allemand/anglais)</td>
+        <td>Formulaire contact</td>
       </tr>
        
         <tr>
         <td>Basé à</td>
         <td>Santa Monica, USA</td>
         <td>Berlin, Allemagne</td>
+        <td>Theix, (Bretagne) France</td>
       </tr>
 
        <tr>
         <td>Caution</td>
         <td>Non</td>
-        <td>Oui – Fixée par le propriétaire</td>
+        <td>Oui – Montant fixé par le propriétaire</td>
+        <td>Oui – Montant fixé par le propriétaire</td>
       </tr>
 
        <tr>
         <td>Application</td>
         <td>Oui</td>
         <td>Non</td>
+        <td>Oui</td>
+      </tr>
+
+      <tr>
+        <td>Créee en</td>
+        <td>2012</td>
+        <td>2015</td>
+        <td>2016</td>
       </tr>
 
          </tbody>
