@@ -1,6 +1,6 @@
 ---
-title : Location de vélo à Berlin   
-description : Après les appartements et les voitures, la location de vélos entre particuliers arrive à Berlin comme ailleurs.  Arrivée encore discrète mais très prometteuse.
+title : Tout sur la location de vélo de particulier à particulier
+description : Après les appartements et les voitures, la location de vélos entre particuliers fait son entrée dans l'économie du partage.  Arrivée encore discrète mais très prometteuse.
 lang: fr
 category: blog
 comments: true
