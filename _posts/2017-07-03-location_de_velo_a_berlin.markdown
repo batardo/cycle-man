@@ -1,5 +1,5 @@
 ---
-titel : Location de vélo à Berlin   
+title : Location de vélo à Berlin   
 description : Après les appartements et les voitures, la location de vélos entre particuliers arrive à Berlin comme ailleurs.  Arrivée encore discrète mais très prometteuse.
 lang: fr
 category: blog
@@ -113,7 +113,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
       
 
    
-<p id="blog">Spinlister m’a semblé être beaucoup plus avancé. C#est ce qui se rapproche le plus du "rbnb" du vélo</p> 
+<p id="blog">Spinlister c'est ce qui se rapproche le plus du "rbnb" du vélo.</p> 
 <ul>Les plus : 
 <li id="plan">L' 'application facilite tout de suite la recherche de vélo pour les locataires grâce à la géolocalisation. </li>
 <li id="plan">L’assurance incluse est un gros avantage pour les propriétaires. </li>
