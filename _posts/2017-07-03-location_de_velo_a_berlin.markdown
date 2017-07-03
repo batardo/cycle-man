@@ -108,11 +108,12 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
 
          </tbody>
     </table>
+
  
       
 
    
-<p id="blog">Spinlister m’a semblé être beaucoup plus avancé. C#est ce qui se rapproche le plus du "rbnb" du vélo <br/>
+<p id="blog">Spinlister m’a semblé être beaucoup plus avancé. C#est ce qui se rapproche le plus du "rbnb" du vélo</p> 
 <ul>Les plus : 
 <li id="plan">L' 'application facilite tout de suite la recherche de vélo pour les locataires grâce à la géolocalisation. </li>
 <li id="plan">L’assurance incluse est un gros avantage pour les propriétaires. </li>
