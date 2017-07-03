@@ -65,7 +65,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
 
       <tr>
         <td>Paiement</td>
-        <td>Au moment de la réservation à Spinlister</td></td>
+        <td>Au moment de la réservation à Spinlister</td>
         <td>Direct entre propriétaire et loueur</td>
       </tr>
 
@@ -126,4 +126,3 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
 <p id="blog">Upperbike m’a semblé beaucoup plus artisanal, mais aussi plus local, sachant que l’entreprise est basée à Berlin. Si vous avez un vélo qui n’a pas beaucoup de valeur, alors pas besoin d’assurance ni de Splinlister. Vous percevrez ainsi 100% des revenus de votre location.</p>
 
 <p id="blog">Je vais continuer mes recherches sur les plateformes et places de marchés existantes déjà en France. Si vous en avez déjà testé quelques-unes, n’hésitez pas à me le signaler.</p>
-
