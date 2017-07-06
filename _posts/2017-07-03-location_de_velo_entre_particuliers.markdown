@@ -64,8 +64,24 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 <p id="">Propriétaires : attention en cas de perte, de vol, ou d’accident. Assurez-vous que votre vélo soit bien assuré et renseignez-vous auprès de la plateforme utilisée pour mettre le vélo en location des démarches à suivre dans ce cas.</p>
 
 <p id="blog">Où mettre en son vélo en location?</p>
-<p id =""> <a href="#marketplace">Tableau comparatif des plateformes</a></p>
+<p id =""> <a href="#marketplace">Voir le tableau comparatif des plateformes</a></p>
+Selon votre pays je vous recommanderai les sites/applications suivantes:
+<table class="table" align="center">
+  <thead>
+      <tr>
+        <th>France</th>
+        <th>Allemagne</th>
+        </tr>
+      </thead>
 
+
+<tbody>
+      <tr>
+        <td>BeBikde<br/>Spinlister</td>
+        <td>Upperbike<br/>Spinlister</td>
+      </tr>
+    </tbody>
+  </table>
 
 
 <h2 id="louerunvélo">Louer un vélo auprès d'un particulier</h2>
