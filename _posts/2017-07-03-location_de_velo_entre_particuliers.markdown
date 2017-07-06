@@ -4,7 +4,7 @@ description : Après les appartements et les voitures, la location de vélos ent
 lang: fr
 category: blog
 comments: true
-layout: default-fr
+layout: default-fr-no-index
 ---
 
 <div class="container blog" align="center">
@@ -50,11 +50,12 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 
 <p id="blog">À quel prix louer son vélo ?</p>
 <p id="">En théorie tout dépend de l'offre et de la demande.<br/> 
-  Si le nombre de vélo disponibles en location est inférieur au nombre de demandes de location, le prix augmente. À l'inverse si la demande est inférieur à l'offre, il baisse. Oui, en thérorie, car le marché n'est pas transparent, vous ne pourrez jamais vraiment savoir si vous êtes en surcapacité, en sous-capacité... donc comment faire:
+  Si le nombre de vélo disponibles en location est inférieur au nombre de demandes de location, le prix augmente. À l'inverse si la demande est inférieur à l'offre, il baisse. Oui, en thérorie, car le marché n'est pas transparent, vous ne pourrez jamais vraiment savoir si vous êtes en surcapacité, en sous-capacité... donc comment faire:</p>
   <ul>
   <li id="plan">Regardez la concurrence, en ligne par exemple. À quel prix sont mis des vélos similaires dans votre ville ? À Berlin 10€ en moyenne. </li>
   <li id="plan">Évaluez les avantages compététitifs de votre vélo par rapport à vos concurrents : état, options, confort etc... et ajustez en fonction de votre analyse. Si vous pensez avoir un meilleur vélo, n'hésitez pas à le louer plus cher.</li>
   </ul> 
+  <p>
   Vous n'avez pas de concurrents dans votre région ? Chanceux vous avez le monopole, c'est voux qui fixez les prix du marché.</p>
 
 <p id="blog">Comment mettre son vélo en location ? </p>
