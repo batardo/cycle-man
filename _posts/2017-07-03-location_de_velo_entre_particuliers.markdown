@@ -46,11 +46,13 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 
 
 <p id="blog">Pourquoi mettre son vélo en location ?</p>
-<p id="">La réponse est simple : cela constitue une source de revenue supplémentaire sans avoir à ne faire aucun investissement, supposé que vous ayez un vélo de libre dont vous ne vous servez pas.</p>
+<p id="">La réponse est simple : louer son vélo constitue une source de revenue supplémentaire sans avoir à ne faire aucun investissement, supposé bien sur que vous ayez un vélo de libre dont vous ne vous servez pas.</p>
 
-<p id="blog">À quel prix mettre son vélo en location ?</p>
-<p id="">Pour être attractif, il est recommandé de se positionner 20-30% moins cher que les professionnels.
-À Berlin par exemple, un vélo se loue en magasin 10€ la journée. Un particulier peut donc raisonnablement mettre son vélo en location pour 6-8€/jour. À la semaine, cela devient intéressant.</p>
+<p id="blog">À quel prix louer son vélo ?</p>
+<p id="">En théorie tout dépend de l'offre et de la demande. Si le nombre de vélo disponibles en location est inférieur au nombre de demandes de location, le prix augmente. À l'inverse si la demande est inférieur à l'offre, il baisse. Oui, en thérorie, car le marché n'est pas transparent, vous ne pourrez jamais vraiment savoir si vous êtes surcapacité, souscapacité... donc quelques conseils pratiques:
+  <li id="plan">Regardez la concurrence, en ligne par exemple. À quel prix sont mis des vélos similaires dans votre ville? À Berlin 10€ en moyenne. </li>
+  <li id="plna">Évaluez les avantages compététitifs de votre vélo par rapport à vos concurrents : état, options, confort etc... et ajustez en fonction de votre analayse. Si vous pensez avoir un meilleur vélo, n'hésitez pas à le louer plus cher. 
+  Vous n'avez pas de concurrents dans votre région ? Chanceux vous avez le monopole, c'est voux qui fixez les prix du marché ! </p>
 
 <p id="blog">Comment mettre son vélo en location ? </p>
 <p id="">Il n’y a rien de plus simple. Si vous êtes à Berlin ou en Allemagne par exemple vous pouvez vous créer un profil et une annonce en quelques clics seulement sur une des deux plateformes les plus utilisée : spinlister ou upperbike. En 5 minutes vos annonces sont en ligne et c’est gratuit.</p>
