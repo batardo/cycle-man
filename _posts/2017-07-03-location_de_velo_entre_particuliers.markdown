@@ -49,12 +49,13 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 <p id="">La réponse est simple : louer son vélo constitue une source de revenue supplémentaire sans avoir à ne faire aucun investissement, supposé bien sur que vous ayez un vélo de libre dont vous ne vous servez pas.</p>
 
 <p id="blog">À quel prix louer son vélo ?</p>
-<p id="">En théorie tout dépend de l'offre et de la demande. Si le nombre de vélo disponibles en location est inférieur au nombre de demandes de location, le prix augmente. À l'inverse si la demande est inférieur à l'offre, il baisse. Oui, en thérorie, car le marché n'est pas transparent, vous ne pourrez jamais vraiment savoir si vous êtes surcapacité, souscapacité... donc quelques conseils pratiques:
+<p id="">En théorie tout dépend de l'offre et de la demande.<br/> 
+  Si le nombre de vélo disponibles en location est inférieur au nombre de demandes de location, le prix augmente. À l'inverse si la demande est inférieur à l'offre, il baisse. Oui, en thérorie, car le marché n'est pas transparent, vous ne pourrez jamais vraiment savoir si vous êtes en surcapacité, en sous-capacité... donc comment faire:
   <ul>
-  <li id="plan">Regardez la concurrence, en ligne par exemple. À quel prix sont mis des vélos similaires dans votre ville? À Berlin 10€ en moyenne. </li>
-  <li id="plan">Évaluez les avantages compététitifs de votre vélo par rapport à vos concurrents : état, options, confort etc... et ajustez en fonction de votre analayse. Si vous pensez avoir un meilleur vélo, n'hésitez pas à le louer plus cher.</li>
+  <li id="plan">Regardez la concurrence, en ligne par exemple. À quel prix sont mis des vélos similaires dans votre ville ? À Berlin 10€ en moyenne. </li>
+  <li id="plan">Évaluez les avantages compététitifs de votre vélo par rapport à vos concurrents : état, options, confort etc... et ajustez en fonction de votre analyse. Si vous pensez avoir un meilleur vélo, n'hésitez pas à le louer plus cher.</li>
   </ul> 
-  Vous n'avez pas de concurrents dans votre région ? Chanceux vous avez le monopole, c'est voux qui fixez les prix du marché ! </p>
+  Vous n'avez pas de concurrents dans votre région ? Chanceux vous avez le monopole, c'est voux qui fixez les prix du marché.</p>
 
 <p id="blog">Comment mettre son vélo en location ? </p>
 <p id="">Il n’y a rien de plus simple. Si vous êtes à Berlin ou en Allemagne par exemple vous pouvez vous créer un profil et une annonce en quelques clics seulement sur une des deux plateformes les plus utilisée : spinlister ou upperbike. En 5 minutes vos annonces sont en ligne et c’est gratuit.</p>
