@@ -4,7 +4,7 @@ description : Après les appartements et les voitures, la location de vélos ent
 lang: fr
 category: blog
 comments: true
-layout: default-fr-no-index
+layout: default-fr
 ---
 
 <div class="container blog" align="center">
