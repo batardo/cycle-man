@@ -12,19 +12,19 @@ layout: default-fr
 
 
 <p id="blog">Déjà entendu parlé de la location de vélo entre particuliers ?</p>
-<p id="blog"> Un des maillons manquant de l’économie du partage fait son entrée en 2012 aux États Unis avec la création d’une première place de marché « Spinlisters » qui assure ces usagers face au risque de vols et d’accidents, une première mondiale. Une arrivée discrète, un avenir prometteur. Lorsqu’on regarde l’évolution des recherches pour le mot « bike sharing » sur le web, le marché est en plein essor. Et encore, on en est qu’à l’allumage… </p>.
+<p id="blog"> Un des maillons manquant de l’économie du partage fait son entrée en 2012 aux États Unis avec la création d’une première place de marché « Spinlisters » qui assure ces usagers face au risque de vols et d’accidents, une première mondiale. Une arrivée discrète, un avenir prometteur. Lorsqu’on regarde l’évolution des recherches pour le mot « bike sharing » sur le web, aucun doute, le marché est en plein essor. Et encore, on en est qu’à l’allumage… </p>.
 <p id="blog"> Vous voulez en savoir plus ? Vous seriez plutôt propriétaire ou locataire ?</p>
 
 
 <div class="row"> 
   <div class="col-xs-6">
 <p id="blog">Pas besoin de vous en faire la promo, si vous êtes sur cette page, c’est que vous en êtes déjà convaincu(e) : se déplacer à vélo c’est bien.
-Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer un vélo, j’ai trouvé la location entre particuliers assez innovante. Je l’ai donc testé pour mieux pouvoir vous en parler. Au Rapport.</p>
+Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer un vélo, j’ai trouvé la location entre particuliers assez innovante. Je l’ai donc testée pour mieux pouvoir vous en parler.</p>
 </div>
 
 
 <div class="col-xs-6">
-<p id="blog">Vous avez un ou deux vélos en trop. Vous n'avez que deux jambes pour 6 pédales et n'avez pas le temps ni l'argent pour entretenir tout ce mobilier. Disons qu'avant de devoir acheter un appartement pour loger ce beau monde, vous faites bien de vous renseigner pour mettre en location votre vélo</p>
+<p id="blog">Vous avez un ou deux vélos en trop. Vous n'avez que deux jambes pour 6 pédales et n'avez pas le temps ni l'argent pour entretenir tout ce mobilier. Disons qu'avant de devoir acheter un appartement pour loger ce beau monde, vous faites bien de vous renseigner pour louer un de vos vélos.</p>
 
 </div>
 </div>
@@ -32,11 +32,11 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 
 <div class="row"> 
   <div class="col-xs-6">
-<p id ="blog"><a href="#louerunvélo">Je cherche à louer un vélo</a></p>
+<p id ="blog"><a href="#louerunvélo">Louer un vélo</a></p>
 </div>
 
 <div class="col-xs-6">
-<p id ="blog"> <a href="#mettreenloc">Je veux mettre un vélo en location</a></p>
+<p id ="blog"> <a href="#mettreenloc">Mettre un vélo en location</a></p>
 
 </div>
 </div>
@@ -50,19 +50,21 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 
 <p id="blog">À quel prix louer son vélo ?</p>
 <p id="">En théorie tout dépend de l'offre et de la demande.<br/> 
-  Si le nombre de vélo disponibles en location est inférieur au nombre de demandes de location, le prix augmente. À l'inverse si la demande est inférieur à l'offre, il baisse. Oui, en thérorie, car le marché n'est pas transparent, vous ne pourrez jamais vraiment savoir si vous êtes en surcapacité, en sous-capacité... donc comment faire:</p>
+  Si le nombre de vélos disponibles en location est inférieur au nombre de demandes de location, le prix augmente. À l'inverse si la demande est inférieure à l'offre, le prix baisse. Oui, mais cela reste en théorie, car la concurrence pure et parfait n'existe pas et en pratique, le marché n'étant pas transparent, vous ne pourrez jamais vraiment savoir si vous êtes en situation de sur- ou sous-capacité. donc comment faire:</p>
   <ul>
   <li id="plan">Regardez la concurrence, en ligne par exemple. À quel prix sont mis des vélos similaires dans votre ville ? À Berlin 10€ en moyenne. </li>
-  <li id="plan">Évaluez les avantages compététitifs de votre vélo par rapport à vos concurrents : état, options, confort etc... et ajustez en fonction de votre analyse. Si vous pensez avoir un meilleur vélo, n'hésitez pas à le louer plus cher.</li>
+  <li id="plan">Évaluez les avantages compétitifs de votre vélo par rapport à vos concurrents : état, options, confort etc... et ajustez en fonction de votre analyse. Si vous pensez avoir un meilleur vélo, n'hésitez pas à le louer plus cher.</li>
   </ul> 
   <p>
-  Vous n'avez pas de concurrents dans votre région ? Chanceux vous avez le monopole, c'est voux qui fixez les prix du marché.</p>
+  Vous n'avez pas de concurrents dans votre région ? Chanceux vous avez le monopole, c'est vous qui fixez les prix du marché.</p>
 
 <p id="blog">Comment mettre son vélo en location ? </p>
-<p id="">Il n’y a rien de plus simple. Si vous êtes à Berlin ou en Allemagne par exemple vous pouvez vous créer un profil et une annonce en quelques clics seulement sur une des deux plateformes les plus utilisée : spinlister ou upperbike. En 5 minutes vos annonces sont en ligne et c’est gratuit.</p>
+<p id="">Il n’y a rien de plus simple : faites-le en ligne. Si vous êtes à Berlin ou en Allemagne par exemple vous pouvez vous créer un profil et une annonce en quelques clics seulement sur une des deux plateformes les plus utilisée : spinlister ou upperbike. En 5 minutes vos annonces sont en ligne et c’est gratuit.</p>
 
-<p id="blog">Les limites</p>
-<p id="">Propriétaires : attention en cas de perte, de vol, ou d’accident. Assurez-vous que votre vélo soit bien assuré et renseignez-vous auprès de la plateforme utilisée pour mettre le vélo en location des démarches à suivre dans ce cas.</p>
+<p id="blog">Les limites de la mise en location de son vélo</p>
+<p id="">Propriétaires de vélos, vous aimeriez retrouver votre vélo en bon état. Renseignez-vous donc au préalable auprès de la plateforme utilisée pour la mise en location. Que se passe t-il en cas de perte ou de vol de votre vélo? En cas de crevaison de pneu ou de détérioration? Selon le site par lequel vous êtes passé, les solutions proposées divergent.<br/>
+  <p id =""> <a href="#marketplace">Voir le tableau comparatif des plateformes</a></p>
+</p>
 
 <p id="blog">Où mettre en son vélo en location?</p>
 <p id =""> <a href="#marketplace">Voir le tableau comparatif des plateformes</a></p>
