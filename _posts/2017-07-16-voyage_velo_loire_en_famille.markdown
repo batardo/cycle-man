@@ -1,10 +1,10 @@
 ---
-title : Châteaux de la loire à vélo et en famille
-description : 4 jours à vélo de Blois à Tours en visitant les châteaux de la Loire. Voyage vélo familial, accessible pour tous.
+title : Châteaux de la Loire à vélo et en famille
+description : Résumé d'un voyage vélo familial, accessible pour tous. 4 jours de Blois à Tours à vélo en visitant les châteaux de la Loire. 
 lang: fr
 category: blog
 comments: true
-layout: default-fr-no-index
+layout: default-fr
 ---
 
 <body>
@@ -12,41 +12,39 @@ layout: default-fr-no-index
   <div class="container blog" >
      <div class="row" id="loire">
          <div class="col-xs-12">
-          <h1>Les châteaux de la loire à vélo et en famille</h1>
+          <h1>Les châteaux de la Loire à vélo</h1>
         </div>
       </div>
 
-
-<p>Randonnée vélo avec en Famille avec des enfants âgés de , 7 et 9 ans. Pourquoi ne pas faire la Loire 
-<p id="blog">Avec des enfants en bas âge ?</p>
-<p>Enfants âgés de 4, 7, et 9 ans. Et 8 adultes</p>
-<p id="blog">Combien de kilomètres par jours ?</p>
-<p>Entre 20 et 30 kilomètres.</p>
-<p id="blog">Équipements vélo</p>
-<p>Des vélos pour tout le monde, dont un vélo équipé d'un siège enfant, en cas de besoin. Deux voitures relais, en cas de pluie.</p>
-<p id="blog">Hébergement</p>
-<p>Maisons pour 11 personnes louées sur rbnb, très agréables avec jardin, piscines, trampolines, parfait pour les enfants.</p>
-<li id="plan">Nuit 1 & 2</li>Chançay: Réservation: https://www.airbnb.fr/rooms/6945463
-<li id="plan">Nuit 3 & 4</li>Chambray-lès-Tours: https://www.airbnb.fr/rooms/5208834
-<p id="blog">Visite des châteaux de la Loire</p>
-<li id="plan">Amboise</li>
-<li id="plan">Chennonceau</li>
-<li id="plan">Villandry</li>
-
-<div class="row"> 
-  <div class="col-xs-6">
-</div>
+<p>Si vous êtes en recherche d'idées pour un voyage en vélo familial, allez donc balader le long de la Loire entre Blois et Tours. J'en reviens et vais vous donner quelques bonnes raisons de faire cette randonnée à vélo.<br/>
+Si vous êtes intéressés, je partage avec vous sur cette page, les cartes, les fichiers GPX, pour votre GPS vélo si vous en utilisez un ainsi que les adresses des gîtes.<br/>
+Pour information, nous sommes partis en famille avec 3 enfants de 4, 7 et 9 ans ainsi que 8 adultes.</p>
 
 
-<div class="col-xs-6">
-</div>
-</div>
+<p id="blog">Pourquoi la Loire?</p>
+De Chaumont à Tours nous avons suivi l'Eurovélo 6, une route vélo qui traverse la France d'est en ouest.
+<br/>
+<br/>
+
+
+<li id="plan">Il n'y a pas de voitures. Sauf rares exceptions, nous avons presque toujours roulé sur piste cyclable.</li>
+<li id="plan">L'itinéraire est parfaitement bien indiqué, fléché, kilométré.</li>
+<li id="plan">La route est en asphalte. Pas de chemins terreux.</li>
+<li id="plan">C'est beau : paysages ruraux, souvent le long de la Loire, parfois plus dans les terres, en forêt.
+<li id="plan">Les étapes sont courtes. Vous avez la possibilité de vous arrêter régulièrement, pour faire étape ou bien pique-niquer. Nous avons fait étape tous les 20 kilomètres en moyenne.</li>
+<li id="plan">Parfait mélange entre activités sportives et culturelles avec la visite des châteaux de la Loire.</li>
+<li id="plan">Accessibile en train. Le long du trajet vous trouverez des gares à Blois, Amboise, Tours. Les trains sont tous équipés de wagons vélos.</li>
+<li id="plan">C'est plat.</li>
+
+
+<p id="blog">Notre équipement vélo</p>
+<p>11 vélos, 1 vélo par personne, dont vélo adulte  équipé d'un siège enfant dans lequel le dernier de 4 ans pouvait se reposer. Son vélo était également fixé à l'arrière du siège. Nous avons également deux voitures pour le transport des vélos sur place, les deux équipées de porte-vélos. 2 adultes se sont rendus sur place en train.
 
 
 
+<p id="blog">Résumé des 4 étapes de Chaumont à Tours</p>
 
-
-<h2 id=""></h2>
+<p>4 jours, 80 kilomètres, 3 châteaux, 2 gîtes. Retrouvez toutes les informations dans le tableau ci-dessous, téléchargez gratuitement les fichiers GPX. En cliquant sur les liens hébergement vous serez redirigé vers le descriptif des gîtes sur rbnb.</p>
 
 
 <table class="table" align="center">
@@ -57,6 +55,7 @@ layout: default-fr-no-index
         <th>Track GPX</th>
         <th>Carte</th>
         <th>Hébergement</th>
+        <th>Château</th>
         </tr>
       </thead>
 
@@ -68,6 +67,7 @@ layout: default-fr-no-index
        <td><a href="/carte/Chaumont_Amboise.gpx" download>Chaumont - Amboise</a><br/><a href="/carte/Amboise_Chancay.gpx" download>Amboise - Chançay</a></td>
        <td><a href="https://www.strava.com/activities/1077241311" target="_blank">Chaumont - Amboise</a></td>
        <td><a href="https://www.airbnb.fr/rooms/6945463" target="_blank">Gîte Chançay</a></td>
+       <td>Amboise</td>
       </tr>
 
 
@@ -77,6 +77,8 @@ layout: default-fr-no-index
         <td><a href="/carte/Amboise_Chennonceau.gpx" download>Amboise - Channonceau</a></td>
       <td><a href="https://www.strava.com/activities/1080243824" target="_blank">Amboise - Chennonceau</a></td>
       <td><a href="https://www.airbnb.fr/rooms/6945463" target="_blank">Gîte Chançay</a></td>
+        <td>Chennonceau</td>
+
       </tr>
 
       <tr>
@@ -85,6 +87,7 @@ layout: default-fr-no-index
         <td><a href="/carte/Amboise_Tours.gpx" download>Amboise-Tours</a><br/><a href="/carte/Tours_Chambray.gpx" download>Tours - Chambrais</a></td>
         <td><a href="https://www.strava.com/activities/1080244040" target="_blank">Amboise - Tours</a></td>
         <td><a href="https://www.airbnb.fr/rooms/5208834" target="_blank">Gîte Chambray-lès-Tours</a></td>
+        <td></td>
       </tr>
 
       <tr>
@@ -93,12 +96,15 @@ layout: default-fr-no-index
         <td><a href="/carte/Tours_Villandry.gpx" download>Tours - Villandry</a></td>
         <td><a href="https://www.strava.com/activities/1082159705" target="_blank">Tours - Villandry</a></td>
         <td><a href="https://www.airbnb.fr/rooms/5208834" target="_blank">Gîte Chambray-lès-Tours</a></td>
+        <td>Villandry</td>
       </tr>
 
     </tbody>
   </table>
 
+<p>Si vous avez fait d'autres expériences de voyage à vélo en famille sur ce trajet le long de la Loire, n'hésitez pas à m'en faire part, j'actualiserai ainsi cette page.</p>
 
 
 
 </body>
+
