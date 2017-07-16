@@ -7,8 +7,6 @@ comments: true
 layout: default-fr
 ---
 
-<body>
-
   <div class="container blog" >
      <div class="row" id="loire">
          <div class="col-xs-12">
@@ -106,5 +104,5 @@ De Chaumont à Tours nous avons suivi l'Eurovélo 6, une route vélo qui travers
 
 
 
-</body>
+
 
