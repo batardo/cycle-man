@@ -28,7 +28,7 @@ De Chaumont à Tours nous avons suivi l'Eurovélo 6, une route vélo qui travers
 <li id="plan">Il n'y a pas de voitures. Sauf rares exceptions, nous avons presque toujours roulé sur piste cyclable.</li>
 <li id="plan">L'itinéraire est parfaitement bien indiqué, fléché, kilométré.</li>
 <li id="plan">La route est en asphalte. Pas de chemins terreux.</li>
-<li id="plan">C'est beau : paysages ruraux, souvent le long de la Loire, parfois plus dans les terres, en forêt.
+<li id="plan">C'est beau : paysages ruraux, souvent le long de la Loire, parfois plus dans les terres, en forêt.</li>
 <li id="plan">Les étapes sont courtes. Vous avez la possibilité de vous arrêter régulièrement, pour faire étape ou bien pique-niquer. Nous avons fait étape tous les 20 kilomètres en moyenne.</li>
 <li id="plan">Parfait mélange entre activités sportives et culturelles avec la visite des châteaux de la Loire.</li>
 <li id="plan">Accessibile en train. Le long du trajet vous trouverez des gares à Blois, Amboise, Tours. Les trains sont tous équipés de wagons vélos.</li>
@@ -36,7 +36,7 @@ De Chaumont à Tours nous avons suivi l'Eurovélo 6, une route vélo qui travers
 
 
 <p id="blog">Notre équipement vélo</p>
-<p>11 vélos, 1 vélo par personne, dont vélo adulte  équipé d'un siège enfant dans lequel le dernier de 4 ans pouvait se reposer. Son vélo était également fixé à l'arrière du siège. Nous avons également deux voitures pour le transport des vélos sur place, les deux équipées de porte-vélos. 2 adultes se sont rendus sur place en train.
+<p>11 vélos, 1 vélo par personne, dont vélo adulte  équipé d'un siège enfant dans lequel le dernier de 4 ans pouvait se reposer. Son vélo était également fixé à l'arrière du siège. Nous avons également deux voitures pour le transport des vélos sur place, les deux équipées de porte-vélos. 2 adultes se sont rendus sur place en train.</p>
 
 
 
@@ -102,7 +102,4 @@ De Chaumont à Tours nous avons suivi l'Eurovélo 6, une route vélo qui travers
 
 <p>Si vous avez fait d'autres expériences de voyage à vélo en famille sur ce trajet le long de la Loire, n'hésitez pas à m'en faire part, j'actualiserai ainsi cette page.</p>
 
-
-
-
-
+</div>
