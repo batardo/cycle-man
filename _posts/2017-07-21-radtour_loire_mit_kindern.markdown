@@ -1,5 +1,5 @@
 ---
-title : 4 Tägige Familien-Radreise an der Loire
+title : Radtour an der Loire mit Kindern
 description : Bericht unserer tollen Radtour. 4 Tage mit Fahrrädern und Kindern zwischen Blois und Tours durch die Châteaux de la Loire. 
 lang: de
 category: blog
