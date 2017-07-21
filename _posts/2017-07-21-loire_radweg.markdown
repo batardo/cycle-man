@@ -16,16 +16,17 @@ layout: default-fr-no-index
 
 <p>Wenn Ihr Ideen für eine familienradtour sucht, warum nicht der Loire Radweg? Ich war dort und gebe Euch gleich gute Gründe dort Eure Familienradreise zu organisieren.<br/>
 Sollte ich Euch überzeugt haben, findet ihr auf dieser Seite alle Karten, GPX Dateien, wenn ihr eine Fahrradnavi nutzt, sowie die Adressen der Unterkünfte, wo wir übernachtet haben.<br/>
+</p>
 
 <p>Eckdaten zu dieser Radtour</p>
 <ul>
 <li id="plan">4 Tage</li>
-<li id="plan">3 Kinder im Alter von 4,7 und 9</li>
+<li id="plan">3 Kinder im Alter von 4, 7 und 9</li>
 <li id="plan">8 Erwachsene</li>
 <li id="plan">2 Autos</li>
 <li id="plan">11 Fahrräder</li>
-<li id="plan">3 Schlösse besichtigt</li>
-<li id="plan">20 kilometer pro Tag mit Fahrrad</li>
+<li id="plan">3 Schlösse</li>
+<li id="plan">80 kilometer</li>
 </ul>
 
 <p id="blog">Warum ist der Loire Radweg eigentlich perfekt für eine Fahrradreise mit Kindern?</p>
@@ -36,7 +37,7 @@ Von Chaumont bis Tour sind wir den Radweg Eurovélo 6 gefahren, eine Fahrradrout
 
 <li id="plan">Es sind keine Autos. Zu 95% sind wir auf dem Radweg gefahren.</li>
 <li id="plan">Die Strecke ist perfekt geschildert</li>
-<li id="plan">Kein Schotteweh. Nur Asphalt.</li>
+<li id="plan">Kein Schotteweg. Nur Asphalt.</li>
 <li id="plan">Der Weg ist schön : die Landschaft, die Loire, die Felder, der Wald... Frankreich halt.</li>
 <li id="plan">Kurze Strecken. Wir sind im Durschschnitt 20 kilometer pro Tag gefahren. Ihr habt die Möglichkeit regelmäßig zu halten, zum Essen z.B. es sind Tische da.</li>
 <li id="plan">Gute Mischung zwischen Sport und Kultur mit der Möglichkeit die Loire Schlösser zu besichtigen.</li>
@@ -51,7 +52,7 @@ Von Chaumont bis Tour sind wir den Radweg Eurovélo 6 gefahren, eine Fahrradrout
 
 <p id="blog">Überblick über die 4 Etappen von Chaumont nach Tours</p>
 
-<p>4 Tage, 80 kilometer, 3 Schlösse, 2 Ferienhäuser. Retrouvez toutes les informations dans le tableau ci-dessous, téléchargez gratuitement les fichiers GPX. En cliquant sur les liens hébergement vous serez redirigé vers le descriptif des gîtes sur rbnb.</p>
+<p>4 Tage, 80 kilometer, 3 Schlösse, 2 Ferienhäuser. Alle Infos zu den 4 Etappen befinden sich in der Tabelle unten : </p>
 
 
 <table class="table" align="center">
@@ -109,6 +110,6 @@ Von Chaumont bis Tour sind wir den Radweg Eurovélo 6 gefahren, eine Fahrradrout
     </tbody>
   </table>
 
-<p>Si vous avez fait d'autres expériences de voyage à vélo en famille sur ce trajet le long de la Loire, n'hésitez pas à m'en faire part, j'actualiserai ainsi cette page.</p>
+
 
 </div>
