@@ -25,7 +25,7 @@ Sollte ich Euch überzeugt haben, findet ihr auf dieser Seite alle Karten, GPX D
 <li id="plan">8 Erwachsene</li>
 <li id="plan">2 Autos</li>
 <li id="plan">11 Fahrräder</li>
-<li id="plan">3 Schlösse</li>
+<li id="plan">3 Schlösser</li>
 <li id="plan">80 kilometer</li>
 </ul>
 
@@ -52,7 +52,7 @@ Von Chaumont bis Tour sind wir den Radweg Eurovélo 6 gefahren, eine Fahrradrout
 
 <p id="blog">Überblick über die 4 Etappen von Chaumont nach Tours</p>
 
-<p>4 Tage, 80 kilometer, 3 Schlösse, 2 Ferienhäuser. Alle Infos zu den 4 Etappen befinden sich in der Tabelle unten : </p>
+<p>4 Tage, 80 kilometer, 3 Schlösser, 2 Ferienhäuser. Alle Infos zu den 4 Etappen befinden sich in der Tabelle unten : </p>
 
 
 <table class="table" align="center">
