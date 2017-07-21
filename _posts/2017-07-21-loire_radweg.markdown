@@ -1,6 +1,6 @@
 ---
-title : Radreise an der Loire mit Familie und Kind
-description : Bericht einer Radtour für Familien. 4 Tage mit Fahrrad zwischen Blois und Tours durch die Châteaux de la Loire. 
+title : 4 Tägige Familien-Radreise an der Loire
+description : Bericht unserer tollen Radtour. 4 Tage mit Fahrrädern und Kindern zwischen Blois und Tours durch die Châteaux de la Loire. 
 lang: de
 category: blog
 comments: true
@@ -44,25 +44,25 @@ Von Chaumont bis Tour sind wir den Radweg Eurovélo 6 gefahren, eine Fahrradrout
 <li id="plan">Die Strecke ist flach, wirklich ohne Schwiriegkeit, was das Profil angeht.</li>
 
 
-<p id="blog">Ausstattung für die Reise.</p>
-<p>11 vélos, 1 vélo par personne, dont vélo adulte  équipé d'un siège enfant dans lequel le dernier de 4 ans pouvait se reposer. Son vélo était également fixé à l'arrière du siège. Nous avons également deux voitures pour le transport des vélos sur place, les deux équipées de porte-vélos. 2 adultes se sont rendus sur place en train.</p>
+<p id="blog">Ausstattung für die Reise</p>
+<p>11 Fahrräder, 1 Fahrrad pro Kopf, darunter einem Rad mit Kindersessel aussgestattet. </p>
 
 
 
-<p id="blog">Résumé des 4 étapes de Chaumont à Tours</p>
+<p id="blog">Überblick über die 4 Etappen von Chaumont nach Tours</p>
 
-<p>4 jours, 80 kilomètres, 3 châteaux, 2 gîtes. Retrouvez toutes les informations dans le tableau ci-dessous, téléchargez gratuitement les fichiers GPX. En cliquant sur les liens hébergement vous serez redirigé vers le descriptif des gîtes sur rbnb.</p>
+<p>4 Tage, 80 kilometer, 3 Schlösse, 2 Ferienhäuser. Retrouvez toutes les informations dans le tableau ci-dessous, téléchargez gratuitement les fichiers GPX. En cliquant sur les liens hébergement vous serez redirigé vers le descriptif des gîtes sur rbnb.</p>
 
 
 <table class="table" align="center">
   <thead>
       <tr>
-        <th>Étape</th>
+        <th>Etappe</th>
         <th>Km</th>
         <th>Track GPX</th>
-        <th>Carte</th>
-        <th>Hébergement</th>
-        <th>Château</th>
+        <th>Karte</th>
+        <th>Übernachtung</th>
+        <th>Schloss</th>
         </tr>
       </thead>
 
