@@ -18,30 +18,29 @@ layout: default-fr-no-index
 Sollte ich Euch überzeugt haben, findet ihr auf dieser Seite alle Karten, GPX Dateien, wenn ihr eine Fahrradnavi nutzt, sowie die Adressen der Unterkünfte, wo wir übernachtet haben.<br/>
 </p>
 
-<p>Eckdaten zu dieser Radtour</p>
-<ul>
+<p>Von Chaumont nach Tours : Eckdaten zu dieser Radtour</p>
+
 <li id="plan">4 Tage</li>
 <li id="plan">3 Kinder im Alter von 4, 7 und 9</li>
 <li id="plan">8 Erwachsene</li>
 <li id="plan">2 Autos</li>
 <li id="plan">11 Fahrräder</li>
 <li id="plan">3 Schlösser</li>
-<li id="plan">80 kilometer</li>
-</ul>
+<li id="plan">80 kilometer insgesamt</li>
 
-<p id="blog">Warum ist der Loire Radweg eigentlich perfekt für eine Fahrradreise mit Kindern?</p>
-Von Chaumont bis Tour sind wir den Radweg Eurovélo 6 gefahren, eine Fahrradroute, die Frankreich durchquert.
+<p id="blog">Der Loire Radweg : perfekt für eine Fahrradreise mit Kindern</p>
+Von Chaumont bis Tour sind wir den <a href="https://de.eurovelo6-france.com/" target="_blank">Eurovélo 6</a> Radweg gefahren, eine Fahrradroute, die Frankreich durchquert.
 <br/>
 <br/>
 
 
 <li id="plan">Es sind keine Autos. Zu 95% sind wir auf dem Radweg gefahren.</li>
 <li id="plan">Die Strecke ist perfekt geschildert</li>
-<li id="plan">Kein Schotteweg. Nur Asphalt.</li>
+<li id="plan">Kein Schotterweg. Asphalt Only.</li>
 <li id="plan">Der Weg ist schön : die Landschaft, die Loire, die Felder, der Wald... Frankreich halt.</li>
-<li id="plan">Kurze Strecken. Wir sind im Durschschnitt 20 kilometer pro Tag gefahren. Ihr habt die Möglichkeit regelmäßig zu halten, zum Essen z.B. es sind Tische da.</li>
+<li id="plan">Kurze Strecken : Wir sind im Durschschnitt 20 kilometer pro Tag gefahren.</li>
 <li id="plan">Gute Mischung zwischen Sport und Kultur mit der Möglichkeit die Loire Schlösser zu besichtigen.</li>
-<li id="plan">Mit dem Zug erreichbar. An der Loire befinden sich zahlreiche Bahnhöfe, wie Blois, Amboise, Tours, wo Regional Züge regelmäßig halten. Die Züge haben Fahrradwagen, was für Frankreich einen Wunder ist.</li>
+<li id="plan">Mit dem Zug erreichbar. An der Loire befinden sich zahlreiche SNCF Bahnhöfe, wie Blois, Amboise, Tours, wo Regional Züge regelmäßig halten. Die Züge sind mit Fahrradwagen ausgestattet, was für Frankreich einen Wunder ist.</li>
 <li id="plan">Die Strecke ist flach, wirklich ohne Schwiriegkeit, was das Profil angeht.</li>
 
 
