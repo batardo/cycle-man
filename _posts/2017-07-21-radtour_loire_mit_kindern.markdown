@@ -18,7 +18,12 @@ layout: default-fr-no-index
 Sollte ich Euch überzeugt haben, findet ihr auf dieser Seite alle Karten, GPX Dateien, wenn ihr eine Fahrradnavi nutzt, sowie die Adressen der Unterkünfte, wo wir übernachtet haben.<br/>
 </p>
 
-<p>Von Chaumont nach Tours : Eckdaten zu dieser Radtour</p>
+<li id="plan"><a href="a">Eckdaten zur Radtour</a></li>
+<li id="plan"><a href="b">Der Loire Radweg : perfekt für einen familien Radurlaub</a></li>
+<li id="plan"><a href="c">Ausstattung</a></li>
+<li id="plan"><a href="d">Karten, GPX Dateien, Unterkunfte</a></li>
+
+<p id="a">Loire Radweg von Chaumont nach Tours : Eckdaten zu der Radtour</p>
 
 <li id="plan">4 Tage</li>
 <li id="plan">3 Kinder im Alter von 4, 7 und 9</li>
@@ -28,13 +33,13 @@ Sollte ich Euch überzeugt haben, findet ihr auf dieser Seite alle Karten, GPX D
 <li id="plan">3 Schlösser</li>
 <li id="plan">80 kilometer insgesamt</li>
 
-<p id="blog">Der Loire Radweg : perfekt für eine Fahrradreise mit Kindern</p>
+<p id="b">Der Loire Radweg : perfekt für eine Fahrradreise mit Kindern</p>
 Von Chaumont bis Tour sind wir den <a href="https://de.eurovelo6-france.com/" target="_blank">Eurovélo 6</a> Radweg gefahren, eine Fahrradroute, die Frankreich durchquert.
 <br/>
 <br/>
 
 
-<li id="plan">Es sind keine Autos. Zu 95% sind wir auf dem Radweg gefahren.</li>
+<li id="plan">Autos Frei. Zu 95% sind wir auf dem Radweg gefahren.</li>
 <li id="plan">Die Strecke ist perfekt geschildert</li>
 <li id="plan">Kein Schotterweg. Asphalt Only.</li>
 <li id="plan">Der Weg ist schön : die Landschaft, die Loire, die Felder, der Wald... Frankreich halt.</li>
@@ -44,12 +49,13 @@ Von Chaumont bis Tour sind wir den <a href="https://de.eurovelo6-france.com/" ta
 <li id="plan">Die Strecke ist flach, wirklich ohne Schwiriegkeit, was das Profil angeht.</li>
 
 
-<p id="blog">Ausstattung für die Reise</p>
-<p>11 Fahrräder, 1 Fahrrad pro Kopf, darunter einem Rad mit Kindersessel aussgestattet. </p>
+<p id="c">Ausstattung für die Reise</p>
+<li id="plan">10 normale Fahrräder</li>
+<li id="plan">1 Fahrrad mit Kindersitz, wo der kleinste sich ausruhen könnte</li>
+<li id="plan">2 Autos für den Transport der Gepäcke. Sie dienen auch bei Regen als "Notlösung"</li>
 
 
-
-<p id="blog">Überblick über die 4 Etappen von Chaumont nach Tours</p>
+<p id="d">Überblick über die 4 Etappen von Chaumont nach Tours</p>
 
 <p>4 Tage, 80 kilometer, 3 Schlösser, 2 Ferienhäuser. Alle Infos zu den 4 Etappen befinden sich in der Tabelle unten : </p>
 
