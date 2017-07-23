@@ -16,13 +16,14 @@ layout: default-de
 
 <p>Urlaubsziel für Radreise gesucht? Sie haben auch Kinder dabei?</p>
   Ich komme gerade aus einer Radtour mit Kindern an der Loire und gebe Euch gleich gute Gründe dort Eure Familien-Radreise zu organisieren.<br/>
-Auf dieser Seite findet ihr auch Karten, GPX Dateien, wenn ihr eine Fahrradnavi nutzt, sowie die Adressen der Unterkünfte, wo wir übernachtet haben.
+Auf dieser Seite findet ihr alle Informationen zur Organisation der Radtour: Karten, GPX Dateien, wenn ihr eine Fahrradnavi nutzt, sowie die Adressen der Unterkünfte, wo wir übernachtet haben. 
+<br/>
 
 
 
 <li id="plan"><a href="#a">Eckdaten zur Radtour</a></li>
 <li id="plan"><a href="#b">Der Loire Radweg : perfekt für einen familien Radurlaub</a></li>
-<li id="plan"><a href="#c">Ausstattung</a></li>
+<li id="plan"><a href="#c">Ausstattung : Fahrräder, Gepäcke</a></li>
 <li id="plan"><a href="#d">Karten, GPX Dateien, Unterkunfte</a></li>
 
 <p id="a">Loire Radweg von Chaumont nach Tours : Eckdaten zu der Radtour</p>
@@ -116,6 +117,9 @@ Von Chaumont bis Tour sind wir den <a href="https://de.eurovelo6-france.com/" ta
 
     </tbody>
   </table>
+
+<p>Weitere Radtouren für Groß un Klein gesucht</p>
+Kennt ihr einen anderen Radweg, den ihr empfehlen könnt? Für Groß und Klein -  In Frankreich, Deutschland, oder überall in Europa. Gerne hier teilen.
 
 
 
