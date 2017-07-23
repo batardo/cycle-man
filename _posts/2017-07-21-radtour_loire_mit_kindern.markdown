@@ -5,6 +5,7 @@ lang: de
 category: blog
 comments: true
 layout: default-de
+---
 
   <div class="container blog" >
      <div class="row" id="loire">
