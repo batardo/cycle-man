@@ -1,11 +1,10 @@
 ---
 title : Radtour an der Loire mit Kindern
-description : Bericht unserer tollen Radtour. 4 Tage mit Fahrrädern und Kindern zwischen Blois und Tours durch die Châteaux de la Loire. 
+description : Bericht eines Familien Radurlaubs. 4 Tage mit Fahrrädern und Kindern zwischen Blois und Tours durch die Châteaux de la Loire. 
 lang: de
 category: blog
 comments: true
-layout: default-fr-no-index
----
+layout: default-de
 
   <div class="container blog" >
      <div class="row" id="loire">
@@ -14,9 +13,11 @@ layout: default-fr-no-index
         </div>
       </div>
 
-<p>Wenn Ihr Ideen für eine familienradtour sucht, warum nicht der Loire Radweg? Ich war dort und gebe Euch gleich gute Gründe dort Eure Familienradreise zu organisieren.<br/>
-Sollte ich Euch überzeugt haben, findet ihr auf dieser Seite alle Karten, GPX Dateien, wenn ihr eine Fahrradnavi nutzt, sowie die Adressen der Unterkünfte, wo wir übernachtet haben.<br/>
-</p>
+<p>Urlaubsziel für Radreise gesucht? Sie haben auch Kinder dabei?</p>
+  Ich komme gerade aus einer Radtour mit Kindern an der Loire und gebe Euch gleich gute Gründe dort Eure Familien-Radreise zu organisieren.<br/>
+Auf dieser Seite findet ihr auch Karten, GPX Dateien, wenn ihr eine Fahrradnavi nutzt, sowie die Adressen der Unterkünfte, wo wir übernachtet haben.
+
+
 
 <li id="plan"><a href="#a">Eckdaten zur Radtour</a></li>
 <li id="plan"><a href="#b">Der Loire Radweg : perfekt für einen familien Radurlaub</a></li>
