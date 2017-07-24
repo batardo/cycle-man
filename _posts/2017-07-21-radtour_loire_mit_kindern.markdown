@@ -83,7 +83,7 @@ Von Chaumont bis Tour sind wir den <a href="https://de.eurovelo6-france.com/" ta
         <td>21,3 km</td>
        <td><a href="/carte/Chaumont_Amboise.gpx" download>Chaumont - Amboise</a><br/><a href="/carte/Amboise_Chancay.gpx" download>Amboise - Chançay</a></td>
        <td><a href="https://www.strava.com/activities/1077241311" target="_blank">Chaumont - Amboise</a></td>
-       <td><a href="https://www.airbnb.fr/rooms/6945463" target="_blank">Ferienhaus Chançay</a></td>
+       <td><a href="https://www.airbnb.de/rooms/6945463" target="_blank">Ferienhaus Chançay</a></td>
        <td>Amboise</td>
       </tr>
 
@@ -93,7 +93,7 @@ Von Chaumont bis Tour sind wir den <a href="https://de.eurovelo6-france.com/" ta
         <td>20,4 km</td>
         <td><a href="/carte/Amboise_Chennonceau.gpx" download>Amboise - Channonceau</a></td>
       <td><a href="https://www.strava.com/activities/1080243824" target="_blank">Amboise - Chennonceau</a></td>
-      <td><a href="https://www.airbnb.fr/rooms/6945463" target="_blank">Ferienhaus Chançay</a></td>
+      <td><a href="https://www.airbnb.de/rooms/6945463" target="_blank">Ferienhaus Chançay</a></td>
         <td>Chennonceau</td>
 
       </tr>
@@ -103,7 +103,7 @@ Von Chaumont bis Tour sind wir den <a href="https://de.eurovelo6-france.com/" ta
         <td>28 km</td>
         <td><a href="/carte/Amboise_Tours.gpx" download>Amboise-Tours</a><br/><a href="/carte/Tours_Chambray.gpx" download>Tours - Chambrais</a></td>
         <td><a href="https://www.strava.com/activities/1080244040" target="_blank">Amboise - Tours</a></td>
-        <td><a href="https://www.airbnb.fr/rooms/5208834" target="_blank">Ferienhaus Chambray-lès-Tours</a></td>
+        <td><a href="https://www.airbnb.de/rooms/5208834" target="_blank">Ferienhaus Chambray-lès-Tours</a></td>
         <td></td>
       </tr>
 
@@ -112,7 +112,7 @@ Von Chaumont bis Tour sind wir den <a href="https://de.eurovelo6-france.com/" ta
         <td>17,3 km</td>
         <td><a href="/carte/Tours_Villandry.gpx" download>Tours - Villandry</a></td>
         <td><a href="https://www.strava.com/activities/1082159705" target="_blank">Tours - Villandry</a></td>
-        <td><a href="https://www.airbnb.fr/rooms/5208834" target="_blank">Ferienhaus Chambray-lès-Tours</a></td>
+        <td><a href="https://www.airbnb.de/rooms/5208834" target="_blank">Ferienhaus Chambray-lès-Tours</a></td>
         <td>Villandry</td>
       </tr>
 
