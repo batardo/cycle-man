@@ -98,7 +98,7 @@ layout: default-fr
 </div>
   <div class="col-sm-4 gallery">
 
-		<a href="/Images/pochettes-ticket-sncf/13.jpg"><img src="/Images/pochettes-ticket-sncf/13-min.jpg" width="300px" id="" alt="pochette ticket sncf information direct"></a><br/>
+		<a href="/Images/pochettes-ticket-sncf/13.JPG"><img src="/Images/pochettes-ticket-sncf/13-min.jpg" width="300px" id="" alt="pochette ticket sncf information direct"></a><br/>
 		<a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> Information direct</a>
 
 
@@ -111,20 +111,20 @@ layout: default-fr
  <div class="row">
   <div class="col-sm-4 gallery">
 
-		<a href="/Images/pochettes-ticket-sncf/14.jpg"><img src="/Images/pochettes-ticket-sncf/14-min.jpg" width="300px" id="" alt="pochette ticket sncf développement durable"></a><br/>
+		<a href="/Images/pochettes-ticket-sncf/14.JPG"><img src="/Images/pochettes-ticket-sncf/14-min.jpg" width="300px" id="" alt="pochette ticket sncf développement durable"></a><br/>
 		<a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Développement durable</a>
 </div>
   <div class="col-sm-4 gallery">
 
 
 
-		<a href="/Images/pochettes-ticket-sncf/15.jpg"><img src="/Images/pochettes-ticket-sncf/15-min.jpg" width="300px" id="" alt="pochette ticket sncf donner au train des idées d'avance"></a><br/>
+		<a href="/Images/pochettes-ticket-sncf/15.JPG"><img src="/Images/pochettes-ticket-sncf/15-min.jpg" width="300px" id="" alt="pochette ticket sncf donner au train des idées d'avance"></a><br/>
 		<a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> Donner au train des idées d'avance</a>
 
 		</div>
   <div class="col-sm-4 gallery">
 
-		<a href="/Images/pochettes-ticket-sncf/16.jpg"><img src="/Images/pochettes-ticket-sncf/16-min.jpg" width="300px" id="" alt="pochette ticket sncf tentation du voyage"></a><br/>
+		<a href="/Images/pochettes-ticket-sncf/16.JPG"><img src="/Images/pochettes-ticket-sncf/16-min.jpg" width="300px" id="" alt="pochette ticket sncf tentation du voyage"></a><br/>
 		<a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> Tentation du voyage</a>
 
 	</div>
@@ -137,18 +137,18 @@ layout: default-fr
 
   <div class="col-sm-4 gallery">
 
-		<a href="/Images/pochettes-ticket-sncf/17.jpg"><img src="/Images/pochettes-ticket-sncf/17-min.jpg" width="300px" id="" alt="pochette ticket sncf ne pas faire en voyage ce que l'on peut faire en train"></a><br/>
+		<a href="/Images/pochettes-ticket-sncf/17.JPG"><img src="/Images/pochettes-ticket-sncf/17-min.jpg" width="300px" id="" alt="pochette ticket sncf ne pas faire en voyage ce que l'on peut faire en train"></a><br/>
 		<a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> Ne pas faire en voiture ce que l'on peut faire en train</a>
 
 		</div>
   <div class="col-sm-4 gallery">
-		<a href="/Images/pochettes-ticket-sncf/19.jpg"><img src="/Images/pochettes-ticket-sncf/19-min.jpg" width="300px" id="" alt="pochette ticket sncf tgv annonce une agréable évolution de vos courbes lors de vos prochains déplacements"></a><br/>
+		<a href="/Images/pochettes-ticket-sncf/19.JPG"><img src="/Images/pochettes-ticket-sncf/19-min.jpg" width="300px" id="" alt="pochette ticket sncf tgv annonce une agréable évolution de vos courbes lors de vos prochains déplacements"></a><br/>
 		<a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> Évolution de vos courbes</a>
 
 		</div>
   <div class="col-sm-4 gallery">
 
-		<a href="/Images/pochettes-ticket-sncf/20.jpg"><img src="/Images/pochettes-ticket-sncf/20-min.jpg" width="300px" id="" alt="pochette ticket sncf carte smiles"></a><br/>
+		<a href="/Images/pochettes-ticket-sncf/20.JPG"><img src="/Images/pochettes-ticket-sncf/20-min.jpg" width="300px" id="" alt="pochette ticket sncf carte smiles"></a><br/>
 		<a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> Carte smiles</a>
 
 		</div>
@@ -162,13 +162,13 @@ layout: default-fr
 
   <div class="col-sm-4 gallery">
 
-		<a href="/Images/pochettes-ticket-sncf/21.jpg"><img src="/Images/pochettes-ticket-sncf/21-min.jpg" width="300px" id="" alt="pochette ticket sncf collectionnez les voyages"></a><br/>
+		<a href="/Images/pochettes-ticket-sncf/21.JPG"><img src="/Images/pochettes-ticket-sncf/21-min.jpg" width="300px" id="" alt="pochette ticket sncf collectionnez les voyages"></a><br/>
 		<a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> Collectionnez les voyages</a>
 
 		</div>
   <div class="col-sm-4 gallery">
 
-		<a href="/Images/pochettes-ticket-sncf/22.jpg"><img src="/Images/pochettes-ticket-sncf/22-min.jpg" width="300px" id="" alt="pochette ticket sncf cartes de réductions gagnant sur tous les voyages"></a><br/>
+		<a href="/Images/pochettes-ticket-sncf/22.JPG"><img src="/Images/pochettes-ticket-sncf/22-min.jpg" width="300px" id="" alt="pochette ticket sncf cartes de réductions gagnant sur tous les voyages"></a><br/>
 		<a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> Cartes de réduction SNCF</a>
 
 		</div>
