@@ -295,6 +295,7 @@ background-attachment:fixed;
 .gallery img:hover{
     opacity:0.5;
     color:#5D1E44;
+    width: 350px;
 }
 
 #startlisbon2{
