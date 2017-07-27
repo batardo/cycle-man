@@ -292,6 +292,11 @@ background-attachment:fixed;
     color:#5D1E44;
 }
 
+.gallery img:hover{
+    opacity:0.5;
+    color:#5D1E44;
+}
+
 #startlisbon2{
 padding-top:100px;
 background-size:cover;
