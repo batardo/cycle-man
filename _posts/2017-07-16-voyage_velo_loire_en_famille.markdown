@@ -5,6 +5,7 @@ lang: fr
 category: blog
 comments: true
 layout: default-fr
+tags: [véloroute, voyage à vélo, vélo famille]
 ---
 
   <div class="container blog" >
