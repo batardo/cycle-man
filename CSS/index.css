@@ -152,6 +152,15 @@ text-align: center;
 background-image: url("/Images/polizei.jpeg");
 }
 
+#locationdevelo{
+padding-top:100px;
+background-size:cover;
+height:300px;
+text-align: center;
+background-image: url("/Images/veloloc.jpg");
+}
+
+
 #liepnitzsee{
 padding-top:130px;
 background-size:cover;
