@@ -7,8 +7,8 @@ comments: true
 layout: default-fr
 ---
 
-<div class="container blog" id="locationdevelo">
-     <div class="row">
+<div class="container blog">
+     <div class="row" id="locationdevelo">
          <div class="col-xs-12">
           <h1>La location de vélo entre particuliers</h1>
         </div>
