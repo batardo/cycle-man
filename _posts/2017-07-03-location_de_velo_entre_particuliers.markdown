@@ -204,17 +204,17 @@ Voici mes deux vélos mis en ligne sur spinlister
     <div class="col-xs-6">
     <li>Race Bike</li>
     <li>Steel Frame</li>
-    <li>58cm<Li>
+    <li>58cm</li>
     <li>12 Gears</li>
     <li>Rented with a lock</li>
-
     <p align="center"><a href="https://www.spinlister.com/rides/27996-bike-road-berlin-berlin" target="blank">Demande de location sur Spinlister</a></p>
-    <
+  
     </div>
 
     <div class="col-xs-6">
     <p align="center"><a href="https://www.spinlister.com/rides/28523-bike-hybrid-berlin-berlin" target="blank">Mountain/City Bike</a></p>
     </div>
+
   </div>
 </div>
 
