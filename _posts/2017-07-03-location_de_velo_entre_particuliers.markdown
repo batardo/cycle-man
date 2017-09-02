@@ -219,7 +219,7 @@ Voici mes deux vélos mis en ligne sur spinlister
     <div id="h150px">
     <img src="/Images/tanker.jpg" width="300px">
     </div>
-    <div id="h300ox">
+    <div id="h300px">
     <li id="plan">Vélo de ville / Randonnée</li>
     <li id="plan">Protection pare-boue, lumières avant/arrière</li>
     <li id="plan">8 vitesses</li>
