@@ -195,17 +195,27 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
    
 <p id="blog">Spinlister c'est ce qui se rapproche le plus du "rbnb" du vélo.</p> 
 
-Voici mes deux vélos mis en ligne sur spinliser
+Voici mes deux vélos mis en ligne sur spinlister
 
-<div class="container">
-<div class="row">
-<div class="col-xs-6">
-<p align="center"><a href="https://www.spinlister.com/rides/27996-bike-road-berlin-berlin" target="blank">Road Bike</a></p>
-</div>
-<div class="col-xs-6">
-<p align="center"><a href="https://www.spinlister.com/rides/28523-bike-hybrid-berlin-berlin" target="blank">Mountain/City Bike</a></p>
-</div>
-</div>
+<div class="container blog">
+
+  <div class="row">
+
+    <div class="col-xs-6">
+    <li>Race Bike</li>
+    <li>Steel Frame</li>
+    <li>58cm<Li>
+    <li>12 Gears</li>
+    <li>Rented with a lock</li>
+
+    <p align="center"><a href="https://www.spinlister.com/rides/27996-bike-road-berlin-berlin" target="blank">Demande de location sur Spinlister</a></p>
+    <
+    </div>
+
+    <div class="col-xs-6">
+    <p align="center"><a href="https://www.spinlister.com/rides/28523-bike-hybrid-berlin-berlin" target="blank">Mountain/City Bike</a></p>
+    </div>
+  </div>
 </div>
 
 <ul>Les plus : 
