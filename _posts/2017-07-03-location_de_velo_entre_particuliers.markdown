@@ -202,7 +202,9 @@ Voici mes deux vélos mis en ligne sur spinlister
   <div class="row">
 
     <div class="col-xs-6">
+    <div id="150px">
     <img src="/Images/veloloc.jpg" width="300px">
+    </div>
     <li id="plan">Vélo de course</li>
     <li id="plan">Cadre acier 58cm</li>
     <li id="plan">12 vitesses / 2 Plateaux</li>
@@ -212,7 +214,9 @@ Voici mes deux vélos mis en ligne sur spinlister
     </div>
 
     <div class="col-xs-6">
-    <img src="/Images/veloloc.jpg" width="300px">
+    <div id="h150px">
+    <img src="/Images/tanker.jpg" width="300px">
+    </div>
     <li id="plan">Vélo de ville / Randonnée</li>
     <li id="plan">Protection pare-boue, lumières avant/arrière</li>
     <li id="plan">8 vitesses</li>
