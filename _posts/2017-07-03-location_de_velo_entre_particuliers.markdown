@@ -202,7 +202,7 @@ Voici mes deux vélos mis en ligne sur spinlister
   <div class="row">
 
     <div class="col-xs-6">
-    <div id="150px">
+    <div id="h150px">
     <img src="/Images/veloloc.jpg" width="300px">
     </div>
     <li id="plan">Vélo de course</li>
