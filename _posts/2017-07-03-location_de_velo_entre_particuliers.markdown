@@ -203,20 +203,20 @@ Voici mes deux vélos mis en ligne sur spinlister
 
     <div class="col-xs-6">
     <img src="/Images/veloloc.jpg" width="300px">
-    <li>Vélo de course</li>
-    <li>Cadre acier 58cm</li>
-    <li>12 vitesses / 2 Plateaux</li>
-    <li>Loué avec un casque</li>
+    <li id="plan">Vélo de course</li>
+    <li id="plan">Cadre acier 58cm</li>
+    <li id="plan">12 vitesses / 2 Plateaux</li>
+    <li id="plan">Loué avec un casque</li>
     <p align="center"><a href="https://www.spinlister.com/rides/27996-bike-road-berlin-berlin" target="blank">Demande de location sur Spinlister</a></p>
   
     </div>
 
     <div class="col-xs-6">
     <img src="/Images/veloloc.jpg" width="300px">
-    <li>Vélo de ville / Randonnée</li>
-    <li>Protection pare-boue, lumières avant/arrière</li>
-    <li>8 vitesses</li>
-    <li>Loué avec un casque</li>
+    <li id="plan">Vélo de ville / Randonnée</li>
+    <li id="plan">Protection pare-boue, lumières avant/arrière</li>
+    <li id="plan">8 vitesses</li>
+    <li id="plan">Loué avec un casque</li>
     <p align="center"><a href="https://www.spinlister.com/rides/28523-bike-hybrid-berlin-berlin" target="blank">Demande de location sur Spinlister</a></p>
     </div>
 
