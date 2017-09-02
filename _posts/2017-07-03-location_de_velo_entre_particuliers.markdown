@@ -193,9 +193,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
       
 
    
-<p id="blog">Spinlister c'est ce qui se rapproche le plus du "rbnb" du vélo.</p> 
-
-Voici mes deux vélos mis en ligne sur spinlister
+<p id="blog">Avis sur Spinlister : j'ai testé le site et y ai mis deux vélo en location</p> 
 
 <div class="container blog">
 
@@ -241,6 +239,10 @@ Voici mes deux vélos mis en ligne sur spinlister
 <li id="plan">Les paiements se font en dollars. Je les ai contactés : il semblerait que cela puisse évoluer dans les prochains mois. </li>
 <li id="plan">Le revers de la médaille c’est qu’évidemment ce service n’est pas complètement gratuit pour les propriétaires  puisque 17,5% du montant de la location revient à Spinlister.</li> 
 </ul>
+
+
+<p id="blog">Avis sur Upperbike :</p> 
+
 
 <p id="blog">Upperbike m’a semblé beaucoup plus artisanal, mais aussi plus local, sachant que l’entreprise est basée à Berlin. Si vous avez un vélo qui n’a pas beaucoup de valeur, alors pas besoin d’assurance ni de Splinlister. Vous percevrez ainsi 100% des revenus de votre location.</p>
 
