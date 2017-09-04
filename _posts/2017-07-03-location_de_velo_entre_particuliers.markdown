@@ -27,13 +27,16 @@ layout: default-fr
 
 <div class="row"> 
   <div class="col-xs-6">
-<p id="blog">Pas besoin de vous en faire la promo, si vous êtes sur cette page, c’est que vous en êtes déjà convaincu(e) : se déplacer à vélo c’est bien.
-Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer un vélo, j’ai trouvé la location entre particuliers assez innovante. Je l’ai donc testée pour mieux pouvoir vous en parler.</p>
+  <p id="blog">Vous avez un ou deux vélos en trop. Vous n'avez que deux jambes pour 6 pédales et n'avez pas le temps ni l'argent pour entretenir tout ce mobilier. Disons qu'avant de devoir acheter un appartement pour loger ce beau monde, vous faites bien de vous renseigner pour louer un de vos vélos.</p>
 </div>
 
 
 <div class="col-xs-6">
-<p id="blog">Vous avez un ou deux vélos en trop. Vous n'avez que deux jambes pour 6 pédales et n'avez pas le temps ni l'argent pour entretenir tout ce mobilier. Disons qu'avant de devoir acheter un appartement pour loger ce beau monde, vous faites bien de vous renseigner pour louer un de vos vélos.</p>
+<p id="blog">Pas besoin de vous en faire la promo, si vous êtes sur cette page, c’est que vous en êtes déjà convaincu(e) : se déplacer à vélo c’est bien.
+Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer un vélo, j’ai trouvé la location entre particuliers assez innovante. Je l’ai donc testée pour mieux pouvoir vous en parler.</p>
+
+
+
 
 </div>
 </div>
@@ -41,43 +44,44 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 
 <div class="row"> 
   <div class="col-xs-6">
-<p id ="blog"><a href="#louerunvélo">Louer un vélo</a></p>
+  <p id ="blog"> <a href="#mettreenloc">Louer son vélo</a></p>
+
 </div>
 
 <div class="col-xs-6">
-<p id ="blog"> <a href="#mettreenloc">Mettre un vélo en location</a></p>
+<p id ="blog"><a href="#louerunvélo">Louer un vélo</a></p>
 
 </div>
 </div>
 
 
-<h2 id="mettreenloc">Mettre mon vélo en location</h2>
+<h2 id="mettreenloc">Louer son vélo</h2>
 
 
-<p id="blog">Pourquoi mettre son vélo en location ?</p>
+<p id="blog">Pourquoi louer son vélo ?</p>
 <p id="">La réponse est simple : louer son vélo constitue une source de revenue supplémentaire sans avoir à ne faire aucun investissement, supposé bien sur que vous ayez un vélo de libre dont vous ne vous servez pas.</p>
 
 <p id="blog">À quel prix louer son vélo ?</p>
 <p id="">En théorie tout dépend de l'offre et de la demande.<br/> 
   Si le nombre de vélos disponibles en location est inférieur au nombre de demandes de location, le prix augmente. À l'inverse si la demande est inférieure à l'offre, le prix baisse. Oui, mais cela reste en théorie, car la concurrence pure et parfait n'existe pas et en pratique, le marché n'étant pas transparent, vous ne pourrez jamais vraiment savoir si vous êtes en situation de sur- ou sous-capacité. donc comment faire:</p>
-  <ul>
+ 
   <li id="plan">Regardez la concurrence, en ligne par exemple. À quel prix sont mis des vélos similaires dans votre ville ? À Berlin 10€ en moyenne. </li>
   <li id="plan">Évaluez les avantages compétitifs de votre vélo par rapport à vos concurrents : état, options, confort etc... et ajustez en fonction de votre analyse. Si vous pensez avoir un meilleur vélo, n'hésitez pas à le louer plus cher.</li>
-  </ul> 
+ 
   <p>
   Vous n'avez pas de concurrents dans votre région ? Chanceux vous avez le monopole, c'est vous qui fixez les prix du marché.</p>
 
-<p id="blog">Comment mettre son vélo en location ? </p>
-<p id="">Il n’y a rien de plus simple : faites-le en ligne. Si vous êtes à Berlin ou en Allemagne par exemple vous pouvez vous créer un profil et une annonce en quelques clics seulement sur une des deux plateformes les plus utilisée : spinlister ou upperbike. En 5 minutes vos annonces sont en ligne et c’est gratuit.</p>
+<p id="blog">Comment louer son vélo ? </p>
+<p id="">Il n’y a rien de plus simple : faites-le en ligne. Si vous êtes à Berlin ou en Allemagne par exemple vous pouvez vous créer un profil et une annonce en quelques clics seulement sur une des deux plateformes les plus utilisée : spinlister ou upperbike. En quelques minutes vos annonces sont en ligne et c’est gratuit.</p>
 
 <p id="blog">Les limites de la mise en location de son vélo</p>
 <p id="">Propriétaires de vélos, vous aimeriez retrouver votre vélo en bon état. Renseignez-vous donc au préalable auprès de la plateforme utilisée pour la mise en location. Que se passe t-il en cas de perte ou de vol de votre vélo? En cas de crevaison de pneu ou de détérioration? Selon le site par lequel vous êtes passé, les solutions proposées divergent.<br/>
-  <p id =""> <a href="#marketplace">Voir le tableau comparatif des plateformes</a></p>
+  <p id =""> <a href="#marketplace">Voir le tableau comparatif des sites de location de vélos entre particuliers</a></p>
 </p>
 
-<p id="blog">Où mettre en son vélo en location?</p>
-<p id =""> <a href="#marketplace">Voir le tableau comparatif des plateformes</a></p>
-Selon votre pays je vous recommanderai les sites/applications suivantes:
+<p id="blog">Où louer son vélo?</p>
+<p id =""> <a href="#marketplace">Voir le tableau comparatif des sites de location</a></p>
+
 <table class="table" align="center">
   <thead>
       <tr>
@@ -94,6 +98,29 @@ Selon votre pays je vous recommanderai les sites/applications suivantes:
       </tr>
     </tbody>
   </table>
+
+<p id="blog">J'ai loué mon vélo sur Spinlister</p>
+<p>Depuis un mois environ, je loue deux vélos sur Spinlister. Voici mon avis:</p>
+
+<ul id="checkmark">
+
+<li id="checkmark"><div class="box">J'ai déjà reçu 4 demandes de location en un peu plus d'un mois, c'est plutôt pas mal. Attention peut être que selon les villes et les pays la demande fluctue. Pour ma part j'habite à Berlin.</div></li>
+
+<li id="checkmark"><div class="box">J'ai l'impression que les personnes recherchant à louer des vélos sur Spinlister cherchent des vélos haut de gammes, que l'on ne trouve pas dans une location de vélo classique. Je loue deux vélos : un <a href="https://www.spinlister.com/rides/27996-bike-road-berlin-berlin" target="blank">vélo de course</a> et un <a href="ttps://www.spinlister.com/rides/28523-bike-hybrid-berlin-berlin" target="blank">vélo de ville VTC</a>. Personne ne veut du VTC, les gens se jètent sur le vélo course, alors que franchement, en ville, je ne vois pas trop l'intérêt.</div></li>
+
+<li id="checkmark"><div class="box">Sur les 4 demandes, il s'agissait principalement de touristes, surtout des américains, ce qui s'explique car Spinlister est basée aux USA depuis plusieurs années, jouit donc plus forte notoriété là-bas. C'est moins le cas en Europe (pour l'instant). Une seule personne était de Berlin.</div></li>
+
+<li id="checkmark"><div class="box">On peut très bien négocier le prix de location. Le prix affiché au départ peut très bien être ensuite modifié. Le site est assez bien fait.</div></li>
+
+<li id="checkmark"><div class="box">Communication facile et simple avec les demandeurs de location par sms ou par e-mail, au choix</div></li>
+
+</ul>
+<ul id="crossmark">
+
+<li id="crossmark"><div class="box">Le problème : vous serez payés en USD. Si vous êtes en France ou en Allemagne, c'est un peu dommage. Il vous faut alors convertir en EUR et éventuellement payer des frais (à voir selon votre banque). Ceci dit il faut relativiser on parle de 0,10 centimes en moyenne. J'ai signalé ce problème à Spinlister, qui semblerait vouloir améliorer ce point prochainement.</div></li>
+</ul>
+
+<p>J'attends d'avoir d'autres réservations 
 
 
 <h2 id="louerunvélo">Louer un vélo auprès d'un particulier</h2>
@@ -201,7 +228,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
 
     <div class="col-xs-6">
     <div id="h150px">
-    <img src="/Images/veloloc.jpg" width="300px">
+    <img src="/Users/Max/Documents/batardo.github.io/Images/veloloc.jpg" width="300px" alt="louer un vélo à berlin">
     </div>
     <div id="h150px">
     <li id="plan">Vélo de course</li>
@@ -215,7 +242,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
 
     <div class="col-xs-6">
     <div id="h150px">
-    <img src="/Images/tanker.jpg" width="300px">
+    <img src="/Users/Max/Documents/batardo.github.io/Images/tanker.jpg" width="300px" alt="louer un vélo de ville à berlin">
     </div>
     <div id="h150px">
     <li id="plan">Vélo de ville / Randonnée</li>
