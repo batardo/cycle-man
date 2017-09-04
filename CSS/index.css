@@ -44,7 +44,7 @@ font-size: 18px;
 ul {
 list-style:none;
 margin-left:0;
-padding-left:0;
+padding-left:;
 padding-top:20px;
 padding-bottom:20px;
 }
@@ -815,6 +815,28 @@ font-size:20px
     padding-top:1px;
     padding-bottom:1px;
 }
+
+#checkmark {
+    list-style-image: url("/Users/Max/Documents/batardo.github.io/Images/chekmark.jpg");
+}
+
+
+
+#checkmark div.box {
+    display:inline-block;
+    vertical-align: top;
+
+}    
+
+#crossmark {
+    list-style-image: url("/Users/Max/Documents/batardo.github.io/Images/crossmark.jpg")
+}
+
+#crossmark div.box {
+    display:inline-block;
+    vertical-align: top;
+
+} 
 
 #h100px {
     height:100px;
