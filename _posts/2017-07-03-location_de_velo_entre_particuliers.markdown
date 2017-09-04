@@ -228,7 +228,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
 
     <div class="col-xs-6">
     <div id="h150px">
-    <img src="/Users/Max/Documents/batardo.github.io/Images/veloloc.jpg" width="300px" alt="louer un vélo à berlin">
+    <img src="/Images/veloloc.jpg" width="300px" alt="louer un vélo à berlin">
     </div>
     <div id="h150px">
     <li id="plan">Vélo de course</li>
@@ -242,7 +242,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
 
     <div class="col-xs-6">
     <div id="h150px">
-    <img src="/Users/Max/Documents/batardo.github.io/Images/tanker.jpg" width="300px" alt="louer un vélo de ville à berlin">
+    <img src="/Images/tanker.jpg" width="300px" alt="louer un vélo de ville à berlin">
     </div>
     <div id="h150px">
     <li id="plan">Vélo de ville / Randonnée</li>
