@@ -34,10 +34,6 @@ layout: default-fr
 <div class="col-xs-6">
 <p id="blog">Pas besoin de vous en faire la promo, si vous êtes sur cette page, c’est que vous en êtes déjà convaincu(e) : se déplacer à vélo c’est bien.
 Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer un vélo, j’ai trouvé la location entre particuliers assez innovante. Je l’ai donc testée pour mieux pouvoir vous en parler.</p>
-
-
-
-
 </div>
 </div>
 
@@ -75,9 +71,9 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 <p id="">Il n’y a rien de plus simple : faites-le en ligne. Si vous êtes à Berlin ou en Allemagne par exemple vous pouvez vous créer un profil et une annonce en quelques clics seulement sur une des deux plateformes les plus utilisée : spinlister ou upperbike. En quelques minutes vos annonces sont en ligne et c’est gratuit.</p>
 
 <p id="blog">Les limites de la mise en location de son vélo</p>
-<p id="">Propriétaires de vélos, vous aimeriez retrouver votre vélo en bon état. Renseignez-vous donc au préalable auprès de la plateforme utilisée pour la mise en location. Que se passe t-il en cas de perte ou de vol de votre vélo? En cas de crevaison de pneu ou de détérioration? Selon le site par lequel vous êtes passé, les solutions proposées divergent.<br/>
+<p id="">Propriétaires de vélos, vous aimeriez retrouver votre vélo en bon état. Renseignez-vous donc au préalable auprès de la plateforme utilisée pour la mise en location. Que se passe t-il en cas de perte ou de vol de votre vélo? En cas de crevaison de pneu ou de détérioration? Selon le site par lequel vous êtes passé, les solutions proposées divergent.<br/></p>
   <p id =""> <a href="#marketplace">Voir le tableau comparatif des sites de location de vélos entre particuliers</a></p>
-</p>
+
 
 <p id="blog">Où louer son vélo?</p>
 <p id =""> <a href="#marketplace">Voir le tableau comparatif des sites de location</a></p>
