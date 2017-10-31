@@ -120,7 +120,7 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 <li id="crossmark"><div class="box">Le problème : vous serez payés en USD. Si vous êtes en France ou en Allemagne, c'est un peu dommage. Il vous faut alors convertir en EUR et éventuellement payer des frais (à voir selon votre banque). Ceci dit il faut relativiser on parle de 0,10 centimes en moyenne. J'ai signalé ce problème à Spinlister, qui semblerait vouloir améliorer ce point prochainement.</div></li>
 </ul>
 
-<p>J'attends d'avoir d'autres réservations 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Co578kVb718?rel=0" frameborder="0" allowfullscreen></iframe></p>
 
 
 <h2 id="louerunvélo">Louer un vélo auprès d'un particulier</h2>
