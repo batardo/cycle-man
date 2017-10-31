@@ -41,7 +41,7 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 <div class="row"> 
   <div class="col-xs-6">
   <p align="center"><img src="/Images/louersonvelo.png" width=""></p>
-  <p id ="blog"> <a href="#louersonvélo">Louer son vélo<br/> et devenir riche (ou presque)</a></p>
+  <p id ="blog" align="center"> <a href="#louersonvélo">Louer son vélo<br/> et devenir riche (ou presque)</a></p>
 
 </div>
 
