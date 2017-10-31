@@ -222,8 +222,6 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
    
 <p id="blog">Avis sur Spinlister : j'ai testé le site et y ai mis deux vélo en location</p> 
 
-<div class="container blog">
-
   <div class="row">
 
     <div class="col-xs-6">
@@ -254,7 +252,6 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
     </div>
 
   </div>
-</div>
 
 <ul>Les plus : 
 <li id="plan">L' 'application facilite tout de suite la recherche de vélo pour les locataires grâce à la géolocalisation. </li>
