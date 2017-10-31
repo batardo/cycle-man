@@ -119,7 +119,7 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 
 <li id="crossmark"><div class="box">Le problème : vous serez payés en USD. Si vous êtes en France ou en Allemagne, c'est un peu dommage. Il vous faut alors convertir en EUR et éventuellement payer des frais (à voir selon votre banque). Ceci dit il faut relativiser on parle de 0,10 centimes en moyenne. J'ai signalé ce problème à Spinlister, qui semblerait vouloir améliorer ce point prochainement.</div></li>
 </ul>
-
+<p>Voici un aperçu de mon compte sur Spinlister : je vous montre dans cette vidéo comment trouver un vélo, à quoi ressemble les annonces, l'historique des locations, la communication avec les locataires, mon proil en temps que louer.</p>
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Co578kVb718?rel=0" frameborder="0" allowfullscreen></iframe></p>
 
 
@@ -139,7 +139,7 @@ Et puis vous pouvez réserver un vélo ! Admettons que vous prévoyiez de venir 
 <p id =""> <a href="#marketplaces">Tableau comparatif des plateformes</a></p>
 
 
-<h3 id="marketplace">Les plateformes de location de vélos particuliers</h3>
+<h3 id="marketplace">Les sites de location de vélos entre particuliers</h3>
 
 Parmi les places de marché spécialisées dans la location de vélo entre particuliers, je me suis inscrit sur deux d’en être elle. J’y ai mis un vélo en location. 
 
