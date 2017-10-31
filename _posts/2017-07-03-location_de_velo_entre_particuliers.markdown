@@ -40,18 +40,20 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 
 <div class="row"> 
   <div class="col-xs-6">
-  <p id ="blog"> <a href="#mettreenloc">Louer son vélo</a></p>
+  <p align="center"><img src="/Images/louersonvelo.png" width="50px"></p>
+  <p id ="blog"> <a href="#louersonvélo">Louer son vélo</a></p>
 
 </div>
 
 <div class="col-xs-6">
+<p align="center"><img src="/Images/louerunvelo.png" width="50px"></p>
 <p id ="blog"><a href="#louerunvélo">Louer un vélo</a></p>
 
 </div>
 </div>
 
 
-<h2 id="mettreenloc">Louer son vélo</h2>
+<h2 id="louersonvélo">Louer son vélo</h2>
 
 
 <p id="blog">Pourquoi louer son vélo ?</p>
@@ -137,7 +139,7 @@ Et puis vous pouvez réserver un vélo ! Admettons que vous prévoyiez de venir 
 
 <h3 id="marketplace">Les sites de location de vélos entre particuliers</h3>
 
-Parmi les places de marché spécialisées dans la location de vélo entre particuliers, je me suis inscrit sur deux d’en être elle. J’y ai mis un vélo en location. 
+Parmi les sites de location de vélo entre particuliers, je me suis inscrit sur deux d’en eux et y ai mis un vélo en location. 
 
 
 <table class="table" align="center">
@@ -216,7 +218,7 @@ Parmi les places de marché spécialisées dans la location de vélo entre parti
       
 
    
-<p id="blog">Avis sur Spinlister : j'ai testé le site et y ai mis deux vélo en location</p> 
+<p id="blog">Avis sur Spinlister : j'ai testé le site et y ai mis deux vélos en location</p> 
 
   <div class="row">
 
