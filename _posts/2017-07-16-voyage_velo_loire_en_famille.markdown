@@ -101,6 +101,11 @@ De Chaumont à Tours nous avons suivi l'Eurovélo 6, une route vélo qui travers
     </tbody>
   </table>
 
+<div class="container blog">
+<p>Cette randonnée vélo familiale le long de la Loire vous plaît? Partagez toutes les infos de cet article !</p>
+{% include share-bar.html %}
+</div>
+
 <p>Si vous avez fait d'autres expériences de voyage à vélo en famille sur ce trajet le long de la Loire, n'hésitez pas à m'en faire part, j'actualiserai ainsi cette page.</p>
 
 </div>

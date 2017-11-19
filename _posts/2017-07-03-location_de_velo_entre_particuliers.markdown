@@ -271,7 +271,7 @@ Parmi les sites de location de vélo entre particuliers, je me suis inscrit sur 
 <p id="blog">Je vais continuer mes recherches sur les plateformes et places de marchés existantes. Si vous en avez déjà testé quelques-unes, n’hésitez pas à me le signaler.</p>
 
 <div class="container blog">
-<p>Partagez toutes les infos sur la location de vélo entre particuliers</p>
+<p>Partagez toutes les infos de cet article sur la location de vélo entre particuliers</p>
 {% include share-bar.html %}
 </div>
 
