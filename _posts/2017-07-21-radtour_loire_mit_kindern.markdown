@@ -119,6 +119,9 @@ Von Chaumont bis Tour sind wir den <a href="https://de.eurovelo6-france.com/" ta
     </tbody>
   </table>
 
+<p>GPX Dateien und Fahrradkarten zu diesem Radweg an der Loire teilen:</p>
+{% include share-bar.html %}
+
 <p>Weitere Radtouren für Groß un Klein gesucht</p>
 Kennt ihr einen anderen Radweg, den ihr empfehlen könnt? Für Groß und Klein -  In Frankreich, Deutschland, oder überall in Europa. Gerne hier teilen.
 
