@@ -358,6 +358,10 @@ Manche Händler
  <div class="col-xs-6">
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Disponible sur Google Play' width="135px" height="40px" src='/Images/qq.png'/></a></p>
 </div>
+<div class="container blog">
+<p>Alle Informationen zur Fahrradcodierung einfach teilen</p>
+{% include share-bar.html %}
+</div>
 </div>
 </div> 
        
