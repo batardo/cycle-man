@@ -177,6 +177,15 @@ text-align: center;
 background-image: url("/Images/loire-min.webp");
 }
 
+#cyclotourisme{
+padding-top:175px;
+background-size:cover;
+height:600px;
+text-align: center;
+background-image: url(/Images/cyclotourisme-allemagne.JPG);
+background-attachment:fixed;
+}
+
 
 #startlisbon3{
 padding-top:175px;
@@ -440,6 +449,14 @@ margin-bottom:25px;
 }
 
 #startlisbon3 h1 {
+color: white;
+text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
+background:rgba(0,0,0,0.4);
+display:inline-block;
+margin-bottom:25px;
+}
+
+#cyclotourisme h1 {
 color: white;
 text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
 background:rgba(0,0,0,0.4);
