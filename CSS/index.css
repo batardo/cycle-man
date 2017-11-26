@@ -177,6 +177,7 @@ text-align: center;
 background-image: url("/Images/loire-min.webp");
 }
 
+
 #cyclotourisme{
 padding-top:175px;
 background-size:cover;
@@ -273,8 +274,15 @@ padding-top:80px;
 background-size:cover;
 height:300px;
 text-align: center;
-background-image: url("/Images/berlinstrasbourg-min.webp");
 background-attachment:fixed;
+}
+
+.webp #berlinstrasbourg{
+background-image: url("/Images/berlinstrasbourg-min.webp");
+}
+
+.no-webp #berlinstrasbourg{
+background-image: url("/Images/berlinstrasbourg-min.JPG");
 }
 
 #strasbourghendaye{
