@@ -13,14 +13,14 @@ layout: default-fr
 <div id="background-video" class="background-video">
 	</div>
 
-	<div class="container galerie blog">
+	<div class="container blog">
 	    <h1>Galerie de pochettes de billets de train SCNF</h1>
  	</div>
 
  	<div id="spacertop">
 	</div>
 
-<div class="container galerie blog">
+<div class="container blog">
 
 
 
