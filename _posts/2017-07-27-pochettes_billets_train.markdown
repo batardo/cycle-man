@@ -13,9 +13,9 @@ layout: default-fr
 <div id="background-video" class="background-video">
 	</div>
 
-	<div class="containergalerie">
-	    <h1>Galerie de pochettes de billets de train SCNF</h1>
- 	</div>
+<div class="containergalerie">
+	<p>Galerie de pochettes de billets de train SCNF</p>
+ </div>
 
  	<div id="spacertop">
 	</div>
@@ -23,8 +23,6 @@ layout: default-fr
 <div class="containergalerie">
 <div id="spacertop">
 	</div>
-
-
 
   <div class="row">
 
