@@ -272,7 +272,7 @@ background-attachment:fixed;
 #berlinstrasbourg{
 padding-top:80px;
 background-size:cover;
-height:300px;
+height:400px;
 text-align: center;
 background-attachment:fixed;
 background-image: url("/Images/berlinstrasbourg-min.webp");
@@ -281,7 +281,7 @@ background-image: url("/Images/berlinstrasbourg-min.webp");
 #strasbourghendaye{
 padding-top:80px;
 background-size:cover;
-height:300px;
+height:400px;
 text-align: center;
 background-image: url("/Images/jura-min.webp");
 background-attachment:fixed;
@@ -290,7 +290,7 @@ background-attachment:fixed;
 #hendayelisbon{
 padding-top:80px;
 background-size:cover;
-height:300px;
+height:400px;
 text-align: center;
 background-image: url("/Images/lisbon-min.webp");
 background-attachment:fixed;
@@ -300,7 +300,7 @@ background-attachment:fixed;
 #summary{
 padding-top:80px;
 background-size:cover;
-height:300px;
+height:400px;
 text-align: center;
 background-image: url("/Images/34steps-min.webp");
 background-attachment:fixed;
