@@ -20,7 +20,7 @@ ref: index
      <div id="spacertop">
      </div>
 
-      <div class="container blog" align="center">
+      <div class="container-fluid blog" align="center">
 
 
 
@@ -28,7 +28,7 @@ ref: index
         {% for post in posts %}
 
      <div class="row vcenter">
-         <div class="col-md-4">
+         <div class="col-md-4 col-sm-12">
 
     {% if post.title == 'Radweg von Karlsruhe nach Straßburg' %}
 <img class="" src="https://batardo.github.io/Images/ferry-min.JPG" alt="über den Rhein mit der Fähre" width="300">
@@ -49,7 +49,7 @@ ref: index
 
 </div>
 
-<div class="col-md-8">
+<div class="col-md-8 col-sm-12">
     <span>{{ post.date | date_to_string }}</span>&raquo; <a href="{{ post.url }}">{{ post.title }}</a>
    <p id="blogf">{{ post.description }}</p>
    <a href="{{ post.url }}" id="blogf">Artikel lesen</a>
