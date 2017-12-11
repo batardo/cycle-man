@@ -27,8 +27,8 @@ ref: index
        {% assign posts=site.posts | where:"lang", page.lang %}
         {% for post in posts %}
 
-     <div class="row">
-         <div class="col-sm-12">
+     <div class="row vcenter">
+         <div class="col-md-4">
 
     {% if post.title == 'Radweg von Karlsruhe nach Straßburg' %}
 <img class="" src="https://batardo.github.io/Images/ferry-min.JPG" alt="über den Rhein mit der Fähre" width="300">
@@ -48,11 +48,8 @@ ref: index
   {% endif %}
 
 </div>
-</div>
 
-<div class="row">
-
-<div class="col-sm-12">
+<div class="col-md-8">
     <span>{{ post.date | date_to_string }}</span>&raquo; <a href="{{ post.url }}">{{ post.title }}</a>
    <p id="blogf">{{ post.description }}</p>
    <a href="{{ post.url }}" id="blogf">Artikel lesen</a>
