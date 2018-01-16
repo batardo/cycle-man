@@ -7,22 +7,16 @@ comments: true
 layout: default-fr
 ---
 
-<div id="spacertop">
-	</div>
 
-<div id="background-video" class="background-video">
-	</div>
-
-<div class="container">
-	<h1>Galerie de pochettes de billets de train SCNF</h1>
+<div class="container blog">
+  <h1>Galerie de pochettes de billets de train SCNF</h1>
  </div>
+
 
  	<div id="spacertop">
 	</div>
 
 <div class="containergalerie">
-<div id="spacertop">
-	</div>
 
   <div class="row">
 
@@ -258,49 +252,4 @@ layout: default-fr
 		</div>
 
 </div>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<!-- ADD Jquery Video Background -->
-  <script src="/js/jquery.youtubebackground.js"></script>
-  <script>
-    jQuery(function($) {
-               $('#module-video').YTPlayer({
-                 fitToBackground: false,
-                 videoId: '1-Mbnnoo3cA',
-                 pauseOnScroll: false,
-                 playerVars: {
-                   modestbranding: 0,
-                   autoplay: 1,
-                   controls: 1,
-                   showinfo: 0,
-                   branding: 0,
-                   rel: 0,
-                   autohide: 0
-                 }
-               });
-               
-   $('#background-video').YTPlayer({
-                 fitToBackground: true,
-                 videoId: '1-Mbnnoo3cA',
-                 pauseOnScroll: true,
-                 callback: function() {
-                   videoCallbackEvents();
-                 }
-               });
-      
-      var videoCallbackEvents = function() {
-        var player = $('#background-video').data('ytPlayer').player;
-      
-        player.addEventListener('onStateChange', function(event){
-            console.log("Player State Change", event);
-            // OnStateChange Data
-            if (event.data === 0) {          
-                console.log('video ended');
-            }
-            else if (event.data === 2) {          
-              console.log('paused');
-            }
-        });
-      }
-    });
-  </script>
 
