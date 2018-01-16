@@ -12,11 +12,7 @@ layout: default-fr
   <h1>Galerie de pochettes de billets de train SCNF</h1>
  </div>
 
-
- 	<div id="spacertop">
-	</div>
-
-<div class="containergalerie">
+ <div class="containergalerie">
 
   <div class="row">
 
