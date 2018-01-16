@@ -9,7 +9,7 @@ layout: default-fr-no-index
 <div id="background-video" class="background-video">
   </div>
 
-<div class="container">
+<div class="containerradbahn">
   <h1>Radbahn : L'autoroute vélo berlinois</h1>
  </div>
 
