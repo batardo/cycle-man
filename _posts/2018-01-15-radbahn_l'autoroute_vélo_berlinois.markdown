@@ -6,7 +6,13 @@ category: blog
 comments: true
 layout: default-fr-no-index
 ---
+<div id="background-video" class="background-video">
+  </div>
 
+<div class="container">
+  <h1>Galerie de pochettes de billets de train SCNF</h1>
+ </div>
+ 
 <div class="container blog" align="center">
 
 <p>Peu de personnes en parlent ou écrivent en France sur ce projet, qui est pourtant à la fois innovant et plein de bon sens. Comme j'habite sur place, j'en profite pour faire passer l'information et qui sait peut être, donner des idées... 
@@ -43,3 +49,50 @@ Les prochaines échéances :</p>
 {% include share-bar.html %}
 
 </div>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<!-- ADD Jquery Video Background -->
+  <script src="/js/jquery.youtubebackground.js"></script>
+  <script>
+    jQuery(function($) {
+               $('#module-video').YTPlayer({
+                 fitToBackground: false,
+                 videoId: 'fHmxy4046nI',
+                 pauseOnScroll: false,
+                 playerVars: {
+                   modestbranding: 0,
+                   autoplay: 1,
+                   controls: 1,
+                   showinfo: 0,
+                   branding: 0,
+                   rel: 0,
+                   autohide: 0
+                 }
+               });
+               
+   $('#background-video').YTPlayer({
+                 fitToBackground: true,
+                 videoId: 'fHmxy4046nI',
+                 pauseOnScroll: true,
+                 callback: function() {
+                   videoCallbackEvents();
+                 }
+               });
+      
+      var videoCallbackEvents = function() {
+        var player = $('#background-video').data('ytPlayer').player;
+      
+        player.addEventListener('onStateChange', function(event){
+            console.log("Player State Change", event);
+            // OnStateChange Data
+            if (event.data === 0) {          
+                console.log('video ended');
+            }
+            else if (event.data === 2) {          
+              console.log('paused');
+            }
+        });
+      }
+    });
+  </script>
