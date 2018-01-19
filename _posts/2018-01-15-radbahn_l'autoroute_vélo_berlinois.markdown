@@ -52,11 +52,11 @@ L'équation est la suivante : + de vélos =  - de voitures + + de place dans le 
 
 <p id="radbahn">Les avancées du projet</p>
 <p>Pour l'instant le projet est encore à l'étude.
-Un livre à été publié en français et en allemand. En l'achetant
+Un livre à été publié en français et en allemand. 
 Les prochaines échéances :</p>
 
 <p id="radbahn">Soutenir Radbahn</p>
-<p>Voici le lien vers le site officiel où vous pourrez faire un bon.</p> 
+<p>Voici le lien vers le site officiel où vous pourrez faire un don.</p> 
 
 
 <p>Partagez cet article</p>

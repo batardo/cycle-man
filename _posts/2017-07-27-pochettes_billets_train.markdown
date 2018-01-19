@@ -10,7 +10,7 @@ layout: default-fr
 
 <div class="container blog">
   <h1>Galerie de pochettes de billets de train SCNF</h1>
- </div>
+
 
  <div class="containergalerie">
 
@@ -247,5 +247,6 @@ layout: default-fr
 		  </div>
 		</div>
 
+</div>
 </div>
 
