@@ -961,6 +961,13 @@ font-size:20px
     background-color: #444444;
 }
 
+.container {
+  border-radius: 6px;
+  background: white;
+  padding: 0 30px 0 30px;
+  margin: 30px auto;
+}
+
 /* Default to hide the video on all devices */
 #video{display:none}
 
