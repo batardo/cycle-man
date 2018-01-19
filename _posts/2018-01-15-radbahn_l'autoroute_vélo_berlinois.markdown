@@ -9,7 +9,7 @@ layout: default-fr
 <div id="fullScreenDiv">
         <img src="" id="videosubstitute" alt="">
         <div id="videoDiv">           
-            <video preload="preload" id="video" autoplay="autoplay" loop="loop">
+            <video controls muted preload="preload" id="video" autoplay="autoplay" loop="loop">
             <source src="/Videos/radbahn.webm" type="video/webm"></source>
             <source src="/Videos/radbahn.mp4" type="video/mp4"></source>
             </video> 
