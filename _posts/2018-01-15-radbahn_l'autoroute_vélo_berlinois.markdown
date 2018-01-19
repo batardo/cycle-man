@@ -4,14 +4,20 @@ description : C'est comme si vous faisiez Paris-Lyon en départementale et qu'un
 lang: fr
 category: blog
 comments: true
-layout: default-fr-no-index
+layout: default-fr
 ---
-<div id="background-video" class="background-video">
-  </div>
-
-<div class="containerradbahn">
-  <h1>Radbahn : L'autoroute vélo berlinois</h1>
- </div>
+<div id="fullScreenDiv">
+        <img src="" id="videosubstitute" alt="">
+        <div id="videoDiv">           
+            <video preload="preload" id="video" autoplay="autoplay" loop="loop">
+            </video> 
+        </div>
+        <div id="messageBox"> 
+            <div>
+                <h1>Radbahn : L'autoroute vélo berlinois</h1>
+            </div>
+        </div>   
+    </div>
 
 <div class="container blog" align="center">
 
@@ -49,50 +55,3 @@ Les prochaines échéances :</p>
 {% include share-bar.html %}
 
 </div>
-
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<!-- ADD Jquery Video Background -->
-  <script src="/js/jquery.youtubebackground.js"></script>
-  <script>
-    jQuery(function($) {
-               $('#module-video').YTPlayer({
-                 fitToBackground: false,
-                 videoId: 'fHmxy4046nI',
-                 pauseOnScroll: false,
-                 playerVars: {
-                   modestbranding: 0,
-                   autoplay: 1,
-                   controls: 1,
-                   showinfo: 0,
-                   branding: 0,
-                   rel: 0,
-                   autohide: 0
-                 }
-               });
-               
-   $('#background-video').YTPlayer({
-                 fitToBackground: true,
-                 videoId: 'fHmxy4046nI',
-                 pauseOnScroll: true,
-                 callback: function() {
-                   videoCallbackEvents();
-                 }
-               });
-      
-      var videoCallbackEvents = function() {
-        var player = $('#background-video').data('ytPlayer').player;
-      
-        player.addEventListener('onStateChange', function(event){
-            console.log("Player State Change", event);
-            // OnStateChange Data
-            if (event.data === 0) {          
-                console.log('video ended');
-            }
-            else if (event.data === 2) {          
-              console.log('paused');
-            }
-        });
-      }
-    });
-  </script>
