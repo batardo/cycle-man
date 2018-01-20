@@ -7,7 +7,7 @@ comments: true
 layout: default-fr
 ---
 <div id="fullScreenDiv">
-        <img src="" id="videosubstitute" alt="">
+        <img src="/Images/radbahn-min.png" id="videosubstitute" alt="radbahn berlin" width="300px">
         <div id="videoDiv">           
             <video muted preload="preload" id="video" autoplay="autoplay" loop="loop">
             <source src="/Videos/radbahn.webm" type="video/webm"></source>
