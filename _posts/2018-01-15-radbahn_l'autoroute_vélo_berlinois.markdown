@@ -9,10 +9,10 @@ layout: default-fr
 <div id="fullScreenDiv">
         <img src="/Images/radbahn-min.png" id="videosubstitute" alt="radbahn berlin" width="300px">
         <div id="videoDiv">           
-            <video muted preload="preload" id="video" autoplay="autoplay" loop="loop">
-            <source src="/Videos/radbahn.webm" type="video/webm"></source>
-            <source src="/Videos/radbahn.mp4" type="video/mp4"></source>
-            </video> 
+          <video muted preload="preload" id="video" autoplay="autoplay" loop="loop">
+          <source src="/Videos/radbahn.webm" type="video/webm"></source>
+          <source src="/Videos/radbahn.mp4" type="video/mp4"></source>
+          </video> 
         </div>
         <div id="messageBox"> 
             <div>
@@ -23,7 +23,7 @@ layout: default-fr
 
 <div class="container blog" align="center">
 
-<p>Peu de personnes en parlent ou écrivent en France sur ce projet, qui est pourtant à la fois innovant et plein de bon sens. Comme j'habite sur place à Berlin, j'en profite pour faire passer l'information et qui sait peut être, donner des idées...<p>
+<p>Peu de personnes en parlent ou écrivent en France sur ce projet, qui est pourtant à la fois innovant et plein de bon sens. Comme j'habite sur place à Berlin, j'en profite pour faire passer l'information et qui sait peut être, donner des idées...</p>
 
 <p id="radbahn">Radbahn, ça veut dire quoi?</p>
 <p>
