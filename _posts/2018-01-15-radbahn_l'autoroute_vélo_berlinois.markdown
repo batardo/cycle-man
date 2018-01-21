@@ -21,7 +21,7 @@ layout: default-fr
         </div>   
     </div>
 
-<div class="container blog" align="center">
+<div class="container2 blog" align="center">
 
 <p>Peu de personnes en parlent ou écrivent en France sur ce projet, qui est pourtant à la fois innovant et plein de bon sens. Comme j'habite sur place à Berlin, j'en profite pour faire passer l'information et qui sait peut être, donner des idées...</p>
 
