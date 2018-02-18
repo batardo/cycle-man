@@ -14,10 +14,25 @@
 
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="jquery.youtubebackground.js"></script>	
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+        <!-- Core CSS file -->
+    <link rel="stylesheet" href="photoswipe.css"> 
+
+    <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+         In the folder of skin CSS file there are also:
+         - .png and .svg icons sprite, 
+         - preloader.gif (for browsers that do not support CSS animations) -->
+    <link rel="stylesheet" href="default-skin/default-skin.css"> 
+
+    <!-- Core JS file -->
+    <script src="photoswipe.min.js"></script> 
+
+    <!-- UI JS file -->
+    <script src="photoswipe-ui-default.min.js"></script> 
 
      </head>
 
@@ -73,7 +88,7 @@ comments: true
     <div class="col-md-3">
       
         <div id="h100px">
-      <p align="center"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/germany.png" width="100px" height="100px" alt="germany"> </p>
+      <p align="center"><img src="/Users/Max/Documents/batardo.github.io/Images\/germany.png" width="100px" height="100px" alt="germany"> </p>
       </div>
 
       <p align="center">Germany</p>
@@ -89,7 +104,7 @@ comments: true
     <div class="col-md-3">
       
       <div id="h100px">
-      <p align="center"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/france.png" width="100px" height="100px" alt="france"></p>
+      <p align="center"><img src="/Users/Max/Documents/batardo.github.io/Images\/france.png" width="100px" height="100px" alt="france"></p>
       </div>
 
 
@@ -106,7 +121,7 @@ comments: true
     <div class="col-md-3">
 
     <div id="h100px">
-      <p align="center"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/spain.png" width="100px" height="100px" alt="spain"></p>
+      <p align="center"><img src="/Users/Max/Documents/batardo.github.io/Images\/spain.png" width="100px" height="100px" alt="spain"></p>
     </div>
       
       <p align="center">Spain</p>
@@ -122,7 +137,7 @@ comments: true
     <div class="col-md-3">
 
     <div id="h100px">
-      <p align="center"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/portugal.png" width="100px" height="100px" alt="portugal"></p>
+      <p align="center"><img src="/Users/Max/Documents/batardo.github.io/Images\/portugal.png" width="100px" height="100px" alt="portugal"></p>
     </div>
       
       <p align="center">Portugal</p>
@@ -148,9 +163,9 @@ comments: true
 
 <a href="https://en.komoot.de/tour/8229122/embed" target=_blank>
 <picture>
-  <source srcset="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/summary-min.webp" type="image/webp">
-  <source srcset="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/sumary-min.JPG" type="image/jpeg"> 
-  <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/sumary-min.JPG" alt="bike route european bike tour">
+  <source srcset="/Users/Max/Documents/batardo.github.io/Images\/summary-min.webp" type="image/webp">
+  <source srcset="/Users/Max/Documents/batardo.github.io/Images\/sumary-min.JPG" type="image/jpeg"> 
+  <img src="/Users/Max/Documents/batardo.github.io/Images\/sumary-min.JPG" alt="bike route european bike tour">
 </picture>
 </a>
     </div>
@@ -168,12 +183,12 @@ comments: true
   <div class="container blog" align="">
      <div class="row">
          <div class="col-md-6" id="maps"> 
-        <li><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/map.png" alt="map" id="thxlistshawo">Maps</li>
+        <li><img src="/Users/Max/Documents/batardo.github.io/Images/map.png" alt="map" id="thxlistshawo">Maps</li>
         I used the komoot maps to plan my tour. There you also get the road type (dirt road, asphalt...) which is quite nice if you a ride race bike with thin tyres like me. To get more details, clic on the map (see below), use <button>+</button> for zoom. If you have a <a href="https://www.komoot.com/" target="_blank">Komoot</a> account (free registration), you will also get feedback from other bikers who biked on the route you plan (pictures, reviews...).
          </div>
 
          <div class="col-md-6" id="gps">      
-          <li><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/gps.png" alt="gps" id="thxlistshawo">GPS Tracks</li>
+          <li><img src="/Users/Max/Documents/batardo.github.io/Images/gps.png" alt="gps" id="thxlistshawo">GPS Tracks</li>
         I recorded the bike route with my GPS and posted all tracks in each step of my bike tour. Please note (1) that the files are in .fit format. If you need to convert them in .gpx or any other file format, you could use this app <a href="http://www.gpsies.com/upload.do?uploadMode=convert&language=fr" target="_blank">GPSies</a>. Please note (2) that I had to pause and turn off my GPS to save battery, wich is why the tracks are sometimes split in several parts... If you have time and want to, you can "repair" the files and combine them using the <a href="https://www.fitfiletools.com/#/top" target="_blank">.fit combiner</a> from strava. 
          </div>
          </div>
@@ -181,14 +196,14 @@ comments: true
          <div class="row">
          <div class="col-md-6">
          <div id="acommodation">
-         <li><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/accomodation.png" alt="accomodation" id="thxlistshawo">Tips for accommodation</li>
+         <li><img src="/Users/Max/Documents/batardo.github.io/Images/accomodation.png" alt="accomodation" id="thxlistshawo">Tips for accommodation</li>
          I do recommend that you register on <a href="https://www.komoot.com/" target="_blank">Warm Showers</a>. People on Warm Showers are most of the time bikers enjoying touring and bike hollidays. So they know the spirit in which you are when you arrive from a 150km riding days. I met really nice people there, relaxed, generous, open. My other options were to sleep in hostels or to camp. You will find all details in the below overview.
           </div>
         </div>
 
         <div class="col-md-6">
          <div id="acommodation">
-         <li><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/pictures.jpg" alt="picture" id="thxlistshawo">Pictures</li>
+         <li><img src="/Users/Max/Documents/batardo.github.io/Images/pictures.jpg" alt="picture" id="thxlistshawo">Pictures</li>
          I biked through 4 different countries and regions of Europe, (Germany, France, Spain and Portugal) which do have totally different landscapes and weathers. I will try to transmit you impressions they conveyed in the picture gallery. All pictures made by myself. Enjoy.
           </div>
           </div>
@@ -224,13 +239,13 @@ comments: true
       <tr>
       <th>#</th>
         <th>Note</th>
-        <th>From <img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrow.png> to</th>
+        <th>From <img src=/Users/Max/Documents/batardo.github.io/Images\/arrow.png> to</th>
         <th>km</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrowup.png> m</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrowdown.png> m</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/accomodation_s.png ></th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/map.png width="20">Map</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/gps.png width="20"> GPX</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/arrowup.png> m</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/arrowdown.png> m</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/accomodation_s.png ></th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/map.png width="20">Map</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/gps.png width="20"> GPX</th>
         <th>Review</th>
       </tr>
     </thead>
@@ -239,117 +254,117 @@ comments: true
       
      <tr>
      <th scope="row">1</th>
-        <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\3stars.png">
+        <td><img src="/Users/Max/Documents/batardo.github.io/Images\3stars.png">
         <td>Berlin to Lutherstadt</td>
         <td>98</td>
         <td>420</td>
         <td>390</td>
         <td><a href="http://www.jugendherberge-wittenberg.de/" target="_blank">Hostel</a></td>
-        <td><a href="https://en.komoot.de/tour/11749387/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/Routes/11749387_01-min.JPG" alt="map bike route from berlin to Wittenberg Lutherstadt" width="100"></a></td>
+        <td><a href="https://en.komoot.de/tour/11749387/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images/Routes/11749387_01-min.JPG" alt="map bike route from berlin to Wittenberg Lutherstadt" width="100"></a></td>
         <td><a href="/carte/2016-04-18-09-58-34.fit" download>Download GPX</a></td>
         <td>The bikeway follows the "Bundestraße 1" / National road (not very exciting) but Lutherstadt-Wittenberg is a nice little city. Youth hostel : cheap, clean, good.</td>
       </tr>
 
       <tr>
       <th scope="row">2</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\2stars.png">
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\2stars.png">
         <td>Lutherstadt to Leipzig</td>
         <td>69</td>
         <td>340</td>
         <td>300</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
-        <td><a href="https://en.komoot.de/tour/11749492/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/Routes/11749492_02-min.JPG" alt="cycle path from Wittenberg Lutherstadt to Leipzig" width="100"</a></td>
+        <td><a href="https://en.komoot.de/tour/11749492/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images/Routes/11749492_02-min.JPG" alt="cycle path from Wittenberg Lutherstadt to Leipzig" width="100"</a></td>
         <td><a href="/carte/2016-04-19-10-19-19.fit" download>Download GPX</a></td>
         <td>Cycling on cycle path and quite road. Flat. Very easy step (a bit boring maybe).</td>
       </tr>
 
       <tr>
       <th scope="row">3</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png">
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png">
         <td>Leipzig to Jena</td>
         <td>90</td>
         <td>760</td>
         <td>540</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
-        <td><a href="https://en.komoot.de/tour/11749603/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/Routes/11749603_03-min.JPG" alt="cycle path from Leipzig to Jena" width="100"></a></td>
+        <td><a href="https://en.komoot.de/tour/11749603/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images/Routes/11749603_03-min.JPG" alt="cycle path from Leipzig to Jena" width="100"></a></td>
         <td><a href="/carte/2016-04-20-09-23-38.fit" download>Download GPX</a></td>
         <td>From Leipzig to Lützen : great cycle way in the middle of nowhere. Jena-Cospeda is very high. You might stay in the Jena-center. </td>
       </tr>
 
       <tr>
       <th scope="row">4</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png">
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png">
         <td>Jena to Ilmenau</td>
         <td>85</td>
         <td>620</td>
         <td>460</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
-        <td><a href="https://en.komoot.de/tour/11749750/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/Routes/11749750_04-min.JPG" alt="cycle path from Jena to Illmenau" width="100"></a></td>
+        <td><a href="https://en.komoot.de/tour/11749750/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images/Routes/11749750_04-min.JPG" alt="cycle path from Jena to Illmenau" width="100"></a></td>
         <td><a href="/carte/2016-04-21-08-15-52.fit" download>Download GPX</a></td>
         <td>Following the "ilm" river. Very nice cycle path. More information about the "Ilmtal" bike route <a href="http://www.ilmtal-radweg.de/de/cycle-route/" target="_blank">here</a>.</td>
       </tr>
 
       <tr>
       <th scope="row">5</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png">
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png">
         <td>Ilmenau to Schweinfurt</td>
         <td>130</td>
         <td>1690</td>
         <td>1960</td>
         <td><a href="http://www.jugendgaestehaus-schweinfurt.de/home.html" target="_blank">Hostel</a></td>
-        <td><a href="https://en.komoot.de/tour/11750127/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/Routes/11750127_05-min.JPG" alt="cycle path from Illmenau to Schweinfurt" width="100"></a></td>
+        <td><a href="https://en.komoot.de/tour/11750127/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images/Routes/11750127_05-min.JPG" alt="cycle path from Illmenau to Schweinfurt" width="100"></a></td>
         <td><a href="/carte/2016-04-22-09-03-34.fit" download>Download GPX</a></td>
         <td>Challenging. Climbing up to 800 meters until Rennsteig then descending to Sühl through the "Thrüringer" Forest. Very nice hostel at Schweinfurt.</td>
       </tr>
 
        <tr>
        <th scope="row">6</th>
-       <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\3stars.png">
+       <td><img src="/Users/Max/Documents/batardo.github.io/Images\3stars.png">
         <td>Schweinfurt to Würzburg</td>
         <td>47</td>
         <td>320</td>
         <td>340</td>
         <td>Hostel</td>
-        <td><a href="https://en.komoot.de/tour/11750188/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/Routes/11750188_06-min.JPG" alt="cycle path from Schweinfurt to Würzburg" width="100"></a></td>
+        <td><a href="https://en.komoot.de/tour/11750188/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images/Routes/11750188_06-min.JPG" alt="cycle path from Schweinfurt to Würzburg" width="100"></a></td>
         <td><a href="/carte/2016-04-23-10-09-59.fit" download>Download GPX</a></td>
         <td>Busy roads. No bike way. But Würzburg is a nice city for a break.</td>
       </tr>
 
        <tr>
        <th scope="row">7</th>
-       <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+       <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Würzburg to Mosbach</td>
         <td>119</td>
         <td>1080</td>
         <td>1120</td>
         <td><a href="http://www.jugendherberge.de/en/youth-hostels/mosbach-neckarelz18/Portrait" target="_blank">Hostel</a></td>
-        <td><a href="https://en.komoot.de/tour/11750325/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/Routes/11750325_07-min.JPG" alt="cycle path from Würzburg to Mosbach" width="100"></a></td>
+        <td><a href="https://en.komoot.de/tour/11750325/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images/Routes/11750325_07-min.JPG" alt="cycle path from Würzburg to Mosbach" width="100"></a></td>
         <td><a href="/carte/2016-04-24-09-18-05.fit" download>Download GPX</a></td>
         <td>Challenging: ascending, descending. Bike route on the road, without traffic. Super youth hostel in Mosbach.</td>
       </tr>
 
        <tr>
        <th scope="row">8</th>
-       <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\1star.png">
+       <td><img src="/Users/Max/Documents/batardo.github.io/Images\1star.png">
         <td>Mosbach to Karlsruhe</td>
         <td>85</td>
         <td>730</td>
         <td>770</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
-        <td><a href="https://en.komoot.de/tour/11750352/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/Routes/11750352_08-min.JPG" alt="cycle path from Mosbach to Karlsruhe" width="100"></a></td>
+        <td><a href="https://en.komoot.de/tour/11750352/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images/Routes/11750352_08-min.JPG" alt="cycle path from Mosbach to Karlsruhe" width="100"></a></td>
         <td><a href="/carte/2016-04-25-09-48-27.fit" download>Download GPX</a></td>
         <td>Find another way. Only busy roads. Not fun.</td>
       </tr>
 
        <tr>
        <th scope="row">9</th>
-       <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png">
+       <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png">
         <td>Karlsruhe to Strasbourg</td>
         <td>84</td>
         <td>190</td>
         <td>160</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Airbnb</a></td>
-        <td><a href="https://en.komoot.de/tour/11750427/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images/Routes/11750427_09-min.JPG" alt="cycle path from Karlsruhe to Straßburg" width="100"></a></td>
+        <td><a href="https://en.komoot.de/tour/11750427/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images/Routes/11750427_09-min.JPG" alt="cycle path from Karlsruhe to Straßburg" width="100"></a></td>
         <td><a href="/carte/2016-04-26-12-16-45.fit" download>Download GPX</a></td>
         <td>Nice cycle path after Rastat along the "rhine" river. Jump on a ferry boat to cross the border/river. Then from Drusenhein down to Strasbourg following bike way. Strasbourg is bike friendly.</td>
       </tr>
@@ -385,13 +400,13 @@ comments: true
       <tr>
       <th>#</th>
         <th>Note</th>
-        <th>From <img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrow.png> to</th>
+        <th>From <img src=/Users/Max/Documents/batardo.github.io/Images\/arrow.png> to</th>
         <th>km</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrowup.png> m</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrowdown.png> m</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/accomodation_s.png ></th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/map.png width="20">Map</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/gps.png width="20"> GPX</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/arrowup.png> m</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/arrowdown.png> m</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/accomodation_s.png ></th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/map.png width="20">Map</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/gps.png width="20"> GPX</th>
         <th>Review</th>
       </tr>
     </thead>
@@ -399,14 +414,14 @@ comments: true
     <tbody>
      <tr>
      <th scope="row">1</th>
-     <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\5stars.png"></td>
+     <td><img src="/Users/Max/Documents/batardo.github.io/Images\5stars.png"></td>
         <td>Strasbourg to Colmar</td>
         <td>75</td>
         <td>120</td>
         <td>70</td>
         <td><a href="http://www.hifrance.org/auberge-de-jeunesse/colmar.html?page=article" target="_blank">Hostel</a>
         <td><a href="https://www.komoot.com/tour/11750427/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/11750458_10-min.JPG"  alt="Bike route from Straßburg to Colmar" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/11750458_10-min.JPG"  alt="Bike route from Straßburg to Colmar" width="100">
           </a></td>
         <td><a href="carte/2016-04-28-11-32-49.fit" download>Download GPX</a></td>
         <td>Flat cyclepath from Strasbourg to Colmar along the rhin-rhône canal in between the moutains Vosges and Black forest. Colmar must be seen.</td>
@@ -414,28 +429,28 @@ comments: true
 
        <tr>
        <th scope="row">2</th>
-       <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\3stars.png"></td>
+       <td><img src="/Users/Max/Documents/batardo.github.io/Images\3stars.png"></td>
         <td>Colmar to Belfort</td>
         <td>85</td>
         <td>570</td>
         <td>410</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
         <td><a href="https://en.komoot.de/tour/11750510/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/11750510_11-min.JPG" width="100" alt="Bike route from Colmar to Belfort" width="100"></a></td>
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/11750510_11-min.JPG" width="100" alt="Bike route from Colmar to Belfort" width="100"></a></td>
         <td><a href="carte/2016-05-01-13-45-39.fit" download>Download GPX</a></td>
         <td>Bike route on "depatementales" kind of country roads.</td>
       </tr>
 
       <tr>
       <th scope="row">3</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\3stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\3stars.png"></td>
         <td>Belfort to Montbéliard</td>
         <td>35</td>
         <td>60</td>
         <td>100</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
         <td><a href="https://en.komoot.de/tour/11750531/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/11750531_12-min.JPG"  alt="Bike route from Belfort to Montbéliard" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/11750531_12-min.JPG"  alt="Bike route from Belfort to Montbéliard" width="100">
           </a></td>
         <td><a href="carte/2016-05-02-09-04-46.fit" download>Download GPX</a></td>
         <td>Eurovélo 6 cycle route.</td>
@@ -443,14 +458,14 @@ comments: true
 
       <tr>
       <th scope="row">4</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Montbéliard to Besançon</td>
         <td>99</td>
         <td>610</td>
         <td>670</td>
         <td><a href="http://www.hifrance.org/auberge-de-jeunesse/besancon.html" target="_blank">Hostel</a>
         <td><a href="https://en.komoot.de/tour/11750591/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/11750591_13-min.JPG"  alt="Bike route from Montbéliard to Besançon" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/11750591_13-min.JPG"  alt="Bike route from Montbéliard to Besançon" width="100">
           </a></td>
         <td><a href="carte/2016-05-03-09-14-28.fit" download>Download GPX</a></td>
         <td>Eurovélo 6 cycle route. Descending the river "doubs". Great bikeway, and infrasctructures. Also suitable with kids.</td>
@@ -458,14 +473,14 @@ comments: true
 
       <tr>
       <th scope="row">5</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Besançon to Dole</td>
         <td>70</td>
         <td>210</td>
         <td>250</td>
         <td><a href="http://www.habitatjeuneslesoiseaux.fr/" target="_blank">Hostel</a>
         <td><a href="https://en.komoot.de/tour/11750622/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/11750622_14-min.JPG"  alt="Bike route from Besançon to Dôle" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/11750622_14-min.JPG"  alt="Bike route from Besançon to Dôle" width="100">
           </a></td>
         <td><a href="carte/2016-05-04-10-07-12.fit" download>Download GPX</a></td>
         <td>Eurovélo 6 cycle route. Descending the river "doubs". </td>
@@ -473,14 +488,14 @@ comments: true
 
       <tr>
       <th scope="row">6</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Dole to Chalon-sur-saône</td>
         <td>100</td>
         <td>230</td>
         <td>250</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
         <td><a href="https://en.komoot.de/tour/11750653/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/11750653_15-min.JPG"  alt="Bike route from Dôle to Chalon sur saone" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/11750653_15-min.JPG"  alt="Bike route from Dôle to Chalon sur saone" width="100">
           </a></td>
         <td><a href="carte/2016-05-05-09-13-16.fit" download>Download GPX</a></td>
         <td>Eurovélo 6 cycle route. Descending the river "doubs" and finally the "soane".</td>
@@ -488,14 +503,14 @@ comments: true
 
       <tr>
       <th scope="row">7</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Chalon-sur-saône to Paray-le-Monial</td>
         <td>110</td>
         <td>570</td>
         <td>520</td>
         <td><a href="http://www.6io.fr/chambre_hote_gite_paray_le_monial/Accueil.html" target="_blank">Bed & Breakfast</a></td>
         <td><a href="https://en.komoot.de/tour/11750829/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/11750829_16-min.JPG"  alt="Bike route from Châlon sur Saone to Paray-le-Monial" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/11750829_16-min.JPG"  alt="Bike route from Châlon sur Saone to Paray-le-Monial" width="100">
           </a></td>
         <td><a href="carte/2016-05-06-09-46-33.fit" download>Download GPX</a></td>
         <td>Bikway following the canal "canal du centre", </td>
@@ -503,14 +518,14 @@ comments: true
 
       <tr>
       <th scope="row">8</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Paray-le-Monial to Saulcet</td>
         <td>95</td>
         <td>540</td>
         <td>520</td>
         <td><a href="https://www.airbnb.fr/rooms/3830360" target="_blank">Gasthaus</a></td>
         <td><a href="https://en.komoot.de/tour/12376574/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes//12376574_17-min.JPG"  alt="Bike route from Paray-le-Monial to Saulcet" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes//12376574_17-min.JPG"  alt="Bike route from Paray-le-Monial to Saulcet" width="100">
           </a></td>
         <td><a href="carte/2016-05-07-10-02-21.fit" download>Download GPX</a></td>
         <td>Bike route on roads, small country roads, without cars, entering in some kind of "lost" regions from France.</td>
@@ -518,14 +533,14 @@ comments: true
 
       <tr>
       <th scope="row">9</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Saulcet to Auzances</td>
         <td>100</td>
         <td>1310</td>
         <td>1020</td>
         <td><a href="https://www.airbnb.fr/rooms/10523176" target="_blank">Gasthaus</a></td>
         <td><a href="https://en.komoot.de/tour/12376674/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes//12376674_18-min.JPG"  alt="Bike route from Saulcet to Auzances" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes//12376674_18-min.JPG"  alt="Bike route from Saulcet to Auzances" width="100">
           </a></td>
         <td><a href="carte/2016-05-08-09-47-51.fit" download>Download GPX</a></td>
         <td>Very challenging, very hilly, up and downs, in de midlle of nowhere!</td>
@@ -533,14 +548,14 @@ comments: true
 
       <tr>
       <th scope="row">10</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Auzances to Limoges</td>
         <td>116</td>
         <td>1360</td>
         <td>1630</td>
          <td><a href="https://www.airbnb.fr/rooms/10523176" target="_blank">Warm Showers</a></td>
          <td><a href="https://en.komoot.de/tour/12376734/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12376734_19-min.JPG"  alt="Bike route from Auzances to Limoges" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12376734_19-min.JPG"  alt="Bike route from Auzances to Limoges" width="100">
          </a></td>
         <td><a href="carte/2016-05-09-09-12-43.fit" download>Download GPX</a></td>
         <td>Aslo challenging, last kilometers between Bourganoeuf and Limoges on a busy road.</td>
@@ -548,14 +563,14 @@ comments: true
 
       <tr>
       <th scope="row">11</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Limoges to Bourdeilles</td>
         <td>106</td>
         <td>1090</td>
         <td>1270</td>
          <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
          <td><a href="https://en.komoot.de/tour/12376767/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12376767_20-min.JPG"  alt="Bike route from Limoges to Bourdeilles" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12376767_20-min.JPG"  alt="Bike route from Limoges to Bourdeilles" width="100">
           </a></td>
         <td><a href="carte/2016-05-10-11-49-20.fit" download>Download GPX</a></td>
         <td>French Perigord beautiful - The city Brantôme has to be seen.
@@ -564,14 +579,14 @@ comments: true
 
       <tr>
       <th scope="row">12</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Bourdeilles to Bordeaux</td>
         <td>148</td>
         <td>920</td>
         <td>1010</td>
         <td>Privat</td>
         <td><a href="https://en.komoot.de/tour/12377027/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12377027_21-min.JPG"  alt="Bike route from Bourdeilles to Bourdeaux" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12377027_21-min.JPG"  alt="Bike route from Bourdeilles to Bourdeaux" width="100">
           </a></td>
         <td><a href="carte/2016-05-11-18-44-00.fit" download>Download GPX</td>
         <td>Careful when crossing the Garonne, one of the largest river in France. I took a one way bridge with alternate circulation. So I created massive troubles with my bike.</td>
@@ -579,14 +594,14 @@ comments: true
 
       <tr>
       <th scope="row">13</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Bordeaux to Mimizan-plage</td>
         <td>113</td>
         <td>290</td>
         <td>310</td>
         <td>Privat</td>
         <td><a href="https://en.komoot.de/tour/12411633/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12411633_22-min.JPG"  alt="Bike route from Bordeaux to Mimizan" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12411633_22-min.JPG"  alt="Bike route from Bordeaux to Mimizan" width="100">
           </a></td>
         <td><a href="carte/2016-05-12-10-18-44.fit" download>Download GPX</a></td>
         <td>From bordeaux towards south west : strong heavy head wind !! coming from ocean.</td>
@@ -594,14 +609,14 @@ comments: true
 
       <tr>
       <th scope="row">14</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Mimizan-plage Cap Breton</td>
         <td>80</td>
         <td>250</td>
         <td>250</td>
         <td><a href="http://www.campinglacivelle.fr/" target="_blank">Camping</a></td>
         <td><a href="https://en.komoot.de/tour/12411698/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12411698_23-min.JPG"  alt="Bike route from Mimizan to Cap Breton" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12411698_23-min.JPG"  alt="Bike route from Mimizan to Cap Breton" width="100">
           </a></td>
         <td><a href="carte/2016-05-13-09-52-06.fit" download>Download GPX</a></td>
         <td>Following the cycle route "velodyssée". Great bike Infrastructures for bike. very easy step. Suitable for kids.</td>
@@ -609,7 +624,7 @@ comments: true
 
       <tr>
       <th scope="row">15</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png"></td>
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png"></td>
         <td>Cap Breton to San Sebastian</td>
         <td>85</td>
         <td>680</td>
@@ -617,7 +632,7 @@ comments: true
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
         <td>
          <a href="https://en.komoot.de/tour/12450660/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12450660_24-min.JPG"  alt="Bike route from Cap Breton to Donostia" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12450660_24-min.JPG"  alt="Bike route from Cap Breton to Donostia" width="100">
           </a></td>
         <td><a href="carte/2016-05-14-14-43-14.fit" download>Download GPX</a></td>
         <td>very busy, lot of traffic. From Bayonne until Hendaye. 
@@ -653,13 +668,13 @@ comments: true
       <tr>
       <th>#</th>
         <th>Note</th>
-        <th>From <img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrow.png> to</th>
+        <th>From <img src=/Users/Max/Documents/batardo.github.io/Images\/arrow.png> to</th>
         <th>km</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrowup.png> m</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrowdown.png> m</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/accomodation_s.png ></th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/map.png width="20">Map</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/gps.png width="20"> GPX</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/arrowup.png> m</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/arrowdown.png> m</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/accomodation_s.png ></th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/map.png width="20">Map</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/gps.png width="20"> GPX</th>
         <th>Review</th>
       </tr>
     </thead>
@@ -667,41 +682,41 @@ comments: true
     <tbody>
      <tr>
      <th scope="row">1</th>
-     <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png">
+     <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png">
      <td>San Sebastian to Arrasate</td>
         <td>85</td>
         <td>1800</td>
         <td>1600</td>
         <td>Airbnb</td>
         <td><a href="https://en.komoot.de/tour/12450733/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12450733_25-min.JPG" alt="Bike route from Donostia to Arrasate" width="100"></td>
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12450733_25-min.JPG" alt="Bike route from Donostia to Arrasate" width="100"></td>
         <td><a href="carte/2016-05-15-09-35-50.fit" download>Download GPX</a></td>
         <td>Leaving San Sebastian 16% short ascenscion. From the top amazing view. After Azkoita you climb steeply from 200 to 700 meters. No trafic on the road, great.</td>
       </tr>
 
       <tr>
       <th scope="row">2</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\2stars.png">
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\2stars.png">
         <td>Arrasate to Aguilar de Bureba</td>
         <td>115</td>
         <td>1350</td>
         <td>880</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
-        <td><a href="https://en.komoot.de/tour/12450895/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12450895_26-min.JPG" alt="Bike route from Arrasate to Aguilar von Bureba" width="100"></a></td>
+        <td><a href="https://en.komoot.de/tour/12450895/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12450895_26-min.JPG" alt="Bike route from Arrasate to Aguilar von Bureba" width="100"></a></td>
         <td><a href="carte/2016-05-16-10-18-03.fit" download>Download GPX</a></td>
         <td>Until Vitoria-Gasteiz very nice road and lake. Then, cautious: the N-1. It's 2x2 national Road full of trucks. Ovoid it !</td>
       </tr>
 
       <tr>
       <th scope="row">3</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png">
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png">
         <td>Aguilar de Bureba to Burgos</td>
         <td>48</td>
         <td>440</td>
         <td>270</td>
         <td><a href="https://www.airbnb.fr/rooms/5637745?location=Burgos%2C%20Espagne&s=2Uhv4InJ" target="_blank">Airbnb</a></td>
         <td><a href="https://en.komoot.de/tour/12450939/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12450939_27-min.JPG" alt="Bike route from Aguilar de Bureba to Burgos" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12450939_27-min.JPG" alt="Bike route from Aguilar de Bureba to Burgos" width="100">
           </a></td>
         <td><a href="carte/2016-05-17-12-14-05.fit" download>Download GPX</a></td>
         <td>Empty road in the mountains. Nice cathedral in Burgos</td>
@@ -709,14 +724,14 @@ comments: true
 
       <tr>
       <th scope="row">4</th>
-      <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png">
+      <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png">
         <td>Burgos to Valladolid</td>
         <td>142</td>
         <td>700</td>
         <td>860</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
         <td><a href="https://en.komoot.de/tour/12451162/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12451162_28-min.JPG" alt="Bike route from Burgos to Valladolid" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12451162_28-min.JPG" alt="Bike route from Burgos to Valladolid" width="100">
           </a></td>
         <td><a href="carte/2016-05-18-09-25-37.fit" download>Download GPX</a></td>
         <td>From Palencia to Valladolid following the canal de castilla. Very nice bike path, but only dirt roads, careful if you ride a road bike...</td>
@@ -724,14 +739,14 @@ comments: true
 
        <tr>
        <th scope="row">5</th>
-       <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png">
+       <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png">
         <td>Valladolid to Salamanca</td>
         <td>122</td>
         <td>700</td>
         <td>600</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
         <td><a href="https://en.komoot.de/tour/12485332/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12485332_29-min.JPG" alt="Bike route from Valladolid to Salamanca" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12485332_29-min.JPG" alt="Bike route from Valladolid to Salamanca" width="100">
           </a></td>
         <td><a href="carte/2016-05-19-08-15-53.fit" download>Download GPX</a></td>
         <td>Actually a very boring road. Never ending straight forward road. I had luck I had wind in my back. It's a bit like a desert road. Salamanca is a great student city. It's definitely a break worth.</td>
@@ -739,14 +754,14 @@ comments: true
 
        <tr>
        <th scope="row">6</th>
-       <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\2stars.png">
+       <td><img src="/Users/Max/Documents/batardo.github.io/Images\2stars.png">
         <td>Salamanca to Sancti Spiritus</td>
         <td>65</td>
         <td>290</td>
         <td>340</td>
         <td><a href="http://www.hostallaponderosa.com/fr/" target="_blank">Camping/Hostel</a></td>
         <td><a href="https://en.komoot.de/tour/12485284/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12485284_30-min.JPG" alt="Bike route from Salamanca to Sancti spiritus" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12485284_30-min.JPG" alt="Bike route from Salamanca to Sancti spiritus" width="100">
           </a></td>
         <td><a href="carte/2016-05-21-12-21-34.fit" download>Download GPX</a></td>
         <td>This desert straight road has no interest. I had wind from the front. No chance. Had to stop. The hostel is great. You can camp. Eating there is the best (Massive portions).</td>
@@ -772,20 +787,22 @@ comments: true
       </div>
       </div>
 
-  
+  <div id="spacer">
+  </div>
+
   <div class="container blog">
     <table class="table table-responsive" align="center">
         <thead>
       <tr>
       <th>#</th>
         <th>Note</th>
-        <th>From <img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrow.png> to</th>
+        <th>From <img src=/Users/Max/Documents/batardo.github.io/Images\/arrow.png> to</th>
         <th>km</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrowup.png> m</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/arrowdown.png> m</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/accomodation_s.png ></th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/map.png width="20">Map</th>
-        <th><img src=C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/gps.png width="20"> GPX</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/arrowup.png> m</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/arrowdown.png> m</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/accomodation_s.png ></th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/map.png width="20">Map</th>
+        <th><img src=/Users/Max/Documents/batardo.github.io/Images\/gps.png width="20"> GPX</th>
         <th>Review</th>
       </tr>
     </thead>
@@ -793,14 +810,14 @@ comments: true
     <tbody>
      <tr>
      <th scope="row">1</th>
-     <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\5stars.png">
+     <td><img src="/Users/Max/Documents/batardo.github.io/Images\5stars.png">
         <td>Sancti Spiritus to Indhana a nova</td>
         <td>155</td>
         <td>1470</td>
         <td>1820</td>
         <td><a href="https://www.hihostels.com/hostels/idanha-a-nova" target="_blank">Hostel</a></td>
         <td><a href="https://en.komoot.de/tour/12485530/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\/Images/Routes/12485284_30-min.JPG" alt="cycle path from Salamanca to Sancti spiritus" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12485284_30-min.JPG" alt="cycle path from Salamanca to Sancti spiritus" width="100">
           </a></td>
         <td><a href="carte/2016-05-22-10-35-03.fit" download>Download GPX</a></td>
         <td>Wonderful descent after Navastrias from 1.000 high to 500 meters in a very shot time! Road only. No cars. Enjoy :)</td>
@@ -808,27 +825,27 @@ comments: true
 
        <tr>
         <th scope="row">2</th>
-        <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\5stars.png">
+        <td><img src="/Users/Max/Documents/batardo.github.io/Images\5stars.png">
         <td>Indhana a nova to Proenca a nova</td>
         <td>85</td>
         <td>1200</td>
         <td>1140</td>
         <td>Hotel</td>
-        <td><a href="https://en.komoot.de/tour/12485523/embed" target=_blank><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12485523_32-min.JPG" alt="Bike route from Indhana a nova to Proenca a nova" width="100"></a></td>
+        <td><a href="https://en.komoot.de/tour/12485523/embed" target=_blank><img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12485523_32-min.JPG" alt="Bike route from Indhana a nova to Proenca a nova" width="100"></a></td>
         <td><a href="carte/2016-05-23-10-09-58.fit" download>Download GPX</a></td>
         <td>Very hilly. Up and downs. Nice little Roads. Be in a good shape. Absolutely great hostel in a cute lost village</td>
       </tr>
 
        <tr>
         <th scope="row">3</th>
-        <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\4stars.png">
+        <td><img src="/Users/Max/Documents/batardo.github.io/Images\4stars.png">
         <td>Proenca a nova to Santarem</td>
         <td>117</td>
         <td>1050</td>
         <td>1400</td>
         <td><a href="http://www.n1hostelapartments.com/" target="_blank">Hostel</a></td>
         <td><a href="https://en.komoot.de/tour/12485590/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12485590_33-min.JPG" alt="Bike route from Proenca a nova to Santarem" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12485590_33-min.JPG" alt="Bike route from Proenca a nova to Santarem" width="100">
           </a></td>
         <td><a href="carte/2016-05-24-09-10-02.fit" download>Downlad GPX</a></td>
         <td>Santarem is a super nice city. Riding over there along the River Tejo. Descending all the time. Careful at some points before santarem : cobbled roads</td>
@@ -836,14 +853,14 @@ comments: true
 
        <tr>
         <th scope="row">4</th>
-        <td><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\3stars.png">
+        <td><img src="/Users/Max/Documents/batardo.github.io/Images\3stars.png">
         <td>Santarem to Lisboa</td>
         <td>80</td>
         <td>390</td>
         <td>470</td>
         <td><a href="http://5-sins-chiado-hostel-lisboa.bedspro.com/fr/" target="_blank">Hostel</a></td>
         <td><a href="https://en.komoot.de/tour/12485621/embed" target=_blank>
-          <img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\/Routes/12485621_34-min.JPG" alt="Bike route from Santarem to Lisboa" width="100">
+          <img src="/Users/Max/Documents/batardo.github.io/Images\/Routes/12485621_34-min.JPG" alt="Bike route from Santarem to Lisboa" width="100">
           </a></td>
         <td><a href="carte/2016-05-25-09-35-32.fit" download>Download GPX</a></td>
         <td>Not the best step of my trip. Last 30 kilometers are arriving in Lisbon : very busy Road.</td>
@@ -865,115 +882,180 @@ comments: true
       </div>
     </div>
 
-  <div class="container blog">
-
-  <ul>Germany
-  <li>Ilm valley and cycle route</li>
-  <li>Thüringer Forest</li>
-  </ul>
-
-  <ul>France
-  <li>Alsace, Strasbourg, Colmar</li>
-  <li>Eurovélo 6</li>
-  <li>French Périgord</li>
-  <li>Basque Region</li>
-  </ul>
-
-  <ul>Spain
-  <li>Basque region</li>
-  <li>Salamanque</li>
-  </ul>
-
-  <ul>Portugal
-  <li>Santarem</li>
-  <li>Proenca a nova</li>
-  <li>Lisbon</li>
-  </ul>
-
 
 
   <div class="row">
-
       <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\asparjusfield-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\asparjusfield-min.jpg" width="200px" id="" alt="beelitz"></a>
     </div>
 
     <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\thuringen-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\thuringen-min.jpg" width="200px" id="" alt="beelitz"></a>
     </div>
 
     <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\gps-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\gps-min.jpg" width="200px" id="" alt="beelitz"></a>
     </div>
 
     <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\plainealsace-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\plainealsace-min.jpg" width="200px" id="" alt="beelitz"></a>
     </div>
-
     </div>
 
      <div class="row">
      <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\würburg-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\würburg-min.jpg" width="200px" id="" alt="beelitz"></a>
+    
     </div>
 
     <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\canalrhin-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\canalrhin-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
+    
     </div>
 
      <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\doubs-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\doubs-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
+    
     </div>
 
     <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\creuse-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\creuse-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
+    
     </div>
     </div>
 
 
      <div class="row">
      <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\basket-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\basket-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
+    
     </div>
 
     <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\baskenland-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\baskenland-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
+    
     </div>
 
    
     <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\salamanca-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\salamanca-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
+    
     </div>
 
     <div class="col-sm-3 gallery gallery">
-    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="C:\Users\MaximeGallouin\Documents\GitHub\batardo.github.io\Images\arrived-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
-    <a href="/Images/pochettes-ticket-sncf/1.jpg" dowmload><img src="/Images/download.png" width="30px" id="" alt="download button"> SNCF Corail téoz</a>
+    <a href="/Images/pochettes-ticket-sncf/1.jpg"><img src="/Users/Max/Documents/batardo.github.io/Images\arrived-min.jpg" width="200px" id="" alt="beelitz"></a><br/>
     </div>
-      
-
-  </div>
-
-
-  </div>
+    </div>
 
 
 
 
+  
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
 
 
 
-  </div>
+<script type="text/javascript">
+
+var pswpElement = document.querySelectorAll('.pswp')[0];
+
+// build items array
+var items = [
+    {
+        src: '/Users/Max/Documents/batardo.github.io/Images/basket-min.jpg',
+        w: 200,
+        h: 200
+    },
+    {
+        src: '/Users/Max/Documents/batardo.github.io/Images/basket-min.jpg',
+        w: 1200,
+        h: 900
+    }
+];
+
+// define options (if needed)
+var options = {
+    // optionName: 'option value'
+    // for example:
+    index: 0 // start at first slide
+};
+
+// Initializes and opens PhotoSwipe
+var gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
+gallery.init();
+
+</script>
+
+
+
+  </body>
 
 
  10 tipps bike touring in europe :
