@@ -71,13 +71,7 @@ height:10px;
 
 
 
-.feature img {
-width: 200px;
-height: 200px;
-border: 1px solid #A9A3A3;
-border-radius: 10%;
-background-color:white;
-}
+
 
 .blog {
     max-width: 1000px;
@@ -118,21 +112,13 @@ background-color:white;
     padding-bottom:10px
 }
 
-.feature p {
-    font-weight:300;
-    letter-spacing:1px;
-    margin-top:10px;
-}
-.wrapper {
-    background-color: #F4F4F4;
-}
 
 #startlisbon{
 padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/departure-min.jpg");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/departure-min.jpg");
 background-attachment:fixed;
 }
 
@@ -141,7 +127,7 @@ padding-top:100px;
 background-size:cover;
 height:500px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/arriving2-min.jpg");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/arriving2-min.jpg");
 background-attachment:fixed;
 }
 
@@ -150,7 +136,7 @@ padding-top:100px;
 background-size:cover;
 height:300px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/departure-min.jpg");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/departure-min.jpg");
 }
 
 #fahrradcodierung{
@@ -158,7 +144,7 @@ padding-top:100px;
 background-size:cover;
 height:300px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/polizei.jpeg");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/polizei.jpeg");
 }
 
 #locationdevelo{
@@ -166,7 +152,7 @@ padding-top:100px;
 background-size:cover;
 height:300px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/veloloc.jpg");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/veloloc.jpg");
 }
 
 
@@ -175,7 +161,7 @@ padding-top:130px;
 background-size:cover;
 height:500px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/liepnizsee.jpg");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/liepnizsee.jpg");
 }
 
 #loire{
@@ -183,7 +169,7 @@ padding-top:75px;
 background-size:cover;
 height:500px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/loire-min.webp");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/loire-min.webp");
 }
 
 
@@ -192,7 +178,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url(/Users/Max/Documents/batardo.github.io/Images/cyclotourisme-allemagne.JPG);
+background-image: url(C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/cyclotourisme-allemagne.JPG);
 background-attachment:fixed;
 }
 
@@ -202,7 +188,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/asparjusfield-min.webp");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/asparjusfield-min.webp");
 background-attachment:fixed;
 }
 
@@ -211,70 +197,27 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/thuringen-min.webp");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/thuringen-min.webp");
 background-attachment:fixed;
 }
 
 #startlisbon5{
 padding-top:175px;
 background-size:cover;
-height:600px;
+height:500px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/plainealsace-min.jpg");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/plainealsace-min.jpg");
 background-attachment:fixed;
 }
 
-#startlisbon6{
-padding-top:175px;
-background-size:cover;
-height:600px;
-text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/doubs-min.webp");
-background-attachment:fixed;
-}
 
-#startlisbon7{
-padding-top:175px;
-background-size:cover;
-height:600px;
-text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/creuse-min.webp");
-background-attachment:fixed;
-}
-
-#startlisbon8{
-padding-top:175px;
-background-size:cover;
-height:600px;
-text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/basket-min.webp");
-background-attachment:fixed;
-}
-
-#startlisbon9{
-padding-top:175px;
-background-size:cover;
-height:600px;
-text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/castilla-min.webp");
-background-attachment:fixed;
-}
-
-#startlisbon10{
-padding-top:175px;
-background-size:cover;
-height:600px;
-text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/arriving-min.webp");
-background-attachment:fixed;
-}
 
 #startlisbon11{
 padding-top:175px;
 background-size:cover;
-height:1000px;
+height:500px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/arrived-min.jpg");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/arrived-min.jpg");
 background-attachment:fixed;
 }
 
@@ -284,7 +227,7 @@ background-size:cover;
 height:400px;
 text-align: center;
 background-attachment:fixed;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/berlinstrasbourg-min.webp");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/berlinstrasbourg-min.webp");
 }
 
 #strasbourghendaye{
@@ -292,7 +235,7 @@ padding-top:80px;
 background-size:cover;
 height:400px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/jura-min.webp");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/jura-min.webp");
 background-attachment:fixed;
 }
 
@@ -301,7 +244,7 @@ padding-top:80px;
 background-size:cover;
 height:400px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/lisbon-min.webp");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/lisbon-min.webp");
 background-attachment:fixed;
 }
 
@@ -311,7 +254,7 @@ padding-top:80px;
 background-size:cover;
 height:400px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/34steps-min.webp");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/34steps-min.webp");
 background-attachment:fixed;
 }
 
@@ -320,18 +263,14 @@ background-attachment:fixed;
     color:#5D1E44;
 }
 
-.gallery img:hover{
-    opacity:0.5;
-    color:#5D1E44;
-    width: 350px;
-}
+
 
 #startlisbon2{
 padding-top:100px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/batardoplage-min.JPG");
+background-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/batardoplage-min.JPG");
 background-attachment:fixed;
 }
 
@@ -514,7 +453,7 @@ display:inline-block;
 margin-bottom:25px;
 }
 
-#startlisbon9 h1 {
+#startlisbon9 h2 {
 color: white;
 text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
 background:rgba(0,0,0,0.4);
@@ -530,7 +469,7 @@ display:inline-block;
 margin-bottom:25px;
 }
 
-#startlisbon11 h1 {
+#startlisbon11 h2 {
 color: white;
 text-shadow:2px 2px 2px rgba(0, 0, 0, 0.8);
 background:rgba(0,0,0,0.4);
@@ -653,17 +592,6 @@ letter-spacing:2px;
     padding-top:30px;
 }
 
-#aboutme img { 
-width: 200px;
-height: 200px;
-border: 1px solid #A9A3A3;
-border-radius: 50%;
-transform: rotate(90deg);
-}
-
-#aboutme  {
-text-align:center;
-}
 
 
 .nav a {
@@ -848,7 +776,7 @@ tr:hover {background-color: #f5f5f5;}
 }
 
 #checkmark {
-    list-style-image: url("/Users/Max/Documents/batardo.github.io/Images/chekmark.jpg");
+    list-style-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/chekmark.jpg");
 }
 
 
@@ -860,7 +788,7 @@ tr:hover {background-color: #f5f5f5;}
 }    
 
 #crossmark {
-    list-style-image: url("/Users/Max/Documents/batardo.github.io/Images/crossmark.jpg")
+    list-style-image: url("C:/Users/MaximeGallouin/Documents/GitHub/batardo.github.io/Images/crossmark.jpg")
 }
 
 #crossmark div.box {
@@ -1066,10 +994,11 @@ padding-top: 10px;
   height: auto;
 }
 .my-gallery figure {
-  display: block;
+  display: ;
   float: left;
-  margin: 0 5px 5px 0;
-  width: 150px;
+  margin: 0px 0px 1px 0px;
+  width: 165px;
+  height: auto;
 }
 .my-gallery figcaption {
   display: none;
