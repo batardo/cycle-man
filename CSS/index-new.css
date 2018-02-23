@@ -109,7 +109,7 @@ padding-top:100px;
 background-size:cover;
 height:500px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/arriving2-min.jpg");
+background-image: url("/Images/arriving2-min.jpg");
 background-attachment:fixed;
 }
 
@@ -120,7 +120,7 @@ background-size:cover;
 height:400px;
 text-align: center;
 background-attachment:fixed;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/berlinstrasbourg-min.webp");
+background-image: url("/Images/berlinstrasbourg-min.webp");
 }
 
 #startlisbon5{
@@ -128,7 +128,7 @@ padding-top:175px;
 background-size:cover;
 height:500px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/canalrhin-min.jpg");
+background-image: url("/Images/canalrhin-min.jpg");
 background-attachment:fixed;
 }
 
@@ -137,7 +137,7 @@ padding-top:175px;
 background-size:cover;
 height:500px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/castillayleon.JPG");
+background-image: url("/Images/castillayleon.JPG");
 background-attachment:fixed;
 }
 
@@ -147,7 +147,7 @@ padding-top:175px;
 background-size:cover;
 height:500px;
 text-align: center;
-background-image: url("/Users/Max/Documents/batardo.github.io/Images/santarem_PT.JPG");
+background-image: url("/Images/santarem_PT.JPG");
 background-attachment:fixed;
 }
 
@@ -415,7 +415,7 @@ tr:hover {background-color: #f5f5f5;}
 }
 
 #checkmark {
-    list-style-image: url("/Users/Max/Documents/batardo.github.io/Images/chekmark.jpg");
+    list-style-image: url("/Images/chekmark.jpg");
 }
 
 
@@ -427,7 +427,7 @@ tr:hover {background-color: #f5f5f5;}
 }    
 
 #crossmark {
-    list-style-image: url("/Users/Max/Documents/batardo.github.io/Images/crossmark.jpg")
+    list-style-image: url("/Images/crossmark.jpg")
 }
 
 #crossmark div.box {
