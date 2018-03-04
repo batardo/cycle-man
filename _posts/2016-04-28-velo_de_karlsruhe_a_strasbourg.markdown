@@ -1,4 +1,5 @@
 ---
+redirect_from: "/blog/2016/04/28/index.html"
 layout: default-fr
 title:  "Piste cyclable de Karlsruhe à Strasbourg"
 description: "La traversée du Rhin en ferry"

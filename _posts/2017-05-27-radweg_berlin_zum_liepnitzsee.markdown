@@ -1,4 +1,7 @@
 ---
+redirect_from: 
+- "/blog/2017/05/27/index.html"
+- "/blog/2017/05/27/radweg_berlin_zum_liepnizsee.html"
 title : "Radweg von Berlin zum Liepnitzsee - Schnell und schön zum See fahren."
 description: "Radweg zu einem der schönsten Seen Berlins. In 90 Minuten durch Berlin und Brandenburg: jetzt kostenlos GPX Dateien herunterladen."
 lang: de

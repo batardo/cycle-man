@@ -1,4 +1,5 @@
 ---
+redirect_from: "/blog/2016/04/25/index.html"
 title : "Fahrradcodierung und Registrierung in Deutschland"
 description: "Fahrrad codieren oder registrieren lassen : gegen Fahrraddiebstähle sind alle Mittel erlaubt."
 lang: de

@@ -1,4 +1,5 @@
 ---
+redirect_from: "/blog/2018/01/15/index.html"
 title : Radbahn - l'autoroute vélo berlinois
 description : C'est comme si vous faisiez Paris-Lyon en départementale et qu'un jour on construisait une autoroute. Vous gagnerez en vitesse, en confort et en sécurité. Radbahn, c'est pareil sauf que c'est pour les vélos et c'est à Berlin.
 lang: fr
@@ -6,6 +7,7 @@ category: blog
 comments: true
 layout: default-fr
 ---
+
 <div id="fullScreenDiv">
         <img src="/Images/radbahn-min.png" id="videosubstitute" alt="radbahn berlin" width="300px">
         <div id="videoDiv">           

@@ -1,4 +1,5 @@
 ---
+redirect_from: "/blog/2017/07/16/index.html"
 title : Voyage à vélo en famille le long de la Loire
 description : Résumé d'un voyage vélo familial, accessible pour tous. 4 jours de Blois à Tours à vélo en visitant les châteaux de la Loire. 
 lang: fr
