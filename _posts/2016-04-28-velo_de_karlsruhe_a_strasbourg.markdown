@@ -35,7 +35,7 @@ comments: true
               <br/>
 
 
-<a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="https://raw.githubusercontent.com/batardo/batardo.github.io/master/Images/Routes//11750427_09.JPG" alt="itinéraire vélo de Karlsruhe à Strasbourg" id="mapa"></a>
+<a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="/Images/Routes//11750427_09.JPG" alt="itinéraire vélo de Karlsruhe à Strasbourg" id="mapa"></a>
             
           </div>
         </div>
