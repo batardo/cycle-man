@@ -11,7 +11,7 @@ comments: true
 <div class="container blog" align="center">
      <div class="row vcenter">
          <div class="col-sm-12">
-        <img src="https://batardo.github.io/Images/IMG_0128.JPG" id="" alt="Fähre am Rhein">
+        <img src="/Images/ferry.JPG" id="" alt="Fähre am Rhein">
         </div>
       </div>
 
