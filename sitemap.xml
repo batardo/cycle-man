@@ -2,14 +2,11 @@
 
 <urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-
-
-
 <url>
 
-<loc>http://www.berlin-lisbon-express.eu/</loc>
+<loc>https://www.cycle-man.com/</loc>
 
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+<lastmod>2018-03-16T12:32:09+00:00</lastmod>
 
 <changefreq>always</changefreq>
 
@@ -18,18 +15,7 @@
 
 <url>
 
-<loc>http://www.berlin-lisbon-express.eu/itineraire-velo/allemagne-portugal.html</loc>
-
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
-
-<changefreq>always</changefreq>
-
-</url>
-
-
-<url>
-
-<loc>http://www.berlin-lisbon-express.eu/bike-tours/cycling-across-europe.html</loc>
+<loc>https://www.cycle-man.com/bike-tours/cycling-across-europe.html</loc>
 
 <lastmod>2018-02-27T12:32:09+00:00</lastmod>
 
@@ -40,20 +26,9 @@
 
 <url>
 
-<loc>http://www.berlin-lisbon-express.eu/fahrradroute.html</loc>
+<loc>https://www.cycle-man.com/fahrradroute.html</loc>
 
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
-
-<changefreq>always</changefreq>
-
-</url>
-
-
-<url>
-
-<loc>http://www.berlin-lisbon-express.eu/index.html</loc>
-
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+<lastmod>2018-03-16T12:32:09+00:00</lastmod>
 
 <changefreq>always</changefreq>
 
@@ -62,20 +37,9 @@
 
 <url>
 
-<loc>http://www.berlin-lisbon-express.eu/setup.html</loc>
+<loc>https://www.cycle-man.com/itineraire-velo/france-portugal.html</loc>
 
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
-
-<changefreq>always</changefreq>
-
-</url>
-
-
-<url>
-
-<loc>http://www.berlin-lisbon-express.eu/donate.html</loc>
-
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+<lastmod>2018-03-16T12:32:09+00:00</lastmod>
 
 <changefreq>always</changefreq>
 
@@ -84,20 +48,9 @@
 
 <url>
 
-<loc>http://www.berlin-lisbon-express.eu/aboutme.html</loc>
+<loc>https://www.cycle-man.com/itineraire-velo/france-espagne.html</loc>
 
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
-
-<changefreq>always</changefreq>
-
-</url>
-
-
-<url>
-
-<loc>http://www.berlin-lisbon-express.eu/thankyou.html</loc>
-
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+<lastmod>2018-03-16T12:32:09+00:00</lastmod>
 
 <changefreq>always</changefreq>
 
@@ -106,42 +59,9 @@
 
 <url>
 
-<loc>http://www.berlin-lisbon-express.eu/about-berlin-lisbon-express.html</loc>
+<loc>https://www.cycle-man.com/itineraire-velo/traverser-france-a-velo.html</loc>
 
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
-
-<changefreq>always</changefreq>
-
-</url>
-
-
-<url>
-
-<loc>http://www.berlin-lisbon-express.eu/itineraire-velo/france-portugal.html</loc>
-
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
-
-<changefreq>always</changefreq>
-
-</url>
-
-
-<url>
-
-<loc>http://www.berlin-lisbon-express.eu/itineraire-velo/france-espagne.html</loc>
-
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
-
-<changefreq>always</changefreq>
-
-</url>
-
-
-<url>
-
-<loc>http://www.berlin-lisbon-express.eu/itineraire-velo/traverser-france-a-velo.html</loc>
-
-<lastmod>2017-04-10T12:32:09+00:00</lastmod>
+<lastmod>2018-03-16T12:32:09+00:00</lastmod>
 
 <changefreq>always</changefreq>
 
