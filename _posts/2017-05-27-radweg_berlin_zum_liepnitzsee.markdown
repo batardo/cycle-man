@@ -160,8 +160,8 @@ comments: true
 	<p><strong>Zum Liepnitzsee schneller mit dem Rad als mit der Bahn?</strong></p>
   <p>Nein, wir wollen nicht übertreiben. Aber fast genauso schnell. Mit der BVG braucht man auch 1:30, wenn man von Kreubzberg U-Bahnhof Prinzenstraße startet. Dabei müsste man aber 3 mal umsteigen... Ich fahre lieber fahrrad.</p>
   <p>Die Bahn (RE27) fährt 2 mal die Stunde von Berlin-Karow (S-Bahn S2) nach Wandlitzsee. Von dort sind es nur 4 Kilometer bis zum Liepnitzsee. Der Radweg wird geschildert.
-  <strong>VORSICHT</strong>Die Kapazitäten für Fahrräder im Zug sind sehr begrenzt! Ich war selber am Herrentag am Liepnitzsee und musste mit der Bahn zurückfahren, weil ich einen platten hatte. Ich konnte aber in der ersten Bahn nicht einsteigen, weil der Zug voll mit Fahrrädern war. Ich durfte erst in den zweiten Zug einsteigen, aber auch da war es sehr knapp. Andere Fahrradfahrer mussten noch warten.
-  <strong>FAZIT</strong>Diese RE27 mit Fährrädern : am Wochenende und bei schönem Wetter >vermeiden< ! Lieber dann bis nach <a href="streckebis">Berlin-Buch</a> fahren. </p>
+  <strong>VORSICHT</strong> Die Kapazitäten für Fahrräder im Zug sind sehr begrenzt! Ich war selber am Herrentag am Liepnitzsee und musste mit der Bahn zurückfahren, weil ich einen platten hatte. Ich konnte aber in der ersten Bahn nicht einsteigen, weil der Zug voll mit Fahrrädern war. Ich durfte erst in den zweiten Zug einsteigen, aber auch da war es sehr knapp. Andere Fahrradfahrer mussten noch warten.
+  <strong>FAZIT</strong> Die RE27 mit Fährrädern am Wochenende und bei schönem Wetter vermeiden - Lieber über <a href="#streckebis">Berlin-Buch</a> fahren. </p>
   <p align="center"><img src="/Images/bvg.png"></p>
 
 
