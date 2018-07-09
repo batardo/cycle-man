@@ -1,7 +1,7 @@
 ---
 layout: default-de
 title:  "Radweg von Karlsruhe nach Straßburg"
-description: "Die letzte deutsche Etape meiner Radtour von Berlin nach Lissabon : Karlsruhe-Straßburg : schön an dem Rhein entlang."
+description: "Die letzte -deutsche- Etappe meiner Radtour von Berlin nach Lissabon : Karlsruhe-Straßburg : schön an dem Rhein entlang."
 lang: de
 ref: post
 category: blog
@@ -13,7 +13,7 @@ comments: true
      <div class="row">
          <div class="col-sm-12">
          <p align="center">
-        <img src="/Users/Max/Documents/batardo.github.io/Images/ferry.JPG" id="" width="" alt="Fähre am Rhein"></p>
+        <img src="/Images/ferry.JPG" id="" width="" alt="Fähre am Rhein"></p>
         </div>
       </div>
 
@@ -58,7 +58,7 @@ comments: true
              <br/>
 
 
-<p align="center"><a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="/Users/Max/Documents/batardo.github.io/Images/Routes//11750427_09.JPG" alt="Radweg von Karlsruhe nach Straßburg" width="400px" id="mapa"></a></p>
+<p align="center"><a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="/Images/Routes//11750427_09.JPG" alt="Radweg von Karlsruhe nach Straßburg" width="400px" id="mapa"></a></p>
             
           </div>
         </div>
