@@ -3,7 +3,7 @@ layout: default-fr-non-index
 title:  "Départ de Berlin Südkreuz"
 description: "En route pour Lisbonne : premiers coups de pédales."
 category: blog
-lang: fr
+lang: mm
 ref: post
 comments: true
 ---
