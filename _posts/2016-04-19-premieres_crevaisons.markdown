@@ -1,5 +1,5 @@
 ---
-layout: default-fr
+layout: default-fr-non-index
 title:  "Vents et crevaisons"
 description:   "Les toutes premières galères"
 category: blog
