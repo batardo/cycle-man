@@ -1,10 +1,10 @@
 ---
 redirect_from: "/blog/2016/04/20/index.html"
-layout: default-fr
+layout: default-fr-non-index
 title:  "Berlin - Leipzig en 2 jours"
 description: "Itinéraire parmi les plus direct : 170 kilomètres pour la chauffe."
 category: blog
-lang: fr
+lang: mm
 ref: post
 comments: true
 ---

@@ -1,10 +1,10 @@
 ---
 redirect_from: "/blog/2016/04/22/index.html"
-layout: default-fr
+layout: default-fr-non-index
 title:  "Traversée du land de Thuringe"
 description:   "Vallée de l'Ilm, fôret et saucisses de Thuringe"
 category: blog
-lang: fr
+lang: mm
 ref: post
 comments: true
 ---
