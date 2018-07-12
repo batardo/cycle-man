@@ -1,7 +1,7 @@
 ---
 redirect_from: "/blog/2016/04/25/index.html"
-title : "Fahrradcodierung und Registrierung in Deutschland"
-description: "Fahrrad codieren oder registrieren lassen : gegen Fahrraddiebstähle sind alle Mittel erlaubt."
+title : "Fahrrad codieren und registrieren -  Infoseite eines Radfahrers"
+description: "Wenn alle Radfahrer ihrer Räder codieren lassen würden, hätten wir weniger Fahrraddiebstähle. Hier zu der Infoseite."
 lang: de
 ref: marquagevelo
 category: blog
@@ -13,7 +13,7 @@ comments: true
 <div class="container blog" id="fahrradcodierung">
      <div class="row">
          <div class="col-xs-12">
-          <h1>Fahrrad codieren und registrieren lassen in Deutschland</h1>
+          <h1>Fahrrad codieren lassen</h1>
         </div>
       </div>
     </div>
@@ -95,7 +95,7 @@ comments: true
  
   <p>Fahrrad codieren lassen</p>
  
-  <li id="plan"><a href="#a">Warum sollte ich meine Fahrrad codieren lassen ?</a></li>
+  <li id="plan"><a href="#a">Warum sollte ich mein Fahrrad codieren lassen ?</a></li>
   <li id="plan"><a href="#b">Wo und wann mein Fahrrad in Berlin codieren lassen : Polizei oder ADFC ?</a></li>
   <li id="plan"><a href="#c">Welche Methode : Gravur oder Aufkleber?</a></li>
   <li id="plan"><a href="#d">Was soll ich mitbringen?</a></li>
