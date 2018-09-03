@@ -4,7 +4,6 @@ include: ['.htaccess']
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-seo-tag
   
  # This will require each of these gems automatically.
 
