@@ -28,6 +28,7 @@ github_username:  jekyll
 pages: ./_pages
 permalink: /:categories/:title:output_ext
 markdown: kramdown
+include: ["_pages"]
 theme: minima
 plugins:
   - jekyll-feed
