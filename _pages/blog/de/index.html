@@ -1,0 +1,67 @@
+---
+category: blog
+layout: default-de
+title: "Fahrradblog"
+description: "Fahrradfotos, Berichte meiner Radtouren, Strecken, Fahrradlife, Nachrichten, Mobilität, Tipps : Alles rund um das Fahrrad, denn Fahrrad ist nicht nur Urlaub, sondern für mich auch Leben."
+lang: de
+ref: index
+---
+
+ 
+<div class="container" id="startlisbonf">
+      <div class="row">
+      <div class="col-xs-12">
+        <h1>Fahrradblog</h1>  
+          </div>
+        </div>
+      </div>
+     
+
+     <div id="spacertop">
+     </div>
+
+      <div class="container-fluid blog" align="center">
+
+
+       {% assign posts=site.posts | where:"lang", page.lang %}
+        {% for post in posts %}
+
+     <div class="row vcenter">
+         <div class="col-md-4 col-sm-12">
+
+    {% if post.title == 'Radweg von Karlsruhe nach Straßburg' %}
+<img class="" src="/Images/ferry-min.JPG" alt="über den Rhein mit der Fähre" width="300">
+          
+           {% elsif post.title contains 'Fahrrad codieren' %}
+<img class="" src="/Images/Gravur.jpg" alt="gravur" width="300">
+
+{% elsif post.title contains 'Dresden' %}
+ <img class="" src="/Images/berlindresden-min.JPG" alt="berlindresden" width="300">
+          
+              {% elsif post.title == 'Radweg von Berlin zum Liepnitzsee - Schnell und schön zum See fahren.' %}
+<img class="" src="/Images/liepnitzsee.jpg" alt="liepnitzsee" width="300">
+          
+           {% elsif post.title == 'Radtour an der Loire mit Kindern' %}
+<img class="" src="/Images/loire-min.webp" alt="loire" width="300">
+         
+          
+          
+
+  {% endif %}
+
+</div>
+
+<div class="col-md-8 col-sm-12">
+    <span>{{ post.date | date_to_string }}</span>&raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+   <p id="blogf">{{ post.description }}</p>
+   <a href="{{ post.url }}" id="blogf">Artikel lesen</a>
+ </div>
+ </div>
+
+ <div id="spacer">
+ </div>
+
+   {% endfor %}
+
+    </div>
+

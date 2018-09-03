@@ -1,16 +1,19 @@
 ---
-redirect_from: "/blog/2017/07/27/index.html"
+redirect_from: 
+- "/blog/2017/07/27/index.html"
+- "/blog/2017/07/27/pochettes-billets-train.html"
+- "/2017/07/27/pochettes-billets-train.html"
 title : Collection de pochettes de billets de trains SNCF
 description : Galerie de billets de trains des années 2000 colléctionnés avec passion. Pochettes photographiées et disponibles en téléchargement.
 lang: fr
-category: blog
+category: roue-libre
 comments: true
-layout: default-fr
+layout: default
 ---
 
 
 <div class="container blog">
-  <h1>Galerie de pochettes de billets de train SCNF</h1>
+  <h1>Galerie de pochettes de billets de train SNCF</h1>
 
 
  <div class="containergalerie">

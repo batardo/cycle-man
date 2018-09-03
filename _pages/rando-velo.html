@@ -1,0 +1,128 @@
+---
+layout: default
+title: "Rando vélo : tous mes voyages et itinéraires vélo"
+description: "Retrouvez mes plus belles randonnées à vélo : itinéraires, hébergements, tracks GPX. Vive les randos, vive les vélos, vive les randos vélo."
+lang: fr
+permalink: /rando-velo/
+---
+
+ 
+<div class="" id="randovelo">
+      <div class="row">
+        <div class="col-md-12">
+          <h1>Mes meilleures randonnées à vélo</h1>  
+          </div>
+        </div>
+      </div>
+     
+
+    
+
+<div style="background-color: ;">
+
+ <div id="spacertop">
+     </div>
+
+
+      <div class="container blog" align="">
+
+       {% assign posts=site.posts | where:"lang", page.lang %}
+        {% for post in posts %}
+        
+        {% if post.category == 'rando-velo' %}
+
+
+     <div class="row vcenter" style="background-color: white;">
+         <div class="col-sm-5">
+
+         
+
+
+  {% if post.title contains 'Rhin' %}
+  <img class="" src="/Images/ferry-min.JPG" alt="traversee du rhin a velo" width="400">
+
+  {% elsif post.title contains 'Cyclotourisme en Allemagne' %}
+  <img class="" src="/Images/cyclotourisme-allemagne.JPG" alt="cyclotourism en Allemagne" width="400">
+
+  {% elsif post.title contains 'Carnet de voyage' %}
+  <img class="" src="/Images/Salamanca-min.JPG" alt="cyclotourism en Allemagne" width="400">
+
+  {% elsif post.title contains 'Route à vélo de France au Portugal' %}
+ <img class="" src="/Images/portugalstyle.JPG" alt="portugal à vélo" width="400">
+
+{% elsif post.title contains 'Diagonale Strasbourg' %}
+ <img class="" src="/Images/creuse-min.jpg" alt="cyclotourism en Allemagne" width="400">
+          
+{% elsif post.title == 'Voyage à vélo en famille le long de la Loire' %}
+ <img class="" src="/Images/loire-min.png" alt="voyage loire vélo" width="400">
+
+          
+  {% endif %}
+
+</div>
+
+  <div class="col-sm-7">
+
+
+
+  <span><a href="{{ post.url }}">{{ post.title }}</a></span>
+  <div id="date">
+    {{ post.date | date_to_string }}</div>
+
+    
+      {% for tag in post.tags %}
+          <li class="badge badge-warning"">{{ tag }}</li>
+        {% endfor %}
+
+   <p id="">{{ post.description }}</p> 
+   <a href="{{ post.url }}" id="">
+   Voir cette randonnée de {{ post.dep }} à {{ post.arr }} </a></p>
+    </div>
+      </div>
+
+   
+
+
+
+ 
+    <div id="spacer">
+    </div>
+
+
+    {% endif %}
+
+   {% endfor %}
+  
+  
+ 
+
+  <h2>Première randonnée vélo</h2>
+Décembre 2014. Il ne fait pas chaud, pas beau non plus et les journées sont courtes. Conditions idéales pour me lancer sur un Rome – Marseille à vélo, un peu moins de 1.000 kilomètres. Mon itinéraire longera la via Aurélia, une 2x2 voies assez empruntée, notamment par des camions. Il me faudra parfois rouler sur la voie d’urgence, bonjour la galère. 
+<br>Aucune préparation physique, si ce n’est un peu de vélo en ville pour aller travailler.  Coté matériel, j’ai racheté un vieux vélo course cadre acier deux semaines auparavant sur lequel j’ai monté un porte bagage.  Au passage j’oublierai de changer les pneus, presque aussi vieux que le vélo.
+<br>D'où me viens cette drôle d’idée de voyage à vélo ? Je n’en sais rien, mais de toute évidence, cela me plairait. Et ca n’a pas loupé, en dépit des conditions chaotiques, ca m’a plu, beaucoup.
+Preuve en est, ma deuxième grande randonnée à vélo de Berlin à Lisbonne suivra quelques mois plus tard avec entre temps de nombreuses sorties les week-ends.
+
+
+<h2>Type d’itinéraires</h2>
+
+Soyez rassurés, je ne vous enverrai pas sur des itinéraires du type de ce premier Rome-Marseille. On ne voudrait pas vous dégouter. Après des débuts en randonnée vélo un peu rock’n’roll, je suis devenu plus difficile, et puis surtout : je prépare mes itinéraires. <br>
+Les critères de mes randonnées :
+<ul>
+<li id="liststyled">Prévoir environ une centaine de kilomètres par jour </li>
+<li id="liststyled">Éviter au maximum les voitures, je reste sur des départementales, communales lorsqu'il n’y a pas de pistes cyclables</li>
+<li id="liststyled">Rouler sur des routes goudronnées</li>
+<li id="liststyled">Si il faut, je n’ai rien contre un peu de relief...</li>
+</ul>
+Tout en sachant qu’il y a ensuite la pratique et ses contraintes : un train à ne pas manquer, une crevaison, la pluie... les imprévus font partie de la randonnée à vélo. <strong>Planifiez tout ce que vous voudrez, mais surtout : prévoyez que tous vos plans pourront changer. </strong>
+
+
+
+
+
+ 
+
+
+
+
+
+    </div>

@@ -3,10 +3,10 @@ redirect_from: "/blog/2016/04/25/index.html"
 title : "Fahrrad codieren und registrieren - Infoseite eines Radfahrers"
 description: "Wenn alle Radfahrer ihrer Räder codieren lassen würden, hätten wir weniger Fahrraddiebstähle. Hier zu der Infoseite."
 lang: de
-ref: marquagevelo
 category: blog
 layout: default-de
 comments: true
+permalink: "/2017-04-25-fahrrad_codieren_lassen_und_registrieren_in_deutschland.html"
 ---
 
 
