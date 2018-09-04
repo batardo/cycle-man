@@ -1,6 +1,8 @@
 ---
 layout: default
-redirect_from: "/itineraire-velo/france-portugal.html"
+redirect_from: 
+- "/itineraire-velo/france-portugal.html"
+- "/itineraire-velo/france-espagne.html"
 title: Route à vélo de France au Portugal - Itinéraire de Strasbourg à Lisbonne
 description: "2 400 kilomètres de route à vélo de Strasbourg à Lisbonne : retrouvez mes cartes, fichiers GPS. Résumé des 25 étapes jusqu'à Lisbonne."
 category: 'rando-velo'
