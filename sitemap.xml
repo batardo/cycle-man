@@ -37,20 +37,9 @@
 
 <url>
 
-<loc>https://www.cycle-man.com/itineraire-velo/france-portugal.html</loc>
+<loc>https://www.cycle-man.com/rando-velo/france-portugal.html</loc>
 
-<lastmod>2018-03-16T12:32:09+00:00</lastmod>
-
-<changefreq>always</changefreq>
-
-</url>
-
-
-<url>
-
-<loc>https://www.cycle-man.com/itineraire-velo/france-espagne.html</loc>
-
-<lastmod>2018-03-16T12:32:09+00:00</lastmod>
+<lastmod>2018-09-04T12:32:09+00:00</lastmod>
 
 <changefreq>always</changefreq>
 
@@ -59,12 +48,23 @@
 
 <url>
 
-<loc>https://www.cycle-man.com/itineraire-velo/traverser-france-a-velo.html</loc>
+<loc>https://www.cycle-man.com/rando-velo/traverser-france-a-velo.html</loc>
 
-<lastmod>2018-03-16T12:32:09+00:00</lastmod>
+<lastmod>2018-09-04T12:32:09+00:00</lastmod>
 
 <changefreq>always</changefreq>
 
 </url>
+  
+<url>
 
+<loc>https://www.cycle-man.com/rando-velo/</loc>
+
+<lastmod>2018-09-04T12:32:09+00:00</lastmod>
+
+<changefreq>always</changefreq>
+
+</url>  
+  
+ 
 </urlset>
