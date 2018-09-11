@@ -5,7 +5,7 @@ lang: de
 category: radtour
 comments: true
 layout: default-de
-permalink: "2017-07-21-radtour_loire_mit_kindern.html"
+permalink: "blog/2017/07/21/radtour_loire_mit_kindern.html"
 ---
 
   <div class="container blog" >

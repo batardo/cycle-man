@@ -1,8 +1,7 @@
 ---
 redirect_from: 
 - "/blog/2017/05/17/index.html"
-- "/blog/2017/05/17/faire-marquer-et-enregistrer-son-velo-en-allemagne.html"
-- "/2017/05/17/faire-marquer-et-enregistrer-son-velo-en-allemagne.html"
+- "/blog/2017/05/17/faire_marquer_et_enregistrer_son_velo_en_allemagne.html"
 title : "Faire marquer et enregistrer son vélo en Allemagne" 
 description: "Prévenir et guérir : contre le vol de vélo tous les moyens sont bons, surtout le marquage et l'enregistrement."
 lang: fr
