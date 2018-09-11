@@ -1,7 +1,7 @@
 ---
 redirect_from: 
 - "/blog/2016/04/20/index.html"
-- "blog/2016/04/20/berlin_leipzig_en-deux-jours.html"
+- "/blog/2016/04/20/berlin_leipzig_en-deux-jours.html"
 layout: default-fr-no-index
 title:  "Berlin - Leipzig en 2 jours"
 description: "Itinéraire parmi les plus direct : 170 kilomètres pour la chauffe."
