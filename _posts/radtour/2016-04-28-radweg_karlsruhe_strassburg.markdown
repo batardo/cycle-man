@@ -6,7 +6,7 @@ lang: de
 ref: post
 category: radtour
 comments: true
-permalink: "/2016-04-28-radweg_karlsruhe_strassburg.html"
+permalink: "blog/2016/04/28/radweg_karlsruhe_strassburg.html"
 ---
 
 

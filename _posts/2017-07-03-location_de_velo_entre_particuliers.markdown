@@ -1,8 +1,7 @@
 ---
 redirect_from: 
 - "/blog/2017/07/03/index.html"
-- "/blog/2017/07/03/location-de-velo-entre-particuliers.html"
-- "/2017/07/03/location-de-velo-entre-particuliers.html"
+- "/blog/2017/07/03/location_de_velo_entre_particuliers.html"
 title : Tout sur la location de vélo de particulier à particulier
 description : Après les appartements et les voitures, la location de vélos entre particuliers fait son entrée dans l'économie du partage.  Arrivée encore discrète mais très prometteuse.
 lang: fr

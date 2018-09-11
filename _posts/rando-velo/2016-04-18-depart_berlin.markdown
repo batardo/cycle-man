@@ -1,5 +1,6 @@
 ---
-redirect_from: "blog/2016/04/18/index.html"
+redirect_from: 
+- "blog/2016/04/18/index.html"
 layout: default-fr-no-index
 title:  "Départ de Berlin Südkreuz"
 description: "En route pour Lisbonne : premiers coups de pédales."
