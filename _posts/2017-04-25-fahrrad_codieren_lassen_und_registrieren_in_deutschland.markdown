@@ -6,7 +6,7 @@ lang: de
 category: blog
 layout: default-de
 comments: true
-permalink: "/2017-04-25-fahrrad_codieren_lassen_und_registrieren_in_deutschland.html"
+permalink: "blog/2017/04/25/fahrrad_codieren_lassen_und_registrieren_in_deutschland.html"
 ---
 
 
