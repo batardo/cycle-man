@@ -1,4 +1,5 @@
 ---
+redirect_from: "blog/2016/04/19/premieres_crevaisons.html"
 layout: default-fr-no-index
 title:  "Vents et crevaisons"
 description:   "Les toutes premières galères"
