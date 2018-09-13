@@ -17,7 +17,7 @@ lang: de
       </div>
 
       <div id="spacer">
-  </div>
+      </div>
 
   <div class="container blog">
   <p>Ich bin am Osterwochenende nach Dresden mit dem Fahrrad von Berlin gefahren. Mein Plan war die ganze Strecke (genau 193km) in einem Tag zu schaffen. Am Ende musste ich leider bei Großenhain also 35 Kilometer vor dem Ziel -aufgrund Gegenwind und Kraftmangel (muss ich auch fairerweise gestehen)- aufgeben. Also, nicht ganz geschafft wie ich es mir vorgenommen hatte, aber es hat trotzdem sehr viel Spaß gemacht. Deswegen teile ich hier auf dieser Seite den kompletten Reisebericht meiner Radtour, inkl. Karte, .gpx Datei, Fotos und Videos.</p>
@@ -27,7 +27,7 @@ lang: de
   </div>
 
 
-	<h2 align="center">Reisebericht meiner Radtour von Berlin nach Dresden</h2>
+	 <h2 align="center">Reisebericht meiner Radtour von Berlin nach Dresden</h2>
   <div id="spacer">
   </div>
 
