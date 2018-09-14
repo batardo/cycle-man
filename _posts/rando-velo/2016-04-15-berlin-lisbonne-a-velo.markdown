@@ -2,6 +2,7 @@
 redirect_from: 
 - "/rando-velo/allemagne-portugal.html"
 - "/itineraire/allemagne-portugal.html"
+- "/itineraire-velo/allemagne-portugal.html"
 layout: default
 title: Carnet de voyage d'une traversée d'Europe à vélo
 description: C'était un super voyage à vélo - plus de 3.000 kilomètres en un mois, des gens supers, une route sympas. Voici mon carnet de voyage et quelques photos.
