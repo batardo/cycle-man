@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-03T21:31:40+02:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="de"><title type="html">Mit dem Rad von Berlin nach Dresden</title><link href="http://localhost:4000/radtour/berlin-dresden-express.html" rel="alternate" type="text/html" title="Mit dem Rad von Berlin nach Dresden" /><published>2018-05-01T00:00:00+02:00</published><updated>2018-05-01T00:00:00+02:00</updated><id>http://localhost:4000/radtour/berlin-dresden-express</id><content type="html" xml:base="http://localhost:4000/radtour/berlin-dresden-express.html">&lt;div class=&quot;&quot; id=&quot;berlindresden&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-18T13:42:52+02:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="de"><title type="html">Mit dem Rad von Berlin nach Dresden</title><link href="http://localhost:4000/radtour/berlin-dresden-express.html" rel="alternate" type="text/html" title="Mit dem Rad von Berlin nach Dresden" /><published>2018-05-01T00:00:00+02:00</published><updated>2018-05-01T00:00:00+02:00</updated><id>http://localhost:4000/radtour/berlin-dresden-express</id><content type="html" xml:base="http://localhost:4000/radtour/berlin-dresden-express.html">&lt;div class=&quot;&quot; id=&quot;berlindresden&quot;&gt;
       &lt;div class=&quot;row&quot;&gt;
       &lt;div class=&quot;col-md-12&quot;&gt;
         &lt;h1&gt;Radweg Berlin-Dresden-Express&lt;/h1&gt;  
@@ -7,8 +7,8 @@
       &lt;/div&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &amp;lt;div id=&quot;spacer&quot;&amp;gt;
+  &amp;lt;/div&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
 
 &lt;div class=&quot;container blog&quot;&gt;
   &lt;p&gt;Ich bin am Osterwochenende nach Dresden mit dem Fahrrad von Berlin gefahren. Mein Plan war die ganze Strecke (genau 193km) in einem Tag zu schaffen. Am Ende musste ich leider bei Großenhain also 35 Kilometer vor dem Ziel -aufgrund Gegenwind und Kraftmangel (muss ich auch fairerweise gestehen)- aufgeben. Also, nicht ganz geschafft wie ich es mir vorgenommen hatte, aber es hat trotzdem sehr viel Spaß gemacht. Deswegen teile ich hier auf dieser Seite den kompletten Reisebericht meiner Radtour, inkl. Karte, .gpx Datei, Fotos und Videos.&lt;/p&gt;
@@ -17,7 +17,7 @@
 &lt;div id=&quot;spacer&quot;&gt;
   &lt;/div&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;h2 align=&quot;center&quot;&amp;gt;Reisebericht meiner Radtour von Berlin nach Dresden&amp;lt;/h2&amp;gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &amp;lt;h2 align=&quot;center&quot;&amp;gt;Reisebericht meiner Radtour von Berlin nach Dresden&amp;lt;/h2&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div id=&quot;spacer&quot;&gt;
   &lt;/div&gt;
@@ -800,7 +800,7 @@ Les prochaines échéances :&lt;/p&gt;
 		&lt;/div&gt;
 
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><summary type="html">Galerie de pochettes de billets de train SNCF</summary></entry><entry xml:lang="de"><title type="html">Radtour an der Loire mit Kindern</title><link href="http://localhost:4000/2017-07-21-radtour_loire_mit_kindern.html" rel="alternate" type="text/html" title="Radtour an der Loire mit Kindern" /><published>2017-07-21T00:00:00+02:00</published><updated>2017-07-21T00:00:00+02:00</updated><id>http://localhost:4000/radtour_loire_mit_kindern</id><content type="html" xml:base="http://localhost:4000/2017-07-21-radtour_loire_mit_kindern.html">&lt;div class=&quot;container blog&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><summary type="html">Galerie de pochettes de billets de train SNCF</summary></entry><entry xml:lang="de"><title type="html">Radtour an der Loire mit Kindern</title><link href="http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern.html" rel="alternate" type="text/html" title="Radtour an der Loire mit Kindern" /><published>2017-07-21T00:00:00+02:00</published><updated>2017-07-21T00:00:00+02:00</updated><id>http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern</id><content type="html" xml:base="http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern.html">&lt;div class=&quot;container blog&quot;&gt;
      &lt;div class=&quot;row&quot; id=&quot;loire&quot;&gt;
          &lt;div class=&quot;col-xs-12&quot;&gt;
           &lt;h1&gt;Familien-Radreise auf dem Loire Radweg&lt;/h1&gt;
@@ -916,35 +916,35 @@ Von Chaumont bis Tour sind wir den &lt;a href=&quot;https://de.eurovelo6-france.
 &lt;div id=&quot;share-bar&quot;&gt;
 
     &lt;div class=&quot;share-buttons&quot;&gt;
-        &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/2017-07-21-radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Facebook&quot;&gt;
+        &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Facebook&quot;&gt;
             &lt;i class=&quot;fa fa-facebook-official share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;https://twitter.com/intent/tweet?text=Radtour an der Loire mit Kindern&amp;amp;url=http://localhost:4000/2017-07-21-radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Twitter&quot;&gt;
+        &lt;a href=&quot;https://twitter.com/intent/tweet?text=Radtour an der Loire mit Kindern&amp;amp;url=http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Twitter&quot;&gt;
             &lt;i class=&quot;fa fa-twitter share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;https://plus.google.com/share?url=http://localhost:4000/2017-07-21-radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Google+&quot;&gt;
+        &lt;a href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Google+&quot;&gt;
             &lt;i class=&quot;fa fa-google-plus share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;http://pinterest.com/pin/create/button/?url=http://localhost:4000/2017-07-21-radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Pinterest&quot;&gt;
+        &lt;a href=&quot;http://pinterest.com/pin/create/button/?url=http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Pinterest&quot;&gt;
             &lt;i class=&quot;fa fa-pinterest-p share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;http://www.tumblr.com/share/link?url=http://localhost:4000/2017-07-21-radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Tumblr&quot;&gt;
+        &lt;a href=&quot;http://www.tumblr.com/share/link?url=http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Tumblr&quot;&gt;
             &lt;i class=&quot;fa fa-tumblr share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;http://www.reddit.com/submit?url=http://localhost:4000/2017-07-21-radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Reddit&quot;&gt;
+        &lt;a href=&quot;http://www.reddit.com/submit?url=http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Reddit&quot;&gt;
             &lt;i class=&quot;fa fa-reddit-alien share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/2017-07-21-radtour_loire_mit_kindern.html&amp;amp;title=Radtour an der Loire mit Kindern&amp;amp;summary=Bericht eines Familien Radurlaubs. 4 Tage mit Fahrrädern und Kindern zwischen Blois und Tours durch die Châteaux de la Loire.&amp;amp;source=Your awesome title&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on LinkedIn&quot;&gt;
+        &lt;a href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern.html&amp;amp;title=Radtour an der Loire mit Kindern&amp;amp;summary=Bericht eines Familien Radurlaubs. 4 Tage mit Fahrrädern und Kindern zwischen Blois und Tours durch die Châteaux de la Loire.&amp;amp;source=Your awesome title&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on LinkedIn&quot;&gt;
             &lt;i class=&quot;fa fa-linkedin share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;mailto:?subject=Radtour an der Loire mit Kindern&amp;amp;body=Check out this site http://localhost:4000/2017-07-21-radtour_loire_mit_kindern.html&quot; title=&quot;Share via Email&quot;&gt;
+        &lt;a href=&quot;mailto:?subject=Radtour an der Loire mit Kindern&amp;amp;body=Check out this site http://localhost:4000/blog/2017/07/21/radtour_loire_mit_kindern.html&quot; title=&quot;Share via Email&quot;&gt;
             &lt;i class=&quot;fa fa-envelope share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
     &lt;/div&gt;
@@ -1993,7 +1993,7 @@ Certains revendeurs
 &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&amp;amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Disponible sur Google Play&quot; width=&quot;135px&quot; height=&quot;40px&quot; src=&quot;/Images/qq.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Conseils" /><summary type="html">Le marquage et l'enregistrement de son vélo en Allemagne</summary></entry><entry xml:lang="de"><title type="html">Fahrrad codieren und registrieren - Infoseite eines Radfahrers</title><link href="http://localhost:4000/2017-04-25-fahrrad_codieren_lassen_und_registrieren_in_deutschland.html" rel="alternate" type="text/html" title="Fahrrad codieren und registrieren - Infoseite eines Radfahrers" /><published>2017-04-25T00:00:00+02:00</published><updated>2017-04-25T00:00:00+02:00</updated><id>http://localhost:4000/fahrrad_codieren_lassen_und_registrieren_in_deutschland</id><content type="html" xml:base="http://localhost:4000/2017-04-25-fahrrad_codieren_lassen_und_registrieren_in_deutschland.html">&lt;div class=&quot;container blog&quot; id=&quot;fahrradcodierung&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Conseils" /><summary type="html">Le marquage et l'enregistrement de son vélo en Allemagne</summary></entry><entry xml:lang="de"><title type="html">Fahrrad codieren und registrieren - Infoseite eines Radfahrers</title><link href="http://localhost:4000/blog/2017/04/25/fahrrad_codieren_lassen_und_registrieren_in_deutschland.html" rel="alternate" type="text/html" title="Fahrrad codieren und registrieren - Infoseite eines Radfahrers" /><published>2017-04-25T00:00:00+02:00</published><updated>2017-04-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/2017/04/25/fahrrad_codieren_lassen_und_registrieren_in_deutschland</id><content type="html" xml:base="http://localhost:4000/blog/2017/04/25/fahrrad_codieren_lassen_und_registrieren_in_deutschland.html">&lt;div class=&quot;container blog&quot; id=&quot;fahrradcodierung&quot;&gt;
      &lt;div class=&quot;row&quot;&gt;
          &lt;div class=&quot;col-xs-12&quot;&gt;
           &lt;h1&gt;Fahrrad codieren lassen&lt;/h1&gt;
