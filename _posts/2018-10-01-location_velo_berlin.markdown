@@ -6,7 +6,6 @@ lang: fr
 layout: default
 tags: [ Urbanisme, Tourisme, Location de vélo ]
 last_modified_at:  07.10.2018
-comments: true
 ---
 
 
@@ -32,7 +31,7 @@ comments: true
 <p>Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. D'où la question que vous vous posez désormais : <strong>lequel choisir ?</strong></p>
 
 <p>Plusieurs systèmes de vélo en libre service coexistent à Berlin :</p>
-<p align=""><img src="/Images/dblidl.PNG" alt="db call a bike" >  <strong>DB CALL A BIKE - LIDL BIKE</strong> <img src="/Images/deezernextbike.PNG" alt="db call a bike"> <strong>DEEZER NEXTBIKE</strong> <img src="/Images/mobike.PNG" alt="db call a bike"> <strong>MOBIKE</strong> <img src="/Images/donkeyrepublic.PNG" alt="db call a bike"> <strong>DONKEY REPUBLIC</strong> <img src="/Images/limebike.PNG" alt="db call a bike"> <strong>LIMEBIKE</strong></p>
+<p align=""><img src="/Images/dblidl.png" alt="db call a bike" >  <strong>DB CALL A BIKE - LIDL BIKE</strong> <img src="/Images/deezernextbike.png" alt="db call a bike"> <strong>DEEZER NEXTBIKE</strong> <img src="/Images/mobike.png" alt="db call a bike"> <strong>MOBIKE</strong> <img src="/Images/donkeyrepublic.png" alt="db call a bike"> <strong>DONKEY REPUBLIC</strong> <img src="/Images/limebike.png" alt="db call a bike"> <strong>LIMEBIKE</strong></p>
 
 
 
@@ -48,8 +47,8 @@ comments: true
   <thead>
       <tr>
         <th></th>
-        <th><img src="/Images/mobike.PNG" alt="db call a bike"> Mobike</th>
-        <th><img src="/Images/deezernextbike.PNG" alt="db call a bike"> Deezer</th>
+        <th><img src="/Images/mobike.png" alt="db call a bike"> Mobike</th>
+        <th><img src="/Images/deezernextbike.png" alt="db call a bike"> Deezer</th>
         </tr>
       </thead>
 
