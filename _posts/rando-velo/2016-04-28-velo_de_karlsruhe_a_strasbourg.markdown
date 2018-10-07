@@ -1,7 +1,7 @@
 ---
 redirect_from: 
 - /blog/2016/04/28/index.html
-- /blog/2016/04/28/velo-de-karlsruhe-a-strasbourg.html
+- /blog/2016/04/28/velo_de_karlsruhe_a_strasbourg.html
 layout: default
 title:  "Balade à vélo sur le Rhin de Strasbourg à Karlsruhe"
 description: "Jolie petite balade à vélo sur les rives du Rhin de Karlsruhe à Strasbourg. Cartes et fichiers GPX disponibles à télécharger. "
