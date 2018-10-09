@@ -1,4 +1,176 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-18T13:42:52+02:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="de"><title type="html">Mit dem Rad von Berlin nach Dresden</title><link href="http://localhost:4000/radtour/berlin-dresden-express.html" rel="alternate" type="text/html" title="Mit dem Rad von Berlin nach Dresden" /><published>2018-05-01T00:00:00+02:00</published><updated>2018-05-01T00:00:00+02:00</updated><id>http://localhost:4000/radtour/berlin-dresden-express</id><content type="html" xml:base="http://localhost:4000/radtour/berlin-dresden-express.html">&lt;div class=&quot;&quot; id=&quot;berlindresden&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-09T22:36:14+02:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-07T00:00:00+02:00</updated><id>http://localhost:4000/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
+
+
+&lt;p&gt;Dernière actualisation le : 07 Oct 2018&lt;/p&gt;
+
+
+
+
+&lt;ul id=&quot;intro&quot;&gt;
+&lt;li id=&quot;plan&quot;&gt;Quels sont les différents systèmes de vélo en libre service à Berlin ?&lt;/li&gt; 
+&lt;li id=&quot;plan&quot;&gt;Lequel choisir ?&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;Limites et alternatives aux vélos en libre service&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;Tout est plus libre à Berlin, même les vélos&lt;/h1&gt;
+
+
+
+
+&lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. D'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
+&lt;p align=&quot;&quot;&gt;&lt;img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; /&gt;  &lt;strong&gt;DB CALL A BIKE - LIDL BIKE&lt;/strong&gt; &lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DEEZER NEXTBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt; &lt;img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2&gt;Quels vélos choisir ?&lt;/h2&gt;
+
+&lt;p&gt;Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos &lt;strong&gt;Mobike et Nextbike&lt;/strong&gt; dans des déplacements dans les quartiers &lt;strong&gt;Kreuzberg-Friedrichshain et Neukölln&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pour aller directement à la &lt;strong&gt;synthèse&lt;/strong&gt;, allez ici : &lt;a href=&quot;#synthese&quot;&gt;rien à faire de ce tableau illisible sur mon téléphone, je veux la synthèse.&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; Mobike&lt;/th&gt;
+        &lt;th&gt;&lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; Deezer&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+
+
+&lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Tarif horaire&lt;/td&gt;
+        &lt;td&gt;3€ - 1€ toutes les 20 min&lt;/td&gt;
+        &lt;td&gt;2,5€ - 1€ les premières 30 min. puis 1,5€&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;
+        &lt;td&gt;Tarif journée&lt;/td&gt;
+        &lt;td&gt;Non disponible&lt;/td&gt;
+        &lt;td&gt;3€ -  Gratuit les 30 premières minutes, puis 1€ toutes les 30 minutes&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;
+        &lt;td&gt;Abonnement mensuel&lt;/td&gt;
+        &lt;td&gt;7€ - Gratuit les 30 premières minutes, puis 1€ toutes les 20 minutes&lt;/td&gt;
+        &lt;td&gt;Non disponible, abonnement à l'année possible pour 50€&lt;/td&gt;
+      &lt;/tr&gt;
+
+        &lt;tr&gt;
+        &lt;td&gt;Réservation vélo possible?&lt;/td&gt;
+        &lt;td&gt;Oui&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+      &lt;/tr&gt;
+
+       &lt;tr&gt;
+        &lt;td&gt;Application&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br /&gt;Testée sur iOS&lt;/td&gt;
+        &lt;td&gt;0/10&lt;br /&gt;Nouvelle update ne fonctionne pas sur mon iOS&lt;/td&gt;
+      &lt;/tr&gt;
+
+        &lt;tr&gt;
+        &lt;td&gt;Couverture&lt;/td&gt;
+        &lt;td&gt;9/10&lt;/td&gt;
+        &lt;td&gt;7/10&lt;/td&gt;
+      &lt;/tr&gt;
+
+          &lt;tr&gt;
+        &lt;td&gt;Confort&lt;/td&gt;
+        &lt;td&gt;5/10&lt;br /&gt;Il existe deux générations de vélo. Ceux de la première génération n’ont pas de vitesses.&lt;/td&gt;
+        &lt;td&gt;8/10&lt;/td&gt;
+      &lt;/tr&gt;
+
+          &lt;tr&gt;
+        &lt;td&gt;Restitution du vélo dans une station&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+        &lt;td&gt;Oui, sinon 0,50€ seront facturés&lt;/td&gt;
+      &lt;/tr&gt;
+
+          &lt;tr&gt;
+        &lt;td&gt;Possibilité de mettre en pause la location&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;
+        &lt;td&gt;Service clients&lt;/td&gt;
+        &lt;td&gt;10/10&lt;br /&gt;Car jamais utilisé :)&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br /&gt;Radidement joignable, en anglais et allemand&lt;/td&gt;
+      &lt;/tr&gt;
+
+
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p id=&quot;synthese&quot;&gt;En synthèse: &lt;/p&gt;
+&lt;ul id=&quot;intro&quot;&gt;
+&lt;li id=&quot;plan&quot;&gt;Le &lt;strong&gt;prix&lt;/strong&gt; se vaut: même si nextbike est moins cher à la minute, 0,50€ peuvent être facturés si le vélo n’est pas restitué en station. Au final cela revient au même.&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;mobike est plus &lt;strong&gt;flexible&lt;/strong&gt;, on trouve des vélos de partout et on peut les laisser où on veut.&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;Je trouve que les vélos mobike sont moins &lt;strong&gt;performants&lt;/strong&gt;, car pour la grande majorité d'entre eux, ils n'ont pas de vitesse.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
+&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
+
+ 
+        
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+
+
+   &lt;a href=&quot;/roue-libre/location_de_velo_entre_particuliers.html&quot;&gt;Tout sur la location de vélo de particulier à particulier&lt;/a&gt;.
+
+
+  
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+
+  &lt;/p&gt;
+
+
+
+&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html"></summary></entry><entry xml:lang="de"><title type="html">Mit dem Rad von Berlin nach Dresden</title><link href="http://localhost:4000/radtour/berlin-dresden-express.html" rel="alternate" type="text/html" title="Mit dem Rad von Berlin nach Dresden" /><published>2018-05-01T00:00:00+02:00</published><updated>2018-05-01T00:00:00+02:00</updated><id>http://localhost:4000/radtour/berlin-dresden-express</id><content type="html" xml:base="http://localhost:4000/radtour/berlin-dresden-express.html">&lt;div class=&quot;&quot; id=&quot;berlindresden&quot;&gt;
       &lt;div class=&quot;row&quot;&gt;
       &lt;div class=&quot;col-md-12&quot;&gt;
         &lt;h1&gt;Radweg Berlin-Dresden-Express&lt;/h1&gt;  
@@ -81,7 +253,7 @@ Ich bin inzwischen noch einmal nach Dresden gefahren, dieses Mal aber bis zum En
 &lt;/ul&gt;
 Ich habe leider keine Alternative vorzuschlagen. Der/die jenige, der oder die einen Vorschlag hat, kann gerne eine Kommenter hinterlassen.
 
-&lt;/div&gt;</content><author><name></name></author><category term="radtour" /><summary type="html">Radweg Berlin-Dresden-Express</summary></entry><entry xml:lang="fr"><title type="html">Radbahn - l’autoroute vélo berlinois</title><link href="http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois.html" rel="alternate" type="text/html" title="Radbahn - l'autoroute vélo berlinois" /><published>2018-01-15T00:00:00+01:00</published><updated>2018-01-15T00:00:00+01:00</updated><id>http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois</id><content type="html" xml:base="http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois.html">&lt;div id=&quot;fullScreenDiv&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="radtour" /><summary type="html">Radweg Berlin-Dresden-Express</summary></entry><entry xml:lang="fr"><title type="html">Radbahn - l’autoroute vélo berlinois</title><link href="http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois.html" rel="alternate" type="text/html" title="Radbahn - l'autoroute vélo berlinois" /><published>2018-01-15T00:00:00+01:00</published><updated>2018-01-15T00:00:00+01:00</updated><id>http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois</id><content type="html" xml:base="http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois.html">&lt;div id=&quot;fullScreenDiv&quot;&gt;
         &lt;img src=&quot;/Images/radbahn-min.png&quot; id=&quot;videosubstitute&quot; alt=&quot;radbahn berlin&quot; width=&quot;300px&quot; /&gt;
         &lt;div id=&quot;videoDiv&quot;&gt;           
           &lt;video muted=&quot;&quot; preload=&quot;preload&quot; id=&quot;video&quot; autoplay=&quot;autoplay&quot; loop=&quot;loop&quot;&gt;
@@ -138,35 +310,35 @@ Les prochaines échéances :&lt;/p&gt;
 &lt;div id=&quot;share-bar&quot;&gt;
 
     &lt;div class=&quot;share-buttons&quot;&gt;
-        &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Facebook&quot;&gt;
+        &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Facebook&quot;&gt;
             &lt;i class=&quot;fa fa-facebook-official share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;https://twitter.com/intent/tweet?text=Radbahn - l'autoroute vélo berlinois&amp;amp;url=http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Twitter&quot;&gt;
+        &lt;a href=&quot;https://twitter.com/intent/tweet?text=Radbahn - l'autoroute vélo berlinois&amp;amp;url=http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Twitter&quot;&gt;
             &lt;i class=&quot;fa fa-twitter share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;https://plus.google.com/share?url=http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Google+&quot;&gt;
+        &lt;a href=&quot;https://plus.google.com/share?url=http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Google+&quot;&gt;
             &lt;i class=&quot;fa fa-google-plus share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;http://pinterest.com/pin/create/button/?url=http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Pinterest&quot;&gt;
+        &lt;a href=&quot;http://pinterest.com/pin/create/button/?url=http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Pinterest&quot;&gt;
             &lt;i class=&quot;fa fa-pinterest-p share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;http://www.tumblr.com/share/link?url=http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Tumblr&quot;&gt;
+        &lt;a href=&quot;http://www.tumblr.com/share/link?url=http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Tumblr&quot;&gt;
             &lt;i class=&quot;fa fa-tumblr share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;http://www.reddit.com/submit?url=http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Reddit&quot;&gt;
+        &lt;a href=&quot;http://www.reddit.com/submit?url=http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Reddit&quot;&gt;
             &lt;i class=&quot;fa fa-reddit-alien share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois.html&amp;amp;title=Radbahn - l'autoroute vélo berlinois&amp;amp;summary=C'est comme si vous faisiez Paris-Lyon en départementale et qu'un jour on construisait une autoroute. Vous gagnerez en vitesse, en confort et en sécurité. Radbahn, c'est pareil sauf que c'est pour les vélos et c'est à Berlin.&amp;amp;source=Your awesome title&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on LinkedIn&quot;&gt;
+        &lt;a href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois.html&amp;amp;title=Radbahn - l'autoroute vélo berlinois&amp;amp;summary=C'est comme si vous faisiez Paris-Lyon en départementale et qu'un jour on construisait une autoroute. Vous gagnerez en vitesse, en confort et en sécurité. Radbahn, c'est pareil sauf que c'est pour les vélos et c'est à Berlin.&amp;amp;source=Your awesome title&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on LinkedIn&quot;&gt;
             &lt;i class=&quot;fa fa-linkedin share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;mailto:?subject=Radbahn - l'autoroute vélo berlinois&amp;amp;body=Check out this site http://localhost:4000/roue-libre/radbahn_l'autoroute_v%C3%A9lo_berlinois.html&quot; title=&quot;Share via Email&quot;&gt;
+        &lt;a href=&quot;mailto:?subject=Radbahn - l'autoroute vélo berlinois&amp;amp;body=Check out this site http://localhost:4000/roue-libre/radbahn_autoroute_velo_berlinois.html&quot; title=&quot;Share via Email&quot;&gt;
             &lt;i class=&quot;fa fa-envelope share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
     &lt;/div&gt;
@@ -1993,354 +2165,4 @@ Certains revendeurs
 &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&amp;amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Disponible sur Google Play&quot; width=&quot;135px&quot; height=&quot;40px&quot; src=&quot;/Images/qq.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Conseils" /><summary type="html">Le marquage et l'enregistrement de son vélo en Allemagne</summary></entry><entry xml:lang="de"><title type="html">Fahrrad codieren und registrieren - Infoseite eines Radfahrers</title><link href="http://localhost:4000/blog/2017/04/25/fahrrad_codieren_lassen_und_registrieren_in_deutschland.html" rel="alternate" type="text/html" title="Fahrrad codieren und registrieren - Infoseite eines Radfahrers" /><published>2017-04-25T00:00:00+02:00</published><updated>2017-04-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/2017/04/25/fahrrad_codieren_lassen_und_registrieren_in_deutschland</id><content type="html" xml:base="http://localhost:4000/blog/2017/04/25/fahrrad_codieren_lassen_und_registrieren_in_deutschland.html">&lt;div class=&quot;container blog&quot; id=&quot;fahrradcodierung&quot;&gt;
-     &lt;div class=&quot;row&quot;&gt;
-         &lt;div class=&quot;col-xs-12&quot;&gt;
-          &lt;h1&gt;Fahrrad codieren lassen&lt;/h1&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;container blog&quot; align=&quot;center&quot;&gt;
-  &lt;div class=&quot;row vcenter&quot;&gt;     
-    &lt;div class=&quot;col-xs-12&quot;&gt;
- 
-&lt;p id=&quot;blog&quot;&gt;In Deutschland ist die Fahrradcodierung kostenlos. Die Polizei unter anderem bietet diese Dienstleistung an. Alternative sind aber möglich. Bevor wir mehr ins Detail gehen, wollen wir mehr über den Kontext erfahren. Warum spricht man überhaupt über das Thema Fahrradcodierung ?&lt;/p&gt;
- 
- 
-&lt;h2 id=&quot;blog&quot;&gt;Fahrraddiebstähle in Deutschland&lt;/h2&gt;
- 
-&lt;p&gt;&lt;strong&gt;In Zahlen - Vergleich mit Frankreich&lt;/strong&gt;&lt;/p&gt;
- 
-&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;Frankreich&lt;/th&gt;
-        &lt;th&gt;Deutschland&lt;/th&gt;
-        &lt;th&gt;Quelle (fr)&lt;/th&gt;
-        &lt;th&gt;Quelle (de)&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-     
-      &lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Fahrräder Anzahl&lt;/td&gt;
-        &lt;td&gt;26 000 000&lt;/td&gt;
-        &lt;td&gt;71 000 000&lt;/td&gt;
-        &lt;td&gt;communes.com, 2012&lt;/td&gt;
-        &lt;td&gt;ZIV, 2016&lt;/td&gt;
-      &lt;/tr&gt;
- 
-        &lt;tr&gt;
-        &lt;td&gt;Fahrrad pro Einwohner&lt;/td&gt;
-        &lt;td&gt;4,6 für 10 Einwohner&lt;/td&gt;
-        &lt;td&gt;8,9 für 10 Einwohner&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;/tr&gt;
- 
-        &lt;tr&gt;
-        &lt;td&gt;Gestohlene Fahrräder&lt;/td&gt;
-        &lt;td&gt;303.000&lt;/td&gt;
-        &lt;td&gt;332.000&lt;/td&gt;
-        &lt;td&gt;Ministère de l'intérieur, 2015&lt;/td&gt;
-        &lt;td&gt;Bundesministerium des Innern, 2016&lt;/td&gt;
-        &lt;/tr&gt;
- 
-        &lt;tr&gt;
-        &lt;td&gt;Auflösungsquote&lt;/td&gt;
-        &lt;td&gt;3%&lt;/td&gt;
-        &lt;td&gt;9%&lt;/td&gt;
-        &lt;td&gt;Ministère de l'intérieur, 2015&lt;/td&gt;
-        &lt;td&gt;Bundesministerium des Innern, 2016&lt;/td&gt;
-        &lt;/tr&gt;
- 
-        &lt;tr&gt;
-        &lt;td&gt;Codierte Fahrräder&lt;/td&gt;
-        &lt;td&gt;240 000&lt;/td&gt;
-        &lt;td&gt;1 000 000&lt;/td&gt;
-        &lt;td&gt;Ministère de l'intérieur, 2016&lt;/td&gt;
-        &lt;td&gt;ADFC, 2016&lt;/td&gt;
-        &lt;/tr&gt;
- 
-      &lt;/tbody&gt;
-    &lt;/table&gt;
- 
-&lt;p&gt;&lt;strong&gt;Fahrraddiebstahl : der neue Trend in Berlin&lt;/strong&gt;&lt;/p&gt;
- 
-  &lt;p id=&quot;blog&quot;&gt;Laut der Zeitschrifft &lt;i&gt;berliner morgenpost&lt;/i&gt; wurden 2016 um die 34.000 Fahrräder in der Hauptstadt geklaut, etwa 4 Fahrräder pro Stunde im Schnitt. Der Trend geht nach oben. Die Anzahl an gestohlenen Fahrrädern ist um +70% im Vergleich zu 2010 gestiegen.
-  &lt;br /&gt;
-  &lt;br /&gt;
-  Laut der gleichen Quelle liegt die Auflösungsquote in Berlin bei 3,5%. Damit sind die Chancen deines geliebten wieder zu sehen sehr niedrig. Du solltest lieber schauen, was du gegen Fahrraddiebstahl machen kannst. Gute Nachricht: auf dieser Seite bist du richtig. Hier erfährst du alles über Fahrradcodierung und Registrierung :&lt;/p&gt;
- 
-  &lt;p&gt;Fahrrad codieren lassen&lt;/p&gt;
- 
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#a&quot;&gt;Warum sollte ich mein Fahrrad codieren lassen ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#b&quot;&gt;Wo und wann mein Fahrrad in Berlin codieren lassen : Polizei oder ADFC ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#c&quot;&gt;Welche Methode : Gravur oder Aufkleber?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#d&quot;&gt;Was soll ich mitbringen?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#e&quot;&gt;Was passiert wenn ich umziehe? &lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#f&quot;&gt;Kann ich ein codiertes Fahrrad verkaufen?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#g&quot;&gt;Wie setzt sich meine Codiernummer zusammen?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#k&quot;&gt;Reicht einfach die Rahmennummer aus?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#l&quot;&gt;Kann die Gravur meinen Rahmen beschädigen?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#m&quot;&gt;Fahrradcodierung in Deutschland&lt;/a&gt;&lt;/li&gt;
- 
-  &lt;p&gt;Fahrrad registrieren&lt;/p&gt;
- 
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#h&quot;&gt;Wofür?&lt;/a&gt; &lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#i&quot;&gt;Registrieren oder Codieren lassen, welcher Unterschied ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#j&quot;&gt;Die App Fahrradpass&lt;/a&gt;&lt;/li&gt;
- 
-&lt;h2 id=&quot;blog&quot;&gt;#Codiere Dein Fahrrad&lt;/h2&gt;
- 
-&lt;p id=&quot;a&quot;&gt;&lt;strong&gt;Warum sollte ich mein Fahrrad codieren lassen ?&lt;/strong&gt;&lt;/p&gt;
- 
-  &lt;ul id=&quot;blogj&quot;&gt;
-  &lt;li id=&quot;blogj&quot;&gt;Es werden jährlich gestohlene Fahrräder gefunden, aber nicht identifiziert ! Lass doch Dein Fahrrad codieren, so gehst du sicher, dass es Dir zurück gegeben wird.&lt;/li&gt;
-  &lt;li id=&quot;blogj&quot;&gt;Ein codiertes Fahrrad ist schwieriger zu verkaufen und somit, unattraktiv zu stehlen.&lt;/li&gt;
-   &lt;/ul&gt;
- 
-&lt;p id=&quot;b&quot;&gt;&lt;strong&gt;Wo und wann kannst du dein Fahrrad in Berlin codieren lassen : Polizei oder ADFC ?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Du hast die Wahl zwischen Polizei und ADFC.&lt;/p&gt;
- 
- &lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;Polizei&lt;/th&gt;
-        &lt;th&gt;ADFC&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-     
-      &lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Wo ?&lt;/td&gt;
-        &lt;td&gt;In deiner Polizei Abschnitt.&lt;br /&gt;Siehe &lt;a href=&quot;https://www.berlin.de/land/kalender/?c=63&quot; target=&quot;_blank&quot;&gt;Website&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;ADFC Werkstatt&lt;br /&gt;
-          Gesundbrunnenstraße, 28&lt;br /&gt;
-          Berlin-Mitte&lt;/td&gt;
-        &lt;/tr&gt;
- 
-        &lt;tr&gt;
-        &lt;td&gt;Wann ?&lt;/td&gt;
-        &lt;td&gt;Ungefähr einmal im Monat&lt;br /&gt;Siehe &lt;a href=&quot;https://www.berlin.de/land/kalender/?c=63&quot; target=&quot;_blank&quot;&gt;Kalender&lt;/a&gt;&lt;/td&gt;
-         &lt;td&gt;Mittwochs und Freitags&lt;br /&gt;
-          von 17:00 bis 19:30&lt;/td&gt;
-       &lt;/tr&gt;
-      
-       &lt;tr&gt;
-        &lt;td&gt;Wie viel ?&lt;/td&gt;
-        &lt;td&gt;Kostenlos&lt;/td&gt;
-        &lt;td&gt;4,5€ für Mitglieder ansonsten 9€&lt;/td&gt;
-      &lt;/tr&gt;
- 
-      &lt;tr&gt;
-        &lt;td&gt;Methode&lt;/td&gt;
-        &lt;td&gt;Aufkleber&lt;/td&gt;
-        &lt;td&gt;Gravur bis 0,2 mm&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/tbody&gt;
-    &lt;/table&gt;
- 
- 
-&lt;p id=&quot;c&quot;&gt;&lt;strong&gt;Gravur oder Aufkleber?&lt;/strong&gt;&lt;/p&gt;
- 
-&lt;p&gt;Was ist Dir wichtig?&lt;/p&gt;
- 
-&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;Gravur&lt;/th&gt;
-        &lt;th&gt;Aufkleber&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-     
-      &lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Ästhetik&lt;/td&gt;
-        &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;0&lt;/td&gt;
-        &lt;/tr&gt;
- 
-        &lt;tr&gt;
-        &lt;td&gt;Nachhaltig&lt;/td&gt;
-        &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;0&lt;/td&gt;
-       &lt;/tr&gt;
-      
-       &lt;tr&gt;
-        &lt;td&gt;Abschreckender Effekt&lt;/td&gt;
-        &lt;td&gt;0&lt;/td&gt;
-        &lt;td&gt;1&lt;/td&gt;
-      &lt;/tr&gt;
- 
-      &lt;tr&gt;
-        &lt;td&gt;Preis&lt;/td&gt;
-        &lt;td&gt;0&lt;/td&gt;
-        &lt;td&gt;1&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/tbody&gt;
-    &lt;/table&gt;
- 
-&lt;p&gt;Ergänzung:
- 
-&lt;br /&gt;
-&lt;br /&gt; 
-Ästhetik: die Aufkleber sind einfach hässlich, kein Thema.
-  &lt;br /&gt;
-Nachhaltig: egal was die Polizei sagt, sollten eingravierende Codiernummer länger halten als Aufkleber.
-&lt;br /&gt;
-Abschreckender Effekt : der Aufkleber ist sichtbarer, jeder sieht ihn auch mögliche Diebe...
-&lt;br /&gt;
-Der Preis : gut, beide kosten nicht die Welt, aber trotzdem  0€ &amp;lt; 9€ = Aufkleber gewinnt. &lt;/p&gt;
- 
- &lt;p&gt;FAZIT:
-&lt;br /&gt;
-&lt;br /&gt;
-Wenn Dein Fahrrad eine vorübergehende Lösung ist, dann nimm doch den Aufkleber. Ist zwar hässlich, aber wer weiß, vielleicht passt er zu deinem Rad ?&lt;/p&gt;
- 
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/Images/etiquettepolice.JPG&quot; /&gt;&lt;/p&gt;
- 
-&lt;p&gt;Du bist in einer langfristiger Beziehung mit Deinem Fahrrad ? Du hast schon viel in Eurer Beziehung investiert ? Mit deinem Fahrrad siehst du langfristig. Glückwunsch ! Lass doch die Codiernummer auf deinem Rahmen gravieren. Die 9€ lohnen sich.&lt;/p&gt;
- 
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/Images/codegravur.png&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
- 
- 
-&lt;p id=&quot;d&quot;&gt;&lt;strong&gt;Welche Nachweise soll ich mitbringen?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Deinen Ausweis. Deinen Kaufvertrag. Deine Geduld. Es sollte nicht länger als eine Stunde dauern.&lt;/p&gt;
- 
-&lt;p id=&quot;e&quot;&gt;&lt;strong&gt;Was passiert wenn ich mein Fahrrad verkaufe?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Du brauchst einen neuen Kaufvertrag mit dem Kaufen abzuschließen, worauf die Codiernummer stehen sollte. Der ADFC hat dafür eine &lt;a href=&quot;/Images/100114_ADFC_Musterkaufvertrag.pdf&quot; download=&quot;&quot;&gt;Vorlage&lt;/a&gt; zur Verfügung gestellt. Der neue Eigentümer braucht nicht seine Codiernummer gravieren lassen, dennoch kann er das machen. Die alte Nummer wird dann gestrichen.&lt;/p&gt;
- 
-&lt;p id=&quot;f&quot;&gt;&lt;strong&gt;Was passiert wenn ich umziehe ?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Auch da, kein Problem, du brauchst nicht deine Codiernummer ändern lassen. Die Polizei wird trotzdem dich wieder finden können, sofern du das Jahr mit in der Codiernummer integriert hast. Sollte das der Fall sein, kann die Polizei anhand der Melderegister deine Identität wieder finden und dich dein Fahrrad zurückgeben.&lt;/p&gt;
- 
- 
-&lt;p id=&quot;g&quot;&gt;&lt;strong&gt;Wie setzt sich meine Codiernummer zusammen?&lt;/strong&gt;&lt;/p&gt;
- 
-&lt;p id=&quot;blog&quot;&gt;Die Codiernummer besteht aus folgenden Daten, die danach encodiert werden:&lt;/p&gt;
- 
-&lt;ul id=&quot;blogj&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Stadt&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Straße&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Hausnummer&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Initiale des Eigentümers&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Jahr&lt;/li&gt;
-&lt;/ul&gt;
- 
-&lt;p id=&quot;blog&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;/Images/codeEIN.jpg&quot; /&gt;&lt;/p&gt;
- 
-&lt;p id=&quot;blog&quot;&gt;Um Dein Codiernummer zu bekommen du kannst den Generator der ADFC nutzen &lt;a href=&quot;http://www.fa-technik.adfc.de/Codierung/fein.pl&quot; target=&quot;_blank&quot;&gt;Codiernummer Generator&lt;/a&gt;. &lt;br /&gt;
-Ich habe mal für unseren Freund Jean-jacques Prévert, Frankfurter Allee, 77, 10247-Berlin, Jahr 2017 einen Test gemacht. So sieht seine Nummer aus :&lt;/p&gt;
- 
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/Images/code.JPG&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
- 
-&lt;p id=&quot;k&quot;&gt;&lt;strong&gt;Reicht die Rahmennummer nicht aus?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nein, weil:&lt;/p&gt;
-&lt;ul id=&quot;blogj&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Die Rahmennummer sind nicht unbedingt individuell. Je nach dem Hersteller können Fahrräder der selben Produktion die gleiche Rahmennummer haben.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Rahmennummer nicht immer sichtbar sichtbar und einfach zu finden. Sie sind manchmal von anderen Fahrradteilen versteckt.&lt;/li&gt;
-&lt;/ul&gt;
- 
-&lt;p id=&quot;l&quot;&gt;&lt;strong&gt;Kann die Gravur meiner Codiernummer meinen Rahmen beschädigen&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nein. Es wurden mittlerweile in Deutschland über ein Million Fahrräder codiert, ohne dass Unfälle eintreten sind. Ein Gutachten des Professoren E. v. d. Osten-Sacken der TH von Aachen bestätigt, dass die Gravur bis zu 0,15 mm keine Auswirkung auf die Stabilität eines Alu oder Stahlrahmen haben kann.&lt;/p&gt;
-
-&lt;p id=&quot;m&quot;&gt;&lt;strong&gt;Fahrrad codieren lassen in Frankreich&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Eckdaten im Vergleich zu Deutschland&lt;/p&gt;
-
-&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;Frankreich&lt;/th&gt;
-        &lt;th&gt;Deutschland&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-
-&lt;tbody&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Codiernummer&lt;/td&gt;
-&lt;td&gt;BICYCODE&lt;/td&gt;
-&lt;td&gt;EIN Nummer&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Wer&lt;/td&gt;
-&lt;td&gt;130 Geschäfte
-&lt;br /&gt;
-Siehe die &lt;a href=&quot;https://www.bicycode.org/le-bicycode.rub-2/ou-faire-marquer-son-velo.rub-11/&quot; target=&quot;_blank&quot;&gt;Liste&lt;/a&gt; 
-&lt;/td&gt;
-&lt;td&gt;Die Polizei
-&lt;br /&gt;
-ADFC
-&lt;br /&gt;
-Manche Händler
-&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Preis&lt;/td&gt;
-&lt;td&gt;Zwischen 5€ und 10€&lt;/td&gt;
-&lt;td&gt;Zwischen 0€ und 9€&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Methode&lt;/td&gt;
-&lt;td&gt;Gravur&lt;/td&gt;
-&lt;td&gt;Gravur und Aufkleber&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Anzahl codierte Fahrräder&lt;/td&gt;
-&lt;td&gt;220.000&lt;/td&gt;
-&lt;td&gt;Mehr als 1 million&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Dass die Anzahl an codierten Fahrrädern in Deutschland deutlich höher als in Frankreich ist, ist gar nicht so verwunderlich : günstiger und zugänglicher. Außerdem hat die ADFC in Deutschland früher mit der Fahrradcodierung angefangen.&lt;/p&gt;
-
- 
-&lt;h2 id=&quot;blog&quot;&gt;Fahrrad registrieren&lt;/h2&gt;
- 
-&lt;p id=&quot;h&quot;&gt;&lt;strong&gt;Warum sollte ich mein Fahrrad registrieren?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Sollte Dein Fahrrad gestohlen werden, so kann die Polizei schneller und einfacher Dein Fahrrad suchen. Die Daten die der Polizei übermittelt können auch für deine Versicherung verwendet werden, falls Du eine hast.&lt;/p&gt;
- 
-&lt;p id=&quot;i&quot;&gt;&lt;strong&gt;Fahrrad codieren lassen oder registrieren: welcher Unterschied ?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Die Registrierung vereinfacht die Suche, während die Fahrradcodierung der Identifizierung ermöglicht. Außerdem schreckt sie die Diebe ab.&lt;/p&gt;
-&lt;p&gt;Beide Maßnahmen können unabhängig voneinander gemacht werden. Ein Fahrrad kann registriert aber nicht codiert sein und umgekehrt.&lt;/p&gt;
- 
-&lt;p id=&quot;j&quot;&gt;&lt;strong&gt;Die App &quot;Fahrradpass&quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mit dieser App kannst gemütlich von zu Hause einen Pass für dein Rad erstellen, mit folgenden Informationen:&lt;/p&gt;
- 
-&lt;ul id=&quot;blogj&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Codiernummer&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Rahmennummer&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Beschreibung&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Foto&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Zubehöre (z.B Navi)&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Schaden&lt;/li&gt;
-&lt;/ul&gt;
- 
-&lt;p&gt;Sollte Dein Fahrrad verschwinden, kannst du direkt per Export die Daten zur Polizei schicken, Deiner Versicherung auch. Die App kann sowohl für iOS als auch für Android Smartphone heruntergeladen werden.&lt;/p&gt;
- 
-&lt;/div&gt;
-&lt;/div&gt;
- 
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-xs-6&quot;&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/de/app/fahrradpass/id438072942&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/Images/kk.svg&quot; alt=&quot;telecharger fahrradpass pour ios&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
- 
- &lt;div class=&quot;col-xs-6&quot;&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&amp;amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Disponible sur Google Play&quot; width=&quot;135px&quot; height=&quot;40px&quot; src=&quot;/Images/qq.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="blog" /><summary type="html">Fahrrad codieren lassen In Deutschland ist die Fahrradcodierung kostenlos. Die Polizei unter anderem bietet diese Dienstleistung an. Alternative sind aber möglich. Bevor wir mehr ins Detail gehen, wollen wir mehr über den Kontext erfahren. Warum spricht man überhaupt über das Thema Fahrradcodierung ? Fahrraddiebstähle in Deutschland In Zahlen - Vergleich mit Frankreich Frankreich Deutschland Quelle (fr) Quelle (de) Fahrräder Anzahl 26 000 000 71 000 000 communes.com, 2012 ZIV, 2016 Fahrrad pro Einwohner 4,6 für 10 Einwohner 8,9 für 10 Einwohner Gestohlene Fahrräder 303.000 332.000 Ministère de l'intérieur, 2015 Bundesministerium des Innern, 2016 Auflösungsquote 3% 9% Ministère de l'intérieur, 2015 Bundesministerium des Innern, 2016 Codierte Fahrräder 240 000 1 000 000 Ministère de l'intérieur, 2016 ADFC, 2016 Fahrraddiebstahl : der neue Trend in Berlin Laut der Zeitschrifft berliner morgenpost wurden 2016 um die 34.000 Fahrräder in der Hauptstadt geklaut, etwa 4 Fahrräder pro Stunde im Schnitt. Der Trend geht nach oben. Die Anzahl an gestohlenen Fahrrädern ist um +70% im Vergleich zu 2010 gestiegen. Laut der gleichen Quelle liegt die Auflösungsquote in Berlin bei 3,5%. Damit sind die Chancen deines geliebten wieder zu sehen sehr niedrig. Du solltest lieber schauen, was du gegen Fahrraddiebstahl machen kannst. Gute Nachricht: auf dieser Seite bist du richtig. Hier erfährst du alles über Fahrradcodierung und Registrierung : Fahrrad codieren lassen Warum sollte ich mein Fahrrad codieren lassen ? Wo und wann mein Fahrrad in Berlin codieren lassen : Polizei oder ADFC ? Welche Methode : Gravur oder Aufkleber? Was soll ich mitbringen? Was passiert wenn ich umziehe? Kann ich ein codiertes Fahrrad verkaufen? Wie setzt sich meine Codiernummer zusammen? Reicht einfach die Rahmennummer aus? Kann die Gravur meinen Rahmen beschädigen? Fahrradcodierung in Deutschland Fahrrad registrieren Wofür? Registrieren oder Codieren lassen, welcher Unterschied ? Die App Fahrradpass #Codiere Dein Fahrrad Warum sollte ich mein Fahrrad codieren lassen ? Es werden jährlich gestohlene Fahrräder gefunden, aber nicht identifiziert ! Lass doch Dein Fahrrad codieren, so gehst du sicher, dass es Dir zurück gegeben wird. Ein codiertes Fahrrad ist schwieriger zu verkaufen und somit, unattraktiv zu stehlen. Wo und wann kannst du dein Fahrrad in Berlin codieren lassen : Polizei oder ADFC ? Du hast die Wahl zwischen Polizei und ADFC. Polizei ADFC Wo ? In deiner Polizei Abschnitt.Siehe Website ADFC Werkstatt Gesundbrunnenstraße, 28 Berlin-Mitte Wann ? Ungefähr einmal im MonatSiehe Kalender Mittwochs und Freitags von 17:00 bis 19:30 Wie viel ? Kostenlos 4,5€ für Mitglieder ansonsten 9€ Methode Aufkleber Gravur bis 0,2 mm Gravur oder Aufkleber? Was ist Dir wichtig? Gravur Aufkleber Ästhetik 1 0 Nachhaltig 1 0 Abschreckender Effekt 0 1 Preis 0 1 Ergänzung: Ästhetik: die Aufkleber sind einfach hässlich, kein Thema. Nachhaltig: egal was die Polizei sagt, sollten eingravierende Codiernummer länger halten als Aufkleber. Abschreckender Effekt : der Aufkleber ist sichtbarer, jeder sieht ihn auch mögliche Diebe... Der Preis : gut, beide kosten nicht die Welt, aber trotzdem 0€ &amp;lt; 9€ = Aufkleber gewinnt. FAZIT: Wenn Dein Fahrrad eine vorübergehende Lösung ist, dann nimm doch den Aufkleber. Ist zwar hässlich, aber wer weiß, vielleicht passt er zu deinem Rad ? Du bist in einer langfristiger Beziehung mit Deinem Fahrrad ? Du hast schon viel in Eurer Beziehung investiert ? Mit deinem Fahrrad siehst du langfristig. Glückwunsch ! Lass doch die Codiernummer auf deinem Rahmen gravieren. Die 9€ lohnen sich. Welche Nachweise soll ich mitbringen? Deinen Ausweis. Deinen Kaufvertrag. Deine Geduld. Es sollte nicht länger als eine Stunde dauern. Was passiert wenn ich mein Fahrrad verkaufe? Du brauchst einen neuen Kaufvertrag mit dem Kaufen abzuschließen, worauf die Codiernummer stehen sollte. Der ADFC hat dafür eine Vorlage zur Verfügung gestellt. Der neue Eigentümer braucht nicht seine Codiernummer gravieren lassen, dennoch kann er das machen. Die alte Nummer wird dann gestrichen. Was passiert wenn ich umziehe ? Auch da, kein Problem, du brauchst nicht deine Codiernummer ändern lassen. Die Polizei wird trotzdem dich wieder finden können, sofern du das Jahr mit in der Codiernummer integriert hast. Sollte das der Fall sein, kann die Polizei anhand der Melderegister deine Identität wieder finden und dich dein Fahrrad zurückgeben. Wie setzt sich meine Codiernummer zusammen? Die Codiernummer besteht aus folgenden Daten, die danach encodiert werden: Stadt Straße Hausnummer Initiale des Eigentümers Jahr Um Dein Codiernummer zu bekommen du kannst den Generator der ADFC nutzen Codiernummer Generator. Ich habe mal für unseren Freund Jean-jacques Prévert, Frankfurter Allee, 77, 10247-Berlin, Jahr 2017 einen Test gemacht. So sieht seine Nummer aus : Reicht die Rahmennummer nicht aus? Nein, weil: Die Rahmennummer sind nicht unbedingt individuell. Je nach dem Hersteller können Fahrräder der selben Produktion die gleiche Rahmennummer haben. Rahmennummer nicht immer sichtbar sichtbar und einfach zu finden. Sie sind manchmal von anderen Fahrradteilen versteckt. Kann die Gravur meiner Codiernummer meinen Rahmen beschädigen Nein. Es wurden mittlerweile in Deutschland über ein Million Fahrräder codiert, ohne dass Unfälle eintreten sind. Ein Gutachten des Professoren E. v. d. Osten-Sacken der TH von Aachen bestätigt, dass die Gravur bis zu 0,15 mm keine Auswirkung auf die Stabilität eines Alu oder Stahlrahmen haben kann.</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Conseils" /><summary type="html">Le marquage et l'enregistrement de son vélo en Allemagne</summary></entry></feed>

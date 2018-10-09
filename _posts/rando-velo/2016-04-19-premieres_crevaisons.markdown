@@ -7,6 +7,7 @@ category: "blog"
 lang: mm
 ref: post
 comments: true
+sitemap: false
 ---
 
 <div class="container blog" align="center">
