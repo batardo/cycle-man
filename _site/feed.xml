@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-09T22:50:16+02:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-07T00:00:00+02:00</updated><id>http://localhost:4000/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
-
-
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-16T22:36:48+02:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/amp/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-07T00:00:00+02:00</updated><id>http://localhost:4000/amp/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/amp/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
 &lt;p&gt;Dernière actualisation le : 07 Oct 2018&lt;/p&gt;
-
-
 
 
 &lt;ul id=&quot;intro&quot;&gt;
@@ -20,7 +16,7 @@
 &lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. D'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
-&lt;p align=&quot;&quot;&gt;&lt;img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; /&gt;  &lt;strong&gt;DB CALL A BIKE - LIDL BIKE&lt;/strong&gt; &lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DEEZER NEXTBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt; &lt;img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;&quot;&gt;&lt;amp-img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; &gt;&lt;/amp-img&gt;  &lt;strong&gt;DB CALL A BIKE - LIDL BIKE&lt;/strong&gt; &lt;amp-img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;DEEZER NEXTBIKE&lt;/strong&gt; &lt;amp-img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt; &lt;amp-img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt; &lt;amp-img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;/p&gt;
 
 
 
@@ -36,8 +32,8 @@
   &lt;thead&gt;
       &lt;tr&gt;
         &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;&lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; Mobike&lt;/th&gt;
-        &lt;th&gt;&lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; Deezer&lt;/th&gt;
+        &lt;th&gt;&lt;amp-img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot;&gt;&lt;/amp-img&gt; Mobike&lt;/th&gt;
+        &lt;th&gt;&lt;amp-img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot;&gt;&lt;/amp-img&gt; Deezer&lt;/th&gt;
         &lt;/tr&gt;
       &lt;/thead&gt;
 
@@ -49,58 +45,58 @@
         &lt;td&gt;2,5€ - 1€ les premières 30 min. puis 1,5€&lt;/td&gt;
       &lt;/tr&gt;
 
-      &lt;tr&gt;
+  &lt;tr&gt;
         &lt;td&gt;Tarif journée&lt;/td&gt;
         &lt;td&gt;Non disponible&lt;/td&gt;
         &lt;td&gt;3€ -  Gratuit les 30 premières minutes, puis 1€ toutes les 30 minutes&lt;/td&gt;
       &lt;/tr&gt;
 
-      &lt;tr&gt;
+  &lt;tr&gt;
         &lt;td&gt;Abonnement mensuel&lt;/td&gt;
         &lt;td&gt;7€ - Gratuit les 30 premières minutes, puis 1€ toutes les 20 minutes&lt;/td&gt;
         &lt;td&gt;Non disponible, abonnement à l'année possible pour 50€&lt;/td&gt;
       &lt;/tr&gt;
 
-        &lt;tr&gt;
+  &lt;tr&gt;
         &lt;td&gt;Réservation vélo possible?&lt;/td&gt;
         &lt;td&gt;Oui&lt;/td&gt;
         &lt;td&gt;Non&lt;/td&gt;
       &lt;/tr&gt;
 
-       &lt;tr&gt;
+  &lt;tr&gt;
         &lt;td&gt;Application&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br /&gt;Testée sur iOS&lt;/td&gt;
-        &lt;td&gt;0/10&lt;br /&gt;Nouvelle update ne fonctionne pas sur mon iOS&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br&gt;Testée sur iOS&lt;/td&gt;
+        &lt;td&gt;0/10&lt;br&gt;Nouvelle update ne fonctionne pas sur mon iOS&lt;/td&gt;
       &lt;/tr&gt;
 
-        &lt;tr&gt;
+  &lt;tr&gt;
         &lt;td&gt;Couverture&lt;/td&gt;
         &lt;td&gt;9/10&lt;/td&gt;
         &lt;td&gt;7/10&lt;/td&gt;
       &lt;/tr&gt;
 
-          &lt;tr&gt;
+  &lt;tr&gt;
         &lt;td&gt;Confort&lt;/td&gt;
-        &lt;td&gt;5/10&lt;br /&gt;Il existe deux générations de vélo. Ceux de la première génération n’ont pas de vitesses.&lt;/td&gt;
+        &lt;td&gt;5/10&lt;br&gt;Il existe deux générations de vélo. Ceux de la première génération n’ont pas de vitesses.&lt;/td&gt;
         &lt;td&gt;8/10&lt;/td&gt;
       &lt;/tr&gt;
 
-          &lt;tr&gt;
-        &lt;td&gt;Restitution du vélo dans une station&lt;/td&gt;
+  &lt;tr&gt;
+  &lt;td&gt;Restitution du vélo dans une station&lt;/td&gt;
         &lt;td&gt;Non&lt;/td&gt;
         &lt;td&gt;Oui, sinon 0,50€ seront facturés&lt;/td&gt;
       &lt;/tr&gt;
 
-          &lt;tr&gt;
+  &lt;tr&gt;
         &lt;td&gt;Possibilité de mettre en pause la location&lt;/td&gt;
         &lt;td&gt;Non&lt;/td&gt;
         &lt;td&gt;Non&lt;/td&gt;
       &lt;/tr&gt;
 
-      &lt;tr&gt;
+  &lt;tr&gt;
         &lt;td&gt;Service clients&lt;/td&gt;
-        &lt;td&gt;10/10&lt;br /&gt;Car jamais utilisé :)&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br /&gt;Radidement joignable, en anglais et allemand&lt;/td&gt;
+        &lt;td&gt;10/10&lt;br&gt;Car jamais utilisé :)&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br&gt;Radidement joignable, en anglais et allemand&lt;/td&gt;
       &lt;/tr&gt;
 
 
@@ -119,6 +115,8 @@
 
  
         
+        
+  
         
   
         
@@ -170,7 +168,175 @@
 
 
 
-&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html"></summary></entry><entry xml:lang="de"><title type="html">Mit dem Rad von Berlin nach Dresden</title><link href="http://localhost:4000/radtour/berlin-dresden-express.html" rel="alternate" type="text/html" title="Mit dem Rad von Berlin nach Dresden" /><published>2018-05-01T00:00:00+02:00</published><updated>2018-05-01T00:00:00+02:00</updated><id>http://localhost:4000/radtour/berlin-dresden-express</id><content type="html" xml:base="http://localhost:4000/radtour/berlin-dresden-express.html">&lt;div class=&quot;&quot; id=&quot;berlindresden&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="amp/roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Dernière actualisation le : 07 Oct 2018</summary></entry><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-07T00:00:00+02:00</updated><id>http://localhost:4000/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
+&lt;p&gt;Dernière actualisation le : 07 Oct 2018&lt;/p&gt;
+
+
+&lt;ul id=&quot;intro&quot;&gt;
+&lt;li id=&quot;plan&quot;&gt;Quels sont les différents systèmes de vélo en libre service à Berlin ?&lt;/li&gt; 
+&lt;li id=&quot;plan&quot;&gt;Lequel choisir ?&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;Limites et alternatives aux vélos en libre service&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;Tout est plus libre à Berlin, même les vélos&lt;/h1&gt;
+
+
+&lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. D'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
+&lt;p align=&quot;&quot;&gt;&lt;img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; /&gt;  &lt;strong&gt;DB CALL A BIKE - LIDL BIKE&lt;/strong&gt; &lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DEEZER NEXTBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt; &lt;img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2&gt;Quels vélos choisir ?&lt;/h2&gt;
+
+&lt;p&gt;Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos &lt;strong&gt;Mobike et Nextbike&lt;/strong&gt; dans des déplacements dans les quartiers &lt;strong&gt;Kreuzberg-Friedrichshain et Neukölln&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pour aller directement à la &lt;strong&gt;synthèse&lt;/strong&gt;, allez ici : &lt;a href=&quot;#synthese&quot;&gt;rien à faire de ce tableau illisible sur mon téléphone, je veux la synthèse.&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; Mobike&lt;/th&gt;
+        &lt;th&gt;&lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; Deezer&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+
+
+&lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Tarif horaire&lt;/td&gt;
+        &lt;td&gt;3€ - 1€ toutes les 20 min&lt;/td&gt;
+        &lt;td&gt;2,5€ - 1€ les premières 30 min. puis 1,5€&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Tarif journée&lt;/td&gt;
+        &lt;td&gt;Non disponible&lt;/td&gt;
+        &lt;td&gt;3€ -  Gratuit les 30 premières minutes, puis 1€ toutes les 30 minutes&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Abonnement mensuel&lt;/td&gt;
+        &lt;td&gt;7€ - Gratuit les 30 premières minutes, puis 1€ toutes les 20 minutes&lt;/td&gt;
+        &lt;td&gt;Non disponible, abonnement à l'année possible pour 50€&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Réservation vélo possible?&lt;/td&gt;
+        &lt;td&gt;Oui&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Application&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br /&gt;Testée sur iOS&lt;/td&gt;
+        &lt;td&gt;0/10&lt;br /&gt;Nouvelle update ne fonctionne pas sur mon iOS&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Couverture&lt;/td&gt;
+        &lt;td&gt;9/10&lt;/td&gt;
+        &lt;td&gt;7/10&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Confort&lt;/td&gt;
+        &lt;td&gt;5/10&lt;br /&gt;Il existe deux générations de vélo. Ceux de la première génération n’ont pas de vitesses.&lt;/td&gt;
+        &lt;td&gt;8/10&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+  &lt;td&gt;Restitution du vélo dans une station&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+        &lt;td&gt;Oui, sinon 0,50€ seront facturés&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Possibilité de mettre en pause la location&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Service clients&lt;/td&gt;
+        &lt;td&gt;10/10&lt;br /&gt;Car jamais utilisé :)&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br /&gt;Radidement joignable, en anglais et allemand&lt;/td&gt;
+      &lt;/tr&gt;
+
+
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p id=&quot;synthese&quot;&gt;En synthèse: &lt;/p&gt;
+&lt;ul id=&quot;intro&quot;&gt;
+&lt;li id=&quot;plan&quot;&gt;Le &lt;strong&gt;prix&lt;/strong&gt; se vaut: même si nextbike est moins cher à la minute, 0,50€ peuvent être facturés si le vélo n’est pas restitué en station. Au final cela revient au même.&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;mobike est plus &lt;strong&gt;flexible&lt;/strong&gt;, on trouve des vélos de partout et on peut les laisser où on veut.&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;Je trouve que les vélos mobike sont moins &lt;strong&gt;performants&lt;/strong&gt;, car pour la grande majorité d'entre eux, ils n'ont pas de vitesse.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
+&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
+
+ 
+        
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+
+
+   &lt;a href=&quot;/roue-libre/location_de_velo_entre_particuliers.html&quot;&gt;Tout sur la location de vélo de particulier à particulier&lt;/a&gt;.
+
+
+  
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+
+  &lt;/p&gt;
+
+
+
+&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Dernière actualisation le : 07 Oct 2018</summary></entry><entry xml:lang="de"><title type="html">Mit dem Rad von Berlin nach Dresden</title><link href="http://localhost:4000/radtour/berlin-dresden-express.html" rel="alternate" type="text/html" title="Mit dem Rad von Berlin nach Dresden" /><published>2018-05-01T00:00:00+02:00</published><updated>2018-05-01T00:00:00+02:00</updated><id>http://localhost:4000/radtour/berlin-dresden-express</id><content type="html" xml:base="http://localhost:4000/radtour/berlin-dresden-express.html">&lt;div class=&quot;&quot; id=&quot;berlindresden&quot;&gt;
       &lt;div class=&quot;row&quot;&gt;
       &lt;div class=&quot;col-md-12&quot;&gt;
         &lt;h1&gt;Radweg Berlin-Dresden-Express&lt;/h1&gt;  
@@ -1810,359 +1976,4 @@ Vorraussetzungen für diesen Radweg:
 
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="radtour" /><summary type="html">Radweg von Berlin zum Liepnitzsee</summary></entry><entry xml:lang="fr"><title type="html">Faire marquer et enregistrer son vélo en Allemagne</title><link href="http://localhost:4000/roue-libre/faire_marquer_et_enregistrer_son_velo_en_allemagne.html" rel="alternate" type="text/html" title="Faire marquer et enregistrer son vélo en Allemagne" /><published>2017-05-17T00:00:00+02:00</published><updated>2017-05-17T00:00:00+02:00</updated><id>http://localhost:4000/roue-libre/faire_marquer_et_enregistrer_son_velo_en_allemagne</id><content type="html" xml:base="http://localhost:4000/roue-libre/faire_marquer_et_enregistrer_son_velo_en_allemagne.html">&lt;div class=&quot;container blog&quot; id=&quot;fahrradcodierung&quot;&gt;
-     &lt;div class=&quot;row&quot;&gt;
-         &lt;div class=&quot;col-xs-12&quot;&gt;
-          &lt;h1&gt;Le marquage et l'enregistrement de son vélo en Allemagne&lt;/h1&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;container blog&quot; align=&quot;center&quot;&gt;
-  &lt;div class=&quot;row vcenter&quot;&gt;      
-    &lt;div class=&quot;col-xs-12&quot;&gt;
-
-&lt;p id=&quot;blog&quot;&gt;En Allemagne, le marquage de vélo est gratuit. Pour cela il suffit par exemple de se rendre dans son bureau de police de quartier aux heures prévues à cet effet. D'autres alternatives sont possibles. Mais avant de rentrer plus en détail, remettons les choses dans leur contexte.&lt;/p&gt;
-
-
-&lt;h2 id=&quot;blog&quot;&gt;Les vols de vélo en Allemagne&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Quelques chiffres en comparaison avec la France&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;France&lt;/th&gt;
-        &lt;th&gt;Allemagne&lt;/th&gt;
-        &lt;th&gt;Source (fr)&lt;/th&gt;
-        &lt;th&gt;Source (de)&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      
-      &lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Nombre de vélos&lt;/td&gt;
-        &lt;td&gt;26 000 000&lt;/td&gt;
-        &lt;td&gt;71 000 000&lt;/td&gt;
-        &lt;td&gt;communes.com, 2012&lt;/td&gt;
-        &lt;td&gt;ZIV, 2016&lt;/td&gt;
-      &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;Vélos par habitant&lt;/td&gt;
-        &lt;td&gt;4,6 pour 10 habitants&lt;/td&gt;
-        &lt;td&gt;8,9 pour 10 habitants &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;Nombre de vélos volés&lt;/td&gt;
-        &lt;td&gt;303.000&lt;/td&gt;
-        &lt;td&gt;332.000&lt;/td&gt;
-        &lt;td&gt;Ministère de l'intérieur, 2015&lt;/td&gt;
-        &lt;td&gt;Bundesministerium des Innern, 2016&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;Taux d'élucidation&lt;/td&gt;
-        &lt;td&gt;3%&lt;/td&gt;
-        &lt;td&gt;9%&lt;/td&gt;
-        &lt;td&gt;Ministère de l'intérieur, 2015&lt;/td&gt;
-        &lt;td&gt;Bundesministerium des Innern, 2016&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;Nombre de vélo marqués&lt;/td&gt;
-        &lt;td&gt;240 000&lt;/td&gt;
-        &lt;td&gt;1 000 000&lt;/td&gt;
-        &lt;td&gt;Ministère de l'intérieur, 2016&lt;/td&gt;
-        &lt;td&gt;ADFC, 2016&lt;/td&gt;
-        &lt;/tr&gt;
-
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Le vol de vélo, une super tendance, surtout à Berlin&lt;/strong&gt;&lt;/p&gt;
-
-  &lt;p id=&quot;blog&quot;&gt;Selon le &lt;i&gt;berliner morgenpost&lt;/i&gt; quelques 34 000 vélos ont été déclarés volés à Berlin en 2016, soit un peu moins de 4 vélos volés par heure. 
-  La tendance est à la hausse. On note une constante augmentation, +70% par rapport à 2010 où &quot;seulement&quot; 20.000 vélos avaient été volés. 
-  Ces indicateurs révèlent certes une tendance mais de reflètent pas la réalité, puisque que la majorité des vélos volés ne sont pas signalés à la police...
-  &lt;br /&gt;
-  &lt;br /&gt;
-  Toujours selon le &lt;i&gt;berliner morgenpost&lt;/i&gt; le taux d'élucidation des vols de vélo dans la ville de Berlin est de 3,5%. 
-  Donc ne comptez pas dessus, vos chances de revoir votre monture sont très faibles. Alors le mieux reste de ne pas se faire voler son vélo. Alors il te reste deux choses à faire :&lt;/p&gt;
-
-  &lt;p&gt; Faire marquer son vélo&lt;/p&gt;
-
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#a&quot;&gt;À quoi ça sert ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#b&quot;&gt;Où et quand faire encoder son vélo à Berlin : police ou ADFC ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#c&quot;&gt;Comment : gravure ou étiquette ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#d&quot;&gt;De quels justificatifs ai-je besoin ?&lt;/a&gt;&lt;/li&gt; 
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#e&quot;&gt;Que faire en cas de déménagement ? &lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#f&quot;&gt;Que faire en cas de vente ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#g&quot;&gt;À quoi ressemble mon numéro d'immatriculation ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#k&quot;&gt;Pourquoi le numéro de cadre ne suffit pas ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#l&quot;&gt;La gravure du numéro d'immatriculation peut-elle endommager mon vélo ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#m&quot;&gt;Le marquage de vélo en France&lt;/a&gt;&lt;/li&gt;
-
-
-  &lt;p&gt;Faire enregistrer son vélo&lt;/p&gt;
-
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#h&quot;&gt;Pourquoi faire enregistrer son vélo ?&lt;/a&gt; &lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#i&quot;&gt;Faire enregistrer ou faire marquer son vélo ?&lt;/a&gt;&lt;/li&gt;
-  &lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#j&quot;&gt;L'application &quot;Fahrradpass&quot; pour créer son passeport vélo&lt;/a&gt;&lt;/li&gt;
-
-&lt;h2 id=&quot;blog&quot;&gt;#Fais marquer ton vélo&lt;/h2&gt;
-
-&lt;p id=&quot;a&quot;&gt;&lt;strong&gt;Pourquoi faire marquer son vélo, à quoi ça sert ?&lt;/strong&gt;&lt;/p&gt;
-  
-  &lt;ul id=&quot;blogj&quot;&gt;
-  &lt;li id=&quot;blogj&quot;&gt;Chaque année la police retrouve des vélos sans pouvoir les identifier. En France par exemple, sur les 150 000 vélos retrouvés chaque année, seuls 3% sont restitués ! Alors fais marquer ton vélo, il pourra plus facilement t'être restitué.&lt;/li&gt; 
-  &lt;li id=&quot;blogj&quot;&gt;Un vélo marqué est plus difficile à revendre, donc moins intéressant à voler.&lt;/li&gt;
-   &lt;/ul&gt;
-
-&lt;p id=&quot;b&quot;&gt;&lt;strong&gt;Où et quand faire marquer son vélo à Berlin ?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Vous avez le choix entre la police ou l'ADFC.&lt;/p&gt;
-
- &lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;Police&lt;/th&gt;
-        &lt;th&gt;ADFC&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      
-      &lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Où ?&lt;/td&gt;
-        &lt;td&gt;Dans votre police de quartier.&lt;br /&gt;Voir le &lt;a href=&quot;https://www.berlin.de/land/kalender/?c=63&quot; target=&quot;_blank&quot;&gt;site internet&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;Atelier de l'ADFC&lt;br /&gt;
-          Gesundbrunnenstraße, 28&lt;br /&gt;
-          Berlin-Mitte&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;Quand ?&lt;/td&gt;
-        &lt;td&gt;Une fois par mois environ.&lt;br /&gt;Voir le &lt;a href=&quot;https://www.berlin.de/land/kalender/?c=63&quot; target=&quot;_blank&quot;&gt;calendrier&lt;/a&gt;&lt;/td&gt;
-         &lt;td&gt;Les mercredis et vendredis&lt;br /&gt;
-          de 17:00 à 19:30&lt;/td&gt;
-       &lt;/tr&gt;
-       
-       &lt;tr&gt;
-        &lt;td&gt;Combien ?&lt;/td&gt;
-        &lt;td&gt;Gratuit&lt;/td&gt;
-        &lt;td&gt;4,5€ pour les adhérents, sinon 9€&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;Méthode&lt;/td&gt;
-        &lt;td&gt;Etiquette spéciale&lt;/td&gt;
-        &lt;td&gt;Gravure de 0,1 - 0,2 mm&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/tbody&gt;
-    &lt;/table&gt;
-
-
-&lt;p id=&quot;c&quot;&gt;&lt;strong&gt;Gravure ou étiquette ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Tout dépend ce qui vous importe :&lt;/p&gt;
-
-&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;Gravure&lt;/th&gt;
-        &lt;th&gt;Étiquette&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      
-      &lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Esthétique&lt;/td&gt;
-        &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;0&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;Durabilité&lt;/td&gt;
-        &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;0&lt;/td&gt;
-       &lt;/tr&gt;
-       
-       &lt;tr&gt;
-        &lt;td&gt;Effet dissuasif&lt;/td&gt;
-        &lt;td&gt;0&lt;/td&gt;
-        &lt;td&gt;1&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;Prix&lt;/td&gt;
-        &lt;td&gt;0&lt;/td&gt;
-        &lt;td&gt;1&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/tbody&gt;
-    &lt;/table&gt;
-
-&lt;p&gt;Explications
-
-&lt;br /&gt;
-&lt;br /&gt;  
-Sur l'esthétique la gravure l'emporte, car les etiquettes sont moches, c'est sans appel.
-  &lt;br /&gt;
-Durabilité: même si les étiquettes sont réputées indécollables (source: police), il n'en reste pas moins qu'une gravure, c'est pour la vie.
-&lt;br /&gt;
-L'effet dissuasif : un bon point pour l'étiquette. On la voit, tout le monde la voit et donc à fortiori, le voleur la voit.
-&lt;br /&gt;
-Le prix : là franchement, on chipotte. Mais c'est mathématique: 9 &amp;gt; 0€... l'étiquette égalise. &lt;/p&gt;
-
- &lt;p&gt;Pour faire simple :
-&lt;br /&gt;
-&lt;br /&gt;
-Tu es de passage ? Ton vélo et toi c'est du court terme ? Il dépanne, il te transporte, mais ce n'est pas l'amour fou ? Mets-lui une étiquette &quot;finger weg!&quot;. Après tout, elle ne lui ira pas si mal.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/Images/etiquettepolice.JPG&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Toi et ton vélo c'est du solide. Tu as déjà beaucoup investi dans votre relation. Entre vous c'est du durable. Grave-moi tout ca. Les 9€ en valent la chandelle.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/Images/codegravur.png&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
-
-
-&lt;p id=&quot;d&quot;&gt;&lt;strong&gt;De quels justificatifs ai-je besoin pour faire enregistrer mon vélo?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat de vente.&lt;/p&gt;
-
-&lt;p id=&quot;e&quot;&gt;&lt;strong&gt;Comment faire si je vends mon vélo ?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Il faut alors établir un contrat de vente avec le nouvel acquérir sur lequel devra figurer toutes les données relatives à l'encodage. L'ADFC a mis à disposition un &lt;a href=&quot;/Images/100114_ADFC_Musterkaufvertrag.pdf&quot; download=&quot;&quot;&gt;contrat type&lt;/a&gt; que vous pouvez télécharger. Le nouveau propriétaire n'est pas obligé de changer de numéro, mais il peut le faire. L'ancien code sera alors barré.&lt;/p&gt;
-
-&lt;p id=&quot;f&quot;&gt;&lt;strong&gt;Que se passe-t'il en cas de déménagement ?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Aucun problème. Pas de besoin de changer de numéro. Si l'année d'immatriculation est bien présente dans le numéro d'immatriculation, la police pourra alors avoir accès à l'ancienne adresse du propriétaire, car comme vous le savez (ou pas), il est obligatoire en Allemagne d'enregistrer son domicile auprès des autorités.&lt;/p&gt;
-
-
-&lt;p id=&quot;g&quot;&gt;&lt;strong&gt;À quoi ressemble mon numéro d'immatriculation de vélo ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p id=&quot;blog&quot;&gt;Le numéro d'immatriculation n'est en fait rien d'autre que votre adresse, vos initiales et l'année d'immatriculation, le tout encodé selon la nomenclature de la police. Précisément vous devez renseigner les informations suivantes :&lt;/p&gt;
-
-&lt;ul id=&quot;blogj&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Code de la ville&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Code de la rue&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Numéro de rue&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Initiales du propriétaire&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Année d'immatriculation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p id=&quot;blog&quot; align=&quot;center&quot;&gt;&lt;img src=&quot;/Images/codeEIN.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p id=&quot;blog&quot;&gt;Si vous souhaitez voir à quoi ressemblerait votre numéro d'immatriculation, l'ADFC a mis en place un &lt;a href=&quot;http://www.fa-technik.adfc.de/Codierung/fein.pl&quot; target=&quot;_blank&quot;&gt;générateur de code&lt;/a&gt;. &lt;br /&gt;
-J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au Frankfurter Allee, 77, 10247-Berlin, immatriculé en 2017. Et voici le résultat :&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/Images/code.JPG&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
-
-&lt;p id=&quot;k&quot;&gt;&lt;strong&gt;Pourquoi le numéro de cadre ne suffit pas ?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul id=&quot;blogj&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Selon les fabricants un vélo peut avoir jusqu'à trois numéros de cadre à retrouver -ou pas- à des endroits différents sur le vélo.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Les numéros de cadre ne sont pas toujours individuels. Selon les fabricants ils peuvent être identiques à une même production.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Pas toujours facile de retrouver ce numéro rendu non visible, caché derrière un composant, ou par une couche de laque.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Bref, si vous voulez donner un maximum de chance à votre vélo d'être identifié, il vaut mieux avoir un numéro d'immatriculation individuel et visible.&lt;/p&gt;.
-
-&lt;p id=&quot;l&quot;&gt;&lt;strong&gt;La gravure du numéro d'immatriculation peut-elle endommager mon vélo ?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;En Allemagne déjà plus d'un million de vélos ont été marqués par la gravure sans que les dommages prédits par certains ne se soient produits. Une étude du professeur Ernst von der Osten-Sacken de l'université d'Aix-la-Chapelle confirme qu'une gravure d'une profondeur allant jusqu'à 0,15 millimètres n'a aucune répercussion sur la stabilité d'un cadre en acier ou aluminium, information relayée sur le site de l'ADFC, une référence en Allemagne en matière de vélo.&lt;/p&gt;
-
-&lt;p id=&quot;m&quot;&gt;&lt;strong&gt;Faire marquer son vélo en France&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Les spécificités de la France en comparaison avec l'Allemagne.&lt;/p&gt;
-
-&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;France&lt;/th&gt;
-        &lt;th&gt;Allemagne&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-
-&lt;tbody&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Numéro d'immatriculation&lt;/td&gt;
-&lt;td&gt;BICYCODE&lt;/td&gt;
-&lt;td&gt;Numéro EIN&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Par qui?&lt;/td&gt;
-&lt;td&gt;130 opérateurs en France
-&lt;br /&gt;
-Voir la &lt;a href=&quot;https://www.bicycode.org/le-bicycode.rub-2/ou-faire-marquer-son-velo.rub-11/&quot; target=&quot;_blank&quot;&gt;liste&lt;/a&gt; 
-&lt;/td&gt;
-&lt;td&gt;La police
-&lt;br /&gt;
-L'ADFC
-&lt;br /&gt;
-Certains revendeurs
-&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Prix&lt;/td&gt;
-&lt;td&gt;Entre 5€ et 10€&lt;/td&gt;
-&lt;td&gt;Entre 0€ et 9€&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Methode&lt;/td&gt;
-&lt;td&gt;Gravure&lt;/td&gt;
-&lt;td&gt;Gravure et étiquette&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Nombre de vélos marqués&lt;/td&gt;
-&lt;td&gt;220.000&lt;/td&gt;
-&lt;td&gt;Plus d'un million&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;À la lecture de ce tableau on comprend mieux pourquoi le nombre de de vélos marqués en Allemagne est bien plus important qu'en France : gratuité et plus grande accessibilité. Par ailleurs, l'Allemagne a sous l'impulsion de l'ADFC commencé bien avant la France à faire marquer ses vélos. L'ADFC et la police allemande sont très actifs et lancent régulièrement de grandes campagnes de marquage de vélos.&lt;/p&gt;
-
-
-&lt;h2 id=&quot;blog&quot;&gt;Faire enregistrer son vélo&lt;/h2&gt;
-
-&lt;p id=&quot;h&quot;&gt;&lt;strong&gt;A quoi sert d'enregistrer son vélo ?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;En cas de perte de votre vélo, la police pourra se mettre à le rechercher grâce aux informations signalées lors de l'enregistrement. Ces mêmes informations pourront également être transmises à l'assurance.&lt;/p&gt;
-
-&lt;p id=&quot;i&quot;&gt;&lt;strong&gt;Faire enregistrer ou marquer son vélo : quelles différences ?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;En cas de vol, un vélo enregistré est plus facilement et plus rapidement recherché par la police. Le marquage lui, facilite la restitution à son propriétaire mais c'est aussi une mesure de prévention contre le vol, car il rend le vélo moins attractif à voler.&lt;/p&gt;
-&lt;p&gt;Il est important de préciser qu'il s'agit de deux démarches différentes qui sont totalement indépendantes l'une de l'autre. Un vélo marqué n'a pas besoin d'être enregistré et vice-versa.&lt;/p&gt;
-
-&lt;p id=&quot;j&quot;&gt;&lt;strong&gt;L'application &quot;Fahrradpass&quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Avec cette application vous pouvez tranquillement depuis chez vous enregistrer un deux ou 10 vélos et pour chacun d'entre créer un passeport dans lequel sont enregistrées les informations suivantes:&lt;/p&gt;
-
-&lt;ul id=&quot;blogj&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Code d'immatriculation&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Numéro de cadre du fabricant&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Description&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Photo&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Accessoires (Par exemple GPS)&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Détérioration&lt;/li&gt;
-&lt;/ul&gt;
- 
-&lt;p&gt;En cas de perte de votre vélo, ces informations peuvent être exportées directement de l'application pour être envoyée par exemple à la police ou à votre assurance. Par ailleurs en cas de contrôle de la police vous avez toujours votre passeport avec vous. L'application est téléchargeable pour les smartphones iOS et Android&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-xs-6&quot;&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/de/app/fahrradpass/id438072942&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/Images/kk.svg&quot; alt=&quot;telecharger fahrradpass pour ios&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
- &lt;div class=&quot;col-xs-6&quot;&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&amp;amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Disponible sur Google Play&quot; width=&quot;135px&quot; height=&quot;40px&quot; src=&quot;/Images/qq.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Conseils" /><summary type="html">Le marquage et l'enregistrement de son vélo en Allemagne</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><category term="radtour" /><summary type="html">Radweg von Berlin zum Liepnitzsee</summary></entry></feed>
