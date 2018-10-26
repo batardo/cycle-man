@@ -8,19 +8,25 @@ lang: fr
 category: roue-libre
 comments: true
 layout: default
+last_modified_at:  26.10.2018
 ---
 
 <div class="container">
     <div class="row" id="locationdevelo">
          <div class="col-xs-12">
-          <h1>La location de vélo entre particuliers</h1>
+           <h1>La location de vélo entre particuliers</h1>
         </div>
       </div>
-    </div>
+</div>
 
 
 <div class="container blog" align="center">
+<p>Dernière actualisation le : {{page.last_modified_at | date_to_string}}</p>
 
+<p id =""><strong>Spinlister annonce la fermeture de sa plateforme</strong> le 22 avril 2018. L'e-mail suivant nous a été envoyé:</p>
+<p id="intro"><i>"Dear Spinlister community: our loyal listers, renters, and bike shop partners,<br/> 
+
+I don’t have great news, after 5 years since we re-launched the Spinlister platform into the market, we will unfortunately be shutting down our services on April 22nd, 2018.  We were not able to raise new funding, so our board of investors decided that the best option was to close shop."</i></p>
 
 
 <p id="blog">Déjà entendu parlé de la location de vélo entre particuliers ?</p>
@@ -82,6 +88,7 @@ Vous cherchez donc à vous équiper. Parmi les différentes solutions pour louer
 
 <p id="blog">Où louer son vélo?</p>
 <p id =""> <a href="#marketplace">Voir le tableau comparatif des sites de location</a></p>
+
 
 <table class="table" align="center">
   <thead>
