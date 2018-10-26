@@ -5,7 +5,7 @@ category: roue-libre
 lang: fr
 layout: default
 tags: [ Urbanisme, Tourisme, Location de vélo ]
-last_modified_at:  07.10.2018
+last_modified_at:  24.10.2018
 ---
 
 
@@ -14,7 +14,7 @@ last_modified_at:  07.10.2018
 
 
 <ul id="intro">
-<li id="plan">Quels sont les différents systèmes de vélo en libre service à Berlin ?</li> 
+<li id="plan">Quels sont les équivalents au vélib à Berlin ?</li> 
 <li id="plan">Lequel choisir ?</li>
 <li id="plan">Limites et alternatives aux vélos en libre service</li>
 </ul>
@@ -22,7 +22,7 @@ last_modified_at:  07.10.2018
 <h1>Tout est plus libre à Berlin, même les vélos</h1>
 
 
-<p>Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. D'où la question que vous vous posez désormais : <strong>lequel choisir ?</strong></p>
+<p>Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : <strong>lequel choisir ?</strong></p>
 
 <p>Plusieurs systèmes de vélo en libre service coexistent à Berlin :</p>
 <p align=""><img src="/Images/dblidl.png" alt="db call a bike" >  <strong>DB CALL A BIKE - LIDL BIKE</strong> <img src="/Images/deezernextbike.png" alt="db call a bike"> <strong>DEEZER NEXTBIKE</strong> <img src="/Images/mobike.png" alt="db call a bike"> <strong>MOBIKE</strong> <img src="/Images/donkeyrepublic.png" alt="db call a bike"> <strong>DONKEY REPUBLIC</strong> <img src="/Images/limebike.png" alt="db call a bike"> <strong>LIMEBIKE</strong></p>
@@ -108,6 +108,24 @@ last_modified_at:  07.10.2018
         <td>9/10<br>Radidement joignable, en anglais et allemand</td>
       </tr>
 
+  <tr>
+        <td>Présence dans d'autres villes</td>
+        <td>0/10<br>Actuellement aucune. En projet</td>
+        <td>9/10<br>Oui, disposnible avec le même abo. dans d'autres villes</td>
+      </tr>
+
+  <tr>
+        <td>Fabriqués en</td>
+        <td>Chine</td>
+        <td>Allemagne</td>
+      </tr>
+
+  <tr>
+        <td>Entretien</td>
+        <td>3/10<br>Souvent en mauvais état, exemple selle bloquée, trop basse.</td>
+        <td>7/10<br></td>
+      </tr>
+
 
 </tbody>
 </table>
@@ -116,7 +134,8 @@ last_modified_at:  07.10.2018
 <ul id="intro">
 <li id="plan">Le <strong>prix</strong> se vaut: même si nextbike est moins cher à la minute, 0,50€ peuvent être facturés si le vélo n’est pas restitué en station. Au final cela revient au même.</li>
 <li id="plan">mobike est plus <strong>flexible</strong>, on trouve des vélos de partout et on peut les laisser où on veut.</li>
-<li id="plan">Je trouve que les vélos mobike sont moins <strong>performants</strong>, car pour la grande majorité d'entre eux, ils n'ont pas de vitesse.</li>
+<li id="plan">Je trouve que les vélos mobike sont moins <strong>performants</strong>, car pour la grande majorité d'entre eux, ils n'ont pas de vitesse. </li>
+<li id="plan">Les vélos mobike sont souvent en mauvais état. Problèmes récurrents : selle bloquée, trop basse.</li>
 </ul>
 
 <h2>Les limites et alternatives à la location en libre service</h2>
