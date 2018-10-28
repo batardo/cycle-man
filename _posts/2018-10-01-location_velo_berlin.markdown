@@ -10,13 +10,13 @@ last_modified_at:  24.10.2018
 
 
 <div class="container2 blog" align="center">
-<p>Dernière actualisation le : {{page.last_modified_at | date_to_string}}</p>
+<p id="">Dernière actualisation le : {{page.last_modified_at | date_to_string}}</p>
 
 
 <ul id="intro">
-<li id="plan">Quels sont les équivalents au vélib à Berlin ?</li> 
-<li id="plan">Lequel choisir ?</li>
-<li id="plan">Limites et alternatives aux vélos en libre service</li>
+<li id="plan"><a href="#equivalent">Quels sont les équivalents au vélib à Berlin ?</a></li> 
+<li id="plan"><a href="#choisir">Lequel choisir ?</a></li>
+<li id="plan"><a href="#limites">Limites et alternatives aux vélos en libre service</a></li>
 </ul>
 
 <h1>Tout est plus libre à Berlin, même les vélos</h1>
@@ -24,13 +24,13 @@ last_modified_at:  24.10.2018
 
 <p>Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : <strong>lequel choisir ?</strong></p>
 
-<p>Plusieurs systèmes de vélo en libre service coexistent à Berlin :</p>
+<p id="equivalent">Plusieurs systèmes de vélo en libre service coexistent à Berlin :</p>
 <p align=""><img src="/Images/dblidl.png" alt="db call a bike" >  <strong>DB CALL A BIKE - LIDL BIKE</strong> <img src="/Images/deezernextbike.png" alt="db call a bike"> <strong>DEEZER NEXTBIKE</strong> <img src="/Images/mobike.png" alt="db call a bike"> <strong>MOBIKE</strong> <img src="/Images/donkeyrepublic.png" alt="db call a bike"> <strong>DONKEY REPUBLIC</strong> <img src="/Images/limebike.png" alt="db call a bike"> <strong>LIMEBIKE</strong></p>
 
 
 
 
-<h2>Quels vélos choisir ?</h2>
+<h2 id="choisir">Quels vélos choisir ?</h2>
 
 <p>Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos <strong>Mobike et Nextbike</strong> dans des déplacements dans les quartiers <strong>Kreuzberg-Friedrichshain et Neukölln</strong>.</p>
 
@@ -138,7 +138,7 @@ last_modified_at:  24.10.2018
 <li id="plan">Les vélos mobike sont souvent en mauvais état. Problèmes récurrents : selle bloquée, trop basse.</li>
 </ul>
 
-<h2>Les limites et alternatives à la location en libre service</h2>
+<h2 id="limites">Les limites et alternatives à la location en libre service</h2>
 <p> Vous devez rester au sein de la zone définie par le loueur, c'est à dire dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
 
  {% assign posts=site.posts %}

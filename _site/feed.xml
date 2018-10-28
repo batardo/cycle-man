@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-26T21:56:08+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/amp/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-24T00:00:00+02:00</updated><id>http://localhost:4000/amp/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/amp/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
-&lt;p&gt;Dernière actualisation le : 24 Oct 2018&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-28T21:19:43+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/amp/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-26T00:00:00+02:00</updated><id>http://localhost:4000/amp/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/amp/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
+&lt;p&gt;Dernière actualisation le : 26 Oct 2018&lt;/p&gt;
 
 
 &lt;ul id=&quot;intro&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Quels sont les différents systèmes de vélo en libre service à Berlin ?&lt;/li&gt; 
-&lt;li id=&quot;plan&quot;&gt;Lequel choisir ?&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Limites et alternatives aux vélos en libre service&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#equivalent&quot;&gt;Quels sont les équivalents au vélib à Berlin ?&lt;/a&gt;&lt;/li&gt; 
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#choisir&quot;&gt;Lequel choisir ?&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#limites&quot;&gt;Limites et alternatives aux vélos en libre service&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1&gt;Tout est plus libre à Berlin, même les vélos&lt;/h1&gt;
@@ -15,13 +15,13 @@
 
 &lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
+&lt;p id=&quot;#equivalent&quot;&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
 &lt;p align=&quot;&quot;&gt;&lt;amp-img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt;  &lt;strong&gt;DB CALL A BIKE - LIDL BIKE&lt;/strong&gt; &lt;amp-img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;DEEZER NEXTBIKE&lt;/strong&gt; &lt;amp-img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt; &lt;amp-img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt; &lt;amp-img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;/p&gt;
 
 
 
 
-&lt;h2&gt;Quels vélos choisir ?&lt;/h2&gt;
+&lt;h2 id=&quot;choisir&quot;&gt;Quels vélos choisir ?&lt;/h2&gt;
 
 &lt;p&gt;Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos &lt;strong&gt;Mobike et Nextbike&lt;/strong&gt; dans des déplacements dans les quartiers &lt;strong&gt;Kreuzberg-Friedrichshain et Neukölln&lt;/strong&gt;.&lt;/p&gt;
 
@@ -129,8 +129,8 @@
 &lt;li id=&quot;plan&quot;&gt;Les vélos mobike sont souvent en mauvais état. Problèmes récurrents : selle bloquée, trop basse.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
-&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
+&lt;h2 id=&quot;limites&quot;&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
+&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dire dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
 
  
         
@@ -187,14 +187,14 @@
 
 
 
-&lt;/div&gt;</content><author><name></name></author><category term="amp/roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Dernière actualisation le : 24 Oct 2018</summary></entry><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-24T00:00:00+02:00</updated><id>http://localhost:4000/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="amp/roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Dernière actualisation le : 26 Oct 2018</summary></entry><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-24T00:00:00+02:00</updated><id>http://localhost:4000/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
 &lt;p&gt;Dernière actualisation le : 24 Oct 2018&lt;/p&gt;
 
 
 &lt;ul id=&quot;intro&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Quels sont les équivalents au vélib à Berlin ?&lt;/li&gt; 
-&lt;li id=&quot;plan&quot;&gt;Lequel choisir ?&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Limites et alternatives aux vélos en libre service&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#equivalent&quot;&gt;Quels sont les équivalents au vélib à Berlin ?&lt;/a&gt;&lt;/li&gt; 
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#choisir&quot;&gt;Lequel choisir ?&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#limites&quot;&gt;Limites et alternatives aux vélos en libre service&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1&gt;Tout est plus libre à Berlin, même les vélos&lt;/h1&gt;
@@ -202,13 +202,13 @@
 
 &lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
+&lt;p id=&quot;equivalent&quot;&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
 &lt;p align=&quot;&quot;&gt;&lt;img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; /&gt;  &lt;strong&gt;DB CALL A BIKE - LIDL BIKE&lt;/strong&gt; &lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DEEZER NEXTBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt; &lt;img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;/p&gt;
 
 
 
 
-&lt;h2&gt;Quels vélos choisir ?&lt;/h2&gt;
+&lt;h2 id=&quot;choisir&quot;&gt;Quels vélos choisir ?&lt;/h2&gt;
 
 &lt;p&gt;Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos &lt;strong&gt;Mobike et Nextbike&lt;/strong&gt; dans des déplacements dans les quartiers &lt;strong&gt;Kreuzberg-Friedrichshain et Neukölln&lt;/strong&gt;.&lt;/p&gt;
 
@@ -316,8 +316,8 @@
 &lt;li id=&quot;plan&quot;&gt;Les vélos mobike sont souvent en mauvais état. Problèmes récurrents : selle bloquée, trop basse.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
-&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
+&lt;h2 id=&quot;limites&quot;&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
+&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dire dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
 
  
         
