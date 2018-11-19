@@ -1097,6 +1097,9 @@ padding-top: 10px;
   border: 0px;
 }
 
+.navbar .navbar-collapse {
+        text-align: center;
+
 #date{
  font-size: 14px;
 }
