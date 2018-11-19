@@ -85,7 +85,7 @@ background-color:white;
 #start {
 width: 60px;
 height: 60px;
-border: 1px solid;
+border: 1.2px solid;
 margin-right: 10px;
 margin-top: 10px;
 border-radius: 50%;
@@ -227,7 +227,7 @@ background-image: url(/Images/cyclotourisme-allemagne.JPG);
 background-attachment:fixed;
 }
 
-#link{
+#link {
 border-bottom: 3px solid rgba(106,216,106,0.6);
 -webkit-box-shadow: inset 0 -8px 0 rgba(106,216,106,0.55);
 box-shadow: inset 0 -8px 0 rgba(106,216,106,0.55);
@@ -241,6 +241,23 @@ color: #5E5757;
 font-weight: 700;
 outline: 0;
 text-decoration: none;
+}
+
+#linkhome {
+font-family: "Impact";
+border-bottom: 1px solid rgba(0,0,0,0.6);
+border-top: 1px solid rgba(0,0,0,0.6);
+-webkit-transition: background .2s ease;
+transition: background .1s ease;
+height: 31px;
+display: inline-block;
+font-size: 25px;
+color: black;
+font-weight: 700;
+outline: 0;
+text-decoration: none;
+text-transform: uppercase;
+letter-spacing: 1px;
 }
 
 
