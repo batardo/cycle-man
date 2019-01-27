@@ -1,5 +1,5 @@
 ---
-redirect_from: 
+redirect_from:
 - "/blog/2017/07/27/index.html"
 - "/blog/2017/07/27/pochettes_billets_train.html"
 - "/2017/07/27/pochettes-billets-train.html"
