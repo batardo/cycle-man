@@ -1,191 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-22T17:36:54+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-24T00:00:00+02:00</updated><id>http://localhost:4000/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
-&lt;p&gt;Dernière actualisation le : 24 Oct 2018&lt;/p&gt;
-
-
-&lt;ul id=&quot;intro&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#equivalent&quot;&gt;Quels sont les équivalents au vélib à Berlin ?&lt;/a&gt;&lt;/li&gt; 
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#choisir&quot;&gt;Lequel choisir ?&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#limites&quot;&gt;Limites et alternatives aux vélos en libre service&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1&gt;Tout est plus libre à Berlin, même les vélos&lt;/h1&gt;
-
-
-&lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p id=&quot;equivalent&quot;&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
-&lt;p align=&quot;&quot;&gt;&lt;img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; /&gt;  &lt;strong&gt;DB CALL A BIKE - LIDL BIKE&lt;/strong&gt; &lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DEEZER NEXTBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt; &lt;img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-&lt;h2 id=&quot;choisir&quot;&gt;Quels vélos choisir ?&lt;/h2&gt;
-
-&lt;p&gt;Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos &lt;strong&gt;Mobike et Nextbike&lt;/strong&gt; dans des déplacements dans les quartiers &lt;strong&gt;Kreuzberg-Friedrichshain et Neukölln&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pour aller directement à la &lt;strong&gt;synthèse&lt;/strong&gt;, allez ici : &lt;a href=&quot;#synthese&quot;&gt;rien à faire de ce tableau illisible sur mon téléphone, je veux la synthèse.&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;&lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; Mobike&lt;/th&gt;
-        &lt;th&gt;&lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; Deezer&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-
-
-&lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Tarif horaire&lt;/td&gt;
-        &lt;td&gt;3€ - 1€ toutes les 20 min&lt;/td&gt;
-        &lt;td&gt;2,5€ - 1€ les premières 30 min. puis 1,5€&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Tarif journée&lt;/td&gt;
-        &lt;td&gt;Non disponible&lt;/td&gt;
-        &lt;td&gt;3€ -  Gratuit les 30 premières minutes, puis 1€ toutes les 30 minutes&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Abonnement mensuel&lt;/td&gt;
-        &lt;td&gt;7€ - Gratuit les 30 premières minutes, puis 1€ toutes les 20 minutes&lt;/td&gt;
-        &lt;td&gt;Non disponible, abonnement à l'année possible pour 50€&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Réservation vélo possible?&lt;/td&gt;
-        &lt;td&gt;Oui&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Application&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br /&gt;Testée sur iOS&lt;/td&gt;
-        &lt;td&gt;0/10&lt;br /&gt;Nouvelle update ne fonctionne pas sur mon iOS&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Couverture&lt;/td&gt;
-        &lt;td&gt;9/10&lt;/td&gt;
-        &lt;td&gt;7/10&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Confort&lt;/td&gt;
-        &lt;td&gt;5/10&lt;br /&gt;Il existe deux générations de vélo. Ceux de la première génération n’ont pas de vitesses.&lt;/td&gt;
-        &lt;td&gt;8/10&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-  &lt;td&gt;Restitution du vélo dans une station&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-        &lt;td&gt;Oui, sinon 0,50€ seront facturés&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Possibilité de mettre en pause la location&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Service clients&lt;/td&gt;
-        &lt;td&gt;10/10&lt;br /&gt;Car jamais utilisé :)&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br /&gt;Radidement joignable, en anglais et allemand&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Présence dans d'autres villes&lt;/td&gt;
-        &lt;td&gt;0/10&lt;br /&gt;Actuellement aucune. En projet&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br /&gt;Oui, disposnible avec le même abo. dans d'autres villes&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Fabriqués en&lt;/td&gt;
-        &lt;td&gt;Chine&lt;/td&gt;
-        &lt;td&gt;Allemagne&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Entretien&lt;/td&gt;
-        &lt;td&gt;3/10&lt;br /&gt;Souvent en mauvais état, exemple selle bloquée, trop basse.&lt;/td&gt;
-        &lt;td&gt;7/10&lt;br /&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-
-
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p id=&quot;synthese&quot;&gt;En synthèse: &lt;/p&gt;
-&lt;ul id=&quot;intro&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Le &lt;strong&gt;prix&lt;/strong&gt; se vaut: même si nextbike est moins cher à la minute, 0,50€ peuvent être facturés si le vélo n’est pas restitué en station. Au final cela revient au même.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;mobike est plus &lt;strong&gt;flexible&lt;/strong&gt;, on trouve des vélos de partout et on peut les laisser où on veut.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Je trouve que les vélos mobike sont moins &lt;strong&gt;performants&lt;/strong&gt;, car pour la grande majorité d'entre eux, ils n'ont pas de vitesse. &lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Les vélos mobike sont souvent en mauvais état. Problèmes récurrents : selle bloquée, trop basse.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;limites&quot;&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
-&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dire dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
-
- 
-        
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-
-
-   &lt;a href=&quot;/roue-libre/location_de_velo_entre_particuliers.html&quot;&gt;Tout sur la location de vélo de particulier à particulier&lt;/a&gt;.
-
-
-  
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-
-  &lt;/p&gt;
-
-
-
-&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Dernière actualisation le : 24 Oct 2018</summary></entry><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/amp/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-26T00:00:00+02:00</updated><id>http://localhost:4000/amp/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/amp/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-27T15:09:50+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/amp/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-26T00:00:00+02:00</updated><id>http://localhost:4000/amp/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/amp/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
 &lt;p&gt;Dernière actualisation le : 26 Oct 2018&lt;/p&gt;
 
 
@@ -340,7 +153,7 @@
         
 
 
-   &lt;a href=&quot;/roue-libre/location_de_velo_entre_particuliers.html&quot;&gt;Tout sur la location de vélo de particulier à particulier&lt;/a&gt;.
+   &lt;a href=&quot;/roue-libre/location_de_velo_entre_particuliers.html&quot;&gt;Tout sur la location de vélo entre particulier&lt;/a&gt;.
 
 
   
@@ -374,7 +187,194 @@
 
 
 
-&lt;/div&gt;</content><author><name></name></author><category term="amp/roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Dernière actualisation le : 26 Oct 2018</summary></entry><entry xml:lang="de"><title type="html">Mit dem Rad von Berlin nach Dresden</title><link href="http://localhost:4000/radtour/berlin-dresden-express.html" rel="alternate" type="text/html" title="Mit dem Rad von Berlin nach Dresden" /><published>2018-05-01T00:00:00+02:00</published><updated>2018-05-01T00:00:00+02:00</updated><id>http://localhost:4000/radtour/berlin-dresden-express</id><content type="html" xml:base="http://localhost:4000/radtour/berlin-dresden-express.html">&lt;div class=&quot;&quot; id=&quot;berlindresden&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="amp/roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Dernière actualisation le : 26 Oct 2018</summary></entry><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-24T00:00:00+02:00</updated><id>http://localhost:4000/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
+&lt;p&gt;Dernière actualisation le : 24 Oct 2018&lt;/p&gt;
+
+
+&lt;ul id=&quot;intro&quot;&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#equivalent&quot;&gt;Quels sont les équivalents au vélib à Berlin ?&lt;/a&gt;&lt;/li&gt; 
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#choisir&quot;&gt;Lequel choisir ?&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#limites&quot;&gt;Limites et alternatives aux vélos en libre service&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;Tout est plus libre à Berlin, même les vélos&lt;/h1&gt;
+
+
+&lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p id=&quot;equivalent&quot;&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
+&lt;p align=&quot;&quot;&gt;&lt;img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; /&gt;  &lt;strong&gt;DB CALL A BIKE - LIDL BIKE&lt;/strong&gt; &lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DEEZER NEXTBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt; &lt;img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&quot;choisir&quot;&gt;Quels vélos choisir ?&lt;/h2&gt;
+
+&lt;p&gt;Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos &lt;strong&gt;Mobike et Nextbike&lt;/strong&gt; dans des déplacements dans les quartiers &lt;strong&gt;Kreuzberg-Friedrichshain et Neukölln&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pour aller directement à la &lt;strong&gt;synthèse&lt;/strong&gt;, allez ici : &lt;a href=&quot;#synthese&quot;&gt;rien à faire de ce tableau illisible sur mon téléphone, je veux la synthèse.&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; Mobike&lt;/th&gt;
+        &lt;th&gt;&lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; Deezer&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+
+
+&lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Tarif horaire&lt;/td&gt;
+        &lt;td&gt;3€ - 1€ toutes les 20 min&lt;/td&gt;
+        &lt;td&gt;2,5€ - 1€ les premières 30 min. puis 1,5€&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Tarif journée&lt;/td&gt;
+        &lt;td&gt;Non disponible&lt;/td&gt;
+        &lt;td&gt;3€ -  Gratuit les 30 premières minutes, puis 1€ toutes les 30 minutes&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Abonnement mensuel&lt;/td&gt;
+        &lt;td&gt;7€ - Gratuit les 30 premières minutes, puis 1€ toutes les 20 minutes&lt;/td&gt;
+        &lt;td&gt;Non disponible, abonnement à l'année possible pour 50€&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Réservation vélo possible?&lt;/td&gt;
+        &lt;td&gt;Oui&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Application&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br /&gt;Testée sur iOS&lt;/td&gt;
+        &lt;td&gt;0/10&lt;br /&gt;Nouvelle update ne fonctionne pas sur mon iOS&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Couverture&lt;/td&gt;
+        &lt;td&gt;9/10&lt;/td&gt;
+        &lt;td&gt;7/10&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Confort&lt;/td&gt;
+        &lt;td&gt;5/10&lt;br /&gt;Il existe deux générations de vélo. Ceux de la première génération n’ont pas de vitesses.&lt;/td&gt;
+        &lt;td&gt;8/10&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+  &lt;td&gt;Restitution du vélo dans une station&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+        &lt;td&gt;Oui, sinon 0,50€ seront facturés&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Possibilité de mettre en pause la location&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Service clients&lt;/td&gt;
+        &lt;td&gt;10/10&lt;br /&gt;Car jamais utilisé :)&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br /&gt;Radidement joignable, en anglais et allemand&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Présence dans d'autres villes&lt;/td&gt;
+        &lt;td&gt;0/10&lt;br /&gt;Actuellement aucune. En projet&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br /&gt;Oui, disposnible avec le même abo. dans d'autres villes&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Fabriqués en&lt;/td&gt;
+        &lt;td&gt;Chine&lt;/td&gt;
+        &lt;td&gt;Allemagne&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Entretien&lt;/td&gt;
+        &lt;td&gt;3/10&lt;br /&gt;Souvent en mauvais état, exemple selle bloquée, trop basse.&lt;/td&gt;
+        &lt;td&gt;7/10&lt;br /&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+
+
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p id=&quot;synthese&quot;&gt;En synthèse: &lt;/p&gt;
+&lt;ul id=&quot;intro&quot;&gt;
+&lt;li id=&quot;plan&quot;&gt;Le &lt;strong&gt;prix&lt;/strong&gt; se vaut: même si nextbike est moins cher à la minute, 0,50€ peuvent être facturés si le vélo n’est pas restitué en station. Au final cela revient au même.&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;mobike est plus &lt;strong&gt;flexible&lt;/strong&gt;, on trouve des vélos de partout et on peut les laisser où on veut.&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;Je trouve que les vélos mobike sont moins &lt;strong&gt;performants&lt;/strong&gt;, car pour la grande majorité d'entre eux, ils n'ont pas de vitesse. &lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;Les vélos mobike sont souvent en mauvais état. Problèmes récurrents : selle bloquée, trop basse.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;limites&quot;&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
+&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dire dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
+
+ 
+        
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+
+
+   &lt;a href=&quot;/roue-libre/location_de_velo_entre_particuliers.html&quot;&gt;Tout sur la location de vélo entre particulier&lt;/a&gt;.
+
+
+  
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+
+  &lt;/p&gt;
+
+
+
+&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Dernière actualisation le : 24 Oct 2018</summary></entry><entry xml:lang="de"><title type="html">Mit dem Rad von Berlin nach Dresden</title><link href="http://localhost:4000/radtour/berlin-dresden-express.html" rel="alternate" type="text/html" title="Mit dem Rad von Berlin nach Dresden" /><published>2018-05-01T00:00:00+02:00</published><updated>2018-05-01T00:00:00+02:00</updated><id>http://localhost:4000/radtour/berlin-dresden-express</id><content type="html" xml:base="http://localhost:4000/radtour/berlin-dresden-express.html">&lt;div class=&quot;&quot; id=&quot;berlindresden&quot;&gt;
       &lt;div class=&quot;row&quot;&gt;
       &lt;div class=&quot;col-md-12&quot;&gt;
         &lt;h1&gt;Radweg Berlin-Dresden-Express&lt;/h1&gt;  
@@ -1469,16 +1469,16 @@ De Chaumont à Tours nous avons suivi l'Eurovélo 6, une route vélo qui travers
 
 &lt;p&gt;Si vous avez fait d'autres expériences de voyage à vélo en famille sur ce trajet le long de la Loire, n'hésitez pas à m'en faire part, j'actualiserai ainsi cette page.&lt;/p&gt;
 
-&lt;/div&gt;</content><author><name></name></author><category term="rando-velo" /><category term="France" /><category term="Rando facile" /><summary type="html">Les châteaux de la Loire à vélo</summary></entry><entry xml:lang="fr"><title type="html">Tout sur la location de vélo de particulier à particulier</title><link href="http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html" rel="alternate" type="text/html" title="Tout sur la location de vélo de particulier à particulier" /><published>2017-07-03T00:00:00+02:00</published><updated>2018-10-26T00:00:00+02:00</updated><id>http://localhost:4000/roue-libre/location_de_velo_entre_particuliers</id><content type="html" xml:base="http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html">&lt;div class=&quot;container&quot;&gt;
-    &lt;div class=&quot;row&quot; id=&quot;locationdevelo&quot;&gt;
-         &lt;div class=&quot;col-xs-12&quot;&gt;
-           &lt;h1&gt;La location de vélo entre particuliers&lt;/h1&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="rando-velo" /><category term="France" /><category term="Rando facile" /><summary type="html">Les châteaux de la Loire à vélo</summary></entry><entry xml:lang="fr"><title type="html">Tout sur la location de vélo entre particulier</title><link href="http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html" rel="alternate" type="text/html" title="Tout sur la location de vélo entre particulier" /><published>2017-07-03T00:00:00+02:00</published><updated>2019-01-27T00:00:00+01:00</updated><id>http://localhost:4000/roue-libre/location_de_velo_entre_particuliers</id><content type="html" xml:base="http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html">&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot; id=&quot;locationdevelo&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot;&gt;
+      &lt;h1&gt;La location de vélo entre particuliers&lt;/h1&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;container blog&quot; align=&quot;center&quot;&gt;
-&lt;p&gt;Dernière actualisation le : 26 Oct 2018&lt;/p&gt;
+&lt;p&gt;Dernière actualisation de cet article le : 27 Jan 2019&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Spinlister annonce la fermeture de sa plateforme&lt;/strong&gt; le 22 avril 2018. L'e-mail suivant nous a été envoyé:&lt;/p&gt;
 &lt;p id=&quot;intro&quot;&gt;&lt;i&gt;&quot;Dear Spinlister community: our loyal listers, renters, and bike shop partners,&lt;br /&gt; 
@@ -1746,7 +1746,7 @@ Parmi les sites de location de vélo entre particuliers, je me suis inscrit sur 
             &lt;i class=&quot;fa fa-facebook-official share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;https://twitter.com/intent/tweet?text=Tout sur la location de vélo de particulier à particulier&amp;amp;url=http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Twitter&quot;&gt;
+        &lt;a href=&quot;https://twitter.com/intent/tweet?text=Tout sur la location de vélo entre particulier&amp;amp;url=http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on Twitter&quot;&gt;
             &lt;i class=&quot;fa fa-twitter share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
@@ -1766,11 +1766,11 @@ Parmi les sites de location de vélo entre particuliers, je me suis inscrit sur 
             &lt;i class=&quot;fa fa-reddit-alien share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html&amp;amp;title=Tout sur la location de vélo de particulier à particulier&amp;amp;summary=Après les appartements et les voitures, la location de vélos entre particuliers fait son entrée dans l'économie du partage.  Arrivée encore discrète mais très prometteuse.&amp;amp;source=Your awesome title&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on LinkedIn&quot;&gt;
+        &lt;a href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html&amp;amp;title=Tout sur la location de vélo entre particulier&amp;amp;summary=Après les appartements et les voitures, la location de vélos entre particuliers fait son entrée dans l'économie du partage.  Arrivée encore discrète mais très prometteuse.&amp;amp;source=Your awesome title&quot; onclick=&quot;window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot; title=&quot;Share on LinkedIn&quot;&gt;
             &lt;i class=&quot;fa fa-linkedin share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
 
-        &lt;a href=&quot;mailto:?subject=Tout sur la location de vélo de particulier à particulier&amp;amp;body=Check out this site http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html&quot; title=&quot;Share via Email&quot;&gt;
+        &lt;a href=&quot;mailto:?subject=Tout sur la location de vélo entre particulier&amp;amp;body=Check out this site http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html&quot; title=&quot;Share via Email&quot;&gt;
             &lt;i class=&quot;fa fa-envelope share-button&quot;&gt; &lt;/i&gt;
         &lt;/a&gt;
     &lt;/div&gt;

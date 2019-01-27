@@ -34,7 +34,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/roue-libre/location_de_velo_entre_particuliers.html</loc>
-<lastmod>2018-10-26T00:00:00+02:00</lastmod>
+<lastmod>2019-01-27T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/rando-velo/voyage_velo_loire_en_famille.html</loc>
@@ -77,12 +77,12 @@
 <lastmod>2018-09-10T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
-<lastmod>2018-09-09T00:00:00+02:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/blog/de/</loc>
 <lastmod>2018-09-11T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+<lastmod>2018-09-09T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/rando-velo/</loc>

@@ -2,26 +2,26 @@
 redirect_from: 
 - "/blog/2017/07/03/index.html"
 - "/blog/2017/07/03/location_de_velo_entre_particuliers.html"
-title : Tout sur la location de vélo de particulier à particulier
+title : Tout sur la location de vélo entre particulier
 description : Après les appartements et les voitures, la location de vélos entre particuliers fait son entrée dans l'économie du partage.  Arrivée encore discrète mais très prometteuse.
 lang: fr
 category: roue-libre
 comments: true
 layout: default
-last_modified_at:  26.10.2018
+last_modified_at:  27.01.2019
 ---
 
 <div class="container">
-    <div class="row" id="locationdevelo">
-         <div class="col-xs-12">
-           <h1>La location de vélo entre particuliers</h1>
-        </div>
-      </div>
+  <div class="row" id="locationdevelo">
+    <div class="col-xs-12">
+      <h1>La location de vélo entre particuliers</h1>
+    </div>
+  </div>
 </div>
 
 
 <div class="container blog" align="center">
-<p>Dernière actualisation le : {{page.last_modified_at | date_to_string}}</p>
+<p>Dernière actualisation de cet article le : {{page.last_modified_at | date_to_string}}</p>
 
 <p id =""><strong>Spinlister annonce la fermeture de sa plateforme</strong> le 22 avril 2018. L'e-mail suivant nous a été envoyé:</p>
 <p id="intro"><i>"Dear Spinlister community: our loyal listers, renters, and bike shop partners,<br/> 
