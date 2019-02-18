@@ -102,8 +102,9 @@ margin-right: 5px;
 }
 
 .blog p {
-    letter-spacing:2px;
+    letter-spacing:1px;
     padding-bottom:10px;
+    font-size: 20px;
     padding-top:25px;
 }
 
@@ -1106,6 +1107,14 @@ padding-top: 10px;
     text-transform:uppercase;
 }
 
+.nav-item {
+    font-weight:500;
+    font-size: 25px;
+    }
+
+
+
+
 .navbar-default{
     background-color: white;
      width: 100%;
@@ -1143,8 +1152,26 @@ text-shadow: 2px, 2px rgba(106,216,106,0.6);
 }
 
 #materiel{
-    background-image: url("/Images/santarem_PT-min.JPG");
+    background-image: url("/Images/santarem_PT.JPG");
     height: 500px;
     background-attachment: fixed;
     background-size: cover;
     }
+
+#materiel h1 {
+    font-size:360%;
+font-weight:700px;
+text-align: center;
+margin-top: 150px;
+color: white;
+    }
+
+.highlighted-red {
+    background:rgba(253,16,21,.1);
+    }
+
+.highlighted {
+    color: #fd1015;
+    font-family: CircularStd-Black;
+    }
+

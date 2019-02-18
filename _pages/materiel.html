@@ -1,12 +1,46 @@
 ---
 layout: default
-title: "materiel"
-description: "Tous le matériel"
+title: "Matériel et équipement vélo"
+text: "Tout le matériel dont j'ai besoin au quotidien en ville ou pour la randonnée vélo."
 lang: fr
 permalink: /materiel/
 sitemap: false
 ---
 
-<div class="container">
-Page en construction...
+<div id="materiel">
+      <div class="row">
+        <div class="col-md-12">
+          <h1>Mon <i class="highlighted highlighted-red">équipement</i> de vélo</h1>  
+          </div>
+        </div>
+      </div>
+
+<div id="spacertop">
+		</div>
+
+
+<div class="container blog">
+
+       {% assign posts=site.posts | where:"lang", page.lang %}
+       	{% for post in posts %}
+       		{% if post.category == 'materiel' %}
+
+	<div class="row">
+		<div class="col-lg-5 col-sm-5 col-xs-5">
+			<img src="{{ post.img_url }}" alt="{{ post.title }}" width="400">
+		</div>
+		<div class="col-lg-7 col-sm-7 col-xs-7 highlighted-red">
+   			<h3>{{ post.title }}</h3>
+   			<span class="badge badge-warning">{{ post.tags }}</span>
+   			<p>{{ post.text }}</p>
+		</div>
+		 
+   		
+	</div>
+
+	<div id="spacer">
+		</div>
+    {% endif %}
+        {% endfor %}
+
 </div>
