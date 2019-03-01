@@ -1,7 +1,7 @@
 
      <div class="row">
          <div class="col-sm-6">
-         <a href="https://en.komoot.de/tour/11750458/embed" target="_blank"><img src="/Images/Routes//11750458_10.JPG" alt="itinéraire vélo de Strasbourg à Colmar" id="mapa"></a>
+         <a href="https://en.komoot.de/tour/11750458/embed" target="_blank"><img src="/Images/Routes/11750458_10.JPG" alt="itinéraire vélo de Strasbourg à Colmar" id="mapa"></a>
      </div>
 
           <div class="col-sm-6">
@@ -192,9 +192,9 @@
         <div class="col-sm-6">
           <a href="https://en.komoot.de/tour/12376574/embed" target="_blank">
            <picture>
-              <source srcset="/Images/Routes//12376574_17-min.webp" type="image/webp">
-              <source srcset="/Images/Routes//12376574_17-min.JPG" type="image/jpeg"> 
-              <img src="/Images/Routes//12376574_17-min.JPG" alt="itinéraire vélo de Paray-le-Monial à Saulcet" id="mapa">
+              <source srcset="/Images/Routes/12376574_17-min.webp" type="image/webp">
+              <source srcset="/Images/Routes/12376574_17-min.JPG" type="image/jpeg"> 
+              <img src="/Images/Routes/12376574_17-min.JPG" alt="itinéraire vélo de Paray-le-Monial à Saulcet" id="mapa">
             </picture>
           </a>
         </div>
@@ -221,9 +221,9 @@
         <div class="col-sm-6">
           <a href="https://en.komoot.de/tour/12376674/embed" target="_blank">
             <picture>
-              <source srcset="/Images/Routes//12376674_18-min.webp" type="image/webp">
-              <source srcset="/Images/Routes//12376674_18-min.JPG" type="image/jpeg"> 
-              <img src="/Images/Routes//12376674_18-min.JPG" alt="itinéraire vélo de Saulcet à Auzances" id="mapa">
+              <source srcset="/Images/Routes/12376674_18-min.webp" type="image/webp">
+              <source srcset="/Images/Routes/12376674_18-min.JPG" type="image/jpeg"> 
+              <img src="/Images/Routes/12376674_18-min.JPG" alt="itinéraire vélo de Saulcet à Auzances" id="mapa">
             </picture>
           </a>
         </div>
@@ -596,7 +596,7 @@
        
 
          <div class="col-sm-6">
-         <a href="https://en.komoot.de/tour/12485530/embed" target="_blank"><img src="/Images/Routes//12485530_31.JPG" alt="itinéraire vélo de Sancti spiritus à Indhana a nova" id="mapa"></a>
+         <a href="https://en.komoot.de/tour/12485530/embed" target="_blank"><img src="/Images/Routes/12485530_31.JPG" alt="itinéraire vélo de Sancti spiritus à Indhana a nova" id="mapa"></a>
         </div>
 
           <div class="col-sm-6">
