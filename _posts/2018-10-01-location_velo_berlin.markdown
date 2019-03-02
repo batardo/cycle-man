@@ -154,6 +154,8 @@ last_modified_at:  24.10.2018
 
   </p>
 
+  {% include share-bar.html %}
+
 
 
 </div>
