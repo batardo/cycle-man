@@ -287,4 +287,6 @@ Enfin, si vous partez de Strasbourg comme moi, vous avez également la possibili
 <p>Les photos... sont sur mon profil instagram : <a href="https://www.instagram.com/berlinlisbonexpress/">@berlinlisbonexpress</a></p>
 
 
+{% include btn-back-fr.html %}
+
 </div>

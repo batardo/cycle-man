@@ -56,6 +56,5 @@ img: /Images/berlin-prague.jpg
   {% endif %}
   {% endfor %}
 
-<a href="/rando-velo/" class="btn btn-lg btn-block" id="post_btn">Retour au sommaire des randos</a>
-
+{% include btn-back-fr.html %}
 </div>

@@ -490,3 +490,5 @@ tags: [ France, Allemagne, Espagne, Portugal ]
         <h1>Arrived in Lisbon!</h1>
         <p>Landed on time</p>
 </div>
+
+{% include btn-back-fr.html %}

@@ -648,8 +648,10 @@ tags: [ France ]
       </tr>
 
   </table>
+
+{% include btn-back-fr.html %}
+
 </div>
-    
-          
+
 
      

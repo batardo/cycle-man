@@ -66,13 +66,7 @@ tags: [ France, Allemagne, Rando facile ]
           </div>
         </div>
 
-      <div class="row">      
-        <div class="col-sm-12">
-        <p align="center"><button><a href="/rando-velo/">Toutes les autres randonnées</a></button></p>
-          </div>
-        </div>
-
-
+{% include btn-back-fr.html %}
   </div>
 
 
