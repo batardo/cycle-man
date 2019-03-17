@@ -15,7 +15,7 @@ img: /Images/berlin-prague.jpg
 <div class="container blog">
   <div class="row">
     <div class="col-sm-12">
-      <h1>Rando vélo de Berlin à Dresde et Prague</h1>
+      <h1>Randonnée à vélo de Berlin à Dresde et Prague</h1>
       Mis à jour le {{ page.last_modified_at | date: "%d-%m-%Y" }}<br/>
       <p>Voyage à vélo de <strong>400 kilomètres en 4 jours</strong>. Nous sommes partis <strong>avec une tente</strong>, nous avons passé trois nuits en camping. Le <strong>retour en bus</strong>. Voici ci-dessous le détail de nos 5 étapes : 3 jours complets et deux demie-journées.<br/> En résumé, c'était une super balade : <strong>Suisse saxonne, Suisse bohémienne, Elbe</strong>. De bonnes pistes cyclables coté allemand, un peu moins coté République Tchèque. Idéal pour un long week-end, ou une semaine si vous souhaitez visiter Dresde et Prague.</p>  
     </div>
@@ -55,5 +55,7 @@ img: /Images/berlin-prague.jpg
 
   {% endif %}
   {% endfor %}
+
+<a href="/rando-velo/" class="btn btn-lg btn-block" id="post_btn">Retour au sommaire des randos</a>
 
 </div>

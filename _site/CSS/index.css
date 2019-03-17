@@ -1176,7 +1176,15 @@ color: white;
     }
 
 #post_title {
-font-size: 30px;
+font-size: 25px;
 padding-bottom: 10px;
 padding-top: 0px;
 }
+
+#post_btn {
+background-color: white;
+color: black;
+border: 2px solid #4CAF50; /* Green */
+margin-top:5px;
+}
+
