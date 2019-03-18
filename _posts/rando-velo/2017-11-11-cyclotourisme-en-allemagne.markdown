@@ -426,10 +426,12 @@ tags: [ Allemagne ]
 
 </table>
 
+{% include btn-back-fr.html %}
+
 </div>
 
 
-{% include btn-back-fr.html %}
+
 
 
 <div id="spacertop">
