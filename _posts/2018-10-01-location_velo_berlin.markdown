@@ -9,8 +9,8 @@ last_modified_at:  24.10.2018
 ---
 
 
-<div class="container2 blog" align="center">
-<p id="">Dernière actualisation le : {{page.last_modified_at | date_to_string}}</p>
+<div class="container blog" align="center">
+<p id="">Dernière actualisation le : {{page.last_modified_at | date: "%d-%m-%Y"}}</p>
 
 
 <ul id="intro">
@@ -25,7 +25,11 @@ last_modified_at:  24.10.2018
 <p>Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : <strong>lequel choisir ?</strong></p>
 
 <p id="equivalent">Plusieurs systèmes de vélo en libre service coexistent à Berlin :</p>
-<p align=""><img src="/Images/dblidl.png" alt="db call a bike" >  <strong>DB CALL A BIKE - LIDL BIKE</strong> <img src="/Images/deezernextbike.png" alt="db call a bike"> <strong>DEEZER NEXTBIKE</strong> <img src="/Images/mobike.png" alt="db call a bike"> <strong>MOBIKE</strong> <img src="/Images/donkeyrepublic.png" alt="db call a bike"> <strong>DONKEY REPUBLIC</strong> <img src="/Images/limebike.png" alt="db call a bike"> <strong>LIMEBIKE</strong></p>
+<img src="/Images/dblidl.png" alt="db call a bike" width="50" height="50" style="padding-bottom: 5px;padding-right: 10px"><strong>LIDL BIKE</strong> (Service de la Deutsche Bahn)<br/>
+<img src="/Images/deezernextbike.png" alt="db call a bike" width="50" height="50" style="padding-bottom: 5px;padding-right: 10px"><strong>NEXTBIKE</strong><br/>
+<img src="/Images/mobike.png" alt="db call a bike" width="50" height="50" style="padding-bottom: 5px;padding-right: 10px"> <strong>MOBIKE</strong><br/>
+<img src="/Images/donkeyrepublic.png" alt="db call a bike" width="50" height="50" style="padding-bottom: 5px;padding-right: 10px"> <strong>DONKEY REPUBLIC</strong><br/>
+<img src="/Images/limebike.png" alt="db call a bike" width="50" height="50" style="padding-right: 10px"> <strong>LIMEBIKE</strong><br/>
 
 
 
@@ -41,8 +45,8 @@ last_modified_at:  24.10.2018
   <thead>
       <tr>
         <th></th>
-        <th><img src="/Images/mobike.png" alt="db call a bike"> Mobike</th>
-        <th><img src="/Images/deezernextbike.png" alt="db call a bike"> Deezer</th>
+        <th><img src="/Images/mobike.png" width="50" height="50" alt="db call a bike"> Mobike</th>
+        <th><img src="/Images/deezernextbike.png" width="50" height="50" alt="db call a bike"> Deezer</th>
         </tr>
       </thead>
 
