@@ -23,12 +23,6 @@
       position: relative
     }
 
-      .body {
-      font:arial;
-    }
-
-
-
     .blog {
         max-width: 900px;
             margin-left: auto;
@@ -61,11 +55,20 @@
     color:black;
     }
 
-    .table, th, td {
-        padding: 5px;
+    th {
+  background-color: rgba(189,206,235,1);
+  color: white;
+}
+
+    th, td {
         text-align: left;
         color:black;
-        max-width: 800px;
+        border-bottom: 1px solid black;
+        
+    }
+
+    tr:nth-child(even) {
+      background-color: rgba(189,206,235,0.3);
     }
 
     </style>
