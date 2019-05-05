@@ -1,418 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-18T08:42:37+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="fr"><title type="html">Batavus Course</title><link href="http://localhost:4000/materiel/batavus_course.html" rel="alternate" type="text/html" title="Batavus Course" /><published>2019-02-13T00:00:00+01:00</published><updated>2019-02-13T00:00:00+01:00</updated><id>http://localhost:4000/materiel/batavus_course</id><content type="html" xml:base="http://localhost:4000/materiel/batavus_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Paganini Course</title><link href="http://localhost:4000/materiel/paganini_course.html" rel="alternate" type="text/html" title="Paganini Course" /><published>2019-02-12T00:00:00+01:00</published><updated>2019-02-12T00:00:00+01:00</updated><id>http://localhost:4000/materiel/paganini_course</id><content type="html" xml:base="http://localhost:4000/materiel/paganini_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Bianchi version ville</title><link href="http://localhost:4000/materiel/bianchi_course.html" rel="alternate" type="text/html" title="Bianchi version ville" /><published>2019-02-11T00:00:00+01:00</published><updated>2019-02-11T00:00:00+01:00</updated><id>http://localhost:4000/materiel/bianchi_course</id><content type="html" xml:base="http://localhost:4000/materiel/bianchi_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo ville" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Garmin Touring Plus</title><link href="http://localhost:4000/materiel/gps-garmin-touring-plus.html" rel="alternate" type="text/html" title="Garmin Touring Plus" /><published>2019-02-10T00:00:00+01:00</published><updated>2019-02-10T00:00:00+01:00</updated><id>http://localhost:4000/materiel/gps-garmin-touring-plus</id><content type="html" xml:base="http://localhost:4000/materiel/gps-garmin-touring-plus.html"></content><author><name></name></author><category term="materiel" /><category term="GPS Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/amp/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-26T00:00:00+02:00</updated><id>http://localhost:4000/amp/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/amp/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
-&lt;p&gt;Dernière actualisation le : 26 Oct 2018&lt;/p&gt;
-
-
-&lt;ul id=&quot;intro&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#equivalent&quot;&gt;Quels sont les équivalents au vélib à Berlin ?&lt;/a&gt;&lt;/li&gt; 
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#choisir&quot;&gt;Lequel choisir ?&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#limites&quot;&gt;Limites et alternatives aux vélos en libre service&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1&gt;Tout est plus libre à Berlin, même les vélos&lt;/h1&gt;
-
-
-
-
-&lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p id=&quot;#equivalent&quot;&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
-&lt;p align=&quot;&quot;&gt;&lt;amp-img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt;  &lt;strong&gt;DB CALL A BIKE - LIDL BIKE&lt;/strong&gt; &lt;amp-img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;DEEZER NEXTBIKE&lt;/strong&gt; &lt;amp-img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt; &lt;amp-img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt; &lt;amp-img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-&lt;h2 id=&quot;choisir&quot;&gt;Quels vélos choisir ?&lt;/h2&gt;
-
-&lt;p&gt;Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos &lt;strong&gt;Mobike et Nextbike&lt;/strong&gt; dans des déplacements dans les quartiers &lt;strong&gt;Kreuzberg-Friedrichshain et Neukölln&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pour aller directement à la &lt;strong&gt;synthèse&lt;/strong&gt;, allez ici : &lt;a href=&quot;#synthese&quot;&gt;rien à faire de ce tableau illisible sur mon téléphone, je veux la synthèse.&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;&lt;amp-img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt; Mobike&lt;/th&gt;
-        &lt;th&gt;&lt;amp-img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/amp-img&gt; Deezer&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-
-
-&lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Tarif horaire&lt;/td&gt;
-        &lt;td&gt;3€ - 1€ toutes les 20 min&lt;/td&gt;
-        &lt;td&gt;2,5€ - 1€ les premières 30 min. puis 1,5€&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Tarif journée&lt;/td&gt;
-        &lt;td&gt;Non disponible&lt;/td&gt;
-        &lt;td&gt;3€ -  Gratuit les 30 premières minutes, puis 1€ toutes les 30 minutes&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Abonnement mensuel&lt;/td&gt;
-        &lt;td&gt;7€ - Gratuit les 30 premières minutes, puis 1€ toutes les 20 minutes&lt;/td&gt;
-        &lt;td&gt;Non disponible, abonnement à l'année possible pour 50€&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Réservation vélo possible?&lt;/td&gt;
-        &lt;td&gt;Oui&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Application&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br&gt;Testée sur iOS&lt;/td&gt;
-        &lt;td&gt;0/10&lt;br&gt;Nouvelle update ne fonctionne pas sur mon iOS&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Couverture&lt;/td&gt;
-        &lt;td&gt;9/10&lt;/td&gt;
-        &lt;td&gt;7/10&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Confort&lt;/td&gt;
-        &lt;td&gt;5/10&lt;br&gt;Il existe deux générations de vélo. Ceux de la première génération n’ont pas de vitesses.&lt;/td&gt;
-        &lt;td&gt;8/10&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-  &lt;td&gt;Restitution du vélo dans une station&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-        &lt;td&gt;Oui, sinon 0,50€ seront facturés&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Possibilité de mettre en pause la location&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Service clients&lt;/td&gt;
-        &lt;td&gt;10/10&lt;br&gt;Car jamais utilisé :)&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br&gt;Radidement joignable, en anglais et allemand&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Présence dans d'autres villes&lt;/td&gt;
-        &lt;td&gt;0/10&lt;br&gt;Actuellement aucune. En projet&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br&gt;Oui, disposnible avec le même abo. dans d'autres villes&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Fabriqués en&lt;/td&gt;
-        &lt;td&gt;Chine&lt;/td&gt;
-        &lt;td&gt;Allemagne&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Entretien&lt;/td&gt;
-        &lt;td&gt;3/10&lt;br&gt;Souvent en mauvais état, exemple selle bloquée, trop basse.&lt;/td&gt;
-        &lt;td&gt;7/10&lt;br&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-
-
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p id=&quot;synthese&quot;&gt;En synthèse: &lt;/p&gt;
-&lt;ul id=&quot;intro&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Le &lt;strong&gt;prix&lt;/strong&gt; se vaut: même si nextbike est moins cher à la minute, 0,50€ peuvent être facturés si le vélo n’est pas restitué en station. Au final cela revient au même.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;mobike est plus &lt;strong&gt;flexible&lt;/strong&gt;, on trouve des vélos de partout et on peut les laisser où on veut.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Je trouve que les vélos mobike sont moins &lt;strong&gt;performants&lt;/strong&gt;, car pour la grande majorité d'entre eux, ils n'ont pas de vitesse. &lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Les vélos mobike sont souvent en mauvais état. Problèmes récurrents : selle bloquée, trop basse.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;limites&quot;&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
-&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dire dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
-
- 
-        
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-
-
-   &lt;a href=&quot;/roue-libre/location_de_velo_entre_particuliers.html&quot;&gt;Tout sur la location de vélo entre particulier&lt;/a&gt;.
-
-
-  
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-
-  &lt;/p&gt;
-
-
-
-&lt;/div&gt;</content><author><name></name></author><category term="amp/roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Dernière actualisation le : 26 Oct 2018</summary></entry><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2018-10-24T00:00:00+02:00</updated><id>http://localhost:4000/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container2 blog&quot; align=&quot;center&quot;&gt;
-&lt;p&gt;Dernière actualisation le : 24 Oct 2018&lt;/p&gt;
-
-
-&lt;ul id=&quot;intro&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#equivalent&quot;&gt;Quels sont les équivalents au vélib à Berlin ?&lt;/a&gt;&lt;/li&gt; 
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#choisir&quot;&gt;Lequel choisir ?&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#limites&quot;&gt;Limites et alternatives aux vélos en libre service&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1&gt;Tout est plus libre à Berlin, même les vélos&lt;/h1&gt;
-
-
-&lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p id=&quot;equivalent&quot;&gt;Plusieurs systèmes de vélo en libre service coexistent à Berlin :&lt;/p&gt;
-&lt;p align=&quot;&quot;&gt;&lt;img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; /&gt;  &lt;strong&gt;DB CALL A BIKE - LIDL BIKE&lt;/strong&gt; &lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DEEZER NEXTBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt; &lt;img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt; &lt;img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; /&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-&lt;h2 id=&quot;choisir&quot;&gt;Quels vélos choisir ?&lt;/h2&gt;
-
-&lt;p&gt;Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos &lt;strong&gt;Mobike et Nextbike&lt;/strong&gt; dans des déplacements dans les quartiers &lt;strong&gt;Kreuzberg-Friedrichshain et Neukölln&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pour aller directement à la &lt;strong&gt;synthèse&lt;/strong&gt;, allez ici : &lt;a href=&quot;#synthese&quot;&gt;rien à faire de ce tableau illisible sur mon téléphone, je veux la synthèse.&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;&lt;img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; /&gt; Mobike&lt;/th&gt;
-        &lt;th&gt;&lt;img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; /&gt; Deezer&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-
-
-&lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Tarif horaire&lt;/td&gt;
-        &lt;td&gt;3€ - 1€ toutes les 20 min&lt;/td&gt;
-        &lt;td&gt;2,5€ - 1€ les premières 30 min. puis 1,5€&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Tarif journée&lt;/td&gt;
-        &lt;td&gt;Non disponible&lt;/td&gt;
-        &lt;td&gt;3€ -  Gratuit les 30 premières minutes, puis 1€ toutes les 30 minutes&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Abonnement mensuel&lt;/td&gt;
-        &lt;td&gt;7€ - Gratuit les 30 premières minutes, puis 1€ toutes les 20 minutes&lt;/td&gt;
-        &lt;td&gt;Non disponible, abonnement à l'année possible pour 50€&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Réservation vélo possible?&lt;/td&gt;
-        &lt;td&gt;Oui&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Application&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br /&gt;Testée sur iOS&lt;/td&gt;
-        &lt;td&gt;0/10&lt;br /&gt;Nouvelle update ne fonctionne pas sur mon iOS&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Couverture&lt;/td&gt;
-        &lt;td&gt;9/10&lt;/td&gt;
-        &lt;td&gt;7/10&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Confort&lt;/td&gt;
-        &lt;td&gt;5/10&lt;br /&gt;Il existe deux générations de vélo. Ceux de la première génération n’ont pas de vitesses.&lt;/td&gt;
-        &lt;td&gt;8/10&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-  &lt;td&gt;Restitution du vélo dans une station&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-        &lt;td&gt;Oui, sinon 0,50€ seront facturés&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Possibilité de mettre en pause la location&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Service clients&lt;/td&gt;
-        &lt;td&gt;10/10&lt;br /&gt;Car jamais utilisé :)&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br /&gt;Radidement joignable, en anglais et allemand&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Présence dans d'autres villes&lt;/td&gt;
-        &lt;td&gt;0/10&lt;br /&gt;Actuellement aucune. En projet&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br /&gt;Oui, disposnible avec le même abo. dans d'autres villes&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Fabriqués en&lt;/td&gt;
-        &lt;td&gt;Chine&lt;/td&gt;
-        &lt;td&gt;Allemagne&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Entretien&lt;/td&gt;
-        &lt;td&gt;3/10&lt;br /&gt;Souvent en mauvais état, exemple selle bloquée, trop basse.&lt;/td&gt;
-        &lt;td&gt;7/10&lt;br /&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-
-
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p id=&quot;synthese&quot;&gt;En synthèse: &lt;/p&gt;
-&lt;ul id=&quot;intro&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;Le &lt;strong&gt;prix&lt;/strong&gt; se vaut: même si nextbike est moins cher à la minute, 0,50€ peuvent être facturés si le vélo n’est pas restitué en station. Au final cela revient au même.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;mobike est plus &lt;strong&gt;flexible&lt;/strong&gt;, on trouve des vélos de partout et on peut les laisser où on veut.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Je trouve que les vélos mobike sont moins &lt;strong&gt;performants&lt;/strong&gt;, car pour la grande majorité d'entre eux, ils n'ont pas de vitesse. &lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Les vélos mobike sont souvent en mauvais état. Problèmes récurrents : selle bloquée, trop basse.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;limites&quot;&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
-&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dire dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
-
- 
-        
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-
-
-   &lt;a href=&quot;/roue-libre/location_de_velo_entre_particuliers.html&quot;&gt;Tout sur la location de vélo entre particulier&lt;/a&gt;.
-
-
-  
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-
-  &lt;/p&gt;
-
-  
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-05T23:24:29+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="fr"><title type="html">EuroVélo 7 de Berlin à Copenhague</title><link href="http://localhost:4000/rando-velo/berlin-copenhague.html" rel="alternate" type="text/html" title="EuroVélo 7 de Berlin à Copenhague" /><published>2019-05-01T00:00:00+02:00</published><updated>2019-05-01T00:00:00+02:00</updated><id>http://localhost:4000/rando-velo/berlin-copenhague</id><content type="html" xml:base="http://localhost:4000/rando-velo/berlin-copenhague.html">&lt;div class=&quot;container blog&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+      &lt;h1&gt;Quel voyage à vélo faire en 4 jours au départ de Berlin ?&lt;/h1&gt;
+      Mis à jour le 01-05-2019&lt;br /&gt;
+      &lt;p&gt;Ils avaient prévu du beau temps pour ce long week-end d'avril, parfait pour une rando à vélo. L’an dernier j’avais fait la partie sud de &lt;a href=&quot;/rando-velo/berlin-prague.html&quot;&gt;l’EuroVélo 7 de Berlin à Prague&lt;/a&gt;, du coup cette année je me suis lancé vers le nord sur un Berlin-Copenhague. Un itinéraire que je recommande.&lt;/p&gt;
+      &lt;h2&gt;L’itinéraire vélo de Berlin à Copenhague&lt;/h2&gt;
+      &lt;div class=&quot;col-sm-6&quot;&gt;
+      &lt;iframe src=&quot;https://www.komoot.com/tour/62695337/embed?profile=1&quot; width=&quot;100%&quot; height=&quot;400&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-sm-6&quot;&gt;
+      &lt;p&gt;Et voilà mon itinéraire. On est en moyenne sur du 100 kilomètres par jour. À noter que si vous avez plus de 4 jours, vous pouvez suivre l'itinéraire officiel de &lt;a href=&quot;http://www.eurovelo.com/fr/eurovelos/eurovelo-7/pays/allemagne-1/berlin/veloroute-berlin-copenhague&quot;&gt; l'eurovélo 7&lt;/a&gt;. Plus long d'à peu près 200 kilomètres mais certainement plus adapté pour du cyclotourisme. Sinon il y a mon itinéraire dont voici le détail des &lt;a href=&quot;#etapes&quot;&gt;4 étapes&lt;/a&gt;.&lt;/p&gt;
+    &lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container blog&quot;&gt;
+  &lt;h2 id=&quot;etapes&quot;&gt;Eurovélo 7 de Berlin à Copenhague : mes 4 étapes&lt;/h2&gt;
+  
+    
+      
+  
+      
+
+&lt;div class=&quot;row vcenter&quot;&gt;
+
+&lt;div class=&quot;col-sm-5&quot;&gt;
+  &lt;a href=&quot;&quot;&gt;&lt;img src=&quot;/Images/berlin-copenhague/step1.png&quot; alt=&quot;step1_berlin_to_copenhague&quot; class=&quot;img responsive img-rounded&quot; /&gt;&lt;/a&gt;
+  
+  &lt;/div&gt;
+
+&lt;div class=&quot;col-sm-7&quot;&gt;
+    &lt;p id=&quot;post_title&quot;&gt;De Berlin à Müritz&lt;/p&gt;
+      140 kilomètres pour la chauffe de Berlin on file vers le nord jusqu’au parc national de Müritz et sa ‘plaque de lacs’ traduction littérale de Seenplatte, enchaînement de lacs sur près d’une centaine de kilomètres. Itinéraire de pistes cyclables goudronnées. Du grand luxe. Une fois dans le parc national on trouve facilement un camping où planter la tente au bord d’un lac.&lt;br /&gt;
+      
 
 &lt;style&gt;
 #share-buttons {display: inline-block; vertical-align: middle; }
@@ -442,21 +62,516 @@
 #share-buttons &gt; div.mail &gt; svg {height: 14px; margin-top: 11px;}
 &lt;/style&gt;
 
-&lt;span style=&quot;color: black;&quot;&gt;Share on: &lt;/span&gt;&lt;div id=&quot;share-buttons&quot;&gt;
+&lt;span style=&quot;color: silver;&quot;&gt;Partager sur: &lt;/span&gt;&lt;div id=&quot;share-buttons&quot;&gt;
+    &lt;div class=&quot;facebook&quot; title=&quot;Share this on Facebook&quot; onclick=&quot;window.open('http://www.facebook.com/share.php?u=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;twitter&quot; title=&quot;Share this on Twitter&quot; onclick=&quot;window.open('http://twitter.com/home?status=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;linkedin&quot; title=&quot;Share this on Linkedin&quot; onclick=&quot;window.open('https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/rando-velo/berlin-copenhague.html&amp;amp;title=&amp;amp;summary=&amp;amp;source=');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
     
-    &lt;div class=&quot;facebook&quot; title=&quot;Share this on Facebook&quot; style=&quot;border-radius: 2px; border: 2px solid black; margin-right: 10px;&quot; onclick=&quot;window.open('http://www.facebook.com/share.php?u=http://localhost:4000/roue-libre/location_velo_berlin.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
-    
-    &lt;div class=&quot;twitter&quot; style=&quot;border-radius: 2px; border: 2px solid black; margin-right: 10px;&quot; title=&quot;Share this on Twitter&quot; onclick=&quot;window.open('http://twitter.com/home?status=http://localhost:4000/roue-libre/location_velo_berlin.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
-    
-    &lt;div class=&quot;linkedin&quot; style=&quot;border-radius: 2px; border: 2px solid black; margin-right: 10px;&quot; title=&quot;Share this on Linkedin&quot; onclick=&quot;window.open('https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/roue-libre/location_velo_berlin.html&amp;amp;title=&amp;amp;summary=&amp;amp;source=');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
-
-    
-    
-    &lt;div class=&quot;gplus&quot; style=&quot;border-radius: 2px; border: 2px solid black; margin-right: 10px;&quot; title=&quot;Share this on Google Plus&quot; onclick=&quot;window.open('https://plus.google.com/share?url=http://localhost:4000/roue-libre/location_velo_berlin.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 2304 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1437 913q0 208-87 370.5t-248 254-369 91.5q-149 0-285-58t-234-156-156-234-58-285 58-285 156-234 234-156 285-58q286 0 491 192l-199 191q-117-113-292-113-123 0-227.5 62t-165.5 168.5-61 232.5 61 232.5 165.5 168.5 227.5 62q83 0 152.5-23t114.5-57.5 78.5-78.5 49-83 21.5-74h-416v-252h692q12 63 12 122zm867-122v210h-209v209h-210v-209h-209v-210h209v-209h210v209h209z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
-
-    &lt;div class=&quot;mail&quot; style=&quot;border-radius: 2px; border: 2px solid black; margin-right: 10px;&quot; title=&quot;Share this through Email&quot; onclick=&quot;window.open('mailto:?&amp;amp;body=http://localhost:4000/roue-libre/location_velo_berlin.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;gplus&quot; title=&quot;Share this on Google Plus&quot; onclick=&quot;window.open('https://plus.google.com/share?url=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 2304 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1437 913q0 208-87 370.5t-248 254-369 91.5q-149 0-285-58t-234-156-156-234-58-285 58-285 156-234 234-156 285-58q286 0 491 192l-199 191q-117-113-292-113-123 0-227.5 62t-165.5 168.5-61 232.5 61 232.5 165.5 168.5 227.5 62q83 0 152.5-23t114.5-57.5 78.5-78.5 49-83 21.5-74h-416v-252h692q12 63 12 122zm867-122v210h-209v209h-210v-209h-209v-210h209v-209h210v209h209z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;mail&quot; title=&quot;Share this through Email&quot; onclick=&quot;window.open('mailto:?&amp;amp;body=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;/div&gt; &lt;br /&gt;
+      Distance : 140 km&lt;br /&gt;
+      Difficulté : 2/5&lt;br /&gt;
+      Dénivelé positif : 110 m&lt;br /&gt;
+      Dénivelé négatif : 110 m&lt;br /&gt;
+      
+      Hébergement : Camping
+      
+&lt;/div&gt;
 &lt;/div&gt;
 
+&lt;div id=&quot;spacer&quot;&gt;
+&lt;/div&gt;
+
+  
+  
+      
+
+&lt;div class=&quot;row vcenter&quot;&gt;
+
+&lt;div class=&quot;col-sm-5&quot;&gt;
+  &lt;a href=&quot;&quot;&gt;&lt;img src=&quot;/Images/berlin-copenhague/step2.jpeg&quot; alt=&quot;step1_berlin_to_copenhague&quot; class=&quot;img responsive img-rounded&quot; /&gt;&lt;/a&gt;
+  
+  &lt;/div&gt;
+
+&lt;div class=&quot;col-sm-7&quot;&gt;
+    &lt;p id=&quot;post_title&quot;&gt;De Müritz à Rostock&lt;/p&gt;
+      À travers le land du Mecklembourg, paysages sauvages et perdus… sauf pour les vélos pour lesquels il y a de nombreuses pistes cyclables. Étape de 120 kilomètres sans aucune difficulté. Pour casser la croute on trouvera bien un sandwich de hareng fumé.&lt;br /&gt;
+      
+
+&lt;style&gt;
+#share-buttons {display: inline-block; vertical-align: middle; }
+#share-buttons:after {content: &quot;&quot;; display: block; clear: both;}
+#share-buttons &gt; div {
+    position: relative;
+    text-align: left; 
+    height: 36px; 
+    width: 32px; 
+    float: left; 
+    text-align: center;
+}
+#share-buttons &gt; div &gt; svg {height: 16px; fill: #d5d5d5; margin-top: 10px;}
+#share-buttons &gt; div:hover {cursor: pointer;}
+#share-buttons &gt; div.facebook:hover &gt; svg {fill: #3B5998;}
+#share-buttons &gt; div.twitter:hover &gt; svg {fill: #55ACEE;}
+#share-buttons &gt; div.linkedin:hover &gt; svg {fill: #0077b5;}
+#share-buttons &gt; div.pinterest:hover &gt; svg {fill: #CB2027;}
+#share-buttons &gt; div.gplus:hover &gt; svg {fill: #dd4b39;}
+#share-buttons &gt; div.mail:hover &gt; svg {fill: #7D7D7D;}
+#share-buttons &gt; div.instagram:hover &gt; svg {fill: #C73B92;}
+#share-buttons &gt; div.facebook &gt; svg {height: 18px; margin-top: 9px;}
+#share-buttons &gt; div.twitter &gt; svg {height: 20px; margin-top: 8px;}
+#share-buttons &gt; div.linkedin &gt; svg {height: 19px; margin-top: 7px;}
+#share-buttons &gt; div.pinterest &gt; svg {height: 20px; margin-top: 9px;}
+#share-buttons &gt; div.gplus &gt; svg {height: 17px; margin-top: 9px; position: relative; left: 1px;}
+#share-buttons &gt; div.mail &gt; svg {height: 14px; margin-top: 11px;}
+&lt;/style&gt;
+
+&lt;span style=&quot;color: silver;&quot;&gt;Partager sur: &lt;/span&gt;&lt;div id=&quot;share-buttons&quot;&gt;
+    &lt;div class=&quot;facebook&quot; title=&quot;Share this on Facebook&quot; onclick=&quot;window.open('http://www.facebook.com/share.php?u=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;twitter&quot; title=&quot;Share this on Twitter&quot; onclick=&quot;window.open('http://twitter.com/home?status=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;linkedin&quot; title=&quot;Share this on Linkedin&quot; onclick=&quot;window.open('https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/rando-velo/berlin-copenhague.html&amp;amp;title=&amp;amp;summary=&amp;amp;source=');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    
+    &lt;div class=&quot;gplus&quot; title=&quot;Share this on Google Plus&quot; onclick=&quot;window.open('https://plus.google.com/share?url=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 2304 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1437 913q0 208-87 370.5t-248 254-369 91.5q-149 0-285-58t-234-156-156-234-58-285 58-285 156-234 234-156 285-58q286 0 491 192l-199 191q-117-113-292-113-123 0-227.5 62t-165.5 168.5-61 232.5 61 232.5 165.5 168.5 227.5 62q83 0 152.5-23t114.5-57.5 78.5-78.5 49-83 21.5-74h-416v-252h692q12 63 12 122zm867-122v210h-209v209h-210v-209h-209v-210h209v-209h210v209h209z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;mail&quot; title=&quot;Share this through Email&quot; onclick=&quot;window.open('mailto:?&amp;amp;body=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;/div&gt; &lt;br /&gt;
+      Distance : 120 km&lt;br /&gt;
+      Difficulté : 2/5&lt;br /&gt;
+      Dénivelé positif : 210 m&lt;br /&gt;
+      Dénivelé négatif : 210 m&lt;br /&gt;
+      
+      Hébergement : 
+      
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;spacer&quot;&gt;
+&lt;/div&gt;
+
+  
+  
+      
+
+&lt;div class=&quot;row vcenter&quot;&gt;
+
+&lt;div class=&quot;col-sm-5&quot;&gt;
+  &lt;a href=&quot;&quot;&gt;&lt;img src=&quot;/Images/berlin-copenhague/step3.jpeg&quot; alt=&quot;step1_berlin_to_copenhague&quot; class=&quot;img responsive img-rounded&quot; /&gt;&lt;/a&gt;
+  
+  &lt;/div&gt;
+
+&lt;div class=&quot;col-sm-7&quot;&gt;
+    &lt;p id=&quot;post_title&quot;&gt;De Rostock à Praesto&lt;/p&gt;
+      Traversée de la baltique en Ferry de Rostock à Gedser (2h), puis le Danemark.  Peu avant l’arrivée sur Vordinborg, une route très roulante un peu pénible sur une dizaine de kilomètres, et la traversée d’un pont de 10 kilomètres sur la mer baltique et dont l’état n’est pas franchement engageant. Mais le train passe encore, donc à priori le vélo passe aussi. On se rassure comme on peut.&lt;br /&gt;
+      
+
+&lt;style&gt;
+#share-buttons {display: inline-block; vertical-align: middle; }
+#share-buttons:after {content: &quot;&quot;; display: block; clear: both;}
+#share-buttons &gt; div {
+    position: relative;
+    text-align: left; 
+    height: 36px; 
+    width: 32px; 
+    float: left; 
+    text-align: center;
+}
+#share-buttons &gt; div &gt; svg {height: 16px; fill: #d5d5d5; margin-top: 10px;}
+#share-buttons &gt; div:hover {cursor: pointer;}
+#share-buttons &gt; div.facebook:hover &gt; svg {fill: #3B5998;}
+#share-buttons &gt; div.twitter:hover &gt; svg {fill: #55ACEE;}
+#share-buttons &gt; div.linkedin:hover &gt; svg {fill: #0077b5;}
+#share-buttons &gt; div.pinterest:hover &gt; svg {fill: #CB2027;}
+#share-buttons &gt; div.gplus:hover &gt; svg {fill: #dd4b39;}
+#share-buttons &gt; div.mail:hover &gt; svg {fill: #7D7D7D;}
+#share-buttons &gt; div.instagram:hover &gt; svg {fill: #C73B92;}
+#share-buttons &gt; div.facebook &gt; svg {height: 18px; margin-top: 9px;}
+#share-buttons &gt; div.twitter &gt; svg {height: 20px; margin-top: 8px;}
+#share-buttons &gt; div.linkedin &gt; svg {height: 19px; margin-top: 7px;}
+#share-buttons &gt; div.pinterest &gt; svg {height: 20px; margin-top: 9px;}
+#share-buttons &gt; div.gplus &gt; svg {height: 17px; margin-top: 9px; position: relative; left: 1px;}
+#share-buttons &gt; div.mail &gt; svg {height: 14px; margin-top: 11px;}
+&lt;/style&gt;
+
+&lt;span style=&quot;color: silver;&quot;&gt;Partager sur: &lt;/span&gt;&lt;div id=&quot;share-buttons&quot;&gt;
+    &lt;div class=&quot;facebook&quot; title=&quot;Share this on Facebook&quot; onclick=&quot;window.open('http://www.facebook.com/share.php?u=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;twitter&quot; title=&quot;Share this on Twitter&quot; onclick=&quot;window.open('http://twitter.com/home?status=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;linkedin&quot; title=&quot;Share this on Linkedin&quot; onclick=&quot;window.open('https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/rando-velo/berlin-copenhague.html&amp;amp;title=&amp;amp;summary=&amp;amp;source=');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    
+    &lt;div class=&quot;gplus&quot; title=&quot;Share this on Google Plus&quot; onclick=&quot;window.open('https://plus.google.com/share?url=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 2304 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1437 913q0 208-87 370.5t-248 254-369 91.5q-149 0-285-58t-234-156-156-234-58-285 58-285 156-234 234-156 285-58q286 0 491 192l-199 191q-117-113-292-113-123 0-227.5 62t-165.5 168.5-61 232.5 61 232.5 165.5 168.5 227.5 62q83 0 152.5-23t114.5-57.5 78.5-78.5 49-83 21.5-74h-416v-252h692q12 63 12 122zm867-122v210h-209v209h-210v-209h-209v-210h209v-209h210v209h209z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;mail&quot; title=&quot;Share this through Email&quot; onclick=&quot;window.open('mailto:?&amp;amp;body=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;/div&gt; &lt;br /&gt;
+      Distance : 80 km&lt;br /&gt;
+      Difficulté : 1/5&lt;br /&gt;
+      Dénivelé positif : 110 m&lt;br /&gt;
+      Dénivelé négatif : 110 m&lt;br /&gt;
+      
+      Hébergement : &lt;a href=&quot;https://www.google.com/travel/hotels/Pr%C3%A6st%C3%B8/entity/CgsImoCIhvGJgJuIARAB&quot; target=&quot;_blank&quot;&gt;Hotel&lt;/a&gt;
+      
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;spacer&quot;&gt;
+&lt;/div&gt;
+
+  
+  
+      
+
+&lt;div class=&quot;row vcenter&quot;&gt;
+
+&lt;div class=&quot;col-sm-5&quot;&gt;
+  &lt;a href=&quot;&quot;&gt;&lt;img src=&quot;/Images/berlin-copenhague/step4.jpeg&quot; alt=&quot;step4_berlin_to_copenhague&quot; class=&quot;img responsive img-rounded&quot; /&gt;&lt;/a&gt;
+  
+  &lt;/div&gt;
+
+&lt;div class=&quot;col-sm-7&quot;&gt;
+    &lt;p id=&quot;post_title&quot;&gt;De Praesto à Copenhague&lt;/p&gt;
+      La campagne danoise magnifique,  paysages ruraux et vallonnés de fermes, traversée par des routes désertes. Un autre itinéraire plus direct passe par la route nationale, surtout pas. De Koge à Copenhague on longe la côte de la mer baltique sur 30 kilomètres environ, on s’arrête à tout moment prendre des photos sur la plage de sable.&lt;br /&gt;
+      
+
+&lt;style&gt;
+#share-buttons {display: inline-block; vertical-align: middle; }
+#share-buttons:after {content: &quot;&quot;; display: block; clear: both;}
+#share-buttons &gt; div {
+    position: relative;
+    text-align: left; 
+    height: 36px; 
+    width: 32px; 
+    float: left; 
+    text-align: center;
+}
+#share-buttons &gt; div &gt; svg {height: 16px; fill: #d5d5d5; margin-top: 10px;}
+#share-buttons &gt; div:hover {cursor: pointer;}
+#share-buttons &gt; div.facebook:hover &gt; svg {fill: #3B5998;}
+#share-buttons &gt; div.twitter:hover &gt; svg {fill: #55ACEE;}
+#share-buttons &gt; div.linkedin:hover &gt; svg {fill: #0077b5;}
+#share-buttons &gt; div.pinterest:hover &gt; svg {fill: #CB2027;}
+#share-buttons &gt; div.gplus:hover &gt; svg {fill: #dd4b39;}
+#share-buttons &gt; div.mail:hover &gt; svg {fill: #7D7D7D;}
+#share-buttons &gt; div.instagram:hover &gt; svg {fill: #C73B92;}
+#share-buttons &gt; div.facebook &gt; svg {height: 18px; margin-top: 9px;}
+#share-buttons &gt; div.twitter &gt; svg {height: 20px; margin-top: 8px;}
+#share-buttons &gt; div.linkedin &gt; svg {height: 19px; margin-top: 7px;}
+#share-buttons &gt; div.pinterest &gt; svg {height: 20px; margin-top: 9px;}
+#share-buttons &gt; div.gplus &gt; svg {height: 17px; margin-top: 9px; position: relative; left: 1px;}
+#share-buttons &gt; div.mail &gt; svg {height: 14px; margin-top: 11px;}
+&lt;/style&gt;
+
+&lt;span style=&quot;color: silver;&quot;&gt;Partager sur: &lt;/span&gt;&lt;div id=&quot;share-buttons&quot;&gt;
+    &lt;div class=&quot;facebook&quot; title=&quot;Share this on Facebook&quot; onclick=&quot;window.open('http://www.facebook.com/share.php?u=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;twitter&quot; title=&quot;Share this on Twitter&quot; onclick=&quot;window.open('http://twitter.com/home?status=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;linkedin&quot; title=&quot;Share this on Linkedin&quot; onclick=&quot;window.open('https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/rando-velo/berlin-copenhague.html&amp;amp;title=&amp;amp;summary=&amp;amp;source=');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    
+    &lt;div class=&quot;gplus&quot; title=&quot;Share this on Google Plus&quot; onclick=&quot;window.open('https://plus.google.com/share?url=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 2304 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1437 913q0 208-87 370.5t-248 254-369 91.5q-149 0-285-58t-234-156-156-234-58-285 58-285 156-234 234-156 285-58q286 0 491 192l-199 191q-117-113-292-113-123 0-227.5 62t-165.5 168.5-61 232.5 61 232.5 165.5 168.5 227.5 62q83 0 152.5-23t114.5-57.5 78.5-78.5 49-83 21.5-74h-416v-252h692q12 63 12 122zm867-122v210h-209v209h-210v-209h-209v-210h209v-209h210v209h209z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+    &lt;div class=&quot;mail&quot; title=&quot;Share this through Email&quot; onclick=&quot;window.open('mailto:?&amp;amp;body=http://localhost:4000/rando-velo/berlin-copenhague.html');&quot;&gt;&lt;svg viewBox=&quot;0 0 1792 1792&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z&quot; /&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;/div&gt; &lt;br /&gt;
+      Distance : 80 km&lt;br /&gt;
+      Difficulté : 2/5&lt;br /&gt;
+      Dénivelé positif : 210 m&lt;br /&gt;
+      Dénivelé négatif : 210 m&lt;br /&gt;
+      
+      Hébergement : Retour bus
+      
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;spacer&quot;&gt;
+&lt;/div&gt;
+
+  
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+
+&lt;h3&gt;La navigation komoot, une première&lt;/h3&gt;
+&lt;p&gt;Habitué aux bips et douces sonorités du Garmin Touring Plus, je me suis fait guidé pour cette randonnée par la voie métallique de l’application Komoot, une première. Sur cette application, j’avais tracé mon itinéraire et téléchargé la carte offline avant mon départ de manière à  ne pas utiliser de données. Il faut payer pour cela une fois 29€ permettant d’accéder à toutes les cartes. Et franchement le résultat est bon. Les indications sont claires et précises, évidemment il y toujours quelques incompréhensions homme/GPS, qu’il y a d’ailleurs aussi avec le Garmin, mais elles sont rares. J’ai donc pu me concentrer sur la route, sans presque jamais m’arrêter pour regarder la carte. Du grand confort.&lt;/p&gt;
 
 
-&lt;/div&gt;</content><author><name></name></author><category term="roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Dernière actualisation le : 24 Oct 2018</summary></entry><entry xml:lang="fr"><title type="html">Step_1</title><link href="http://localhost:4000/step_1.html" rel="alternate" type="text/html" title="Step_1" /><published>2018-05-30T00:00:00+02:00</published><updated>2018-05-30T00:00:00+02:00</updated><id>http://localhost:4000/step_1</id><content type="html" xml:base="http://localhost:4000/step_1.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_2</title><link href="http://localhost:4000/step_2.html" rel="alternate" type="text/html" title="Step_2" /><published>2018-05-29T00:00:00+02:00</published><updated>2018-05-29T00:00:00+02:00</updated><id>http://localhost:4000/step_2</id><content type="html" xml:base="http://localhost:4000/step_2.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_3</title><link href="http://localhost:4000/step_3.html" rel="alternate" type="text/html" title="Step_3" /><published>2018-05-28T00:00:00+02:00</published><updated>2018-05-28T00:00:00+02:00</updated><id>http://localhost:4000/step_3</id><content type="html" xml:base="http://localhost:4000/step_3.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_4</title><link href="http://localhost:4000/step_4.html" rel="alternate" type="text/html" title="Step_4" /><published>2018-05-27T00:00:00+02:00</published><updated>2018-05-27T00:00:00+02:00</updated><id>http://localhost:4000/step_4</id><content type="html" xml:base="http://localhost:4000/step_4.html"></content><author><name></name></author><summary type="html"></summary></entry></feed>
+
+
+&lt;a href=&quot;/rando-velo/&quot; class=&quot;btn btn-lg btn-block&quot; id=&quot;post_btn&quot;&gt;Sommaire des randos&lt;/a&gt;
+
+
+
+&lt;/div&gt;</content><author><name></name></author><category term="rando-velo" /><category term="Allemagne" /><category term="Danemark" /><summary type="html">Quel voyage à vélo faire en 4 jours au départ de Berlin ? Mis à jour le 01-05-2019 Ils avaient prévu du beau temps pour ce long week-end d'avril, parfait pour une rando à vélo. L’an dernier j’avais fait la partie sud de l’EuroVélo 7 de Berlin à Prague, du coup cette année je me suis lancé vers le nord sur un Berlin-Copenhague. Un itinéraire que je recommande. L’itinéraire vélo de Berlin à Copenhague Et voilà mon itinéraire. On est en moyenne sur du 100 kilomètres par jour. À noter que si vous avez plus de 4 jours, vous pouvez suivre l'itinéraire officiel de l'eurovélo 7. Plus long d'à peu près 200 kilomètres mais certainement plus adapté pour du cyclotourisme. Sinon il y a mon itinéraire dont voici le détail des 4 étapes.</summary></entry><entry xml:lang="fr"><title type="html">Step_1</title><link href="http://localhost:4000/step_1.html" rel="alternate" type="text/html" title="Step_1" /><published>2019-04-30T00:00:00+02:00</published><updated>2019-04-30T00:00:00+02:00</updated><id>http://localhost:4000/step_1</id><content type="html" xml:base="http://localhost:4000/step_1.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_2</title><link href="http://localhost:4000/step_2.html" rel="alternate" type="text/html" title="Step_2" /><published>2019-04-29T00:00:00+02:00</published><updated>2019-04-29T00:00:00+02:00</updated><id>http://localhost:4000/step_2</id><content type="html" xml:base="http://localhost:4000/step_2.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_3</title><link href="http://localhost:4000/step_3.html" rel="alternate" type="text/html" title="Step_3" /><published>2019-04-28T00:00:00+02:00</published><updated>2019-04-28T00:00:00+02:00</updated><id>http://localhost:4000/step_3</id><content type="html" xml:base="http://localhost:4000/step_3.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_4</title><link href="http://localhost:4000/step_4.html" rel="alternate" type="text/html" title="Step_4" /><published>2019-04-27T00:00:00+02:00</published><updated>2019-04-27T00:00:00+02:00</updated><id>http://localhost:4000/step_4</id><content type="html" xml:base="http://localhost:4000/step_4.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Batavus Course</title><link href="http://localhost:4000/materiel/batavus_course.html" rel="alternate" type="text/html" title="Batavus Course" /><published>2019-02-13T00:00:00+01:00</published><updated>2019-02-13T00:00:00+01:00</updated><id>http://localhost:4000/materiel/batavus_course</id><content type="html" xml:base="http://localhost:4000/materiel/batavus_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Paganini Course</title><link href="http://localhost:4000/materiel/paganini_course.html" rel="alternate" type="text/html" title="Paganini Course" /><published>2019-02-12T00:00:00+01:00</published><updated>2019-02-12T00:00:00+01:00</updated><id>http://localhost:4000/materiel/paganini_course</id><content type="html" xml:base="http://localhost:4000/materiel/paganini_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Bianchi version ville</title><link href="http://localhost:4000/materiel/bianchi_course.html" rel="alternate" type="text/html" title="Bianchi version ville" /><published>2019-02-11T00:00:00+01:00</published><updated>2019-02-11T00:00:00+01:00</updated><id>http://localhost:4000/materiel/bianchi_course</id><content type="html" xml:base="http://localhost:4000/materiel/bianchi_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo ville" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Garmin Touring Plus</title><link href="http://localhost:4000/materiel/gps-garmin-touring-plus.html" rel="alternate" type="text/html" title="Garmin Touring Plus" /><published>2019-02-10T00:00:00+01:00</published><updated>2019-02-10T00:00:00+01:00</updated><id>http://localhost:4000/materiel/gps-garmin-touring-plus</id><content type="html" xml:base="http://localhost:4000/materiel/gps-garmin-touring-plus.html"></content><author><name></name></author><category term="materiel" /><category term="GPS Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/amp/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2019-03-30T00:00:00+01:00</updated><id>http://localhost:4000/amp/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/amp/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container blog&quot; align=&quot;center&quot;&gt;
+&lt;p&gt;Post actualisé le: 30-03-2019&lt;/p&gt;
+
+
+&lt;ul id=&quot;intro&quot;&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#equivalents&quot;&gt;Quels sont les équivalents au vélib à Berlin ?&lt;/a&gt;&lt;/li&gt; 
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#choisir&quot;&gt;Comment choisir ?&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#limites&quot;&gt;Le problème des vélos en libre service&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#location&quot;&gt;Qui veut louer mon super vélo ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h1&gt;Tout est plus libre à Berlin, même les vélos&lt;/h1&gt;
+&lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service à Berlin. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;#equivalents&quot;&gt;Les applications pour la location de vélo en libre service à Berlin:&lt;/h2&gt;
+&lt;amp-img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-bottom:15px; margin-right:5px &quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;LIDL BIKE&lt;/strong&gt; (Service de la Deutsche Bahn)&lt;br/&gt;
+&lt;amp-img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-bottom:5px; margin-right:5px &quot;&gt;&lt;/amp-img&gt;&lt;strong&gt;NEXTBIKE&lt;/strong&gt;&lt;br/&gt;
+&lt;amp-img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-bottom:5px; margin-right:5px &quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt;&lt;br/&gt;
+&lt;amp-img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-bottom:5px; margin-right:5px &quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt;&lt;br/&gt;
+&lt;amp-img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-bottom:; margin-right:5px &quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;br/&gt;
+
+
+
+
+&lt;h2 id=&quot;choisir&quot;&gt;Quels vélos choisir ?&lt;/h2&gt;
+
+&lt;p&gt;Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos &lt;strong&gt;Mobike et Nextbike&lt;/strong&gt; dans des déplacements dans les quartiers &lt;strong&gt;Kreuzberg-Friedrichshain et Neukölln&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pour aller directement à la &lt;strong&gt;synthèse&lt;/strong&gt;, allez ici : &lt;a href=&quot;#synthese&quot;&gt;rien à faire de ce tableau illisible sur mon téléphone, je veux la synthèse.&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;amp-img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-left: 5px; margin-top: 5px; margin-bottom: 5px&quot;&gt;&lt;/amp-img&gt; MOBIKE&lt;/th&gt;
+        &lt;th&gt;&lt;amp-img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle;margin-left: 5px; margin-top: 5px; margin-bottom: 5px&quot;&gt;&lt;/amp-img&gt; NEXT BIKE&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+
+
+&lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Tarif horaire&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;3,00€&lt;/strong&gt;&lt;br/&gt;1€ toutes les 20 minutes&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;2,50€&lt;/strong&gt;&lt;br/&gt;1€ les premières 30 min. puis 1,5€&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Tarif journée&lt;/td&gt;
+        &lt;td&gt;Non disponible&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;9€&lt;/strong&gt; pour 24 heures&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Abonnement mensuel&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;7€&lt;/strong&gt; + 1€ par 20 minutes dès la 31ème min. Les 30 premières min. sont gratuites.&lt;/td&gt;
+        &lt;td&gt;Non disponible&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Abonnement annuel&lt;/td&gt;
+        &lt;td&gt;Non disponible&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;48€&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Réservation possible?&lt;/td&gt;
+        &lt;td&gt;Oui&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Application&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br&gt;Testée sur iOS&lt;/td&gt;
+        &lt;td&gt;0/10&lt;br&gt;Nouvelle update ne fonctionne pas sur mon iPhone (SE)&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Couverture&lt;/td&gt;
+        &lt;td&gt;9/10&lt;/td&gt;
+        &lt;td&gt;7/10&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Confort&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;4/10&lt;/strong&gt; - Assez mauvais&lt;br&gt;Il existe deux générations de vélo. Ceux de la première génération n’ont pas de vitesses.&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;8/10&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+  &lt;td&gt;Restitution du vélo dans une station&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;Non&lt;/strong&gt; - Possibilité de gagner des points si restitution dans des zones bonus (intersections de rue, carrefours)&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;Oui&lt;/strong&gt;, sinon 0,50€ seront facturés&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Possibilité de mettre en pause la location&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+        &lt;td&gt;Non&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Service clients&lt;/td&gt;
+        &lt;td&gt;10/10&lt;br&gt;Car jamais utilisé!&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br&gt;Radidement joignable, en anglais et allemand&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Présence dans d'autres villes&lt;/td&gt;
+        &lt;td&gt;0/10&lt;br&gt;Actuellement aucune. En projet&lt;/td&gt;
+        &lt;td&gt;9/10&lt;br&gt;Oui, disposnible avec le même abo. dans d'autres villes&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;Fabriqués en&lt;/td&gt;
+        &lt;td&gt;Chine&lt;/td&gt;
+        &lt;td&gt;Allemagne&lt;/td&gt;
+      &lt;/tr&gt;
+
+  &lt;tr&gt;
+        &lt;td&gt;État&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;3/10&lt;/strong&gt;&lt;br&gt;Souvent en mauvais état, exemple selle bloquée, trop basse.&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;7/10&lt;/strong&gt;&lt;br&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+
+
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p id=&quot;synthese&quot;&gt;En synthèse: &lt;/p&gt;
+&lt;ul id=&quot;intro&quot;&gt;
+  
+&lt;li id=&quot;plan&quot;&gt;De manière générale, les vélos en libre service sont &lt;strong&gt;idéals pour de petits déplacements&lt;/strong&gt;, 1 ou 2 kilomètres, maximum 20/30 minutes. &lt;strong&gt;Si vous prévoyez de balader vers les lacs par exemple, pensez à d'autres alternatives.&lt;/strong&gt;&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;Ces &lt;strong&gt; vélos sont assez peu confortables&lt;/strong&gt; et pas toujours en bon état, surtout les vélos Mobike.&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;strong&gt;Le prix est intéressant dans les deux cas&lt;/strong&gt;. Même si nextbike est moins cher à la minute, 0,50€ peuvent être facturés si le vélo n’est pas restitué en station. Au final cela revient donc au même.&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;&lt;strong&gt;mobike est plus flexible&lt;/strong&gt;, on trouve des vélos de partout et on peut les laisser où on veut.&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;Les vélos mobike n'avancent pas car pour la grande majorité d'entre eux, ils n'ont pas de vitesse.&lt;/li&gt;
+&lt;li id=&quot;plan&quot;&gt;Les vélos mobike sont souvent en mauvais état. Problèmes récurrents : selle bloquée, trop basse.&lt;/li&gt;
+&lt;/ul&gt; 
+
+&lt;h2 id=&quot;limites&quot;&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
+&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dire dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
+
+ 
+        
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+
+
+   &lt;a href=&quot;/roue-libre/location_de_velo_entre_particuliers.html&quot;&gt;Tout sur la location de vélo entre particulier&lt;/a&gt;.
+
+
+  
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+        
+  
+
+  &lt;/p&gt;
+
+&lt;h3 id=&quot;location&quot;&gt;Hello! Je loue mon vélo&lt;/h3&gt;
+&lt;p&gt;Je loue deux vélos à Kreuzberg. Vélo de course ou vélo de ville. Idéal pour une location à la semaine. Tarif: 10€ la journée ou 50€ la semaine. Réservation et location en ligne possible depuis mon profil spinlister: &lt;a href=&quot;https://www.spinlister.com/berlinbikes&quot; target=&quot;_blank&quot;&gt;https://www.spinlister.com/berlinbikes&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;/rando-velo/&quot; style=&quot;border: 2px solid #4CAF50; color: white; border-radius: 8px;font-size: 30px; padding-left:20px;padding-right:20px;padding-top:20px; padding-bottom:20px; background-color: #4CAF50&quot;&gt;Sommaire des randos&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;/div&gt;</content><author><name></name></author><category term="amp/roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Post actualisé le: 30-03-2019</summary></entry></feed>
