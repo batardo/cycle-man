@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
     <title>Location de vélo en libre service à Berlin</title>
     <link rel="canonical" href="https://www.cycle-man.com/roue-libre/location_velo_berlin.html">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300">
@@ -77,6 +78,7 @@ td {
 
 .hamburger {
   padding-left: 10px;
+  color: white;
 }
 .sidebar {
   padding: 10px;
@@ -94,6 +96,24 @@ td {
   padding-left: 5px;
 }
 
+.home-button {
+  margin-top: 8px;
+}
+.headerbar {
+  height: 50px;
+  background-color: #4CAF50;
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.site-name {
+  vertical-align: right;
+  color:white;
+}
+
     </style>
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
@@ -101,7 +121,7 @@ td {
     <script async custom-element="amp-analytics"
     src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
     
-    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+
 
   </head>
   
@@ -126,7 +146,7 @@ td {
 
      <header class="headerbar">
     <div role="button" on="tap:sidebar1.toggle" tabindex="0" class="hamburger">☰</div>
-    <div class="site-name"><amp-imp><img src="/Images/logo.png" style="max-width: 100px;"></amp-imp></div>
+    <div class="site-name">cycle-man.com</div>
 </header>
 
 <amp-sidebar id="sidebar1" layout="nodisplay" side="left">
