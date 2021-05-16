@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-06T21:32:46+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="fr"><title type="html">EuroVélo 7 de Berlin à Copenhague</title><link href="http://localhost:4000/rando-velo/berlin-copenhague.html" rel="alternate" type="text/html" title="EuroVélo 7 de Berlin à Copenhague" /><published>2019-05-01T00:00:00+02:00</published><updated>2019-05-01T00:00:00+02:00</updated><id>http://localhost:4000/rando-velo/berlin-copenhague</id><content type="html" xml:base="http://localhost:4000/rando-velo/berlin-copenhague.html">&lt;div class=&quot;container blog&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-16T14:22:41+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html"></title><link href="http://localhost:4000/2020-09-01-la-baroudeuse-road-race.html" rel="alternate" type="text/html" title="" /><published>2021-05-16T14:22:41+02:00</published><updated>2021-05-16T14:22:41+02:00</updated><id>http://localhost:4000/2020-09-01-la-baroudeuse-road-race</id><content type="html" xml:base="http://localhost:4000/2020-09-01-la-baroudeuse-road-race.html">&lt;div class=&quot;container blog&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;h1&gt;La Baroudeuse, ultracyclisme à la sauce alpine&lt;/h1&gt; 
+          &lt;p&gt;Août 2020, je me lance dans une course d'ultracyclisme en participant à la Baroudeuse. Une première pour moi, 
+          jusqu'à présent plutôt adepte de cyclotourisme, le genre de cycliste qui aime bien s'arrêter pour prendre des 
+          bières en terrasse. Mais cette fois l'envie de me dépasser est bien là, et surtout, j'ai très envie de grimper,
+          de montagnes, de traverser les Alpes à vélo. Je m'inscrit donc à la Baroudeuse. Au programme donc 400 kilomètres de 
+          vélo dans un cadre exceptionnel, le parc national du Mercantour, avec au total un cumul de 10 000 mètres de 
+          dénivelé positif.&lt;br /&gt;
+          Ci-dessous les champs de lavande du plateau de Valensole en 
+           route vers le Mercantour depuis la vallée de la Durance avec mon gravel et son équipement au grand complet.&lt;/p&gt;
+          &lt;img src=&quot;/Images/baroudeuse/baroudeuse-6.jpeg&quot; style=&quot;display: block;margin-left: auto;margin-right: auto;width:
+       50%;border-radius: 8px;&quot; /&gt;
+       &lt;/div&gt;
+       &lt;div id=&quot;spacer&quot;&gt;&lt;/div&gt;
+     &lt;div class=&quot;row&quot;&gt;
+       &lt;h2&gt;Le choix de l'équipement&lt;/h2&gt;
+          &lt;p&gt;Pour participer à cette course, je suis parti avec mon gravel Canyon GRAIL CF 7.0. C'est un vélo très léger 
+          (à peine 8 kgs tout nu, c'est du tout carbonne)
+          avec des roues Swiss montées sur des pneus tubeless Schwalb de 40mm. C'est du coup très confortable et peut être 
+          plus stable en cas de pluie, mais un peu moins performant en terme de vitesse. En descente par exemple j'étais
+          très lent. Sur cette course, j'étais le seul en gravel, tous les autres étaient en course.
+          &lt;br /&gt;
+          Accrochés à ma selle, sous mon cadre et à mon guidon, quelques sacs avec tout mon équipement, qui pour la plupart 
+          était en fait inutile.. mais que voulez-vous, le cyclotouriste qui sommeille en moi n'a pas pu s'en empêcher. 
+          Parmi les choses absolument inutiles : le cadenas c'est vraiment pas la peine. À l'inverse j'aurais mieux  
+          fait de prendre un vrai k-way, un pantalon et un pull chaud. On y pense pas forcément mais une 
+          fois sur le col de la Bonette à 2700 mètres d'altitude, il peut neiger, même en été. Pour ma part, j'ai eu très 
+          froid.&lt;br /&gt;
+          Ci-dessous photo de mon équipement autonomie complète avant emballage incluant tente et sac de couchage.
+          &lt;/p&gt;
+           &lt;img src=&quot;/Images/baroudeuse/baroudeuse-5.jpeg&quot; style=&quot;display: block;margin-left: auto;margin-right: auto;width:
+       50%;border-radius: 8px;&quot; /&gt; 
+      &lt;/div&gt;
+      &lt;div id=&quot;spacer&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;row&quot;&gt;
+       &lt;h3&gt;Une course en autonomie complète&lt;/h3&gt;
+       &lt;p&gt;Ce que j'ai aimé dans cette course, c'est le fait d'être complètement autonome. Au-delà de l'effort 
+       physique intense, il faut surtout gérer tout le reste. L'itinéraire n'est évidemment pas indiqué, donc GPS, 
+       donc batterie, donc recharge.. Pas de ravitaillement, tu gères ta nourriture, ton sommeil, la météo. 
+       Tu peux faire la course à ton rythme, solo ou à plusieurs. Il me semble qu'il y a seulement un délai de 72 heures
+       à ne pas dépasser.&lt;br /&gt;
+       Je me souviens de ma montée du col d'Allos en pleine nuit... Je me disais que si ma lumière lâchait, 
+       j'étais bon pour arrêter jusqu'au lever du jour. Nous avons eu beaucoup de pluie et d'orage. 
+       La météo a été un vrai challenge, et ça a été un vrai dépassement pour moi. Une fois trempé, on se dit, 
+       que finalement la pluie ça lave la transpiration. Et on roule... &lt;br /&gt;
+         &lt;img src=&quot;/Images/baroudeuse/baroudeuse-3.jpeg&quot; style=&quot;display: block;margin-left: auto;margin-right: auto;width:
+       50%;border-radius: 8px;&quot; /&gt;&lt;br /&gt;
+       Je pense que La Baroudeuse est une 
+       course assez géniale pour le cadre féerique qu'elle nous propose. Malheureusement j'ai eu de la pluie 
+       en continue, je n'ai pas eu le temps d'en profiter, mais je reviendrai... pour le paysage!&lt;br /&gt;
+       Ci-dessous photo prise la veille du départ à Peille en l'endroit où nous avons passé la nuit. C'est le seul
+       jour où il n'a pas plu!&lt;br /&gt;&lt;br /&gt;
+       &lt;img src=&quot;/Images/baroudeuse/baroudeuse-8.jpeg&quot; style=&quot;display: block;margin-left: auto;margin-right: auto;width:
+       50%;border-radius: 8px;&quot; /&gt;
+       &lt;/p&gt;
+       &lt;/div&gt;
+       &lt;div id=&quot;spacer&quot;&gt;&lt;/div&gt;
+       &lt;h4&gt;Itinéraire de la Baroudeuse, le Mercantour en boucle&lt;/h4&gt;
+       &lt;p&gt;
+       Voici ci-dessous ma tack enregistrée par mon GPS. À noter que j'ai fait une étape de quelques heures à Allos. 
+       Et il manque les 15 derniers kilomètres de l'Escarène à Peille. Au bout de 13 heures, le GPS n'avait plus 
+       de batterie. Moi non plus d'ailleurs, mais on retrouve des forces avec l'euphorie de l'arrivée.&lt;/p&gt;
+       &lt;div class=&quot;resp-container&quot; style=&quot;text-align: center;&quot;&gt;
+       &lt;iframe class=&quot;resp-iframe&quot; width=&quot;&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; scrolling=&quot;no&quot; src=&quot;https://www.strava.com/activities/5306404210/embed/7032f06cb5492d17d11bdd83bd13f54930b7726b&quot;&gt;&lt;/iframe&gt;
+       &lt;/div&gt;
+
+
+
+&lt;a href=&quot;/rando-velo/&quot; class=&quot;btn btn-lg btn-block&quot; id=&quot;post_btn&quot;&gt;Sommaire des randos&lt;/a&gt;
+
+
+
+&lt;/div&gt;</content><author><name></name></author></entry><entry xml:lang="fr"><title type="html">En vélo de Berlin à Copenhague en 4 jours</title><link href="http://localhost:4000/rando-velo/berlin-copenhague.html" rel="alternate" type="text/html" title="En vélo de Berlin à Copenhague en 4 jours" /><published>2019-05-01T00:00:00+02:00</published><updated>2019-05-01T00:00:00+02:00</updated><id>http://localhost:4000/rando-velo/berlin-copenhague</id><content type="html" xml:base="http://localhost:4000/rando-velo/berlin-copenhague.html">&lt;div class=&quot;container blog&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;
       &lt;h1&gt;Quel voyage à vélo faire en 4 jours au départ de Berlin ?&lt;/h1&gt;
       Mis à jour le 01-05-2019&lt;br /&gt;
@@ -334,235 +407,4 @@
 
 
 
-&lt;/div&gt;</content><author><name></name></author><category term="rando-velo" /><category term="Allemagne" /><category term="Danemark" /><summary type="html">Quel voyage à vélo faire en 4 jours au départ de Berlin ? Mis à jour le 01-05-2019 Ils avaient prévu du beau temps pour ce long week-end d'avril, parfait pour une rando à vélo. L’an dernier j’avais fait la partie sud de l’EuroVélo 7 de Berlin à Prague, du coup cette année je me suis lancé vers le nord sur un Berlin-Copenhague. Un itinéraire que je recommande. L’itinéraire vélo de Berlin à Copenhague Et voilà mon itinéraire. On est en moyenne sur du 100 kilomètres par jour. À noter que si vous avez plus de 4 jours, vous pouvez suivre l'itinéraire officiel de l'eurovélo 7. Plus long d'à peu près 200 kilomètres mais certainement plus adapté pour du cyclotourisme. Sinon il y a mon itinéraire dont voici le détail des 4 étapes.</summary></entry><entry xml:lang="fr"><title type="html">Step_1</title><link href="http://localhost:4000/step_1.html" rel="alternate" type="text/html" title="Step_1" /><published>2019-04-30T00:00:00+02:00</published><updated>2019-04-30T00:00:00+02:00</updated><id>http://localhost:4000/step_1</id><content type="html" xml:base="http://localhost:4000/step_1.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_2</title><link href="http://localhost:4000/step_2.html" rel="alternate" type="text/html" title="Step_2" /><published>2019-04-29T00:00:00+02:00</published><updated>2019-04-29T00:00:00+02:00</updated><id>http://localhost:4000/step_2</id><content type="html" xml:base="http://localhost:4000/step_2.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_3</title><link href="http://localhost:4000/step_3.html" rel="alternate" type="text/html" title="Step_3" /><published>2019-04-28T00:00:00+02:00</published><updated>2019-04-28T00:00:00+02:00</updated><id>http://localhost:4000/step_3</id><content type="html" xml:base="http://localhost:4000/step_3.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_4</title><link href="http://localhost:4000/step_4.html" rel="alternate" type="text/html" title="Step_4" /><published>2019-04-27T00:00:00+02:00</published><updated>2019-04-27T00:00:00+02:00</updated><id>http://localhost:4000/step_4</id><content type="html" xml:base="http://localhost:4000/step_4.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Batavus Course</title><link href="http://localhost:4000/materiel/batavus_course.html" rel="alternate" type="text/html" title="Batavus Course" /><published>2019-02-13T00:00:00+01:00</published><updated>2019-02-13T00:00:00+01:00</updated><id>http://localhost:4000/materiel/batavus_course</id><content type="html" xml:base="http://localhost:4000/materiel/batavus_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Paganini Course</title><link href="http://localhost:4000/materiel/paganini_course.html" rel="alternate" type="text/html" title="Paganini Course" /><published>2019-02-12T00:00:00+01:00</published><updated>2019-02-12T00:00:00+01:00</updated><id>http://localhost:4000/materiel/paganini_course</id><content type="html" xml:base="http://localhost:4000/materiel/paganini_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Bianchi version ville</title><link href="http://localhost:4000/materiel/bianchi_course.html" rel="alternate" type="text/html" title="Bianchi version ville" /><published>2019-02-11T00:00:00+01:00</published><updated>2019-02-11T00:00:00+01:00</updated><id>http://localhost:4000/materiel/bianchi_course</id><content type="html" xml:base="http://localhost:4000/materiel/bianchi_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo ville" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Garmin Touring Plus</title><link href="http://localhost:4000/materiel/gps-garmin-touring-plus.html" rel="alternate" type="text/html" title="Garmin Touring Plus" /><published>2019-02-10T00:00:00+01:00</published><updated>2019-02-10T00:00:00+01:00</updated><id>http://localhost:4000/materiel/gps-garmin-touring-plus</id><content type="html" xml:base="http://localhost:4000/materiel/gps-garmin-touring-plus.html"></content><author><name></name></author><category term="materiel" /><category term="GPS Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Location de vélo en libre service à Berlin</title><link href="http://localhost:4000/amp/roue-libre/location_velo_berlin.html" rel="alternate" type="text/html" title="Location de vélo en libre service à Berlin" /><published>2018-10-01T00:00:00+02:00</published><updated>2019-03-30T00:00:00+01:00</updated><id>http://localhost:4000/amp/roue-libre/location_velo_berlin</id><content type="html" xml:base="http://localhost:4000/amp/roue-libre/location_velo_berlin.html">&lt;div class=&quot;container blog&quot; align=&quot;center&quot;&gt;
-&lt;p&gt;Post actualisé le: 30-03-2019&lt;/p&gt;
-
-
-&lt;ul id=&quot;intro&quot;&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#equivalents&quot;&gt;Quels sont les équivalents au vélib à Berlin ?&lt;/a&gt;&lt;/li&gt; 
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#choisir&quot;&gt;Comment choisir ?&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#limites&quot;&gt;Le problème des vélos en libre service&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;a href=&quot;#location&quot;&gt;Qui veut louer mon super vélo ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h1&gt;Tout est plus libre à Berlin, même les vélos&lt;/h1&gt;
-&lt;p&gt;Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple où vélib règne sur son monopole, de nombreux loueurs se sont lancés dans la location de vélos en libre service à Berlin. Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais : &lt;strong&gt;lequel choisir ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;#equivalents&quot;&gt;Les applications pour la location de vélo en libre service à Berlin:&lt;/h2&gt;
-&lt;amp-img src=&quot;/Images/dblidl.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-bottom:15px; margin-right:5px &quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;LIDL BIKE&lt;/strong&gt; (Service de la Deutsche Bahn)&lt;br/&gt;
-&lt;amp-img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-bottom:5px; margin-right:5px &quot;&gt;&lt;/amp-img&gt;&lt;strong&gt;NEXTBIKE&lt;/strong&gt;&lt;br/&gt;
-&lt;amp-img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-bottom:5px; margin-right:5px &quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;MOBIKE&lt;/strong&gt;&lt;br/&gt;
-&lt;amp-img src=&quot;/Images/donkeyrepublic.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-bottom:5px; margin-right:5px &quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;DONKEY REPUBLIC&lt;/strong&gt;&lt;br/&gt;
-&lt;amp-img src=&quot;/Images/limebike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-bottom:; margin-right:5px &quot;&gt;&lt;/amp-img&gt; &lt;strong&gt;LIMEBIKE&lt;/strong&gt;&lt;br/&gt;
-
-
-
-
-&lt;h2 id=&quot;choisir&quot;&gt;Quels vélos choisir ?&lt;/h2&gt;
-
-&lt;p&gt;Depuis que je suis tombé « sans vélo fixe » et attendant de trouver nouvelle monture à mes fesses, j’utilise des vélos en libre service pour effectuer mes 10 kilomètres quotidien. Je vous donne dans cet article mon avis sur mes différentes expériences, qui j’espère vous seront utiles dans le choix de votre location de vélo à Berlin. À noter : J’ai utilisé les vélos &lt;strong&gt;Mobike et Nextbike&lt;/strong&gt; dans des déplacements dans les quartiers &lt;strong&gt;Kreuzberg-Friedrichshain et Neukölln&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pour aller directement à la &lt;strong&gt;synthèse&lt;/strong&gt;, allez ici : &lt;a href=&quot;#synthese&quot;&gt;rien à faire de ce tableau illisible sur mon téléphone, je veux la synthèse.&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;table class=&quot;table&quot; align=&quot;center&quot;&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;&lt;amp-img src=&quot;/Images/mobike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle; margin-left: 5px; margin-top: 5px; margin-bottom: 5px&quot;&gt;&lt;/amp-img&gt; MOBIKE&lt;/th&gt;
-        &lt;th&gt;&lt;amp-img src=&quot;/Images/deezernextbike.png&quot; alt=&quot;db call a bike&quot; width=&quot;50&quot; height=&quot;50&quot; style=&quot;vertical-align:middle;margin-left: 5px; margin-top: 5px; margin-bottom: 5px&quot;&gt;&lt;/amp-img&gt; NEXT BIKE&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-
-
-&lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Tarif horaire&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;3,00€&lt;/strong&gt;&lt;br/&gt;1€ toutes les 20 minutes&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;2,50€&lt;/strong&gt;&lt;br/&gt;1€ les premières 30 min. puis 1,5€&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Tarif journée&lt;/td&gt;
-        &lt;td&gt;Non disponible&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;9€&lt;/strong&gt; pour 24 heures&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Abonnement mensuel&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;7€&lt;/strong&gt; + 1€ par 20 minutes dès la 31ème min. Les 30 premières min. sont gratuites.&lt;/td&gt;
-        &lt;td&gt;Non disponible&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Abonnement annuel&lt;/td&gt;
-        &lt;td&gt;Non disponible&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;48€&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Réservation possible?&lt;/td&gt;
-        &lt;td&gt;Oui&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Application&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br&gt;Testée sur iOS&lt;/td&gt;
-        &lt;td&gt;0/10&lt;br&gt;Nouvelle update ne fonctionne pas sur mon iPhone (SE)&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Couverture&lt;/td&gt;
-        &lt;td&gt;9/10&lt;/td&gt;
-        &lt;td&gt;7/10&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Confort&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;4/10&lt;/strong&gt; - Assez mauvais&lt;br&gt;Il existe deux générations de vélo. Ceux de la première génération n’ont pas de vitesses.&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;8/10&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-  &lt;td&gt;Restitution du vélo dans une station&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;Non&lt;/strong&gt; - Possibilité de gagner des points si restitution dans des zones bonus (intersections de rue, carrefours)&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;Oui&lt;/strong&gt;, sinon 0,50€ seront facturés&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Possibilité de mettre en pause la location&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-        &lt;td&gt;Non&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Service clients&lt;/td&gt;
-        &lt;td&gt;10/10&lt;br&gt;Car jamais utilisé!&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br&gt;Radidement joignable, en anglais et allemand&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Présence dans d'autres villes&lt;/td&gt;
-        &lt;td&gt;0/10&lt;br&gt;Actuellement aucune. En projet&lt;/td&gt;
-        &lt;td&gt;9/10&lt;br&gt;Oui, disposnible avec le même abo. dans d'autres villes&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;Fabriqués en&lt;/td&gt;
-        &lt;td&gt;Chine&lt;/td&gt;
-        &lt;td&gt;Allemagne&lt;/td&gt;
-      &lt;/tr&gt;
-
-  &lt;tr&gt;
-        &lt;td&gt;État&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;3/10&lt;/strong&gt;&lt;br&gt;Souvent en mauvais état, exemple selle bloquée, trop basse.&lt;/td&gt;
-        &lt;td&gt;&lt;strong&gt;7/10&lt;/strong&gt;&lt;br&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-
-
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p id=&quot;synthese&quot;&gt;En synthèse: &lt;/p&gt;
-&lt;ul id=&quot;intro&quot;&gt;
-  
-&lt;li id=&quot;plan&quot;&gt;De manière générale, les vélos en libre service sont &lt;strong&gt;idéals pour de petits déplacements&lt;/strong&gt;, 1 ou 2 kilomètres, maximum 20/30 minutes. &lt;strong&gt;Si vous prévoyez de balader vers les lacs par exemple, pensez à d'autres alternatives.&lt;/strong&gt;&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Ces &lt;strong&gt; vélos sont assez peu confortables&lt;/strong&gt; et pas toujours en bon état, surtout les vélos Mobike.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;strong&gt;Le prix est intéressant dans les deux cas&lt;/strong&gt;. Même si nextbike est moins cher à la minute, 0,50€ peuvent être facturés si le vélo n’est pas restitué en station. Au final cela revient donc au même.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;&lt;strong&gt;mobike est plus flexible&lt;/strong&gt;, on trouve des vélos de partout et on peut les laisser où on veut.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Les vélos mobike n'avancent pas car pour la grande majorité d'entre eux, ils n'ont pas de vitesse.&lt;/li&gt;
-&lt;li id=&quot;plan&quot;&gt;Les vélos mobike sont souvent en mauvais état. Problèmes récurrents : selle bloquée, trop basse.&lt;/li&gt;
-&lt;/ul&gt; 
-
-&lt;h2 id=&quot;limites&quot;&gt;Les limites et alternatives à la location en libre service&lt;/h2&gt;
-&lt;p&gt; Vous devez rester au sein de la zone définie par le loueur, c'est à dire dans la majorité des cas, à l'intérieur du ring de Berlin. Si vous souhaitez vous rendre plus loin, vous pouvez  louer un vélo auprès d'un magasin de vélo traditionnel. Il faudra compter environ entre 8€ et 15€/ la journée. Sinon, vous avez également la possibilité de louer un vélo auprès d'un particulier. J'ai également publié des informations à ce sujet, à retrouver dans cet article : 
-
- 
-        
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-
-
-   &lt;a href=&quot;/roue-libre/location_de_velo_entre_particuliers.html&quot;&gt;Tout sur la location de vélo entre particulier&lt;/a&gt;.
-
-
-  
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-        
-  
-
-  &lt;/p&gt;
-
-&lt;h3 id=&quot;location&quot;&gt;Hello! Je loue mon vélo&lt;/h3&gt;
-&lt;p&gt;Je loue deux vélos à Kreuzberg. Vélo de course ou vélo de ville. Idéal pour une location à la semaine. Tarif: 10€ la journée ou 50€ la semaine. Réservation et location en ligne possible depuis mon profil spinlister: &lt;a href=&quot;https://www.spinlister.com/berlinbikes&quot; target=&quot;_blank&quot;&gt;https://www.spinlister.com/berlinbikes&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;</content><author><name></name></author><category term="amp/roue-libre" /><category term="Urbanisme" /><category term="Tourisme" /><category term="Location de vélo" /><summary type="html">Post actualisé le: 30-03-2019</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><category term="rando-velo" /><category term="Allemagne" /><category term="Danemark" /><summary type="html">Quel voyage à vélo faire en 4 jours au départ de Berlin ? Mis à jour le 01-05-2019 Ils avaient prévu du beau temps pour ce long week-end d'avril, parfait pour une rando à vélo. L’an dernier j’avais fait la partie sud de l’EuroVélo 7 de Berlin à Prague, du coup cette année je me suis lancé vers le nord sur un Berlin-Copenhague. Un itinéraire que je recommande. L’itinéraire vélo de Berlin à Copenhague Et voilà mon itinéraire. On est en moyenne sur du 100 kilomètres par jour. À noter que si vous avez plus de 4 jours, vous pouvez suivre l'itinéraire officiel de l'eurovélo 7. Plus long d'à peu près 200 kilomètres mais certainement plus adapté pour du cyclotourisme. Sinon il y a mon itinéraire dont voici le détail des 4 étapes.</summary></entry><entry xml:lang="fr"><title type="html">Step_1</title><link href="http://localhost:4000/step_1.html" rel="alternate" type="text/html" title="Step_1" /><published>2019-04-30T00:00:00+02:00</published><updated>2019-04-30T00:00:00+02:00</updated><id>http://localhost:4000/step_1</id><content type="html" xml:base="http://localhost:4000/step_1.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_2</title><link href="http://localhost:4000/step_2.html" rel="alternate" type="text/html" title="Step_2" /><published>2019-04-29T00:00:00+02:00</published><updated>2019-04-29T00:00:00+02:00</updated><id>http://localhost:4000/step_2</id><content type="html" xml:base="http://localhost:4000/step_2.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_3</title><link href="http://localhost:4000/step_3.html" rel="alternate" type="text/html" title="Step_3" /><published>2019-04-28T00:00:00+02:00</published><updated>2019-04-28T00:00:00+02:00</updated><id>http://localhost:4000/step_3</id><content type="html" xml:base="http://localhost:4000/step_3.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Step_4</title><link href="http://localhost:4000/step_4.html" rel="alternate" type="text/html" title="Step_4" /><published>2019-04-27T00:00:00+02:00</published><updated>2019-04-27T00:00:00+02:00</updated><id>http://localhost:4000/step_4</id><content type="html" xml:base="http://localhost:4000/step_4.html"></content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Batavus Course</title><link href="http://localhost:4000/materiel/batavus_course.html" rel="alternate" type="text/html" title="Batavus Course" /><published>2019-02-13T00:00:00+01:00</published><updated>2019-02-13T00:00:00+01:00</updated><id>http://localhost:4000/materiel/batavus_course</id><content type="html" xml:base="http://localhost:4000/materiel/batavus_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Paganini Course</title><link href="http://localhost:4000/materiel/paganini_course.html" rel="alternate" type="text/html" title="Paganini Course" /><published>2019-02-12T00:00:00+01:00</published><updated>2019-02-12T00:00:00+01:00</updated><id>http://localhost:4000/materiel/paganini_course</id><content type="html" xml:base="http://localhost:4000/materiel/paganini_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Bianchi version ville</title><link href="http://localhost:4000/materiel/bianchi_course.html" rel="alternate" type="text/html" title="Bianchi version ville" /><published>2019-02-11T00:00:00+01:00</published><updated>2019-02-11T00:00:00+01:00</updated><id>http://localhost:4000/materiel/bianchi_course</id><content type="html" xml:base="http://localhost:4000/materiel/bianchi_course.html"></content><author><name></name></author><category term="materiel" /><category term="Vélo ville" /><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Garmin Touring Plus</title><link href="http://localhost:4000/materiel/gps-garmin-touring-plus.html" rel="alternate" type="text/html" title="Garmin Touring Plus" /><published>2019-02-10T00:00:00+01:00</published><updated>2019-02-10T00:00:00+01:00</updated><id>http://localhost:4000/materiel/gps-garmin-touring-plus</id><content type="html" xml:base="http://localhost:4000/materiel/gps-garmin-touring-plus.html"></content><author><name></name></author><category term="materiel" /><category term="GPS Vélo" /><summary type="html"></summary></entry></feed>
