@@ -8,7 +8,6 @@ category: 'rando-velo'
 lang: 'fr'
 dep: Peille
 arr: Peille
-tags: [ 'ultra-cyclisme', 'vélo-de-montage' ]
 last_modified_at: 16.05.2021
 comments: true
 img: /Images/baroudeuse/baroudeuse-1.jpeg
