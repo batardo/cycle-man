@@ -1,9 +1,29 @@
 language: ruby
-rvm:
-- 2.3.3
 
-install: gem install jekyll bundler
-script: jekyll build
+services:
+  - rabbitmq
+
+env:
+  - JRUBY_OPTS="--dev -Xcext.enabled=false -Xcompile.invokedynamic=false"
+
+rvm:
+  - jruby-1.7.16
+  - jruby-head
+
+bundler_args: --deployment --binstubs --jobs=3 --retry=3
+
+cache: bundler
+
+jdk:
+  - openjdk9
+  - oraclejdk9
 
 sudo: false
-exclude: [vendor]
+
+before_script: cp config/worker.example.yml config/worker.yml
+
+script: bin/rspec spec
+
+matrix:
+  allow_failures:
+    - rvm: jruby-head
