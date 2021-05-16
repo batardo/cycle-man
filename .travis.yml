@@ -2,7 +2,7 @@ language: ruby
 rvm:
 - 2.3.3
 
-install: gem install jekyll bundler:1.17.2
+install: gem install jekyll bundler
 script: jekyll build
 
 sudo: false
