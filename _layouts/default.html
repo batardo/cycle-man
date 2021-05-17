@@ -90,6 +90,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    {% elsif page.url contains 'materiel' %}
    {% include navi-materiel.html %}
 
+   {% elsif page.lang contains 'fr' %}
+    {% include navi-rando.html %}
+
+
 {% else %}
 
     {% include navi.html %}
@@ -104,19 +108,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="spacer">
 </div>
 
-<div class="container">
-  <div id="footer">
-  <div class="row">
+<div class="container blog">
+    <div class="row">
     <div class="col-md-12">
-       <a href="/a-propos.html" rel="nofollow">À propos</a> | <a href="/protection-des-donnees.html" rel="nofollow">Protection des données</a> | <a href="mailto:contact@berlin-lisbon-express">Contact</a>
+       <img src="/Images/logo-insta.png" style="max-width:40px">
+        <a href="https://www.instagram.com/berlinlisbonexpress/" target="_blank"></a>|<a href="/a-propos.html"
+                                                                                        rel="nofollow"> À propos</a> |
+        <a href="/protection-des-donnees.html" rel="nofollow">Protection des données</a>
     </div>
     </div>
+    <div id="spacer"></div>
   </div>
-  </div> 
 
 
 
-  <div id="spacer">
+
  
 </body>
 </html>

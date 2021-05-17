@@ -19,7 +19,7 @@ img: /Images/baroudeuse/baroudeuse-1.jpeg
           <p>Août 2020, je me lance dans une course d'ultracyclisme en participant à la Baroudeuse. Une première pour moi, 
           jusqu'à présent plutôt adepte de cyclotourisme, le genre de cycliste qui aime bien s'arrêter pour prendre des 
           bières en terrasse. Mais cette fois l'envie de me dépasser est bien là, et surtout, j'ai très envie de grimper,
-          de montagnes, de traverser les Alpes à vélo. Je m'inscrit donc à la Baroudeuse. Au programme donc 400 kilomètres de 
+          de montagnes, de traverser les Alpes à vélo. Je m'inscris à la Baroudeuse. Au programme donc 400 kilomètres de 
           vélo dans un cadre exceptionnel, le parc national du Mercantour, avec au total un cumul de 10 000 mètres de 
           dénivelé positif.<br>
           Ci-dessous les champs de lavande du plateau de Valensole en 
