@@ -24,8 +24,7 @@ img: /Images/baroudeuse/baroudeuse-1.jpeg
           dénivelé positif.<br>
           Ci-dessous les champs de lavande du plateau de Valensole en 
            route vers le Mercantour depuis la vallée de la Durance avec mon gravel et son équipement au grand complet.</p>
-          <img src="/Images/baroudeuse/baroudeuse-6.jpeg" style="display: block;margin-left: auto;margin-right: auto;width:
-       50%;border-radius: 8px;">
+          <img src="/Images/baroudeuse/baroudeuse-6.jpeg" style="border-radius: 8px;display:block; margin:auto;">
        </div>
        <div id="spacer"></div>
      <div class="row">
@@ -44,8 +43,7 @@ img: /Images/baroudeuse/baroudeuse-1.jpeg
           froid.<br>
           Ci-dessous photo de mon équipement autonomie complète avant emballage incluant tente et sac de couchage.
           </p>
-           <img src='/Images/baroudeuse/baroudeuse-5.jpeg' style="display: block;margin-left: auto;margin-right: auto;width:
-       50%;border-radius: 8px;"> 
+           <img src='/Images/baroudeuse/baroudeuse-5.jpeg' style="border-radius: 8px; display:block; margin:auto;"> 
       </div>
       <div id="spacer"></div>
       <div class="row">
@@ -59,26 +57,28 @@ img: /Images/baroudeuse/baroudeuse-1.jpeg
        j'étais bon pour arrêter jusqu'au lever du jour. Nous avons eu beaucoup de pluie et d'orage. 
        La météo a été un vrai challenge, et ça a été un vrai dépassement pour moi. Une fois trempé, on se dit, 
        que finalement la pluie ça lave la transpiration. Et on roule... <br>
-         <img src='/Images/baroudeuse/baroudeuse-3.jpeg' style="display: block;margin-left: auto;margin-right: auto;width:
-       50%;border-radius: 8px;"><br>
+         <img src='/Images/baroudeuse/baroudeuse-3.jpeg' style="border-radius: 8px;display:block; margin:auto;"><br>
        Je pense que La Baroudeuse est une 
        course assez géniale pour le cadre féerique qu'elle nous propose. Malheureusement j'ai eu de la pluie 
        en continue, je n'ai pas eu le temps d'en profiter, mais je reviendrai... pour le paysage!<br>
        Ci-dessous photo prise la veille du départ à Peille en l'endroit où nous avons passé la nuit. C'est le seul
        jour où il n'a pas plu!<br><br>
-       <img src='/Images/baroudeuse/baroudeuse-8.jpeg' style="display: block;margin-left: auto;margin-right: auto;width:
-       50%;border-radius: 8px;">
+       <img src='/Images/baroudeuse/baroudeuse-8.jpeg' style="border-radius: 8px;display:block; margin:auto;">
        </p>
        </div>
        <div id="spacer"></div>
+       <div class="row">
        <h4>Itinéraire de la Baroudeuse, le Mercantour en boucle</h4>
+       <div class="col-sm-6">
        <p>
-       Voici ci-dessous ma tack enregistrée par mon GPS. À noter que j'ai fait une étape de quelques heures à Allos. 
+       Et voici ma tack enregistrée par mon GPS. À noter que j'ai fait une étape de quelques heures à Allos. 
        Et il manque les 15 derniers kilomètres de l'Escarène à Peille. Au bout de 13 heures, le GPS n'avait plus 
        de batterie. Moi non plus d'ailleurs, mais on retrouve des forces avec l'euphorie de l'arrivée.</p>
-       <div class='resp-container' style="text-align: center;">
-       <iframe class='resp-iframe' width='' frameborder='0' allowtransparency='true' scrolling='no' 
+       </div>
+       <div class="col-sm-6">
+       <iframe width="100%" height="400" frameborder='0' allowtransparency='true' scrolling='no'
        src='https://www.strava.com/activities/5306404210/embed/7032f06cb5492d17d11bdd83bd13f54930b7726b'></iframe>
+       </div>
        </div>
 {% include btn-back-fr.html %}
 </div>
