@@ -15,5 +15,6 @@ _testing/radbahn.mp4
 _testing/radbahn.webm
 _site/amp/roue-libre/location_velo_berlin.html
 _site/*
+_site/
 .sass-cache/*
 Gemfile.lock
