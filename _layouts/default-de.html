@@ -16,14 +16,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-P9PKXT8');</script>
 <!-- End Google Tag Manager -->
    
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/CSS/index.css">
 
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="/dist/jquery.bootstrap-autohidingnavbar.min.js"></script>
-    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+    <script src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js"></script>
+
 
     {% if page.category == 'route' %}
      <link rel="alternate" hreflang="en" href="/bike-tours/cycling-across-europe.html" /> 
@@ -43,105 +49,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 
-<nav class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
+{% include navi-de.html %}
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
-   
-<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-    
-
-    
-      <ul class="nav navbar-nav">
-        <li><a href="/blog/de/"><strong>Blog</strong></a></li>
-        <li><a href="/fahrradroute.html">Fahrradroute</a></li>
-        <li><a href="/setup.html">Set-up</a></li>
-       </ul>
-        
-       
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
-
- 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script> 
-    <script src="/src/jquery.bootstrap-autohidingnavbar.js"></script>
 
     <script>
       $("nav.navbar-fixed-top").autoHidingNavbar();
     </script>
- 
-    
-<div id="spacer">
-  </div>
+
     
       {{ content }}
 
-<div id="spacertop">
+<div id="spacer">
   </div>
 
-   {% if page.comments %}
-
-     <div class="container blog">
-<div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'berlin-lisbon-express'; // required: replace example with your forum shortname
-        // var disqus_developer = 1; // Comment out when the site is live
-        var disqus_identifier = "{{ page.url }}";
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-          </div>
-          {% endif %}
-
-          <div id="spacer">
+<div class="container blog">
+    <div class="row">
+    <div class="col-md-12">
+       <a href="https://www.instagram.com/berlinlisbonexpress/" target="_blank" rel="nofollow">
+           <img src="/Images/logo-insta.png" style="max-width:40px"></a>
+        |<a href="/about-berlin-lisbon-express.html" rel="nofollow"> About this blog</a>
+    </div>
+    </div>
+    <div id="spacer"></div>
   </div>
-    
- <div class="container">
-  <div id="footer">
-  <div class="row">
-    <div class="col-xs-12">
-      <ul class="list-footer">
-        <li id="title"><a href="/about-berlin-lisbon-express.html">Impressum</a></li>
-      </ul>
-    </div>
-    <div class="col-xs-12">
-       <ul class="list-footer">
-        <li id="title"><a href="/thankyou.html">Danke</a></li>
-      </ul>
-    </div>
-    <div class="col-xs-12">
-       <ul class="list-footer">
-        <li><a href="/aboutme.html">Über mich</a></li>
-      </ul>
-    </div>
-    <div class="col-xs-12">
-       <ul class="list-footer">
-        <li id="title"><a href="mailto:contact@berlin-lisbon-express.eu" target="_blank">Kontakt</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  </div> 
-    <div id="spacer">
-    </div>
-</body>
-</html>

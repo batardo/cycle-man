@@ -16,23 +16,23 @@ lang: de
         </div>
       </div>
 
-      <div id="spacer">
-      </div>
-
   <div class="container blog">
   <p>Ich bin am Osterwochenende nach Dresden mit dem Fahrrad von Berlin gefahren. Mein Plan war die ganze Strecke (genau 193km) in einem Tag zu schaffen. Am Ende musste ich leider bei Großenhain also 35 Kilometer vor dem Ziel -aufgrund Gegenwind und Kraftmangel (muss ich auch fairerweise gestehen)- aufgeben. Also, nicht ganz geschafft wie ich es mir vorgenommen hatte, aber es hat trotzdem sehr viel Spaß gemacht. Deswegen teile ich hier auf dieser Seite den kompletten Reisebericht meiner Radtour, inkl. Karte, .gpx Datei, Fotos und Videos.</p>
-  </div>
 
   <div id="spacer">
   </div>
 
 
-	 <h2 align="center">Reisebericht meiner Radtour von Berlin nach Dresden</h2>
+<h2 align="center">Reisebericht meiner Radtour von Berlin nach Dresden</h2>
   <div id="spacer">
   </div>
-
-  <p align="center"><iframe src="https://www.komoot.com/tour/28231261/embed?profile=1" width="640" height="580" frameborder="0" scrolling="no"></iframe></p>
-
+  
+  <div class="row">
+    <div class="resp-container col-12">
+      <iframe class="resp-iframe" src="https://www.komoot.de/tour/28231261/embed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+   </div>
+  
   <div id="spacer">
   </div>
 
@@ -61,16 +61,16 @@ Ich kann diese Strecke empfehlen, weil sie ja direkt ist, ja, aber auch, weil ih
 </div>
 
 <div class="row">
-<p align=""><strong>Fotos von der Radtour</strong></p>
-<div class="col-xs-4">
+<p><strong>Fotos von der Radtour</strong></p>
+<div class="col-12">
 <img src="/Images/mellensee.JPG" width="">
 <p>Mellensee</p>
 </div>
-<div class="col-xs-4">
+<div class="col-12">
 <img src="/Images/wald1.JPG" width="">
 <p>Mein Rennrad</p>
 </div>
-<div class="col-xs-4">
+<div class="col-12">
 <img src="/Images/wald2.JPG" width="">
 <p>Cooler Radweg im Wald</p>
 </div>
@@ -91,6 +91,9 @@ Ich bin inzwischen noch einmal nach Dresden gefahren, dieses Mal aber bis zum En
 </ul>
 Ich habe leider keine Alternative vorzuschlagen. Der/die jenige, der oder die einen Vorschlag hat, kann gerne eine Kommenter hinterlassen.
 
+</div>
+<div class="container">
+{% include btn-back-de.html %}
 </div>
 
 
