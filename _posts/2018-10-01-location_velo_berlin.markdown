@@ -189,10 +189,10 @@ available: disponible
         <li id="plan">Cadre vintage Hercules acier</li>
         <li id="plan">Singlespeed</li>
         <li id="plan">Frein avant et rétropédalage</li>
-        <li id="plan">Dynamo roue avant pour éclairage avant et arrière</li>
+        <li id="plan">Dynamo roue avant pour éclairage avant</li>
         <li id="plan">Pare boue avant et arrière</li>
         <li id="plan">Porte bagage arrière</li>
-        <li id="plan">10€/jour ou 40€/ semaine</li>
+        <li id="plan">5€/jour ou 20€/ semaine</li>
     </ul>
 
 
