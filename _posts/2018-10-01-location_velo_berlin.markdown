@@ -1,11 +1,11 @@
 ---
-title: 'Location de vélo en libre service à Berlin'
+title: 'Location de vélo en libre service à Berlin Neukölln'
 description: 'Devenu sans-vélo-fixe, j’utilise nextbike et autres vélos en libre service pour me déplacer dans Berlin. Avantages et inconvénients: voici le compte-rendu.'
 category: roue-libre
 lang: fr
 layout: default
 tags: [ Urbanisme, Tourisme, Location de vélo ]
-last_modified_at:  18.05.2021
+last_modified_at:  01.09.2021
 available: disponible
 ---
 
@@ -17,7 +17,7 @@ available: disponible
 <ul id="intro">
 <li id="plan"><a href="#equivalents" style="text-decoration:none;">Quels sont les équivalents au vélib à Berlin ?</a></li>
 <li id="plan"><a href="#choisir" style="text-decoration:none;">Comment choisir ?</a></li>
-<li id="plan"><a href="#location" style="text-decoration:none;">Où louer un vélo à Kreuzberg ?</a></li>
+<li id="plan"><a href="#location" style="text-decoration:none;">Où louer un vélo à Neukölln ?</a></li>
 <li id="plan"><a href="#velo-electrique" style="text-decoration:none;">Y-a-t'il des applications pour vélos éléctriques aussi ?</a></li>
 </ul>
 
@@ -150,7 +150,7 @@ available: disponible
 </ul> 
 
 
-<h2 id="location">Location de vélo à Kreuzberg</h2>
+<h2 id="location">Location de vélo à Neukölln</h2>
     <p>Je loue le vélo ci-dessous. Si vous êtes intéressés, écrivez-moi sur insta 
     <a href='https://www.instagram.com/berlinlisbonexpress/' target="_blank">@berlinlisbonexpress</a> - 
     je réponds sous 24 heures.<br> Ce vélo est actuellement
