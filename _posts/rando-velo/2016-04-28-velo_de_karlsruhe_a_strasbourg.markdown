@@ -17,7 +17,7 @@ tags: [ France, Allemagne, Rando facile ]
      <div class="row">
          <div class="col-sm-12">
          <p align="center">
-        <img src="/Images/ferry.JPG" id="" width="" alt="ferry sur le Rhin"></p>
+        <img src="/Images/ferry.JPG"  width="" alt="ferry sur le Rhin"></p>
         </div>
       </div>
 

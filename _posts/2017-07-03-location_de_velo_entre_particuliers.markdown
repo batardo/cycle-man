@@ -117,33 +117,33 @@ Parmi les sites de location de vélo entre particuliers, je me suis inscrit sur 
 
 <h2 id="louersonvélo">Louer son vélo</h2>
 
-<p id="">Louer son vélo peut constituer une <strong>source de revenue supplémentaire</strong> sans avoir à  faire aucun investissement, supposé bien sur que vous ayez un vélo de libre dont vous ne vous servez pas. Et n'oubliez pas: <strong>un vélo, c'est fait pour rouler !</strong> Donc au lieu de prendre la poussière, mettez-le en location.</p>
+<p >Louer son vélo peut constituer une <strong>source de revenue supplémentaire</strong> sans avoir à  faire aucun investissement, supposé bien sur que vous ayez un vélo de libre dont vous ne vous servez pas. Et n'oubliez pas: <strong>un vélo, c'est fait pour rouler !</strong> Donc au lieu de prendre la poussière, mettez-le en location.</p>
 
-<p id="">À quel prix louer son vélo ?</p>
-<p id="">En théorie tout dépend de l'offre et de la demande.<br/> 
+<p >À quel prix louer son vélo ?</p>
+<p >En théorie tout dépend de l'offre et de la demande.<br/> 
   Si le nombre de vélos disponibles en location est inférieur au nombre de demandes de location, le prix augmente. À l'inverse si la demande est inférieure à l'offre, le prix baisse. Oui, mais cela reste en théorie, car la concurrence pure et parfait n'existe pas et en pratique, le marché n'étant pas transparent, vous ne pourrez jamais vraiment savoir si vous êtes en situation de sur- ou sous-capacité. donc comment faire:
  
   <strong>Regardez la concurrence,</strong> les autres vélos en ligne dans votre région, par exemple un vélo de ville se loue 10€ en moyenne à Berlin. 
   <strong>Évaluez les avantages compétitifs de votre vélo par rapport à vos concurrents</strong> : état, options, confort etc... et ajustez en fonction de votre analyse. Si vous pensez avoir un meilleur vélo, n'hésitez pas à le louer plus cher.</p>
 
-<p id="">Comment louer son vélo ? </p>
-<p id="">Il n’y a rien de plus simple : faites-le en ligne. Si vous êtes à Berlin ou en Allemagne par exemple vous pouvez vous créer un profil et une annonce en quelques clics seulement sur une des deux plateformes les plus utilisée : spinlister ou upperbike. En quelques minutes vos annonces sont en ligne et c’est gratuit.</p>
+<p >Comment louer son vélo ? </p>
+<p >Il n’y a rien de plus simple : faites-le en ligne. Si vous êtes à Berlin ou en Allemagne par exemple vous pouvez vous créer un profil et une annonce en quelques clics seulement sur une des deux plateformes les plus utilisée : spinlister ou upperbike. En quelques minutes vos annonces sont en ligne et c’est gratuit.</p>
 
-<p id="">Les limites de la mise en location de son vélo</p>
-<p id="">Propriétaires de vélos, vous aimeriez retrouver votre vélo en bon état. Renseignez-vous donc au préalable auprès de la plateforme utilisée pour la mise en location. Que se passe t-il en cas de perte ou de vol de votre vélo? En cas de crevaison de pneu ou de détérioration? Selon le site par lequel vous êtes passé, les solutions proposées divergent.</p>
+<p >Les limites de la mise en location de son vélo</p>
+<p >Propriétaires de vélos, vous aimeriez retrouver votre vélo en bon état. Renseignez-vous donc au préalable auprès de la plateforme utilisée pour la mise en location. Que se passe t-il en cas de perte ou de vol de votre vélo? En cas de crevaison de pneu ou de détérioration? Selon le site par lequel vous êtes passé, les solutions proposées divergent.</p>
 
 
 <h2 id="louerunvélo">Louer un vélo auprès d'un particulier</h2>
 
 
 <p id="blog">Pourquoi louer son vélo à un particulier ?</p>
-<p id="">D’abord c’est un peu moins cher. Selon mes estimations de ce que j’ai pu voir des prix pratiqués on- et offline : c’est entre 20% à 30% moins cher qu’en magasin. <br/>
+<p >D’abord c’est un peu moins cher. Selon mes estimations de ce que j’ai pu voir des prix pratiqués on- et offline : c’est entre 20% à 30% moins cher qu’en magasin. <br/>
 Ensuite c’est beaucoup plus flexible. Les propriétaires de vélo ne sont pas « fermés » les dimanche, ni « ouverts » les samedis jusqu’à 16 heures.<br/>
 Souvent les vélos sont loués pour le week-end. Or les magasins sont fermés le dimanche. Il faut donc les ramener le lundi et payer une journée supplémentaire. Avec la location de vélos entre particuliers, tout ça c’est terminé.<br/>
 Et puis vous pouvez réserver un vélo ! Admettons que vous prévoyiez de venir passer quelques jours à Berlin, vous pouvez faire des demandes de réservation depuis chez vous lors de la préparation de votre voyage. Ce sera une chose de moins à faire sur place.</p>
 
 <p id="blog">Les limites</p>
-<p id=""> Selon la région ou la ville dans laquelle vous vous situez, vous aurez plus ou moins de choix. En tout cas, à Berlin, que vous ayez besoin d’un vélo de route, de randonnée, pour faire du triathlon ou du tandem, vous n’aurez aucun problème à trouver pédale à votre pied.</p>
+<p > Selon la région ou la ville dans laquelle vous vous situez, vous aurez plus ou moins de choix. En tout cas, à Berlin, que vous ayez besoin d’un vélo de route, de randonnée, pour faire du triathlon ou du tandem, vous n’aurez aucun problème à trouver pédale à votre pied.</p>
 
 <p id="blog">Ou trouver un vélo particulier</p>
 

@@ -15,7 +15,7 @@ permalink: "blog/2016/04/28/radweg_karlsruhe_strassburg.html"
      <div class="row">
          <div class="col-sm-12">
          <p align="center">
-        <img src="/Images/ferry.JPG" id="" width="" alt="Fähre am Rhein"></p>
+        <img src="/Images/ferry.JPG"  width="" alt="Fähre am Rhein"></p>
         </div>
       </div>
 

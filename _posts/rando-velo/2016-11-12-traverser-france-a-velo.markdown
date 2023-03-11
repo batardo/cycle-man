@@ -11,7 +11,7 @@ tags: [ France ]
 ---  
 
 
-<div class="container blog" align="center" id="">
+<div class="container blog" align="center" >
   <div class="row">
     <div class="col-xs-12">
       <p>Il m'aura fallu 15 jours pour traverser la France à vélo et relier les quelques 1 250 kilomètres de Strasbourg à la frontière franco-espagnole. Tous les chemins mènent à Rome, oui, mais en l'occurence, traverser la France en passant par le colisée m'aurait fait faire un détour considérable. Moins long car plus direct, cet itinéraire offre une variété de plaisirs. Détente, entre Belfort et Chalon sur Saône, en descendant le Doubs, sportif dans le contours du massif central nord, magnifique dans le Périgord, dépaysant sur toute sa longueur, en suivant presque le tracé de <a href="https://fr.wikipedia.org/wiki/Diagonale_du_vide" target="_blank" rel="nofollow">la diagonale du vide</a>.</p>

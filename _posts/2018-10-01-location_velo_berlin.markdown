@@ -11,7 +11,7 @@ available: disponible
 
 
 <div class="container blog" align="center">
-<p id="">Dans cet article actualisé le {{page.last_modified_at | date: "%d-%m-%Y"}}, vous trouverez les informations
+<p>Dans cet article actualisé le {{page.last_modified_at | date: "%d-%m-%Y"}}, vous trouverez les informations
     suivantes :</p>
 
 <ul id="intro">

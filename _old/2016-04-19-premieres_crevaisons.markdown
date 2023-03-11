@@ -13,7 +13,7 @@ sitemap: false
 <div class="container blog" align="center">
      <div class="row vcenter">
          <div class="col-sm-12">
-        <img src="https://cloud.githubusercontent.com/assets/18250643/14654111/5b7ddd8e-067c-11e6-9d8b-fbc2275c8c42.jpg" id="" alt="crevaisons">
+        <img src="https://cloud.githubusercontent.com/assets/18250643/14654111/5b7ddd8e-067c-11e6-9d8b-fbc2275c8c42.jpg"  alt="crevaisons">
         </div>
       </div>
 

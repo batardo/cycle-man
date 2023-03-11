@@ -11,7 +11,7 @@ lang: de
 <div class="" id="berlindresden">
       <div class="row">
       <div class="col-md-12">
-        <h1 id="">Radweg Berlin-Dresden-Express</h1>  
+        <h1 >Radweg Berlin-Dresden-Express</h1>  
           </div>
         </div>
       </div>

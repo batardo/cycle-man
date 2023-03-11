@@ -14,7 +14,7 @@ sitemap: false
 <div class="container blog" align="center">
      <div class="row vcenter">
          <div class="col-sm-12">
-       <img src="https://cloud.githubusercontent.com/assets/18250643/14654650/096e6100-067f-11e6-98c6-09b4e2a126d0.jpg" id="" alt="arrivée en gare de leipzig">
+       <img src="https://cloud.githubusercontent.com/assets/18250643/14654650/096e6100-067f-11e6-98c6-09b4e2a126d0.jpg"  alt="arrivée en gare de leipzig">
         </div>
       </div>
 
