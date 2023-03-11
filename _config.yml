@@ -39,7 +39,7 @@ plugins:
 defaults:
   -
     scope:
-      path:            "Images/*.pdf"
+      path:            "img/*.pdf"
     values:
       sitemap:         false
 

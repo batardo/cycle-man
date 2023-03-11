@@ -223,18 +223,18 @@ Der Preis : gut, beide kosten nicht die Welt, aber trotzdem  0€ < 9€ = Aufkl
 <br/>
 Wenn Dein Fahrrad eine vorübergehende Lösung ist, dann nimm doch den Aufkleber. Ist zwar hässlich, aber wer weiß, vielleicht passt er zu deinem Rad ?</p>
  
-<p align="center"><img src="/Images/etiquettepolice.JPG"></p>
+<p align="center"><img src="/img/etiquettepolice.JPG"></p>
  
 <p>Du bist in einer langfristiger Beziehung mit Deinem Fahrrad ? Du hast schon viel in Eurer Beziehung investiert ? Mit deinem Fahrrad siehst du langfristig. Glückwunsch ! Lass doch die Codiernummer auf deinem Rahmen gravieren. Die 9€ lohnen sich.</p>
  
-<p align="center"><img src="/Images/codegravur.png" width="300px"></p>
+<p align="center"><img src="/img/codegravur.png" width="300px"></p>
  
  
 <p id="d"><strong>Welche Nachweise soll ich mitbringen?</strong></p>
 <p>Deinen Ausweis. Deinen Kaufvertrag. Deine Geduld. Es sollte nicht länger als eine Stunde dauern.</p>
  
 <p id="e"><strong>Was passiert wenn ich mein Fahrrad verkaufe?</strong></p>
-<p>Du brauchst einen neuen Kaufvertrag mit dem Kaufen abzuschließen, worauf die Codiernummer stehen sollte. Der ADFC hat dafür eine <a href="/Images/100114_ADFC_Musterkaufvertrag.pdf" download>Vorlage</a> zur Verfügung gestellt. Der neue Eigentümer braucht nicht seine Codiernummer gravieren lassen, dennoch kann er das machen. Die alte Nummer wird dann gestrichen.</p>
+<p>Du brauchst einen neuen Kaufvertrag mit dem Kaufen abzuschließen, worauf die Codiernummer stehen sollte. Der ADFC hat dafür eine <a href="/img/100114_ADFC_Musterkaufvertrag.pdf" download>Vorlage</a> zur Verfügung gestellt. Der neue Eigentümer braucht nicht seine Codiernummer gravieren lassen, dennoch kann er das machen. Die alte Nummer wird dann gestrichen.</p>
  
 <p id="f"><strong>Was passiert wenn ich umziehe ?</strong></p>
 <p>Auch da, kein Problem, du brauchst nicht deine Codiernummer ändern lassen. Die Polizei wird trotzdem dich wieder finden können, sofern du das Jahr mit in der Codiernummer integriert hast. Sollte das der Fall sein, kann die Polizei anhand der Melderegister deine Identität wieder finden und dich dein Fahrrad zurückgeben.</p>
@@ -252,12 +252,12 @@ Wenn Dein Fahrrad eine vorübergehende Lösung ist, dann nimm doch den Aufkleber
 <li id="plan">Jahr</li>
 </ul>
  
-<p id="blog" align="center"><img src="/Images/codeEIN.jpg"></p>
+<p id="blog" align="center"><img src="/img/codeEIN.jpg"></p>
  
 <p id="blog">Um Dein Codiernummer zu bekommen du kannst den Generator der ADFC nutzen <a href="http://www.fa-technik.adfc.de/Codierung/fein.pl" target="_blank">Codiernummer Generator</a>. <br/>
 Ich habe mal für unseren Freund Jean-jacques Prévert, Frankfurter Allee, 77, 10247-Berlin, Jahr 2017 einen Test gemacht. So sieht seine Nummer aus :</p>
  
-<p align="center"><img src="/Images/code.JPG" width="400px"></p>
+<p align="center"><img src="/img/code.JPG" width="400px"></p>
  
 <p id="k"><strong>Reicht die Rahmennummer nicht aus?</strong></p>
 <p>Nein, weil:</p>
@@ -355,11 +355,11 @@ Manche Händler
  
 <div class="row">
   <div class="col-xs-6">
-<p align="center"><a href="https://itunes.apple.com/de/app/fahrradpass/id438072942" target="_blank"><img src="/Images/kk.svg" alt="telecharger fahrradpass pour ios"></a></p>
+<p align="center"><a href="https://itunes.apple.com/de/app/fahrradpass/id438072942" target="_blank"><img src="/img/kk.svg" alt="telecharger fahrradpass pour ios"></a></p>
 </div>
  
  <div class="col-xs-6">
-<p align="center"><a href='https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Disponible sur Google Play' width="135px" height="40px" src='/Images/qq.png'/></a></p>
+<p align="center"><a href='https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Disponible sur Google Play' width="135px" height="40px" src='/img/qq.png'/></a></p>
 </div>
 </div>
 </div> 

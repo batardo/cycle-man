@@ -39,24 +39,24 @@ tags: [ Allemagne ]
 <h2 id="a">6 bonnes raisons de faire du cyclotourisme en Allemagne</h2>
 
 
-    <div id="maps"><p><img src="/Images/flat.png" alt="map" id="thxlistshawo">C'est plutôt plat</p>
+    <div id="maps"><p><img src="/img/flat.png" alt="map" id="thxlistshawo">C'est plutôt plat</p>
     <p>
         Vous cherchez une randonnée vélo en Allemagne ‘facile’ avec peu de relief ?  Allez cyclo-promener au nord du pays: le Brandenbourg, le Mecklenburg-Vorpommen, le Schleswig-Holsten, la Basse-Saxe sont très plats. (Mais où il peut y avoir du vent !). Plus vous irez vers le sud, plus vous trouverez des dénivelés importants. Au centre de l'Allemagne apparaissent le massif de la Harz ou encore la forêt de Thuringe avec des sommets culminants jusqu'à 900 mètres d'altitudes, puis les Alpes tout au sud. J’ai pu vérifier cela lors de ma randonnée vélo en Allemagne. De Berlin à Jena : plat ; de Thuringe jusqu’à Karlsruhe : quelques enchaînements montée-descente. <a href="#b">Voir les dénivelés de mon itinéraire.</a></p>
          </div>
 
-    <div id="gps"><p><img src="/Images/gps.png" alt="gps" id="thxlistshawo">C'est pas cher</p> 
+    <div id="gps"><p><img src="/img/gps.png" alt="gps" id="thxlistshawo">C'est pas cher</p> 
     <p>
           Mangez pour 10€ dans une pizzeria, dormez pour 25€ petit déjeuner compris dans une auberge de jeunesse, c'est possible en Allemagne. On ne vous promet pas du grand luxe, pas de cela dans un pays majoritairement protestant. Cela restera simple mais toujours convenable. Et à l'heure de la pause, vous aurez droit au "fisch-brötchen" (sandwich de poisson pané) ou bien une saucisse – la ‘bratwurst’ à 2,50€ - lesquels vous trouverez sans difficulté dans tout bon ville centre-ville allemand qui se respecte, précisément place du marché. Osez une "Gasthaus" - restaurant midi ou soir, là aussi vous ne devriez pas payer plus de 20€ avec une boisson. Sur tous les fronts donc, le cyclotourisme en Allemagne vous coûtera moins cher qu'en France, Italie, Espagne et autres pays envahis par le tourisme.</p>
          </div> 
 
-    <div id="accomodation"><p><img src="/Images/people.png" alt="accomodation" id="thxlistshawo">Les gens sont sympas</p>
+    <div id="accomodation"><p><img src="/img/people.png" alt="accomodation" id="thxlistshawo">Les gens sont sympas</p>
 
     <p>
 
          Pas de cyclotourisme en Allemagne sans  'Warmshowers' : site internet pour randonneurs cyclistes, où invités et hôtes sont mis en relation permettant ainsi au voyageur de prendre une douche chaude gratuitement et de planter sa tente. En Allemagne, j'ai toujours été reçu plus que chaleureusement, chez des gens que je ne connaissais ni d'Êve ni d'Adam, et qui pourtant m'ont nourri, logé et blanchi (de par la douche qu'ils m'offraient gracieusement.) C'est souvent l'occasion de rencontrer des gens et d'échanger avec eux. Il y a beaucoup de Warmshowers en Allemagne de sorte que je n'ai jamais eu besoin de dormir sous tente lors ma randonnée vélo.</p>
          </div>
          
-         <div><p><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo">Il y a des lacs</p>
+         <div><p><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo">Il y a des lacs</p>
          <p>
          Pour faire des pauses oui, ce sera parfait. L'eau y est souvent chaude en été. Propre selon les lacs. Et selon si vous vous trouvez dans les régions du nord, telle que le Brandenbourg ou le Mecklenburg Vorpommen, vous en aurez très régulièrement le long de votre chemin. Autant vous prévenir, les allemands aiment bien la nudité, ils pratiquent le FKK ‘Frei Körper Kultur’, la dite ‘culture du corps libre’. Bref, ne vous encombrez pas d'un maillot de bain et allégez vos sacoches à vélo pour une randonnée en vélo en Allemagne nudiste !</p>
           </div>
@@ -66,7 +66,7 @@ tags: [ Allemagne ]
           Alors là formidable. Du cyclotourisme en Allemagne avec des routes vélos dignes de ce nom. Presque toutes les routes nationales et départementales sont doublées d'une piste cyclable. Il y a aussi de véritables vélo-routes, qui souvent longent les cours d'eau, exemples : la voie verte le long du Danube, de la Moselle, de l’Elbe ou du Rhin. Bref de Berlin à la frontière française, j'ai roulé sur près de 75% de mon voyage à vélo sur piste cyclable. Du luxe. </p>
           </div>
 
-          <div><p><img src="/Images/germany.png" alt="accomodation" id="thxlistshawo">Et de la bière</p>
+          <div><p><img src="/img/germany.png" alt="accomodation" id="thxlistshawo">Et de la bière</p>
           <p>
          Encore plus et encore moins cher. Mélangée avec du Coca ou du Sprite, dites "Radler" (ne hurlez pas, ce n'est pas si mauvais). Il y en a des blondes et des blanches. Pour les blanches dites "Heffeweizen". Attention, le "demi" français, en réalité un quart puisque 25 centilitres n'existe évidemment pas en Allemagne. Vous demandez une bière, on vous sert une "pinte" soit 50 centilitres. Si le serveur vous demande "klein" oder "groß" (petite ou grande), peut être aura-t'il reconnu votre accent et aura eu pitié de vous. Choisissez ‘klein’ si vous souhaitez repartir à vélo. Attention si vous êtes à Cologne où l'on boit de la "Kölsch", on vous en resservira, automatiquement, temps que vous n'aurez pas recouvert votre bière d'un couvercle. Mais assez parlé de bières, retournons à nos vélos. 
          </p>
@@ -139,12 +139,12 @@ tags: [ Allemagne ]
       <tr>
         <th>De</th>
         <th>À</th>
-        <th><img src="/Images/arrow.png"> km</th>
-        <th><img src="/Images/arrowup.png"> m</th>
-        <th><img src="/Images/arrowdown.png"> m</th>
-        <th><img src="/Images/accomodation_s.png"></th>
-        <th><img src="/Images/map.png" width="30">Carte</th>
-        <th><img src="/Images/gps.png" width="30">GPX</th>
+        <th><img src="/img/arrow.png"> km</th>
+        <th><img src="/img/arrowup.png"> m</th>
+        <th><img src="/img/arrowdown.png"> m</th>
+        <th><img src="/img/accomodation_s.png"></th>
+        <th><img src="/img/map.png" width="30">Carte</th>
+        <th><img src="/img/gps.png" width="30">GPX</th>
       </tr>
       
       <tr>
@@ -154,7 +154,7 @@ tags: [ Allemagne ]
         <td>420</td>
         <td>390</td>
         <td><a href="http://www.jugendherberge-wittenberg.de/" target="_blank">Auberge de jeunesse</a></td>
-        <td><a href="https://en.komoot.de/tour/11749387/embed" target="_blank"><img src="/Images/Routes/11749387_01.JPG" width="200" alt="cyclotourisme allemagne de berlin à luthersdtadt" id="mapa"></a></td>
+        <td><a href="https://en.komoot.de/tour/11749387/embed" target="_blank"><img src="/img/Routes/11749387_01.JPG" width="200" alt="cyclotourisme allemagne de berlin à luthersdtadt" id="mapa"></a></td>
         <td><a href="/carte/2016-04-18-09-58-34.fit" download>Étape_1  </a><a href="/carte/2016-04-18-12-17-43.fit" download>Étape_2  </a><a href="/carte/2016-04-18-16-16-01.fit" download>Étape_3 </a></td>
       </tr>
 
@@ -165,7 +165,7 @@ tags: [ Allemagne ]
         <td>340</td>
         <td>300</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
-        <td><a href="https://en.komoot.de/tour/11749492/embed" target="_blank"><img src="/Images/Routes//11749492_02.JPG" width="200" alt="randonnée vélo de Lutherstadt Wittenberg à Leipzig" id="mapa"></a></td>
+        <td><a href="https://en.komoot.de/tour/11749492/embed" target="_blank"><img src="/img/Routes//11749492_02.JPG" width="200" alt="randonnée vélo de Lutherstadt Wittenberg à Leipzig" id="mapa"></a></td>
         <td><a href="/carte/2016-04-19-10-19-19.fit" download>Étape_1 </a></td>
       </tr>
 
@@ -176,7 +176,7 @@ tags: [ Allemagne ]
         <td>760</td>
         <td>540</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
-        <td><a href="https://en.komoot.de/tour/11749603/embed" target="_blank"><img src="/Images/Routes//11749603_03.JPG" width="200" alt="vélo route allemagne de Leipzig à Jena" id="mapa"></a></td>
+        <td><a href="https://en.komoot.de/tour/11749603/embed" target="_blank"><img src="/img/Routes//11749603_03.JPG" width="200" alt="vélo route allemagne de Leipzig à Jena" id="mapa"></a></td>
         <td><a href="/carte/2016-04-20-09-23-38.fit" download>Étape_1 </a><a href="/carte/2016-04-20-14-52-04.fit" download>Étape_2</a></td>
       </tr>
 
@@ -187,7 +187,7 @@ tags: [ Allemagne ]
         <td>620</td>
         <td>460</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
-        <td><a href="https://en.komoot.de/tour/11749750/embed" target="_blank"><img src="/Images/Routes//11749750_04.JPG" width="200" alt="randonnée vélo de Jena à Illmenau" id="mapa"></a></td>
+        <td><a href="https://en.komoot.de/tour/11749750/embed" target="_blank"><img src="/img/Routes//11749750_04.JPG" width="200" alt="randonnée vélo de Jena à Illmenau" id="mapa"></a></td>
         <td><a href="/carte/2016-04-21-08-15-52.fit" download>Étape_1 </a><a href="/carte/2016-04-21-09-40-33.fit" download>Étape_2 </a><a href="/carte/2016-04-21-11-21-27.fit" download>Étape_3 </a><a href="/carte/2016-04-21-15-08-50.fit" download>Étape_4</a></td>
       </tr>
 
@@ -198,7 +198,7 @@ tags: [ Allemagne ]
         <td>1690</td>
         <td>1960</td>
         <td><a href="http://www.jugendgaestehaus-schweinfurt.de/home.html" target="_blank">Auberge de jeunesse</a></td>
-        <td><a href="https://en.komoot.de/tour/11750127/embed" target="_blank"><img src="/Images/Routes//11750127_05.JPG" width="200" alt="vélo route allemagne de Illmenau à Schweinfurt" id="mapa"></a></td>
+        <td><a href="https://en.komoot.de/tour/11750127/embed" target="_blank"><img src="/img/Routes//11750127_05.JPG" width="200" alt="vélo route allemagne de Illmenau à Schweinfurt" id="mapa"></a></td>
         <td><a href="/carte/2016-04-22-09-03-34.fit" download>Étape_1 </a><a href="/carte/2016-04-22-10-34-06.fit" download>Étape_2 </a><a href="/carte/2016-04-22-14-54-58.fit" download>Étape_3 </a><a href="/carte/2016-04-22-18-09-18.fit" download>Étape_4</a></td>
       </tr>
 
@@ -209,7 +209,7 @@ tags: [ Allemagne ]
         <td>320</td>
         <td>340</td>
         <td>Hostel</td>
-        <td><a href="https://en.komoot.de/tour/11750188/embed" target="_blank"><img src="/Images/Routes//11750188_06.JPG" width="200" alt="randonnée vélo de Schweinfurt à Würzburg" id="mapa"></a></td>
+        <td><a href="https://en.komoot.de/tour/11750188/embed" target="_blank"><img src="/img/Routes//11750188_06.JPG" width="200" alt="randonnée vélo de Schweinfurt à Würzburg" id="mapa"></a></td>
         <td><a href="/carte/2016-04-23-10-09-59.fit" download>Étape_1 </a><a href="/carte/2016-04-23-12-02-38.fit" download>Étape_2 </a></td>
       </tr>
 
@@ -220,7 +220,7 @@ tags: [ Allemagne ]
         <td>1080</td>
         <td>1120</td>
         <td><a href="http://www.jugendherberge.de/en/youth-hostels/mosbach-neckarelz18/Portrait" target="_blank">Auberge de jeunesse</a></td>
-        <td><a href="https://en.komoot.de/tour/11750325/embed" target="_blank"><img src="/Images/Routes//11750325_07.JPG" width="200" alt="véloroute allemagne de Würzburg à Mosbach" id="mapa"></a></td>
+        <td><a href="https://en.komoot.de/tour/11750325/embed" target="_blank"><img src="/img/Routes//11750325_07.JPG" width="200" alt="véloroute allemagne de Würzburg à Mosbach" id="mapa"></a></td>
         <td><a href="/carte/2016-04-24-09-18-05.fit" download>Étape_1 </a><a href="/carte/2016-04-24-10-33-59.fit" download>Étape_2 </a><a href="/carte/2016-04-24-11-16-04.fit" download>Étape_3 </a><a href="/carte/2016-04-24-12-20-45.fit" download>Étape_4 </a><a href="/carte/2016-04-24-14-13-11.fit" download>Étape_5 </a><a href="/carte/2016-04-24-15-40-30.fit" download>Étape_6 </a><a href="/carte/2016-04-24-17-33-38.fit" download>Étape_7 </a><a href="/carte/2016-04-24-18-43-44.fit" download>Étape_8 </a><a href="/carte/2016-04-24-19-29-51.fit" download>Étape_9 </a><a href="/carte/2016-04-24-19-55-42.fit" download>Étape_10</a></td>
       </tr>
 
@@ -231,7 +231,7 @@ tags: [ Allemagne ]
         <td>730</td>
         <td>770</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Warm Showers</a></td>
-        <td><a href="https://en.komoot.de/tour/11750352/embed" target="_blank"><img src="/Images/Routes//11750352_08.JPG" width="200" alt="randonnée vélo de Mosbach `Karlsruhe" id="mapa"></a></td>
+        <td><a href="https://en.komoot.de/tour/11750352/embed" target="_blank"><img src="/img/Routes//11750352_08.JPG" width="200" alt="randonnée vélo de Mosbach `Karlsruhe" id="mapa"></a></td>
         <td><a href="/carte/2016-04-25-09-48-27.fit" download>Étape_1 </a><a href="/carte/2016-04-25-11-42-48.fit" download>Étape_2 </a><a href="/carte/2016-04-25-13-12-10.fit" download>Étape_3 </a><a href="/carte/2016-04-25-14-06-39.fit" download>Étape_4</a></td>
       </tr>
 
@@ -242,7 +242,7 @@ tags: [ Allemagne ]
         <td>190</td>
         <td>160</td>
         <td><a href="https://www.warmshowers.org/" target="_blank">Airbnb</a></td>
-        <td><a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="/Images/Routes//11750427_09.JPG" width="200" alt="véloroute de Karlsruhe à Strasbourg" id="mapa"></a></td>
+        <td><a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="/img/Routes//11750427_09.JPG" width="200" alt="véloroute de Karlsruhe à Strasbourg" id="mapa"></a></td>
         <td><a href="/carte/2016-04-26-12-16-45.fit" download>Étape_1 </a><a href="/carte/2016-04-26-18-02-06.fit" download>Étape_2 </a></td>
       </tr>
 </table>

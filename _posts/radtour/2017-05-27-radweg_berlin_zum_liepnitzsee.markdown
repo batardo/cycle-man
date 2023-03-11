@@ -15,7 +15,7 @@ last_modified_at:  24.05.2021
 
 <p>Letzte Aktualisierung am {{page.last_modified_at | date: "%d-%m-%Y"}}</p>
 
-<img class="img-responsive" src="/Images/liepnitzsee.jpg" style="border-radius: 8px;display:block; margin:auto;">
+<img class="img-responsive" src="/img/liepnitzsee.jpg" style="border-radius: 8px;display:block; margin:auto;">
   
 <div id="spacer">
 </div>
@@ -47,11 +47,11 @@ bequem und schön zum Liepnitzsee fahren, habe ich auch eine zweite Route für E
 <p>Dateien im .gpx Format können kostenlos heruntergeladen werden und direkt in eueren Geräten importiert werden.</p>
           <div class="row">
             <div class="col-lg-6">
-             <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
+             <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
                 <p>Zwischen Zepernick und Schönow habe ich mich verfahren. Umweg von circa 2 km.</p>
               </div>
               <div class="col-lg-6">
-                <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rueckfahrt.gpx" download="">Rückfahrt</a></li>
+                <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rueckfahrt.gpx" download="">Rückfahrt</a></li>
                     <p>Bei der Rückfahrt habe ich mich nicht verfahren :)</p>
                    </div>
         </div>
@@ -124,7 +124,7 @@ Hier die Zeit, die ich aufgenommen habe</p>
   <p>Die Bahn (RE27) fährt 2 mal die Stunde von Berlin-Karow (S-Bahn S2) nach Wandlitzsee. Von dort sind es nur 4 Kilometer bis zum Liepnitzsee. Der Radweg wird geschildert.
   <strong>VORSICHT</strong> Die Kapazitäten für Fahrräder im Zug sind sehr begrenzt! Ich war selber am Herrentag am Liepnitzsee und musste mit der Bahn zurückfahren, weil ich einen platten hatte. Ich konnte aber in der ersten Bahn nicht einsteigen, weil der Zug voll mit Fahrrädern war. Ich durfte erst in den zweiten Zug einsteigen, aber auch da war es sehr knapp. Andere Fahrradfahrer mussten noch warten.
   <strong>FAZIT</strong> Die RE27 mit Fährrädern am Wochenende und bei schönem Wetter vermeiden - Lieber über <a href="#streckebis">Berlin-Buch</a> fahren. </p>
-  <img src="/Images/bvg.png" style="border-radius: 8px;display:block; margin:auto;">
+  <img src="/img/bvg.png" style="border-radius: 8px;display:block; margin:auto;">
   
 <div id="spacer"></div> 
 
@@ -139,7 +139,7 @@ Achtung : <strong>Nicht für Rennräder geeignet !</strong></p>
  </div>
 </div>
 
-<p><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/alternativ.gpx" download="">GPX Datei herunterladen : Von Liepnitzsee nach Berlin-Buch</a></p>
+<p><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/alternativ.gpx" download="">GPX Datei herunterladen : Von Liepnitzsee nach Berlin-Buch</a></p>
 
 {% include btn-back-de.html %}
 

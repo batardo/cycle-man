@@ -17,7 +17,7 @@ comments: true
     Actualisé le {{ page.last_modified_at | date_to_string }}
    <div id="spacer"></div>
       <div class="col-xs-12" align="center">
-    <img src="/Images/portugalstyle.JPG" alt="portugal à vélo" width="400">
+    <img src="/img/portugalstyle.JPG" alt="portugal à vélo" width="400">
   </div>
 
   <div id="spacer"></div>
@@ -41,9 +41,9 @@ comments: true
 <div class="col-xs-12" align="center">
       <a href="https://en.komoot.de/tour/8229122/embed" target="_blank">
         <picture>
-          <source srcset="/Images/summary-min.webp" max-width="500" type="image/webp">
-          <source srcset="/Images/sumary-min.JPG" max-width="500" type="image/jpeg"> 
-          <img src="/Images/sumary-min.JPG" max-width="500" alt="itinéraire voyage à vélo au portugal">
+          <source srcset="/img/summary-min.webp" max-width="500" type="image/webp">
+          <source srcset="/img/sumary-min.JPG" max-width="500" type="image/jpeg"> 
+          <img src="/img/sumary-min.JPG" max-width="500" alt="itinéraire voyage à vélo au portugal">
         </picture>
       </a>
     </div>
@@ -55,10 +55,10 @@ comments: true
       <tr>
         <th>De</th>
         <th>À</th>
-        <th><img src="/Images/arrow.png"> km</th>
-        <th><img src="/Images/arrowup.png"> m</th>
-        <th><img src="/Images/arrowdown.png"> m</th>
-        <th><img src="/Images/accomodation_s.png"></th>
+        <th><img src="/img/arrow.png"> km</th>
+        <th><img src="/img/arrowup.png"> m</th>
+        <th><img src="/img/arrowdown.png"> m</th>
+        <th><img src="/img/accomodation_s.png"></th>
       </tr>
        <tr>
         <td>Strasbourg</td>

@@ -6,6 +6,6 @@ lang: fr
 layout: default
 tags: [ Vélo ]
 last_modified_at:  13.02.2019
-img_url: "/Images/batardoplage.JPG"
+img_url: "/img/batardoplage.JPG"
 sitemap: false
 ---

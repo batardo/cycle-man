@@ -6,6 +6,6 @@ lang: fr
 layout: default
 tags: [ Vélo ville ]
 last_modified_at:  11.02.2019
-img_url: "/Images/icon_bike.png"
+img_url: "/img/icon_bike.png"
 sitemap: false
 ---

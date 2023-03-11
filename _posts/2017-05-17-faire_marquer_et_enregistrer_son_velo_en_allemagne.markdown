@@ -227,18 +227,18 @@ Le prix : là franchement, on chipotte. Mais c'est mathématique: 9 > 0€... l'
 <br/>
 Tu es de passage ? Ton vélo et toi c'est du court terme ? Il dépanne, il te transporte, mais ce n'est pas l'amour fou ? Mets-lui une étiquette "finger weg!". Après tout, elle ne lui ira pas si mal.</p>
 
-<p align="center"><img src="/Images/etiquettepolice.JPG"></p>
+<p align="center"><img src="/img/etiquettepolice.JPG"></p>
 
 <p>Toi et ton vélo c'est du solide. Tu as déjà beaucoup investi dans votre relation. Entre vous c'est du durable. Grave-moi tout ca. Les 9€ en valent la chandelle.</p>
 
-<p align="center"><img src="/Images/codegravur.png" width="300px"></p>
+<p align="center"><img src="/img/codegravur.png" width="300px"></p>
 
 
 <p id="d"><strong>De quels justificatifs ai-je besoin pour faire enregistrer mon vélo?</strong></p>
 <p>Dans les deux cas, munissez-vous d'une pièce d'identité ainsi que d'une preuve d'achat de votre vélo, idéalement votre contrat de vente.</p>
 
 <p id="e"><strong>Comment faire si je vends mon vélo ?</strong></p>
-<p>Il faut alors établir un contrat de vente avec le nouvel acquérir sur lequel devra figurer toutes les données relatives à l'encodage. L'ADFC a mis à disposition un <a href="/Images/100114_ADFC_Musterkaufvertrag.pdf" download>contrat type</a> que vous pouvez télécharger. Le nouveau propriétaire n'est pas obligé de changer de numéro, mais il peut le faire. L'ancien code sera alors barré.</p>
+<p>Il faut alors établir un contrat de vente avec le nouvel acquérir sur lequel devra figurer toutes les données relatives à l'encodage. L'ADFC a mis à disposition un <a href="/img/100114_ADFC_Musterkaufvertrag.pdf" download>contrat type</a> que vous pouvez télécharger. Le nouveau propriétaire n'est pas obligé de changer de numéro, mais il peut le faire. L'ancien code sera alors barré.</p>
 
 <p id="f"><strong>Que se passe-t'il en cas de déménagement ?</strong></p>
 <p>Aucun problème. Pas de besoin de changer de numéro. Si l'année d'immatriculation est bien présente dans le numéro d'immatriculation, la police pourra alors avoir accès à l'ancienne adresse du propriétaire, car comme vous le savez (ou pas), il est obligatoire en Allemagne d'enregistrer son domicile auprès des autorités.</p>
@@ -256,12 +256,12 @@ Tu es de passage ? Ton vélo et toi c'est du court terme ? Il dépanne, il te tr
 <li id="plan">Année d'immatriculation</li>
 </ul>
 
-<p id="blog" align="center"><img src="/Images/codeEIN.jpg"></p>
+<p id="blog" align="center"><img src="/img/codeEIN.jpg"></p>
 
 <p id="blog">Si vous souhaitez voir à quoi ressemblerait votre numéro d'immatriculation, l'ADFC a mis en place un <a href="http://www.fa-technik.adfc.de/Codierung/fein.pl" target="_blank">générateur de code</a>. <br/>
 J'ai fait un test pour notre ami cycliste Jean-jacques Prévert, domicilié au Frankfurter Allee, 77, 10247-Berlin, immatriculé en 2017. Et voici le résultat :</p>
 
-<p align="center"><img src="/Images/code.JPG" width="400px"></p>
+<p align="center"><img src="/img/code.JPG" width="400px"></p>
 
 <p id="k"><strong>Pourquoi le numéro de cadre ne suffit pas ?</strong></p>
 <ul id="blogj">
@@ -360,11 +360,11 @@ Certains revendeurs
 
 <div class="row">
   <div class="col-xs-6">
-<p align="center"><a href="https://itunes.apple.com/de/app/fahrradpass/id438072942" target="_blank"><img src="/Images/kk.svg" alt="telecharger fahrradpass pour ios"></a></p>
+<p align="center"><a href="https://itunes.apple.com/de/app/fahrradpass/id438072942" target="_blank"><img src="/img/kk.svg" alt="telecharger fahrradpass pour ios"></a></p>
 </div>
 
  <div class="col-xs-6">
-<p align="center"><a href='https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Disponible sur Google Play' width="135px" height="40px" src='/Images/qq.png'/></a></p>
+<p align="center"><a href='https://play.google.com/store/apps/details?id=com.netzbewegung.polizei.bicyclePass&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Disponible sur Google Play' width="135px" height="40px" src='/img/qq.png'/></a></p>
 </div>
 </div>
 </div>

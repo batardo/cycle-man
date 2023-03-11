@@ -15,7 +15,7 @@ permalink: "blog/2016/04/28/radweg_karlsruhe_strassburg.html"
      <div class="row">
          <div class="col-sm-12">
          <p align="center">
-        <img src="/Images/ferry.JPG"  width="" alt="Fähre am Rhein"></p>
+        <img src="/img/ferry.JPG"  width="" alt="Fähre am Rhein"></p>
         </div>
       </div>
 
@@ -60,7 +60,7 @@ permalink: "blog/2016/04/28/radweg_karlsruhe_strassburg.html"
              <br/>
 
 
-<p align="center"><a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="/Images/Routes//11750427_09.JPG" alt="Radweg von Karlsruhe nach Straßburg" width="400px" id="mapa"></a></p>
+<p align="center"><a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="/img/Routes//11750427_09.JPG" alt="Radweg von Karlsruhe nach Straßburg" width="400px" id="mapa"></a></p>
             
           </div>
         </div>

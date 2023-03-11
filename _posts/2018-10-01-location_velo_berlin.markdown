@@ -31,13 +31,13 @@ available: disponible
 
 <h2 id="#equivalents">Les applications pour la location de vélo en libre service à Berlin:</h2>
     <ul id="intro">
-        <li id="plan"><img src="/Images/dblidl.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle; margin-bottom:15px; margin-right:5px "> Lidl Bike
+        <li id="plan"><img src="/img/dblidl.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle; margin-bottom:15px; margin-right:5px "> Lidl Bike
         </li>
-        <li id="plan"><img src="/Images/deezernextbike.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle; margin-bottom:5px; margin-right:5px "> Nextbike
+        <li id="plan"><img src="/img/deezernextbike.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle; margin-bottom:5px; margin-right:5px "> Nextbike
         </li>
-        <li id="plan"><img src="/Images/limebike.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle; margin-bottom:; margin-right:5px "> Limebike
+        <li id="plan"><img src="/img/limebike.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle; margin-bottom:; margin-right:5px "> Limebike
         </li>
-        <li id="plan"><img src="/Images/donkeyrepublic.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle; margin-bottom:5px; margin-right:5px "> Donkey Republic
+        <li id="plan"><img src="/img/donkeyrepublic.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle; margin-bottom:5px; margin-right:5px "> Donkey Republic
         </li>
     </ul>
 
@@ -58,7 +58,7 @@ available: disponible
   <thead>
       <tr>
         <th></th>
-        <th><img src="/Images/deezernextbike.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle;margin-left: 5px; margin-top: 5px; margin-bottom: 5px"> NEXT BIKE</th>
+        <th><img src="/img/deezernextbike.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle;margin-left: 5px; margin-top: 5px; margin-bottom: 5px"> NEXT BIKE</th>
         </tr>
       </thead>
 
@@ -162,24 +162,24 @@ available: disponible
     </p>
     <div class="row" >
     <div class="col-sm-6" style="margin-top:20px;margin-bottom:20px">
-    <a href="/Images/loc-velo-kreuzberg-4.JPG" target="_blank">
-    <img src="/Images/loc-velo-kreuzberg-4.JPG" alt="loc velo berlin kreuzberg" style="max-width:300px;"></a>
+    <a href="/img/loc-velo-kreuzberg-4.JPG" target="_blank">
+    <img src="/img/loc-velo-kreuzberg-4.JPG" alt="loc velo berlin kreuzberg" style="max-width:300px;"></a>
     </div>
     <div class="col-sm-6" style="margin-top:20px;margin-bottom:20px">
-    <a href="/Images/loc-velo-kreuzberg-2.JPG" target="_blank">
-    <img src="/Images/loc-velo-kreuzberg-2.JPG" alt="loc velo berlin kreuzberg selle" style="max-width:300px;">
+    <a href="/img/loc-velo-kreuzberg-2.JPG" target="_blank">
+    <img src="/img/loc-velo-kreuzberg-2.JPG" alt="loc velo berlin kreuzberg selle" style="max-width:300px;">
     </a>
      </div>
      </div>
        <div class="row">
      <div class="col-sm-6" style="margin-top:20px;margin-bottom:20px">
-     <a href="/Images/loc-velo-kreuzberg-3.JPG" target="_blank">
-     <img src="/Images/loc-velo-kreuzberg-3.JPG" alt="loc velo berlin kreuzberg pédalier" style="max-width:300px;">
+     <a href="/img/loc-velo-kreuzberg-3.JPG" target="_blank">
+     <img src="/img/loc-velo-kreuzberg-3.JPG" alt="loc velo berlin kreuzberg pédalier" style="max-width:300px;">
      </a>
     </div>
      <div class="col-sm-6" style="margin-top:20px;margin-bottom:20px">
-     <a href="/Images/loc-velo-kreuzberg-1.JPG" target="_blank">
-    <img src="/Images/loc-velo-kreuzberg-1.JPG" alt="loc velo berlin kreuzberg pare boue" style="max-width:300px;">
+     <a href="/img/loc-velo-kreuzberg-1.JPG" target="_blank">
+    <img src="/img/loc-velo-kreuzberg-1.JPG" alt="loc velo berlin kreuzberg pare boue" style="max-width:300px;">
     </a>
     </div>
     </div>

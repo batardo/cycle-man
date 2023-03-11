@@ -10,4 +10,4 @@ Disallow: /itineraire/france.html
 Disallow: /?__strx_date=*
 
 User-agent: Googlebot-Image
-Disallow: /Images/instagram.png 
+Disallow: /img/instagram.png

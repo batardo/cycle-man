@@ -10,7 +10,7 @@ dep: Peille
 arr: Peille
 last_modified_at: 15.05.2021
 comments: true
-img: /Images/baroudeuse/baroudeuse-1.jpeg
+img: /img/baroudeuse/baroudeuse-1.jpeg
 ---
 
 <div class="container blog">
@@ -24,7 +24,7 @@ img: /Images/baroudeuse/baroudeuse-1.jpeg
           dénivelé positif.<br>
           Ci-dessous les champs de lavande du plateau de Valensole en 
            route vers le Mercantour depuis la vallée de la Durance avec mon gravel et son équipement au grand complet.</p>
-          <img src="/Images/baroudeuse/baroudeuse-6.jpeg" style="border-radius: 8px;display:block; margin:auto;">
+          <img src="/img/baroudeuse/baroudeuse-6.jpeg" style="border-radius: 8px;display:block; margin:auto;">
        </div>
        <div id="spacer"></div>
      <div class="row">
@@ -43,7 +43,7 @@ img: /Images/baroudeuse/baroudeuse-1.jpeg
           froid.<br>
           Ci-dessous photo de mon équipement autonomie complète avant emballage incluant tente et sac de couchage.
           </p>
-           <img src='/Images/baroudeuse/baroudeuse-5.jpeg' style="border-radius: 8px; display:block; margin:auto;"> 
+           <img src='/img/baroudeuse/baroudeuse-5.jpeg' style="border-radius: 8px; display:block; margin:auto;"> 
       </div>
       <div id="spacer"></div>
       <div class="row">
@@ -57,13 +57,13 @@ img: /Images/baroudeuse/baroudeuse-1.jpeg
        j'étais bon pour arrêter jusqu'au lever du jour. Nous avons eu beaucoup de pluie et d'orage. 
        La météo a été un vrai challenge, et ça a été un vrai dépassement pour moi. Une fois trempé, on se dit, 
        que finalement la pluie ça lave la transpiration. Et on roule... <br>
-         <img src='/Images/baroudeuse/baroudeuse-3.jpeg' style="border-radius: 8px;display:block; margin:auto;"><br>
+         <img src='/img/baroudeuse/baroudeuse-3.jpeg' style="border-radius: 8px;display:block; margin:auto;"><br>
        Je pense que La Baroudeuse est une 
        course assez géniale pour le cadre féerique qu'elle nous propose. Malheureusement j'ai eu de la pluie 
        en continue, je n'ai pas eu le temps d'en profiter, mais je reviendrai... pour le paysage!<br>
        Ci-dessous photo prise la veille du départ à Peille en l'endroit où nous avons passé la nuit. C'est le seul
        jour où il n'a pas plu!<br><br>
-       <img src='/Images/baroudeuse/baroudeuse-8.jpeg' style="border-radius: 8px;display:block; margin:auto;">
+       <img src='/img/baroudeuse/baroudeuse-8.jpeg' style="border-radius: 8px;display:block; margin:auto;">
        </p>
        </div>
        <div id="spacer"></div>

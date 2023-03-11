@@ -6,6 +6,6 @@ lang: fr
 layout: default
 tags: [ GPS Vélo ]
 last_modified_at:  10.02.2019
-img_url: "/Images/gps.JPG"
+img_url: "/img/gps.JPG"
 sitemap: false
 ---

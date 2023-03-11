@@ -31,7 +31,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
          <div class="col-sm-4">
-          <a href="/Images/depart-min.jpg" target="_blank" id="home"><img src="/Images/depart-min.jpg" id="home" alt="departure"></a>
+          <a href="/img/depart-min.jpg" target="_blank" id="home"><img src="/img/depart-min.jpg" id="home" alt="departure"></a>
         </div>
           <div class="col-sm-8">
             <h1>Sexy Ladies</h1>
@@ -50,7 +50,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
             <p>Small issue: the same day, two flat tyres in a raw, because a piece of glass was stuck in the tyre. Big issue: it was very windy as I realized it would probably be the case most of the time since the major winds go from west to east, and that I will be biking in the wrong direction the whole time. Dear Bikers, always bike direction EAST.</p>
           </div>
           <div class="col-sm-4">
-          <a href="/Images/flattyre-min.jpg" alt="tubus" target="_blank" id="home"><img src="/Images/flattyre-min.jpg" id="home" alt="tyresproblem"></a>
+          <a href="/img/flattyre-min.jpg" alt="tubus" target="_blank" id="home"><img src="/img/flattyre-min.jpg" id="home" alt="tyresproblem"></a>
         </div>
       </div>
     </div>
@@ -62,7 +62,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
          <div class="col-sm-4">
-          <a href="/Images/solenne-min.jpg" target="_blank" id="home"><img src="/Images/solenne-min.jpg" id="home" alt="arrivedinleipzig"></a>
+          <a href="/img/solenne-min.jpg" target="_blank" id="home"><img src="/img/solenne-min.jpg" id="home" alt="arrivedinleipzig"></a>
         </div>
           <div class="col-sm-8">
             <h1>Bye Bye Solennschen'</h1>
@@ -89,7 +89,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
          <div class="col-sm-4">
-          <a href="/Images/thuringen-min.jpg" target="_blank" id="home"><img src="/Images/thuringen-min.jpg" id="home" alt="ilmradweg"></a>
+          <a href="/img/thuringen-min.jpg" target="_blank" id="home"><img src="/img/thuringen-min.jpg" id="home" alt="ilmradweg"></a>
         </div>
           <div class="col-sm-8">
             <h1>Bike path in the Ilm Valley</h1>
@@ -104,7 +104,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
          <div class="col-sm-4">
-          <a href="/Images/gps-min.jpg" target="_blank" id="home"><img src="/Images/gps-min.jpg" id="home" alt="thüringerwald"></a>
+          <a href="/img/gps-min.jpg" target="_blank" id="home"><img src="/img/gps-min.jpg" id="home" alt="thüringerwald"></a>
         </div>
           <div class="col-sm-8">
             <h1>Thüringer Wald</h1>
@@ -147,7 +147,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
   <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/würburg-min.jpg" target="_blank" id="home"><img src="/Images/würburg-min.jpg" id="home" alt="würzburg"></a>
+         <a href="/img/würburg-min.jpg" target="_blank" id="home"><img src="/img/würburg-min.jpg" id="home" alt="würzburg"></a>
         </div>
         
          <div class="col-sm-8">
@@ -164,7 +164,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/bretselle-min.jpg" target="_blank" id="home"><img src="/Images/bretselle-min.jpg" id="home" alt="garage"></a>
+         <a href="/img/bretselle-min.jpg" target="_blank" id="home"><img src="/img/bretselle-min.jpg" id="home" alt="garage"></a>
         </div>
         
          <div class="col-sm-8">
@@ -181,7 +181,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/canalrhin-min.jpg" target="_blank" id="home"><img src="/Images/canalrhin-min.jpg" id="home" alt="canal"></a>
+         <a href="/img/canalrhin-min.jpg" target="_blank" id="home"><img src="/img/canalrhin-min.jpg" id="home" alt="canal"></a>
         </div>
         
          <div class="col-sm-8">
@@ -212,7 +212,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/belfort-min.jpg" target="_blank" id="home"><img src="/Images/belfort-min.jpg" id="home" alt="endurodulion"></a>
+         <a href="/img/belfort-min.jpg" target="_blank" id="home"><img src="/img/belfort-min.jpg" id="home" alt="endurodulion"></a>
         </div>
         
          <div class="col-sm-8">
@@ -229,7 +229,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/tgv-min.jpg" target="_blank" id="home"><img src="/Images/tgv-min.jpg" id="home" alt="tgv"></a>
+         <a href="/img/tgv-min.jpg" target="_blank" id="home"><img src="/img/tgv-min.jpg" id="home" alt="tgv"></a>
         </div>
         
          <div class="col-sm-8">
@@ -259,7 +259,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/chachou-min.jpg" target="_blank" id="home"><img src="/Images/chachou-min.jpg" id="home" alt="chachou"></a>
+         <a href="/img/chachou-min.jpg" target="_blank" id="home"><img src="/img/chachou-min.jpg" id="home" alt="chachou"></a>
         </div>
         
          <div class="col-sm-8">
@@ -277,7 +277,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/bikingfamily-min.jpg" target="_blank" id="home"><img src="/Images/bikingfamily-min.jpg" id="home" alt="broomwagon"></a>
+         <a href="/img/bikingfamily-min.jpg" target="_blank" id="home"><img src="/img/bikingfamily-min.jpg" id="home" alt="broomwagon"></a>
         </div>
         
          <div class="col-sm-8">
@@ -294,7 +294,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/manu-min.jpg" target="_blank" id="home"><img src="/Images/manu-min.jpg" id="home" alt="batardo"></a>
+         <a href="/img/manu-min.jpg" target="_blank" id="home"><img src="/img/manu-min.jpg" id="home" alt="batardo"></a>
         </div>
         
          <div class="col-sm-8">
@@ -325,7 +325,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/chochoy-min.jpg" target="_blank" id="home"><img src="/Images/chochoy-min.jpg" id="home" alt="welcome"></a>
+         <a href="/img/chochoy-min.jpg" target="_blank" id="home"><img src="/img/chochoy-min.jpg" id="home" alt="welcome"></a>
         </div>
         
          <div class="col-sm-8">
@@ -338,7 +338,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/baskenland-min.jpg" target="_blank" id="home"><img src="/Images/baskenland-min.jpg" id="home" alt="Ups & Downs"></a>
+         <a href="/img/baskenland-min.jpg" target="_blank" id="home"><img src="/img/baskenland-min.jpg" id="home" alt="Ups & Downs"></a>
         </div>
         
          <div class="col-sm-8">
@@ -389,7 +389,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/valladolid-min.jpg" target="_blank" id="home"><img src="/Images/valladolid-min.jpg" id="home" alt="bikingfamily"></a>
+         <a href="/img/valladolid-min.jpg" target="_blank" id="home"><img src="/img/valladolid-min.jpg" id="home" alt="bikingfamily"></a>
         </div>
         
          <div class="col-sm-8">
@@ -406,7 +406,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="/Images/salamanca-min.jpg" target="_blank" id="home"><img src="/Images/salamanca-min.jpg" id="home" alt="flatcatile"></a>
+         <a href="/img/salamanca-min.jpg" target="_blank" id="home"><img src="/img/salamanca-min.jpg" id="home" alt="flatcatile"></a>
         </div>
         
          <div class="col-sm-8">
@@ -437,7 +437,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="" target="" id="home"><img src="/Images/icon_run.png" id="home" alt="37days"></a>
+         <a href="" target="" id="home"><img src="/img/icon_run.png" id="home" alt="37days"></a>
         </div>
         
          <div class="col-sm-8">
@@ -454,7 +454,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="" target="" id="home"><img src="/Images/icon_bike.png" id="home" alt="newbike"></a>
+         <a href="" target="" id="home"><img src="/img/icon_bike.png" id="home" alt="newbike"></a>
         </div>
         
          <div class="col-sm-8">
@@ -470,7 +470,7 @@ tags: [ France, Allemagne, Espagne, Portugal ]
 <div class="container blog" align="center">
      <div class="row vcenter">
       <div class="col-sm-4">
-         <a href="" target="" id="home"><img src="/Images/icon-smile.png" id="home" alt="newbike"></a>
+         <a href="" target="" id="home"><img src="/img/icon-smile.png" id="home" alt="newbike"></a>
         </div>
         
          <div class="col-sm-8">

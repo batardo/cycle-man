@@ -17,7 +17,7 @@ tags: [ France, Allemagne, Rando facile ]
      <div class="row">
          <div class="col-sm-12">
          <p align="center">
-        <img src="/Images/ferry.JPG"  width="" alt="ferry sur le Rhin"></p>
+        <img src="/img/ferry.JPG"  width="" alt="ferry sur le Rhin"></p>
         </div>
       </div>
 
@@ -61,7 +61,7 @@ tags: [ France, Allemagne, Rando facile ]
              <br/>
 
 
-<p align="center"><a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="/Images/Routes//11750427_09.JPG" alt="vélo de karlsruhe à strastbourg " width="400px" id="mapa"></a></p>
+<p align="center"><a href="https://en.komoot.de/tour/11750427/embed" target="_blank"><img src="/img/Routes//11750427_09.JPG" alt="vélo de karlsruhe à strastbourg " width="400px" id="mapa"></a></p>
             
           </div>
         </div>

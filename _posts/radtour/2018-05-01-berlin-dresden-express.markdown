@@ -63,15 +63,15 @@ Ich kann diese Strecke empfehlen, weil sie ja direkt ist, ja, aber auch, weil ih
 <div class="row">
 <p><strong>Fotos von der Radtour</strong></p>
 <div class="col-12">
-<img src="/Images/mellensee.JPG" width="">
+<img src="/img/mellensee.JPG" width="">
 <p>Mellensee</p>
 </div>
 <div class="col-12">
-<img src="/Images/wald1.JPG" width="">
+<img src="/img/wald1.JPG" width="">
 <p>Mein Rennrad</p>
 </div>
 <div class="col-12">
-<img src="/Images/wald2.JPG" width="">
+<img src="/img/wald2.JPG" width="">
 <p>Cooler Radweg im Wald</p>
 </div>
 </div>

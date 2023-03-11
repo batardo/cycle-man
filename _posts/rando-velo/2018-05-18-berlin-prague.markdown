@@ -9,7 +9,7 @@ arr: Prague
 tags: [ Allemagne, République Tchèque ]
 last_modified_at: 28.02.2019
 comments: true
-img: /Images/berlin-prague.jpg
+img: /img/berlin-prague.jpg
 ---
 
 <div class="container blog">

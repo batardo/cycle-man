@@ -6,6 +6,6 @@ lang: fr
 layout: default
 tags: [ Vélo ]
 last_modified_at:  12.02.2019
-img_url: "/Images/berlindresden-min.JPG"
+img_url: "/img/berlindresden-min.JPG"
 sitemap: false
 ---

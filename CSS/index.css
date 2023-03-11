@@ -135,7 +135,7 @@ padding-top:100px;
 background-size:cover;
 height:400px;
 text-align: center;
-background-image: url("/Images/departure-min.jpg");
+background-image: url("/img/departure-min.jpg");
 background-attachment:fixed;
 }
 
@@ -145,7 +145,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/departure-min.jpg");
+background-image: url("/img/departure-min.jpg");
 background-attachment:fixed;
 }
 
@@ -154,7 +154,7 @@ padding-top:175px;
 background-size:cover;
 height:500px;
 text-align: center;
-background-image: url("/Images/berlindresden-min.JPG");
+background-image: url("/img/berlindresden-min.JPG");
 background-attachment:fixed;
 }
 
@@ -163,7 +163,7 @@ padding-top:100px;
 background-size:cover;
 height:500px;
 text-align: center;
-background-image: url("/Images/arriving-min.jpg");
+background-image: url("/img/arriving-min.jpg");
 background-attachment:fixed;
 }
 
@@ -172,7 +172,7 @@ padding-top:100px;
 background-size:cover;
 height:300px;
 text-align: center;
-background-image: url("/Images/departure-min.jpg");
+background-image: url("/img/departure-min.jpg");
 }
 
 #randovelo{
@@ -180,7 +180,7 @@ padding-top:100px;
 background-size:cover;
 height:400px;
 text-align: center;
-background-image: url("/Images/arriving2-min.png");
+background-image: url("/img/arriving2-min.png");
 background-attachment: fixed;
 }
 
@@ -189,7 +189,7 @@ padding-top:100px;
 background-size:cover;
 height:300px;
 text-align: center;
-background-image: url("/Images/polizei.jpeg");
+background-image: url("/img/polizei.jpeg");
 }
 
 #locationdevelo{
@@ -197,7 +197,7 @@ padding-top:100px;
 background-size:cover;
 height:300px;
 text-align: center;
-background-image: url("/Images/veloloc.jpg");
+background-image: url("/img/veloloc.jpg");
 }
 
 
@@ -206,7 +206,7 @@ padding-top:130px;
 background-size:cover;
 height:500px;
 text-align: center;
-background-image: url("/Images/liepnitzsee.jpg");
+background-image: url("/img/liepnitzsee.jpg");
 }
 
 
@@ -215,7 +215,7 @@ padding-top:75px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/loire-min.png");
+background-image: url("/img/loire-min.png");
 }
 
 
@@ -224,7 +224,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url(/Images/cyclotourisme-allemagne.JPG);
+background-image: url(/img/cyclotourisme-allemagne.JPG);
 background-attachment:fixed;
 }
 
@@ -267,7 +267,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/asparjusfield-min.webp");
+background-image: url("/img/asparjusfield-min.webp");
 background-attachment:fixed;
 }
 
@@ -276,7 +276,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/thuringen-min.webp");
+background-image: url("/img/thuringen-min.webp");
 background-attachment:fixed;
 }
 
@@ -285,7 +285,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/plainealsace-min.jpg");
+background-image: url("/img/plainealsace-min.jpg");
 background-attachment:fixed;
 }
 
@@ -294,7 +294,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/doubs-min.webp");
+background-image: url("/img/doubs-min.webp");
 background-attachment:fixed;
 }
 
@@ -303,7 +303,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/creuse-min.webp");
+background-image: url("/img/creuse-min.webp");
 background-attachment:fixed;
 }
 
@@ -312,7 +312,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/basket-min.webp");
+background-image: url("/img/basket-min.webp");
 background-attachment:fixed;
 }
 
@@ -321,7 +321,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/castilla-min.webp");
+background-image: url("/img/castilla-min.webp");
 background-attachment:fixed;
 }
 
@@ -330,7 +330,7 @@ padding-top:175px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/arriving-min.webp");
+background-image: url("/img/arriving-min.webp");
 background-attachment:fixed;
 }
 
@@ -339,7 +339,7 @@ padding-top:175px;
 background-size:cover;
 height:1000px;
 text-align: center;
-background-image: url("/Images/arrived-min.jpg");
+background-image: url("/img/arrived-min.jpg");
 background-attachment:fixed;
 }
 
@@ -349,7 +349,7 @@ background-size:cover;
 height:400px;
 text-align: center;
 background-attachment:fixed;
-background-image: url("/Images/berlinstrasbourg-min.webp");
+background-image: url("/img/berlinstrasbourg-min.webp");
 }
 
 #strasbourghendaye{
@@ -357,7 +357,7 @@ padding-top:80px;
 background-size:cover;
 height:400px;
 text-align: center;
-background-image: url("/Images/jura-min.webp");
+background-image: url("/img/jura-min.webp");
 background-attachment:fixed;
 }
 
@@ -366,7 +366,7 @@ padding-top:80px;
 background-size:cover;
 height:400px;
 text-align: center;
-background-image: url("/Images/lisbon-min.webp");
+background-image: url("/img/lisbon-min.webp");
 background-attachment:fixed;
 }
 
@@ -376,7 +376,7 @@ padding-top:80px;
 background-size:cover;
 height:400px;
 text-align: center;
-background-image: url("/Images/34steps-min.webp");
+background-image: url("/img/34steps-min.webp");
 background-attachment:fixed;
 }
 
@@ -396,7 +396,7 @@ padding-top:100px;
 background-size:cover;
 height:600px;
 text-align: center;
-background-image: url("/Images/batardoplage-min.JPG");
+background-image: url("/img/batardoplage-min.JPG");
 background-attachment:fixed;
 }
 
@@ -895,7 +895,7 @@ font-size:20px
 }
 
 #checkmark {
-    list-style-image: url("/Images/chekmark.jpg");
+    list-style-image: url("/img/chekmark.jpg");
 }
 
 
@@ -907,7 +907,7 @@ font-size:20px
 }    
 
 #crossmark {
-    list-style-image: url("/Images/crossmark.jpg")
+    list-style-image: url("/img/crossmark.jpg")
 }
 
 #crossmark div.box {
@@ -1154,7 +1154,7 @@ text-shadow: 2px, 2px rgba(106,216,106,0.6);
 }
 
 #materiel{
-    background-image: url("/Images/santarem_PT.JPG");
+    background-image: url("/img/santarem_PT.JPG");
     height: 500px;
     background-attachment: fixed;
     background-size: cover;

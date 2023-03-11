@@ -9,7 +9,7 @@ arr: Copenhague
 tags: [ Allemagne, Danemark ]
 last_modified_at: 01.05.2019
 comments: true
-img: /Images/berlin-copenhague/step4_b.png
+img: /img/berlin-copenhague/step4_b.png
 ---
 
 <div class="container blog">

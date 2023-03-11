@@ -178,7 +178,7 @@ Et puis vous pouvez réserver un vélo ! Admettons que vous prévoyiez de venir 
 
     <div class="col-xs-6">
     <div id="h150px">
-    <img src="/Images/veloloc.jpg" width="300px" alt="louer un vélo à berlin">
+    <img src="/img/veloloc.jpg" width="300px" alt="louer un vélo à berlin">
     </div>
     <div id="h150px">
     <li id="plan">Vélo de course</li>
@@ -192,7 +192,7 @@ Et puis vous pouvez réserver un vélo ! Admettons que vous prévoyiez de venir 
 
     <div class="col-xs-6">
     <div id="h150px">
-    <img src="/Images/tanker.jpg" width="300px" alt="louer un vélo de ville à berlin">
+    <img src="/img/tanker.jpg" width="300px" alt="louer un vélo de ville à berlin">
     </div>
     <div id="h150px">
     <li id="plan">Vélo de ville / Randonnée</li>

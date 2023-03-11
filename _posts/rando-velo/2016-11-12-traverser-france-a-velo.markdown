@@ -30,9 +30,9 @@ tags: [ France ]
     <div class="col-xs-12" align="center">
       <a href="https://en.komoot.de/tour/14000116/embed" target="_blank">
         <picture>
-          <source srcset="/Images/summary-min.webp" type="image/webp">
-          <source srcset="/Images/sumary-min.JPG" type="image/jpeg"> 
-          <img src="/Images/sumary-min.JPG" alt="itinéraire vélo de berlin à lisbonne">
+          <source srcset="/img/summary-min.webp" type="image/webp">
+          <source srcset="/img/sumary-min.JPG" type="image/jpeg"> 
+          <img src="/img/sumary-min.JPG" alt="itinéraire vélo de berlin à lisbonne">
         </picture></a>
     </div>
     </div>
@@ -67,14 +67,14 @@ tags: [ France ]
        
 
          <div class="col-sm-6">
-         <a href="https://en.komoot.de/tour/11750458/embed" target="_blank"><img src="/Images/Routes//11750458_10.JPG" alt="itinéraire vélo de Strasbourg à Colmar" id="mapa"></a>
+         <a href="https://en.komoot.de/tour/11750458/embed" target="_blank"><img src="/img/Routes//11750458_10.JPG" alt="itinéraire vélo de Strasbourg à Colmar" id="mapa"></a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Strasbourg à Colmar</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-04-28-11-32-49.fit" download>File 1 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-04-28-11-32-49.fit" download>File 1 </a></li> 
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="http://www.hifrance.org/auberge-de-jeunesse/colmar.html?page=article" target="_blank">Auberge de jeunesse</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="http://www.hifrance.org/auberge-de-jeunesse/colmar.html?page=article" target="_blank">Auberge de jeunesse</a></li>
             </div>
           </div>
       </div>
@@ -89,19 +89,19 @@ tags: [ France ]
          <div class="col-sm-6">
            <a href="https://en.komoot.de/tour/11750510/embed" target="_blank">
               <picture>
-                <source srcset="/Images/Routes/11750510_11-min.webp" type="image/webp">
-                <source srcset="/Images/Routes/11750510_11-min.JPG" type="image/jpeg"> 
-                <img src="/Images/Routes/11750510_11-min.JPG" alt="itinéraire vélo de Colmar à Belfort" id="mapa">
+                <source srcset="/img/Routes/11750510_11-min.webp" type="image/webp">
+                <source srcset="/img/Routes/11750510_11-min.JPG" type="image/jpeg"> 
+                <img src="/img/Routes/11750510_11-min.JPG" alt="itinéraire vélo de Colmar à Belfort" id="mapa">
               </picture>
             </a>
           </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Colmar à Belfort</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-01-13-45-39.fit" download>File 1 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-01-13-45-39.fit" download>File 1 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
             </div>
           </div>
     </div>
@@ -118,19 +118,19 @@ tags: [ France ]
         <div class="col-sm-6">
           <a href="https://en.komoot.de/tour/11750531/embed" target="_blank">
             <picture>
-              <source srcset="/Images/Routes/11750531_12-min.webp" type="image/webp">
-              <source srcset="/Images/Routes/11750531_12-min.JPG" type="image/jpeg"> 
-              <img src="/Images/Routes/11750531_12-min.JPG" alt="itinéraire vélo de Belfort à Montbéliard" id="mapa">
+              <source srcset="/img/Routes/11750531_12-min.webp" type="image/webp">
+              <source srcset="/img/Routes/11750531_12-min.JPG" type="image/jpeg"> 
+              <img src="/img/Routes/11750531_12-min.JPG" alt="itinéraire vélo de Belfort à Montbéliard" id="mapa">
             </picture>
           </a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Belfort à Montbéliard</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-02-09-04-46.fit" download>File 1 </a><a href="/carte/2016-05-02-13-30-51.fit" download>File 2 </a><a href="/carte/2016-05-02-14-56-26.fit" download>File 3 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-02-09-04-46.fit" download>File 1 </a><a href="/carte/2016-05-02-13-30-51.fit" download>File 2 </a><a href="/carte/2016-05-02-14-56-26.fit" download>File 3 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
             </div>
           </div>
   </div>
@@ -147,19 +147,19 @@ tags: [ France ]
         <div class="col-sm-6">
            <a href="https://en.komoot.de/tour/11750591/embed" target="_blank">
               <picture>
-                <source srcset="/Images/Routes/11750591_13-min.webp" type="image/webp">
-                <source srcset="/Images/Routes/11750591_13-min.JPG" type="image/jpeg"> 
-                <img src="/Images/Routes/11750591_13-min.JPG" alt="itinéraire vélo de Montbéliard à Besançon" id="mapa">
+                <source srcset="/img/Routes/11750591_13-min.webp" type="image/webp">
+                <source srcset="/img/Routes/11750591_13-min.JPG" type="image/jpeg"> 
+                <img src="/img/Routes/11750591_13-min.JPG" alt="itinéraire vélo de Montbéliard à Besançon" id="mapa">
               </picture>
             </a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Montbéliard à Besançon</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-03-09-14-28.fit" download>File 1 </a><a href="/carte/2016-05-03-14-39-55.fit" download>File 2 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-03-09-14-28.fit" download>File 1 </a><a href="/carte/2016-05-03-14-39-55.fit" download>File 2 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="http://www.hifrance.org/auberge-de-jeunesse/besancon.html" target="_blank">Auberge de jeunesse</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="http://www.hifrance.org/auberge-de-jeunesse/besancon.html" target="_blank">Auberge de jeunesse</a></li>
             </div>
           </div>
     </div>
@@ -176,19 +176,19 @@ tags: [ France ]
           <div class="col-sm-6">
            <a href="https://en.komoot.de/tour/11750622/embed" target="_blank">
               <picture>
-                <source srcset="/Images/Routes/11750622_14-min.webp" type="image/webp">
-                <source srcset="/Images/Routes/11750622_14-min.JPG" type="image/jpeg"> 
-                <img src="/Images/Routes/11750622_14-min.JPG" alt="itinéraire vélo de Besançon à Dôle" id="mapa">
+                <source srcset="/img/Routes/11750622_14-min.webp" type="image/webp">
+                <source srcset="/img/Routes/11750622_14-min.JPG" type="image/jpeg"> 
+                <img src="/img/Routes/11750622_14-min.JPG" alt="itinéraire vélo de Besançon à Dôle" id="mapa">
               </picture>
             </a>
           </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Besançon à Dôle</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-04-10-07-12.fit" download>File 1 </a><a href="/carte/2016-05-04-12-17-00.fit" download>File 2 </a><a href="/carte/2016-05-04-14-40-21.fit" download>File 3</a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-04-10-07-12.fit" download>File 1 </a><a href="/carte/2016-05-04-12-17-00.fit" download>File 2 </a><a href="/carte/2016-05-04-14-40-21.fit" download>File 3</a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="" target="_blank">Hotel</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="" target="_blank">Hotel</a></li>
             </div>
           </div>
     </div>
@@ -205,19 +205,19 @@ tags: [ France ]
         <div class="col-sm-6">
            <a href="https://en.komoot.de/tour/11750653/embed" target="_blank">
               <picture>
-                <source srcset="/Images/Routes/11750653_15-min.webp" type="image/webp">
-                <source srcset="/Images/Routes/11750653_15-min.JPG" type="image/jpeg"> 
-                <img src="/Images/Routes/11750653_15-min.JPG" alt="itinéraire vélo de Dôle à Chalon sur saone" id="mapa">
+                <source srcset="/img/Routes/11750653_15-min.webp" type="image/webp">
+                <source srcset="/img/Routes/11750653_15-min.JPG" type="image/jpeg"> 
+                <img src="/img/Routes/11750653_15-min.JPG" alt="itinéraire vélo de Dôle à Chalon sur saone" id="mapa">
               </picture>
             </a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Dôle à Châlon sur Saone</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-05-09-13-16.fit" download>File 1 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-05-09-13-16.fit" download>File 1 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
             </div>
           </div>
     </div>
@@ -234,19 +234,19 @@ tags: [ France ]
         <div class="col-sm-6">
            <a href="https://en.komoot.de/tour/11750829/embed" target="_blank">
               <picture>
-                <source srcset="/Images/Routes/11750829_16-min.webp" type="image/webp">
-                <source srcset="/Images/Routes/11750829_16-min.JPG" type="image/jpeg"> 
-                <img src="/Images/Routes/11750829_16-min.JPG" alt="itinéraire vélo de Châlon sur Saone à Paray-le-Monial" id="mapa">
+                <source srcset="/img/Routes/11750829_16-min.webp" type="image/webp">
+                <source srcset="/img/Routes/11750829_16-min.JPG" type="image/jpeg"> 
+                <img src="/img/Routes/11750829_16-min.JPG" alt="itinéraire vélo de Châlon sur Saone à Paray-le-Monial" id="mapa">
               </picture>
             </a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Châlon sur Saone à Paray-le-Monial</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-06-09-46-33.fit" download>File 1 </a><a href="/carte/2016-05-06-14-36-29.fit" download>File 2 </a><a href="/carte/2016-05-06-15-34-22.fit" download>File 3 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-06-09-46-33.fit" download>File 1 </a><a href="/carte/2016-05-06-14-36-29.fit" download>File 2 </a><a href="/carte/2016-05-06-15-34-22.fit" download>File 3 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="http://www.6io.fr/chambre_hote_gite_paray_le_monial/Accueil.html" target="_blank">Bed & Breakfast</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="http://www.6io.fr/chambre_hote_gite_paray_le_monial/Accueil.html" target="_blank">Bed & Breakfast</a></li>
             </div>
           </div>
     </div>
@@ -263,19 +263,19 @@ tags: [ France ]
         <div class="col-sm-6">
           <a href="https://en.komoot.de/tour/12376574/embed" target="_blank">
            <picture>
-              <source srcset="/Images/Routes//12376574_17-min.webp" type="image/webp">
-              <source srcset="/Images/Routes//12376574_17-min.JPG" type="image/jpeg"> 
-              <img src="/Images/Routes//12376574_17-min.JPG" alt="itinéraire vélo de Paray-le-Monial à Saulcet" id="mapa">
+              <source srcset="/img/Routes//12376574_17-min.webp" type="image/webp">
+              <source srcset="/img/Routes//12376574_17-min.JPG" type="image/jpeg"> 
+              <img src="/img/Routes//12376574_17-min.JPG" alt="itinéraire vélo de Paray-le-Monial à Saulcet" id="mapa">
             </picture>
           </a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Paray-le-Monial à Saulcet</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-07-10-02-21.fit" download>File 1 </a><a href="/carte/2016-05-07-15-01-57.fit" download>File 2 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-07-10-02-21.fit" download>File 1 </a><a href="/carte/2016-05-07-15-01-57.fit" download>File 2 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="" target="_blank">Airbnb</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="" target="_blank">Airbnb</a></li>
             </div>
           </div>
     </div>
@@ -292,19 +292,19 @@ tags: [ France ]
         <div class="col-sm-6">
           <a href="https://en.komoot.de/tour/12376674/embed" target="_blank">
             <picture>
-              <source srcset="/Images/Routes//12376674_18-min.webp" type="image/webp">
-              <source srcset="/Images/Routes//12376674_18-min.JPG" type="image/jpeg"> 
-              <img src="/Images/Routes//12376674_18-min.JPG" alt="itinéraire vélo de Saulcet à Auzances" id="mapa">
+              <source srcset="/img/Routes//12376674_18-min.webp" type="image/webp">
+              <source srcset="/img/Routes//12376674_18-min.JPG" type="image/jpeg"> 
+              <img src="/img/Routes//12376674_18-min.JPG" alt="itinéraire vélo de Saulcet à Auzances" id="mapa">
             </picture>
           </a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Saulcet à Auzances</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-08-09-47-51.fit" download>File 1 </a><a href="/carte/2016-05-08-11-46-15.fit" download>File 2 </a><a href="/carte/2016-05-08-13-53-49.fit" download>File 3</a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-08-09-47-51.fit" download>File 1 </a><a href="/carte/2016-05-08-11-46-15.fit" download>File 2 </a><a href="/carte/2016-05-08-13-53-49.fit" download>File 3</a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="" target="_blank">Airbnb</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="" target="_blank">Airbnb</a></li>
             </div>
           </div>
     </div>
@@ -321,19 +321,19 @@ tags: [ France ]
         <div class="col-sm-6">
           <a href="https://en.komoot.de/tour/12376734/embed" target="_blank">
             <picture>
-              <source srcset="/Images/Routes/12376734_19-min.webp" type="image/webp">
-              <source srcset="/Images/Routes/12376734_19-min.JPG" type="image/jpeg"> 
-              <img src="/Images/Routes/12376734_19-min.JPG" alt="itinéraire vélo de Auzances à Limoges" id="mapa">
+              <source srcset="/img/Routes/12376734_19-min.webp" type="image/webp">
+              <source srcset="/img/Routes/12376734_19-min.JPG" type="image/jpeg"> 
+              <img src="/img/Routes/12376734_19-min.JPG" alt="itinéraire vélo de Auzances à Limoges" id="mapa">
             </picture>
           </a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Auzances à Limoges</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-09-09-12-43.fit" download>File 1 </a><a href="/carte/2016-05-09-11-34-36.fit" download>File 2 </a><a href="/carte/2016-05-09-14-43-39.fit" download>File 3 </a><a href="/carte/2016-05-09-16-46-29.fit" download>File 4 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-09-09-12-43.fit" download>File 1 </a><a href="/carte/2016-05-09-11-34-36.fit" download>File 2 </a><a href="/carte/2016-05-09-14-43-39.fit" download>File 3 </a><a href="/carte/2016-05-09-16-46-29.fit" download>File 4 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
             </div>
           </div>
     </div>
@@ -350,19 +350,19 @@ tags: [ France ]
         <div class="col-sm-6">
           <a href="https://en.komoot.de/tour/12376767/embed" target="_blank">
             <picture>
-              <source srcset="/Images/Routes/12376767_20-min.webp" type="image/webp">
-              <source srcset="/Images/Routes/12376767_20-min.JPG" type="image/jpeg"> 
-              <img src="/Images/Routes/12376767_20-min.JPG" alt="itinéraire vélo de Limoges à Bourdeilles" id="mapa">
+              <source srcset="/img/Routes/12376767_20-min.webp" type="image/webp">
+              <source srcset="/img/Routes/12376767_20-min.JPG" type="image/jpeg"> 
+              <img src="/img/Routes/12376767_20-min.JPG" alt="itinéraire vélo de Limoges à Bourdeilles" id="mapa">
             </picture>
           </a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Limoges à Bourdeilles</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-10-11-49-20.fit" download>File 1 </a><a href="/carte/2016-05-10-18-58-50.fit" download>File 2 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-10-11-49-20.fit" download>File 1 </a><a href="/carte/2016-05-10-18-58-50.fit" download>File 2 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
             </div>
           </div>
     </div>
@@ -379,19 +379,19 @@ tags: [ France ]
           <div class="col-sm-6">
             <a href="https://en.komoot.de/tour/12377027/embed" target="_blank">
               <picture>
-                <source srcset="/Images/Routes/12377027_21-min.webp" type="image/webp">
-                <source srcset="/Images/Routes/12377027_21-min.JPG" type="image/jpeg"> 
-                <img src="/Images/Routes/12377027_21-min.JPG" alt="itinéraire vélo de Bourdeilles à Bourdeaux" id="mapa">
+                <source srcset="/img/Routes/12377027_21-min.webp" type="image/webp">
+                <source srcset="/img/Routes/12377027_21-min.JPG" type="image/jpeg"> 
+                <img src="/img/Routes/12377027_21-min.JPG" alt="itinéraire vélo de Bourdeilles à Bourdeaux" id="mapa">
               </picture>
             </a>
           </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Bourdeilles à Bordeaux</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-11-18-44-00.fit" download>File 1 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-11-18-44-00.fit" download>File 1 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
             </div>
           </div>
     </div>
@@ -408,19 +408,19 @@ tags: [ France ]
         <div class="col-sm-6">
           <a href="https://en.komoot.de/tour/12411633/embed" target="_blank">
             <picture>
-              <source srcset="/Images/Routes/12411633_22-min.webp" type="image/webp">
-              <source srcset="/Images/Routes/12411633_22-min.JPG" type="image/jpeg"> 
-              <img src="/Images/Routes/12411633_22-min.JPG" alt="itinéraire vélo de Bordeaux à Mimizan" id="mapa">
+              <source srcset="/img/Routes/12411633_22-min.webp" type="image/webp">
+              <source srcset="/img/Routes/12411633_22-min.JPG" type="image/jpeg"> 
+              <img src="/img/Routes/12411633_22-min.JPG" alt="itinéraire vélo de Bordeaux à Mimizan" id="mapa">
             </picture>
           </a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Bordeaux à Mimizan-Plage</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-12-10-18-44.fit" download>File 1 </a><a href="/carte/2016-05-12-11-50-23.fit" download>File 2 </a><a href="/carte/2016-05-12-13-21-23.fit" download>File 3 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-12-10-18-44.fit" download>File 1 </a><a href="/carte/2016-05-12-11-50-23.fit" download>File 2 </a><a href="/carte/2016-05-12-13-21-23.fit" download>File 3 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="" target="_blank">Hotel</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="" target="_blank">Hotel</a></li>
             </div>
           </div>
     </div>
@@ -437,19 +437,19 @@ tags: [ France ]
         <div class="col-sm-6">
           <a href="https://en.komoot.de/tour/12411698/embed" target="_blank">
             <picture>
-              <source srcset="/Images/Routes/12411698_23-min.webp" type="image/webp">
-              <source srcset="/Images/Routes/12411698_23-min.JPG" type="image/jpeg"> 
-              <img src="/Images/Routes/12411698_23-min.JPG" alt="itinéraire vélo de Mimizan à Cap Breton" id="mapa">
+              <source srcset="/img/Routes/12411698_23-min.webp" type="image/webp">
+              <source srcset="/img/Routes/12411698_23-min.JPG" type="image/jpeg"> 
+              <img src="/img/Routes/12411698_23-min.JPG" alt="itinéraire vélo de Mimizan à Cap Breton" id="mapa">
             </picture>
           </a>
         </div>
 
           <div class="col-sm-6">
             <p>Vélo route de Mimizan-Plage à Cap Breton</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-13-09-52-06.fit" download>File 1 </a><a href="/carte/2016-05-13-14-31-01.fit" download>File 2 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-13-09-52-06.fit" download>File 1 </a><a href="/carte/2016-05-13-14-31-01.fit" download>File 2 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="http://www.campinglacivelle.fr/" target="_blank">Camping</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="http://www.campinglacivelle.fr/" target="_blank">Camping</a></li>
             </div>
           </div>
     </div>
@@ -466,9 +466,9 @@ tags: [ France ]
         <div class="col-sm-6">
           <a href="https://en.komoot.de/tour/12450660/embed" target="_blank">
            <picture>
-              <source srcset="/Images/Routes/12450660_24-min.webp" type="image/webp">
-              <source srcset="/Images/Routes/12450660_24-min.JPG" type="image/jpeg"> 
-              <img src="/Images/Routes/12450660_24-min.JPG" alt="itinéraire vélo de Cap Breton à Donostia" id="mapa">
+              <source srcset="/img/Routes/12450660_24-min.webp" type="image/webp">
+              <source srcset="/img/Routes/12450660_24-min.JPG" type="image/jpeg"> 
+              <img src="/img/Routes/12450660_24-min.JPG" alt="itinéraire vélo de Cap Breton à Donostia" id="mapa">
             </picture>
           </a>
         </div>
@@ -476,10 +476,10 @@ tags: [ France ]
 
           <div class="col-sm-6">
             <p>Itinéraire vélo de Cap Breton à Donostia/San Sebastian</p>
-            <li><img src="/Images/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-14-14-43-14.fit" download>File 1 </a><a href="/carte/2016-05-14-16-25-10.fit" download>File 2 </a><a href="/carte/2016-05-14-17-12-25.fit" download>File 3 </a></li> 
+            <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/2016-05-14-14-43-14.fit" download>File 1 </a><a href="/carte/2016-05-14-16-25-10.fit" download>File 2 </a><a href="/carte/2016-05-14-17-12-25.fit" download>File 3 </a></li> 
             
             
-            <li><img src="/Images/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
+            <li><img src="/img/accomodation.png" alt="accomodation" id="thxlistshawo"><a href="https://de.warmshowers.org/" target="_blank">Warm Showers</a></li>
             </div>
           </div>
     </div>
@@ -503,10 +503,10 @@ tags: [ France ]
       <tr>
         <th>De</th>
         <th>À</th>
-        <th><img src="/Images/arrow.png"> km</th>
-        <th><img src="/Images/arrowup.png"> m</th>
-        <th><img src="/Images/arrowdown.png"> m</th>
-        <th><img src="/Images/accomodation_s.png"></th>
+        <th><img src="/img/arrow.png"> km</th>
+        <th><img src="/img/arrowup.png"> m</th>
+        <th><img src="/img/arrowdown.png"> m</th>
+        <th><img src="/img/accomodation_s.png"></th>
       </tr>
       
        <tr>
