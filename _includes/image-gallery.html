@@ -6,9 +6,9 @@
     .image-gallery li a img {width: 100%; display: block;}
 
     @media (max-width: 960px) and (min-width: 501px) {
-    .image-gallery li { width: 25%; } /* Show 2 logos per row on medium devices (tablets, phones in landscape) */}
+    .image-gallery li { width: 25%; } /* Show 3 pictures per row on medium devices (tablets, phones in landscape) */}
     @media (max-width: 500px) {
-    .image-gallery li { width: 35%; } /* On small screens, show one logo per row */}
+    .image-gallery li { width: 35%; } /* On small screens, show 2 pictures */}
 </style>
 
 <ul class="image-gallery">{% for file in site.static_files %}
