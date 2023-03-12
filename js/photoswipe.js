@@ -621,7 +621,7 @@ var _isOpen,
 		}
 
 		// Override zoom/pan/move functions in case old browser is used (most likely IE)
-		// (so they use left/top/width/height, instead of CSS transform)
+		// (so they use left/top/width/height, instead of css transform)
 	
 		_transformKey = 'left';
 		framework.addClass(template, 'pswp--ie');
@@ -862,7 +862,7 @@ var publicMethods = {
 			click: _onGlobalClick
 		};
 
-		// disable show/hide effects on old browsers that don't support CSS animations or transforms, 
+		// disable show/hide effects on old browsers that don't support css animations or transforms,
 		// old IOS, Android and Opera mobile. Blackberry seems to work fine, even older models.
 		var oldPhone = _features.isOldIOSPhone || _features.isOldAndroid || _features.isMobileOpera;
 		if(!_features.animationName || !_features.transform || oldPhone) {
@@ -2622,10 +2622,10 @@ var _showOrHideTimeout,
 
 				if(!out) {
 
-					// "in" animation always uses CSS transitions (instead of rAF).
-					// CSS transition work faster here, 
+					// "in" animation always uses css transitions (instead of rAF).
+					// css transition work faster here,
 					// as developer may also want to animate other things, 
-					// like ui on top of sliding area, which can be animated just via CSS
+					// like ui on top of sliding area, which can be animated just via css
 					
 					_currZoomLevel = item.initialZoomLevel;
 					_equalizePoints(_panOffset,  item.initialPosition );
