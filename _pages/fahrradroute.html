@@ -5,16 +5,15 @@ description: Entdeckt die Fahrradroute von Berlin nach Lissabon. Hier findet ihr
 category: route
 comments: true
 permalink: "/fahrradroute.html"
-last_modified_at: 10/09/2018
+last_modified_at: 11/03/2023
 ---
 
-<div class="" id="fahrradroute1">
-      <div class="row">
-      <div class="col-md-12">
+<div class="container blog">
         <h1 >Mit dem Rad nach Portugal</h1>
+        Zuletzt am {{ page.last_modified_at | date: "%d-%m-%Y" }} aktualisiert
         <p >Reisebericht meiner Radreise von Berlin nach Lissabon</p>
-          </div>
-        </div>
+    {% include image-gallery.html folder="/img/berlin-lisbon" %}
+
       </div>
 
       <div id="spacer">
