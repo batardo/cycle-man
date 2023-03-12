@@ -1,9 +1,14 @@
 <style>
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {overflow: auto; margin-left: -1%!important;display:block;width:100%}
+    .image-gallery li {float: left; display: inline-block; margin: 0 0 1% 1%; width: 18%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777; font-size:13px}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+
+    @media (max-width: 960px) and (min-width: 501px) {
+    .image-gallery li { width: 25%; } /* Show 2 logos per row on medium devices (tablets, phones in landscape) */}
+    @media (max-width: 500px) {
+    .image-gallery li { width: 35%; } /* On small screens, show one logo per row */}
 </style>
 
 <ul class="image-gallery">{% for file in site.static_files %}
