@@ -7,6 +7,7 @@ layout: default
 tags: [ Urbanisme, Tourisme, Location de vélo ]
 last_modified_at:  01.09.2021
 available: disponible
+img: /img/loc-velo-kreuzberg-4.JPG
 ---
 
 
