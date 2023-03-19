@@ -39,12 +39,15 @@
     <script src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js"></script>
 
 
-    {% if page.category == 'route' %}
+    {% if page.title == 'Portugal à vélo - Itinéraire de Strasbourg à Lisbonne' %}
     <link rel="alternate" hreflang="en" href="https://www.cycle-man.com/bike-tours/cycling-across-europe.html" />
-    <link rel="alternate" hreflang="fr" href="https://www.cycle-man.com/rando-velo/allemagne-portugal.html" />
+    <link rel="alternate" hreflang="fr" href="https://www.cycle-man.com/rando-velo/france-portugal.html" />
     <link rel="alternate" hreflang="de" href="https://www.cycle-man.com/fahrradroute.html" />
+    {% else if page.title == 'En vélo de Berlin à Copenhague en 4 jours' %}
+    <link rel="alternate" hreflang="fr" href="https://www.cycle-man.com/rando-velo/berlin-copenhague.html" />
+    <link rel="alternate" hreflang="de" href="https://www.cycle-man.com/blog/mit-dem-fahrrad-nach-kopenhagen.html" />
     {% endif %}
-    
+
     <meta property='og:title' content='Bike blog | cycle-man'/>
     <meta property='og:image' content='https://www.cycle-man.com/img/logo.png'/>
     <meta property='og:description' content='If there is a will, there is a way, hopefully a cycle way.'/>

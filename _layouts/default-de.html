@@ -22,11 +22,13 @@
     <script type="text/javascript" src="/js/lightbox.js"></script>
 
 
-    {% if page.category == 'route' %}
+    {% if page.title == 'Mit dem Fahrrad von Deutschland nach Portugal - Radweg von Berlin nach Lissabon' %}
     <link rel="alternate" hreflang="en" href="https://www.cycle-man.com/bike-tours/cycling-across-europe.html" />
-    <link rel="alternate" hreflang="fr" href="https://www.cycle-man.com/rando-velo/allemagne-portugal.html" />
+    <link rel="alternate" hreflang="fr" href="https://www.cycle-man.com/rando-velo/france-portugal.html" />
     <link rel="alternate" hreflang="de" href="https://www.cycle-man.com/fahrradroute.html" />
-    <link rel="stylesheet" href="/css/lightbox.css">
+    {% else if page.title == 'Mit dem Fahrrad von Berlin nach Kopenhagen - Die 4 Etappen' %}
+    <link rel="alternate" hreflang="fr" href="https://www.cycle-man.com/rando-velo/berlin-copenhague.html" />
+    <link rel="alternate" hreflang="de" href="https://www.cycle-man.com/blog/mit-dem-fahrrad-nach-kopenhagen.html" />
     {% endif %}
 
      </head>
