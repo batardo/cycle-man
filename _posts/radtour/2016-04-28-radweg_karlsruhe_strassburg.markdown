@@ -5,7 +5,7 @@ title:  "Radweg von Karlsruhe nach Straßburg"
 description: "Die letzte -deutsche- Etappe meiner Radtour von Berlin nach Lissabon : Karlsruhe-Straßburg : schön an dem Rhein entlang."
 lang: de
 ref: post
-category: radtour
+category: blog
 comments: true
 permalink: "blog/2016/04/28/radweg_karlsruhe_strassburg.html"
 ---

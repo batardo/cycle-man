@@ -3,7 +3,7 @@ layout: default-de
 title: 'Mit dem Rad von Berlin nach Dresden'
 description: 'Der Radweg Berlin Dresden in einem Tag, kann man gut machen. Dafür gibt es meine direkte Strecke! Mit einem Rennrad, einem Navi und ein bisschen Glück mit dem Wind schafft ihr die knapp 200 Kilometer in einem Tag. Order nicht, egal, Hauptsache es macht Spaß.' 
 comments: true
-category: radtour
+category: blog
 lang: de
 ---
 

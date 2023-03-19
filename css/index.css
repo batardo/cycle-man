@@ -6,6 +6,7 @@ font-family: "Open Sans", "Sans Serif";
 font-size:18px;
 }
 
+
 .label {
     display: inline;
     padding: .1em .3em .1em;
@@ -17,6 +18,13 @@ font-size:18px;
     white-space: nowrap;
     vertical-align: baseline;
     border-radius: .25em;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
 }
 
 h1 {
@@ -106,13 +114,18 @@ margin-right: 5px;
 .blog p {
     letter-spacing:1px;
     padding-bottom:10px;
-    font-size: 20px;
-    padding-top:15px;
+    font-size: 18px;
+    padding-top:10px;
 }
 
 .blog h1 {
+    font-size: 3.4rem;
+    line-height: .9;
+    letter-spacing: 0;
+    font-weight: 700;
+    text-transform: uppercase;
     padding-top:10px;
-    padding-bottom:10px
+    padding-bottom:10px;
 }
 
 .blog h2 {
@@ -1118,7 +1131,7 @@ padding-top: 10px;
 
 
 .navbar-default{
-    background-color: white;
+    background: white;
      width: 100%;
   text-align: center;
   border: 0px;

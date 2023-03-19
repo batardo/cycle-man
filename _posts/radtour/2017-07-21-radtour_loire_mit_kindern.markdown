@@ -3,7 +3,7 @@ redirect_from: "/2017-07-21-radtour_loire_mit_kindern.html"
 title : Radtour an der Loire mit Kindern
 description : Bericht eines Familien Radurlaubs. 4 Tage mit Fahrrädern und Kindern zwischen Blois und Tours durch die Châteaux de la Loire. 
 lang: de
-category: radtour
+category: blog
 comments: true
 layout: default-de
 permalink: "blog/2017/07/21/radtour_loire_mit_kindern.html"

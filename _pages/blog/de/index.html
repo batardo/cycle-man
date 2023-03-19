@@ -16,11 +16,15 @@ last_modified_at: 11/09/2018
       <div class="container blog">
 
 
-       {% assign posts=site.posts | where:"lang", page.lang %}
+       {% assign posts=site.posts | where:"lang", page.lang | where: "category", "blog"%}
         {% for post in posts %}
+
+
 
      <div class="row vcenter">
          <div class="col-sm-6">
+             <img src="{{ post.img }}"  width="400">
+
 
     {% if post.title == 'Radweg von Karlsruhe nach Straßburg' %}
 <img class="" src="/img/ferry-min.JPG" alt="über den Rhein mit der Fähre" width="400">
@@ -40,7 +44,8 @@ last_modified_at: 11/09/2018
           
           
 
-  {% endif %}
+
+              {% endif %}
 
 </div>
 
