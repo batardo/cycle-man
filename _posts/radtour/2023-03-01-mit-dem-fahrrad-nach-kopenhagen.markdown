@@ -14,12 +14,13 @@ img: /img/berlin-copenhague/step4_b.png
 <div class="container blog">
 <div id="spacer"></div>
 Artikel zuletzt am {{ page.last_modified_at | date: "%d-%m-%Y" }} aktualisiert<br/>
+<div class="col-sm-12">
 <div class="row">
       <h1>Mit dem Rad von Berlin nach Kopenhagen in 4 Tagen</h1>
-<div class="col-sm-12">
       <a href="https://www.komoot.com/tour/62695337/zoom" target="_blank">
 <img src="/img/berlin-copenhague/route-berlin-rostock-copenhague.jpg" width="80%" class="center"></a>
-    </div>
+</div>
+</div>
 <div class="col-sm-12">
 <p>Ein paar Daten über meine Fahrradroute:</p>
 <ul>
