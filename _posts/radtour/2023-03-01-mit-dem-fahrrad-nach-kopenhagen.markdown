@@ -6,7 +6,7 @@ category: blog
 lang: de
 dep: Berlin
 arr: Kopenhagen
-last_modified_at: 01.03.2023
+last_modified_at: 19.03.2023
 comments: true
 img: /img/berlin-copenhague/step4_b.png
 ---
