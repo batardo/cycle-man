@@ -5,7 +5,7 @@ category: roue-libre
 lang: fr
 layout: default
 tags: [ Urbanisme, Tourisme, Location de vélo ]
-last_modified_at:  01.09.2021
+last_modified_at:  19.03.2023
 available: disponible
 img: /img/loc-velo-kreuzberg-4.JPG
 ---
@@ -16,18 +16,19 @@ img: /img/loc-velo-kreuzberg-4.JPG
     suivantes :</p>
 
 <ul id="intro">
-<li id="plan"><a href="#equivalents" style="text-decoration:none;">Quels sont les équivalents au vélib à Berlin ?</a></li>
+<li id="plan"><a href="#equivalents" style="text-decoration:none;">Quels sont les équivalents au Vélib à Berlin ?</a></li>
 <li id="plan"><a href="#choisir" style="text-decoration:none;">Comment choisir ?</a></li>
 <li id="plan"><a href="#location" style="text-decoration:none;">Où louer un vélo à Neukölln ?</a></li>
-<li id="plan"><a href="#velo-electrique" style="text-decoration:none;">Y-a-t'il des applications pour vélos éléctriques aussi ?</a></li>
+<li id="plan"><a href="#velo-electrique" style="text-decoration:none;">Y-a-t'il des applications pour vélos électriques aussi ?</a></li>
+<li id="plan"><a href="#tickets-berlin" style="text-decoration:none;">Comment comparer bus, train et avion pour se rendre sur Berlin ?</a></li>
 </ul>
 
 
 <h1>Tout est plus libre à Berlin, même les vélos</h1>
 <p>Tout est plus libre à Berlin, les vélos aussi. À la différence d’une capitale comme Paris par exemple
-    où vélib a lontgtemps régné sur son monopole, de nombreux loueurs se sont lancés dans la location
+    où Vélib a longtemps régné sur son monopole, de nombreux loueurs se sont lancés dans la location
     de vélos en libre service à Berlin.
-    Il existe donc plusieurs équivalents au vélib, d'où la question que vous vous posez désormais :
+    Il existe donc plusieurs équivalents au Vélib, d'où la question que vous vous posez désormais :
     <strong>lequel choisir ?</strong></p>
 
 <h2 id="#equivalents">Les applications pour la location de vélo en libre service à Berlin:</h2>
@@ -117,12 +118,12 @@ img: /img/loc-velo-kreuzberg-4.JPG
 
   <tr>
         <td>Service clients</td>
-        <td>9/10<br>Radidement joignable, en anglais et allemand</td>
+        <td>9/10<br>Rapidement joignable, en anglais et allemand</td>
       </tr>
 
   <tr>
         <td>Présence dans d'autres villes</td>
-        <td>9/10<br>Oui, disposnible avec le même abo. dans d'autres villes</td>
+        <td>9/10<br>Oui, disponible avec le même abo. dans d'autres villes</td>
       </tr>
 
   <tr>
@@ -197,16 +198,19 @@ img: /img/loc-velo-kreuzberg-4.JPG
     </ul>
 
 
-<h3 id="velo-electrique">Vélo éléctrique en libre service à Berlin</h3>
-    <p>Oui, il existe aussi un service de vélo éléctrique disponible à Berlin avec l'application LimeBike.</p>
+<h3 id="velo-electrique">Vélo électrique en libre service à Berlin</h3>
+    <p>Oui, il existe aussi un service de vélo électrique disponible à Berlin avec l'application LimeBike.</p>
     <ul id="intro">
         <li id="plan">Application Lime disponible sur iOS et Android</li>
         <li id="plan">Vitesse maximum du vélo de 25km/h</li>
         <li id="plan">Tarif de 1€ par location puis 0,15€/ minute</li>
     </ul>
 
+<h3 id="tickets-berlin">Comparer train,  bus et avion pour aller à Berlin ?</h3>
+    <p>J'utilise <a href="https://omio.sjv.io/0ZQM1N" target="_blank" rel="nofollow">Omio</a> pour comparer et réserver mes billets de 
+trains, bus et avions pour me rendre sur Berlin. Le service clients parle francais (ou anglais), et bien plus 
+efficace et rapide en cas d'annulation ou de remboursement... ils gèrent directement avec le transporteur.</p>
 
-  {% include share-bar.html %}
 
   <br>
   <br>
