@@ -22,6 +22,7 @@ Artikel zuletzt am {{ page.last_modified_at | date: "%d-%m-%Y" }} aktualisiert<b
 </div>
 </div>
 <div class="col-sm-12">
+<div class="row">
 <p>Ein paar Daten über meine Fahrradroute:</p>
 <ul>
       <li id="plan">Distanz: 465 km</li>
@@ -38,12 +39,8 @@ Artikel zuletzt am {{ page.last_modified_at | date: "%d-%m-%Y" }} aktualisiert<b
 <a href="https://de.eurovelo.com/ev7/germany"> EuroVelo 7 Fahrradstraße </a> fahren. Etwa 200 Kilometer länger, dafür 
 wahrscheinlich noch schöner und vor allem besser für Fahrräder geeignet. Ansonsten hier sind meine<a href="#etapes"> 
 4 Etappen von Berlin nach Kopenhagen</a>.</p></div>
-      
+  </div>    
   </div>
-
-      
-
-</div>
 
 <div class="container blog">
   <h2 id="etapes">EuroVelo 7 von Berlin nach Kopenhagen : meine 4 Etappen</h2>
