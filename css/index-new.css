@@ -88,14 +88,19 @@ height:100px;
 
 
 .blog p {
-    letter-spacing:2px;
+    letter-spacing:1px;
     padding-bottom:10px;
     padding-top:25px;
 }
 
 .blog h1 {
+    font-size: 3.4rem;
+    line-height: .9;
+    letter-spacing: 0;
+    font-weight: 700;
+    text-transform: uppercase;
     padding-top:10px;
-    padding-bottom:10px
+    padding-bottom:10px;
 }
 
 .blog h2 {
@@ -320,6 +325,7 @@ font-size:20px
 
 .blog li {
     list-style: none;
+    letter-spacing:1px;
     padding-right: 15px;
     padding-bottom: 10px;
     padding-top: 10px;
