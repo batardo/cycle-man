@@ -1,16 +1,16 @@
 ---
 redirect_from: 
-- /blog/2017/07/16/index.html
-- /blog/2017/07/16/voyage_velo_loire_en_famille.html
+- /radtouren/2017/07/16/index.html
+- /radtouren/2017/07/16/voyage_velo_loire_en_famille.html
 title : Voyage à vélo en famille le long de la Loire
 description : Résumé d'un voyage vélo familial, accessible pour tous. 4 jours de Blois à Tours à vélo en visitant les châteaux de la Loire. 
 lang: fr
-category: rando-velo
-comments: true
+category: [rando-velo]
 layout: default
 dep: Chaumont
 arr: Tours
 tags: [ France, Rando facile ]
+img:  /img/loire-min.png
 ---
 
 <div class="container" >

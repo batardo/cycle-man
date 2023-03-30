@@ -1,13 +1,14 @@
 ---
 title: 'Diagonale Strasbourg Hendaye - Traversée de la France à vélo'
 redirect_from: "/itineraire-velo/traverser-france-a-velo.html"
-category: 'rando-velo'
+category: [rando-velo]
 layout: 'default'
 description: 'Tout pour préparer sa diagonale Strasbourg - Hendaye. Retrouvez mon itinéraire, mes cartes, fichiers GPS à télécharger et plans logement.'
 lang: 'fr'
 dep: Strasbourg
 arr: Hendaye
 tags: [ France ]
+img: /img/creuse-min.jpg
 ---  
 
 

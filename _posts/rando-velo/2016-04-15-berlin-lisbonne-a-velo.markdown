@@ -6,12 +6,14 @@ redirect_from:
 layout: default
 title: Carnet de voyage d'une traversée d'Europe à vélo
 description: C'était un super voyage à vélo - plus de 3.000 kilomètres en un mois, des gens supers, une route sympas. Voici mon carnet de voyage et quelques photos.
-comments: true
-category: rando-velo
+category: [rando-velo]
 lang: fr
 dep: Berlin
 arr: Lisbonne
 tags: [ France, Allemagne, Espagne, Portugal ]
+img: /img/salamanca-min.jpg
+sitemap: false
+bot: noindex
 ---
 
     

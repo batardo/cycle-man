@@ -1,16 +1,16 @@
 ---
 redirect_from: 
-- "/blog/2018/01/15/index.html"
-- "/blog/2018/01/15/radbahn_l'autoroute_vélo_berlinois.html"
+- "/radtouren/2018/01/15/index.html"
+- "/radtouren/2018/01/15/radbahn_l'autoroute_vélo_berlinois.html"
 - "/2018/01/15/radbahn_l'autoroute_vélo_berlinois.html"
 - "/roue-libre/radbahn_l'autoroute_vélo_berlinois.html"
 title : Radbahn - l'autoroute vélo berlinois
 description : C'est comme si vous faisiez Paris-Lyon en départementale et qu'un jour on construisait une autoroute. Vous gagnerez en vitesse, en confort et en sécurité. Radbahn, c'est pareil sauf que c'est pour les vélos et c'est à Berlin.
 lang: fr
-category: roue-libre
-comments: true
+category: [roue-libre]
 layout: default
 tags: [ Urbanisme ]
+img: /img/radbahn.png
 ---
 
 <div id="fullScreenDiv">

@@ -2,14 +2,15 @@
 layout: default
 title: En vélo de Berlin à Copenhague en 4 jours
 description: "Un bout d'EuroVélo 7 de Berlin à Cophenhague, la randonnée vélo des lacs du Mecklembourg et de la mer baltique. Idéal pour un long week-end prolongé de 4 jours. Compte-rendu."
-category: 'rando-velo'
+category: [rando-velo]
+placement: [home]
 lang: 'fr'
 dep: Berlin
 arr: Copenhague
 tags: [ Allemagne, Danemark ]
 last_modified_at: 01.05.2019
-comments: true
 img: /img/berlin-copenhague/step4_b.png
+footer: top2
 ---
 
 <div class="container blog">

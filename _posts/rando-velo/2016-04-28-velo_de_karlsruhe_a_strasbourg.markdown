@@ -1,16 +1,16 @@
 ---
 redirect_from: 
-- /blog/2016/04/28/index.html
-- /blog/2016/04/28/velo_de_karlsruhe_a_strasbourg.html
+- /radtouren/2016/04/28/index.html
+- /radtouren/2016/04/28/velo_de_karlsruhe_a_strasbourg.html
 layout: default
 title:  "Balade à vélo sur le Rhin de Strasbourg à Karlsruhe"
 description: "Jolie petite balade à vélo sur les rives du Rhin de Karlsruhe à Strasbourg. Cartes et fichiers GPX disponibles à télécharger. "
-category: rando-velo
+category: [rando-velo]
 lang: fr
-comments: true
 dep: Karlsruhe
 arr: Strasbourg
 tags: [ France, Allemagne, Rando facile ]
+img: /img/ferry-min.JPG
 ---
 
 <div class="container blog" align="center">

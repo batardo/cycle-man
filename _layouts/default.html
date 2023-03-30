@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang={{ page.lang }}>
 <head>
-    
     
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,105 +9,64 @@
     <title>{{ page.title }}</title>
     <meta name="description" content="{{page.description}}" />
 
-    {% if page.url contains 'materiel' %}
-    <meta name="ROBOTS" content="NOINDEX">
+
+    {% if page.bot == "noindex" %}
+    <meta name="robots" content="noindex">
     {% else %}
-    <meta name="ROBOTS" content="INDEX">
+    <meta name="robots" content="INDEX">
     {% endif %}
+
+
+    <meta property='og:title' content='Bike blog | cycle-man'/>
+    <meta property='og:image' content='https://www.cycle-man.com/img/favicon.ico'/>
+    <meta property='og:description' content='If there is a will, there is a way, hopefully a cycle way.'/>
+    <meta property='og:url' content='https://www.cycle-man.com' />
 
     {% if page.url contains 'location_velo_berlin' %}
     <link rel="amphtml" href='https://www.cycle-man.com/amp/roue-libre/location_velo_berlin.html'>   
     {% endif %}
 
 
-
-
-
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
-    
     <link rel="stylesheet" href="/css/index.css">
+    <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' >
 
     <link rel="shortcut icon" href="/favicon.ico?">
     
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="/dist/jquery.bootstrap-autohidingnavbar.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
     <script src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js"></script>
 
 
-    {% if page.title == 'Portugal à vélo - Itinéraire de Strasbourg à Lisbonne' %}
+    {% if page.title == "Portugal à vélo - Itinéraire de Strasbourg à Lisbonne" or
+    page.title == "Cycling across Europe | 30 days on my bike from Germany to Portugal" or
+    page.title == "Mit dem Fahrrad von Deutschland nach Portugal - Radreisebericht"
+    %}
     <link rel="alternate" hreflang="en" href="https://www.cycle-man.com/bike-tours/cycling-across-europe.html" />
     <link rel="alternate" hreflang="fr" href="https://www.cycle-man.com/rando-velo/france-portugal.html" />
     <link rel="alternate" hreflang="de" href="https://www.cycle-man.com/fahrradroute.html" />
-    {% else if page.title == 'En vélo de Berlin à Copenhague en 4 jours' %}
+    {% elsif page.title == "En vélo de Berlin à Copenhague en 4 jours"
+    or page.title == "Mit dem Fahrrad von Berlin nach Kopenhagen - Die 4 Etappen" %}
     <link rel="alternate" hreflang="fr" href="https://www.cycle-man.com/rando-velo/berlin-copenhague.html" />
-    <link rel="alternate" hreflang="de" href="https://www.cycle-man.com/blog/mit-dem-fahrrad-nach-kopenhagen.html" />
+    <link rel="alternate" hreflang="de" href="https://www.cycle-man.com/radtouren/mit-dem-fahrrad-nach-kopenhagen.html" />
+    {% elsif page.title == "À propos de ce blog"
+    or page.title == "About this blog"
+    or page.title == "Über diesen Blog"
+    %}
+    <link rel="alternate" hreflang="fr" href="/a-propos.html" />
+    <link rel="alternate" hreflang="de" href="/ueber-diesen-blog.html" />
+    <link rel="alternate" hreflang="en" href="/about-this-blog.html" />
     {% endif %}
 
-    <meta property='og:title' content='Bike blog | cycle-man'/>
-    <meta property='og:image' content='https://www.cycle-man.com/img/logo.png'/>
-    <meta property='og:description' content='If there is a will, there is a way, hopefully a cycle way.'/>
-    <meta property='og:url' content='https://www.cycle-man.com' />
-
-   
-   
-    
-    
      </head>
 
 <body>
-    
 
-
- {% if page.url contains 'rando' %}
-
-  {% include navi-rando.html %}
-
-  {% elsif page.url == '/' %}
-   {% include navi-home.html %}
-
-
-
-  
-
-   {% elsif page.url contains 'libre' %}
-   {% include navi-ville.html %}
-
-   {% elsif page.url contains 'materiel' %}
-   {% include navi-materiel.html %}
-
-   {% elsif page.lang contains 'fr' %}
-    {% include navi-rando.html %}
-
-
-{% else %}
-
-    {% include navi.html %}
-
-
-
-    {% endif %}
-
-    
-      {{ content }}
-
-<div id="spacer">
-</div>
-
-<div class="container blog">
-    <div class="row">
-    <div class="col-md-12">
-       <a href="https://www.instagram.com/berlinlisbonexpress/" target="_blank"><img src="/img/logo-insta.png" style="max-width:40px"></a>
-        |<a href="/a-propos.html" rel="nofollow"> À propos</a>
-        |<a href="/protection-des-donnees.html" rel="nofollow"> Protection des données</a>
-    </div>
-    </div>
-    <div id="spacer"></div>
-  </div>
-
+  {% include navi.html %}
+  {{ content }}
+  {% include footer.html %}
   {% include cookie-consent.html %}
 
 </body>

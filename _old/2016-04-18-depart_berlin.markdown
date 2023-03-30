@@ -8,7 +8,7 @@ description: "En route pour Lisbonne : premiers coups de pédales."
 category: "itineraire"
 lang: mm
 ref: post
-comments: true
+
 sitemap: false
 ---
 
@@ -31,7 +31,7 @@ sitemap: false
 
       <div class="row vcenter">      
         <div class="col-sm-12">
-        <a href="/blog/"><p align="right">>>Retour au blog</p></a>
+        <a href="/radtouren/"><p align="right">>>Retour au blog</p></a>
           </div>
         </div>
 

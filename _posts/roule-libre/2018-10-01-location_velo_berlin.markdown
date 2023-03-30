@@ -1,13 +1,15 @@
 ---
 title: 'Location de vélo en libre service à Berlin Neukölln'
 description: 'Devenu sans-vélo-fixe, j’utilise nextbike et autres vélos en libre service pour me déplacer dans Berlin. Avantages et inconvénients: voici le compte-rendu.'
-category: roue-libre
+category: [roue-libre]
+placement: [home]
 lang: fr
 layout: default
 tags: [ Urbanisme, Tourisme, Location de vélo ]
 last_modified_at:  19.03.2023
 available: disponible
 img: /img/loc-velo-kreuzberg-4.JPG
+footer: top3
 ---
 
 
@@ -60,7 +62,7 @@ img: /img/loc-velo-kreuzberg-4.JPG
   <thead>
       <tr>
         <th></th>
-        <th><img src="/img/deezernextbike.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle;margin-left: 5px; margin-top: 5px; margin-bottom: 5px"> NEXT BIKE</th>
+        <th><img src="/img/deezernextbike.png" alt="db call a bike" width="50" height="50" style="vertical-align:middle;margin-left: 5px; margin-footer: top5px; margin-bottom: 5px"> NEXT BIKE</th>
         </tr>
       </thead>
 

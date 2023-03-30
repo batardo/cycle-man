@@ -1,13 +1,15 @@
 ---
 redirect_from: "/itineraire-velo/cyclotourisme-en-allemagne.html"
 title: 'Cyclotourisme en Allemagne : et pourquoi pas ?'
-category: rando-velo
+category: [rando-velo]
+placement: [home]
 layout: 'default' 
 description: 'Quelques bonnes raisons de faire une rando vélo en Allemagne, glossaire du cyclotouriste, adresses utiles et résumé de ma rando de Berlin à Strasbourg.'
 lang: 'fr'
 dep: Berlin
 arr: Strasbourg
 tags: [ Allemagne ]
+img: /img/cyclotourisme-allemagne.JPG
 ---   
 
 <div class="containerblog" id="cyclotourisme">
@@ -403,17 +405,14 @@ tags: [ Allemagne ]
         <td>Pension</td>
         <td>Bed & Breakfast</td>
       </tr>
-
       <tr>
         <td>Regenhose</td>
         <td>Pantalon de pluie</td>
       </tr>
-
       <tr>
         <td>Fahrradhelm</td>
         <td>Casque de vélo</td>
       </tr>
-
       <tr>
         <td>Fahrradhelm</td>
         <td>Casque de vélo</td>

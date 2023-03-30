@@ -1,13 +1,13 @@
 ---
 redirect_from: 
-- "/blog/2016/04/20/index.html"
-- "/blog/2016/04/20/berlin_leipzig_en-deux-jours.html"
+- "/radtouren/2016/04/20/index.html"
+- "/radtouren/2016/04/20/berlin_leipzig_en-deux-jours.html"
 layout: default-fr-no-index
 title:  "Berlin - Leipzig en 2 jours"
 description: "Itinéraire parmi les plus direct : 170 kilomètres pour la chauffe."
 lang: mm
 ref: post
-comments: true
+
 sitemap: false
 ---
 
@@ -32,7 +32,7 @@ sitemap: false
 
       <div class="row vcenter">      
         <div class="col-sm-12">
-        <a href="/blog/"><p align="right">>>Retour au blog</p></a>
+        <a href="/radtouren/"><p align="right">>>Retour au blog</p></a>
           </div>
         </div>
 

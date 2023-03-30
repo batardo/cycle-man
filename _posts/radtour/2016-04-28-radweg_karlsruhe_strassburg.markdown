@@ -1,13 +1,14 @@
 ---
-redirect_from: "/2016-04-28-radweg_karlsruhe_strassburg.html"
-layout: default-de
+redirect_from: 
+- "/2016-04-28-radweg_karlsruhe_strassburg.html"
+- "blog/2016/04/28/radweg_karlsruhe_strassburg.html"
+layout: default
 title:  "Radweg von Karlsruhe nach Straßburg"
 description: "Die letzte -deutsche- Etappe meiner Radtour von Berlin nach Lissabon : Karlsruhe-Straßburg : schön an dem Rhein entlang."
 lang: de
 ref: post
-category: blog
-comments: true
-permalink: "blog/2016/04/28/radweg_karlsruhe_strassburg.html"
+category: [radtour]
+img: /img/ferry-min.JPG
 ---
 
 
@@ -67,7 +68,7 @@ permalink: "blog/2016/04/28/radweg_karlsruhe_strassburg.html"
 
       <div class="row">      
         <div class="col-sm-12">
-        <p align="center"><button><a href="/blog/de/">Zurück zum Blog</a></button></p>
+        <p align="center"><button><a href="/radtouren/">Zurück zum Blog</a></button></p>
           </div>
         </div>
 

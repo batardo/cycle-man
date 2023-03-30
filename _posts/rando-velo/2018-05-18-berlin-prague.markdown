@@ -1,15 +1,16 @@
 ---
 layout: default
-title: De Berlin à Dresde et Prague à vélo
+title: De Berlin à Prague à vélo
 description: "Rando vélo express de Berlin à Prague en passant par Dresde. 400 kilomètres en 4 jours, Suisse-saxonne, Suisse-bohémienne, Elbe. Idéal pour un long week-end. Retrouvez le détail des étapes."
-category: 'rando-velo'
+category: [ rando-velo ]
+placement: [home]
 lang: 'fr'
 dep: Berlin
 arr: Prague
 tags: [ Allemagne, République Tchèque ]
 last_modified_at: 28.02.2019
-comments: true
 img: /img/berlin-prague.jpg
+footer: top4
 ---
 
 <div class="container blog">

@@ -1,10 +1,12 @@
 ---
 layout: default
-title: "Rando vélo : tous mes voyages et itinéraires vélo"
-description: "Retrouvez mes plus belles randonnées à vélo : itinéraires, hébergements, tracks GPX. Vive les randos, vive les vélos, vive les randos vélo."
+title: "Randonnées vélo | Tous mes voyages à vélo"
+description: "Tous mes compte-rendus de voyage et randonnées à vélo, cartes et hébergements."
 lang: fr
 permalink: /rando-velo/
-last_modified_at: 04/09/2018
+category: ["randos-vélo"]
+navi: ["yes"]
+last_modified_at: 2023-03-30
 ---
 
 
@@ -12,41 +14,21 @@ last_modified_at: 04/09/2018
      </div>
 
 
+
       <div class="container blog" >
+
 
        {% assign posts=site.posts | where:"lang", page.lang %}
         {% for post in posts %}
-        
-        {% if post.category == 'rando-velo' %}
+
+        {% if post.category contains 'rando-velo' %}
 
 
      <div class="row vcenter">
          <div class="col-sm-6">
-          <img src="{{ post.img }}">
-
-         
+          <img src="{{ post.img }}" style="border-radius: 10px; display: block; width: 100%">
 
 
-  {% if post.title contains 'Rhin' %}
-  <img class="" src="/img/ferry-min.JPG" alt="traversee du rhin a velo" width="400">
-
-  {% elsif post.title contains 'Cyclotourisme en Allemagne' %}
-  <img class="" src="/img/cyclotourisme-allemagne.JPG" alt="cyclotourism en Allemagne" width="">
-
-  {% elsif post.title contains 'Carnet de voyage' %}
-  <img class="" src="/img/salamanca-min.jpg" alt="cyclotourisme en Allemagne" width="">
-
-  {% elsif post.title contains 'Portugal à vélo' %}
- <img class="" src="/img/portugalstyle.JPG" alt="portugal à vélo" width="">
-
-{% elsif post.title contains 'Diagonale Strasbourg' %}
- <img class="" src="/img/creuse-min.jpg" alt="cyclotourism en Allemagne" width="">
-          
-{% elsif post.title == 'Voyage à vélo en famille le long de la Loire' %}
- <img class="" src="/img/loire-min.png" alt="voyage loire vélo" width="">
-
-          
-  {% endif %}
 
 </div>
 
@@ -54,7 +36,7 @@ last_modified_at: 04/09/2018
 
 
 
-  <p id="post_title">{{ post.title }}</p>
+  <p id="post_title" style="padding-top: 10px">{{ post.title }}</p>
     Posté {{ post.date | date: "%d-%m-%Y"}} - {{ post.description }} 
   </br>
 </br>

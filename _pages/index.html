@@ -1,0 +1,43 @@
+---
+layout: default
+title: Bike blog of a passionate cyclist
+description: All my posts across the blog
+lang: en
+sitemap: false
+bot: noindex
+---
+
+<div id="spacer"></div>
+
+<div class="container blog">
+
+    {% assign posts=site.posts | where: "placement", "home" %}
+    {% for post in posts %}
+
+
+    <div class="row vcenter" style="padding-bottom: 40px">
+        <div class="col-sm-6">
+            <img src="{{ post.img }}" style="border-radius: 10px; display: block; width: 100%; ">
+        </div>
+        <div class="col-sm-6">
+            <p id="post_title" lang="{{ post.lang }}" style="padding-top: 10px">{{ post.title }}</p>
+            <img src="/img/{{post.lang}}.svg" width="20" alt="post_lang">
+            {{ post.date | date: "%d-%m-%Y"}} - {{ post.description }}
+            </br>
+            </br>
+
+            <a lang={{ post.lang }} href="{{ post.url }}" class="btn btn-lg btn-block" id="post_btn">
+                {% if post.category contains 'rando-velo' %}
+                En vélo de {{ post.dep }} à {{ post.arr }}
+                {% elsif post.category contains 'roue-libre' %}
+                Lire l'article
+                {% elsif post.lang == 'de' %}
+                Weiterlesen
+                {% else %}
+                Read post
+                {%endif%}
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>

@@ -1,12 +1,13 @@
 ---
-category: blog
-layout: default-de
-title: "Fahrradblog"
-description: "Fahrradfotos, Berichte meiner Radtouren, Strecken, Fahrradlife, Nachrichten, Mobilität, Tipps : Alles rund um das Fahrrad, denn Fahrrad ist nicht nur Urlaub, sondern für mich auch Leben."
+layout: default
+title: "freilauf"
+description: ""
 lang: de
 ref: index
-permalink: /blog/de/
-last_modified_at: 11/09/2018
+permalink: /freilauf/
+category: ["freilauf"]
+sitemap: false
+bot: noindex
 ---
      
 
@@ -16,21 +17,19 @@ last_modified_at: 11/09/2018
       <div class="container blog">
 
 
-       {% assign posts=site.posts | where:"lang", page.lang | where: "category", "blog"%}
+       {% assign posts=site.posts | where:"lang", page.lang | where: "category", "freilauf"%}
         {% for post in posts %}
 
 
 
      <div class="row vcenter">
          <div class="col-sm-6">
-             <img src="{{ post.img }}"  width="400">
+             <img src="{{ post.img }}"  style="border-radius: 10px; display: block; width: 100%;">
 
 
     {% if post.title == 'Radweg von Karlsruhe nach Straßburg' %}
 <img class="" src="/img/ferry-min.JPG" alt="über den Rhein mit der Fähre" width="400">
-          
-           {% elsif post.title contains 'Fahrrad codieren' %}
-<img class="" src="/img/Gravur.jpg" alt="gravur" width="400">
+
 
 {% elsif post.title contains 'Dresden' %}
  <img class="" src="/img/berlindresden-min.JPG" alt="berlindresden" width="400">

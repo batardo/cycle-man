@@ -1,6 +1,6 @@
 ---
 redirect_from: 
-- "/blog/2016/04/22/index.html"
+- "/radtouren/2016/04/22/index.html"
 - "blog/2016/04/22/land_de_thuringe_a_velo.html"
 layout: default-fr-no-index
 title:  "Traversée du land de Thuringe"
@@ -8,7 +8,7 @@ description:   "Vallée de l'Ilm, fôret et saucisses de Thuringe"
 category: blog
 lang: mm
 ref: post
-comments: true
+
 sitemap: false
 ---
   
@@ -64,7 +64,7 @@ sitemap: false
 
  <div class="row vcenter">      
         <div class="col-sm-12">
-        <a href="/blog/"><p align="right">>>Retour au blog</p></a>
+        <a href="/radtouren/"><p align="right">>>Retour au blog</p></a>
           </div>
         </div>
 

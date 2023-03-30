@@ -1,14 +1,14 @@
 ---
 redirect_from: 
-- "/blog/2016/04/25/index.html"
+- "/radtouren/2016/04/25/index.html"
 - "/2017-04-25-fahrrad_codieren_lassen_und_registrieren_in_deutschland.html"
+- "blog/2017/04/25/fahrrad_codieren_lassen_und_registrieren_in_deutschland.html"
 title: "Fahrrad codieren und registrieren - Infoseite eines Radfahrers"
 description: "Wenn alle Radfahrer ihrer Räder codieren lassen würden, hätten wir weniger Fahrraddiebstähle. Hier zu der Infoseite."
 lang: de
-category: blog
-layout: default-de
-comments: true
-permalink: "blog/2017/04/25/fahrrad_codieren_lassen_und_registrieren_in_deutschland.html"
+category: [freilauf]
+layout: default
+img: /img/Gravur.jpg
 ---
 
 

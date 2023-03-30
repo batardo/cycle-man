@@ -6,7 +6,7 @@ description:   "Les toutes premières galères"
 category: "blog"
 lang: mm
 ref: post
-comments: true
+
 sitemap: false
 ---
 
@@ -30,7 +30,7 @@ sitemap: false
 
       <div class="row vcenter">      
         <div class="col-sm-12">
-        <a href="/blog/"><p align="right">>>Retour au blog</p></a>
+        <a href="/radtouren/"><p align="right">>>Retour au blog</p></a>
           </div>
         </div>
 

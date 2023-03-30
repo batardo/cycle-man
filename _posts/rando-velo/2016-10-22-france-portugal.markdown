@@ -2,13 +2,15 @@
 layout: default
 title: Portugal à vélo - Itinéraire de Strasbourg à Lisbonne
 description: "2 400 kilomètres de voyage à vélo de France au Portugal. Retrouvez mon itinéraire avec le détail des 25 étapes jusqu'à Lisbonne."
-category: 'rando-velo'
+category: [rando-velo]
+placement: [home]
 lang: 'fr'
 dep: Strasbourg
 arr: Lisbonne
 tags: [ France, Espagne, Portugal ]
 last_modified_at: 28.02.2019
-comments: true
+img: /img/portugalstyle.JPG
+footer: top1
 ---
 
 <div class="container blog">

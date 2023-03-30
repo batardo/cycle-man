@@ -4,13 +4,14 @@ title: La Baroudeuse - Compte-rendu d'une première course d'ultracyclisme
 description: "Août 2020, me voilà au départ de La Baroudeuse, une course à vélo folle de 400 kilomètres 
 à travers le féérique parc du Mercantour dans les Alpes-Maritimes. Retour sur ma expérience d'ultra-cyclisme où le 
 dépassement de soi est assuré."
-category: 'rando-velo'
+category: [rando-velo]
+placement: [home]
 lang: 'fr'
 dep: Peille
 arr: Peille
 last_modified_at: 15.05.2021
-comments: true
 img: /img/baroudeuse/baroudeuse-1.jpeg
+footer: top5
 ---
 
 <div class="container blog">

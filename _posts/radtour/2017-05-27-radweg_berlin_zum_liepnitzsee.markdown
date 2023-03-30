@@ -1,14 +1,16 @@
 ---
 redirect_from: 
-- "/blog/2017/05/27/index.html"
-- "/blog/2017/05/27/radweg_berlin_zum_liepnitzsee.html"
+- "/radtouren/2017/05/27/index.html"
+- "/radtouren/2017/05/27/radweg_berlin_zum_liepnitzsee.html"
+- "/2017-05-27-radweg_berlin_zum_liepnitzsee.html"
 title : "Radweg von Berlin zum Liepnitzsee - Schnell und schön zum See fahren."
 description: "Radweg zu einem der schönsten Seen Berlins. In 90 Minuten durch Berlin und Brandenburg: jetzt kostenlos GPX Dateien herunterladen."
 lang: de
-category: blog
-layout: "default-de"
-permalink: "/2017-05-27-radweg_berlin_zum_liepnitzsee.html"
+category: [radtour]
+placement: [home]
+layout: "default"
 last_modified_at:  24.05.2021
+img: /img/liepnitzsee.jpg
 ---
 
 <div class = "container blog">
@@ -47,11 +49,11 @@ bequem und schön zum Liepnitzsee fahren, habe ich auch eine zweite Route für E
 <p>Dateien im .gpx Format können kostenlos heruntergeladen werden und direkt in eueren Geräten importiert werden.</p>
           <div class="row">
             <div class="col-lg-6">
-             <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
+             <li><img src="//img/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
                 <p>Zwischen Zepernick und Schönow habe ich mich verfahren. Umweg von circa 2 km.</p>
               </div>
               <div class="col-lg-6">
-                <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rueckfahrt.gpx" download="">Rückfahrt</a></li>
+                <li><img src="//img/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rueckfahrt.gpx" download="">Rückfahrt</a></li>
                     <p>Bei der Rückfahrt habe ich mich nicht verfahren :)</p>
                    </div>
         </div>
@@ -139,7 +141,7 @@ Achtung : <strong>Nicht für Rennräder geeignet !</strong></p>
  </div>
 </div>
 
-<p><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/alternativ.gpx" download="">GPX Datei herunterladen : Von Liepnitzsee nach Berlin-Buch</a></p>
+<p><img src="//img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/alternativ.gpx" download="">GPX Datei herunterladen : Von Liepnitzsee nach Berlin-Buch</a></p>
 
 {% include btn-back-de.html %}
 

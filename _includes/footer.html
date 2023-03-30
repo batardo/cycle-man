@@ -1,0 +1,43 @@
+<div id="footer" class="container blog" >
+    <div class="row">
+        <div class="col-sm-12">
+
+            <p lang="{{page.lang}}" style="text-align: "> {% if page.lang == 'en' %}
+                Most read articles:
+                {% elsif page.lang == 'fr' %}
+                Articles les plus lus:
+                {% elsif page.lang == 'de' %}
+                Meistgelesene Artikel:
+                {% endif %}
+            </p>
+            <ul style="text-align: ; margin: 10; padding: 0;">
+                {% assign posts=site.posts  | where: "lang", page.lang | where_exp: "post", "post.footer contains 'top'" | sort %}
+                {% for post in posts %}
+                {% if post.permalink == blank %}
+                <li><a href="{{post.permalink}}">{{post.title}}</a></li>
+                {% else %}
+                <li><a href="{{post.url}}">{{post.title}}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+</div>
+    <div class="row">
+        <div class="col-sm-12">
+        <p style="font-size: 1.4rem"> <a href="https://www.instagram.com/berlinlisbonexpress/"
+                                         target="_blank"
+                                         rel="nofollow">
+            <img src="/img/logo-insta.png" style="max-width:40px" alt="logo_insta"></a></p>
+        {%if page.lang == 'en'%}
+        <p style="font-size: 1.2rem;"><a style="color: black;" href="/about-this-blog.html">cycle-man.com</a> &copy;</p>
+        {%elsif page.lang == 'de'%}
+        <p style="font-size: 1.2rem;"><a style="color: black;" href="/ueber-diesen-blog.html">cycle-man.com</a> &copy;</p>
+        {%elsif page.lang == 'fr'%}
+        <p style="font-size: 1.2rem;"><a style="color: black;" href="/a-propos.html">cycle-man.com</a> &copy;</p>
+        {%endif%}
+            {% include btn-buy-me-coffee.html %}
+    </div>
+
+        </div>
+</div>
+

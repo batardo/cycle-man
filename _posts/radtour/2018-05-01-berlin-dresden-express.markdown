@@ -1,20 +1,25 @@
 ---
-layout: default-de
+redirect_from:
+- "blog/berlin-dresden-express.html"
+layout: default
 title: 'Mit dem Rad von Berlin nach Dresden'
-description: 'Der Radweg Berlin Dresden in einem Tag, kann man gut machen. Dafür gibt es meine direkte Strecke! Mit einem Rennrad, einem Navi und ein bisschen Glück mit dem Wind schafft ihr die knapp 200 Kilometer in einem Tag. Order nicht, egal, Hauptsache es macht Spaß.' 
-comments: true
-category: blog
+description: 'Der Radweg Berlin Dresden in einem Tag, kann man gut machen. Dafür gibt es meine direkte Strecke! Mit einem Rennrad, einem Navi und ein bisschen Glück mit dem Wind schafft ihr die knapp 200 Kilometer in einem Tag. Order nicht, egal, Hauptsache es macht Spaß.'
+category: [radtour]
+placement: [home]
 lang: de
+img: /img/berlindresden-min.JPG
 ---
 
 
 <div class="" id="berlindresden">
       <div class="row">
       <div class="col-md-12">
-        <h1 >Radweg Berlin-Dresden-Express</h1>  
+        <h1 >Mit dem Fahrrad von Berlin nach Dresden</h1>  
           </div>
         </div>
       </div>
+
+<div id="spacer"></div>
 
   <div class="container blog">
   <p>Ich bin am Osterwochenende nach Dresden mit dem Fahrrad von Berlin gefahren. Mein Plan war die ganze Strecke (genau 193km) in einem Tag zu schaffen. Am Ende musste ich leider bei Großenhain also 35 Kilometer vor dem Ziel -aufgrund Gegenwind und Kraftmangel (muss ich auch fairerweise gestehen)- aufgeben. Also, nicht ganz geschafft wie ich es mir vorgenommen hatte, aber es hat trotzdem sehr viel Spaß gemacht. Deswegen teile ich hier auf dieser Seite den kompletten Reisebericht meiner Radtour, inkl. Karte, .gpx Datei, Fotos und Videos.</p>

@@ -1,0 +1,54 @@
+---
+category: blog
+layout: default
+title: "Bike tours"
+description: ""
+lang: en
+category: ["bike-tours"]
+navi: ["yes"]
+permalink: /bike-tours/
+sitemap: false
+bot: noindex
+---
+     
+
+     <div id="spacer">
+     </div>
+
+      <div class="container blog">
+
+
+       {% assign posts=site.posts | where:"lang", page.lang | where: "category", "bike-tours"%}
+        {% for post in posts %}
+
+
+
+     <div class="row vcenter">
+         <div class="col-sm-6">
+             <img src="{{ post.img }}"  style="border-radius: 10px; display: block; width: 100%;">
+
+
+
+
+</div>
+
+  <div class="col-sm-6">
+
+
+
+  <p id="post_title">{{ post.title }}</p>
+    Posted on {{ post.date | date: "%d-%m-%Y"}} - {{ post.description }}
+  </br>
+</br>
+   <a href="{{ post.url }}" class="btn btn-lg btn-block" id="post_btn">
+   Read post </a>
+    </div>
+      </div>
+
+ <div id="spacer">
+ </div>
+
+   {% endfor %}
+
+    </div>
+

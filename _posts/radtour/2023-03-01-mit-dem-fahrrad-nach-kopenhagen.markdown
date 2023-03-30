@@ -1,14 +1,17 @@
 ---
-layout: default-de
+redirect_from: 
+- "blog/mit-dem-fahrrad-nach-kopenhagen.html"
+layout: default
 title: Mit dem Fahrrad von Berlin nach Kopenhagen - Die 4 Etappen
 description: Von Berlin nach Kopenhagen mit dem Rad, eine tolle Radtour über die Mecklenburgische Seen Route, perfekt für lange Wochenende.
-category: blog
+category: [radtour]
+placement: [home]
 lang: de
 dep: Berlin
 arr: Kopenhagen
 last_modified_at: 19.03.2023
-comments: true
 img: /img/berlin-copenhague/step4_b.png
+footer: top2
 ---
 
 <div class="container blog">
