@@ -6,6 +6,7 @@ permalink: /:categories/:title:output_ext
 markdown: kramdown
 include: ["_pages"]
 theme: minima
+url: "https://www.cycle-man.com"
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
