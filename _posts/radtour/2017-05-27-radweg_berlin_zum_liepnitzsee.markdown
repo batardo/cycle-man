@@ -49,11 +49,11 @@ bequem und schön zum Liepnitzsee fahren, habe ich auch eine zweite Route für E
 <p>Dateien im .gpx Format können kostenlos heruntergeladen werden und direkt in eueren Geräten importiert werden.</p>
           <div class="row">
             <div class="col-lg-6">
-             <li><img src="//img/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
+             <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/hinfahrt.gpx" download="">Hinfahrt</a></li>
                 <p>Zwischen Zepernick und Schönow habe ich mich verfahren. Umweg von circa 2 km.</p>
               </div>
               <div class="col-lg-6">
-                <li><img src="//img/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rueckfahrt.gpx" download="">Rückfahrt</a></li>
+                <li><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="https://github.com/batardo/batardo.github.io/blob/master/carte/rueckfahrt.gpx" download="">Rückfahrt</a></li>
                     <p>Bei der Rückfahrt habe ich mich nicht verfahren :)</p>
                    </div>
         </div>
@@ -141,7 +141,7 @@ Achtung : <strong>Nicht für Rennräder geeignet !</strong></p>
  </div>
 </div>
 
-<p><img src="//img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/alternativ.gpx" download="">GPX Datei herunterladen : Von Liepnitzsee nach Berlin-Buch</a></p>
+<p><img src="/img/gps.png" alt="gps" id="thxlistshawo"><a href="/carte/alternativ.gpx" download="">GPX Datei herunterladen : Von Liepnitzsee nach Berlin-Buch</a></p>
 
 {% include btn-back-de.html %}
 
