@@ -16,7 +16,8 @@ footer: top5
 
 <div class="container blog">
     <div class="row">
-      <h1>La Baroudeuse, ultracyclisme à la sauce alpine</h1> 
+    <div class="col-xs-12">
+      <h1>La Baroudeuse Road Race, ultracyclisme à la sauce alpine</h1> 
           <p>Août 2020, je me lance dans une course d'ultracyclisme en participant à la Baroudeuse. Une première pour moi, 
           jusqu'à présent plutôt adepte de cyclotourisme, le genre de cycliste qui aime bien s'arrêter pour prendre des 
           bières en terrasse. Mais cette fois l'envie de me dépasser est bien là, et surtout, j'ai très envie de grimper,
@@ -27,12 +28,13 @@ footer: top5
            route vers le Mercantour depuis la vallée de la Durance avec mon gravel et son équipement au grand complet.</p>
           <img src="/img/baroudeuse/baroudeuse-6.jpeg" style="border-radius: 8px;display:block; margin:auto;">
        </div>
+        </div>
        <div id="spacer"></div>
      <div class="row">
        <h2>Le choix de l'équipement</h2>
           <p>Pour participer à cette course, je suis parti avec mon gravel Canyon GRAIL CF 7.0. C'est un vélo très léger 
           (à peine 8 kgs tout nu, c'est du tout carbonne)
-          avec des roues Swiss montées sur des pneus tubeless Schwalb de 40mm. C'est du coup très confortable et peut être 
+          avec des roues Swiss montées sur des pneus Schwalb de 40mm. C'est du coup très confortable et peut être 
           plus stable en cas de pluie, mais un peu moins performant en terme de vitesse. En descente par exemple j'étais
           très lent. Sur cette course, j'étais le seul en gravel, tous les autres étaient en course.
           <br>
