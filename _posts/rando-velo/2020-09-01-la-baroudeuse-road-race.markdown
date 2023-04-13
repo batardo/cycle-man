@@ -16,7 +16,7 @@ footer: top5
 
 <div class="container blog">
     <div class="row">
-    <div class="col-xs-12">
+    <div class="col-sm-12">
       <h1>La Baroudeuse Road Race, ultracyclisme à la sauce alpine</h1> 
           <p>Août 2020, je me lance dans une course d'ultracyclisme en participant à la Baroudeuse. Une première pour moi, 
           jusqu'à présent plutôt adepte de cyclotourisme, le genre de cycliste qui aime bien s'arrêter pour prendre des 
