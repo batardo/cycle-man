@@ -17,7 +17,7 @@ footer: top5
 <div class="container blog">
     <div class="row">
     <div class="col-sm-12">
-      <h1>La Baroudeuse Road Race, ultracyclisme à la sauce alpine</h1> 
+      <h1>La Baroudeuse Road Race, ultra cyclisme à la sauce alpine</h1> 
           <p>Août 2020, je me lance dans une course d'ultracyclisme en participant à la Baroudeuse. Une première pour moi, 
           jusqu'à présent plutôt adepte de cyclotourisme, le genre de cycliste qui aime bien s'arrêter pour prendre des 
           bières en terrasse. Mais cette fois l'envie de me dépasser est bien là, et surtout, j'ai très envie de grimper,
@@ -60,7 +60,8 @@ footer: top5
        j'étais bon pour arrêter jusqu'au lever du jour. Nous avons eu beaucoup de pluie et d'orage. 
        La météo a été un vrai challenge, et ça a été un vrai dépassement pour moi. Une fois trempé, on se dit, 
        que finalement la pluie ça lave la transpiration. Et on roule... <br>
-         <img src='/img/baroudeuse/baroudeuse-3.jpeg' style="border-radius: 8px;display:block; margin:auto;"><br>
+         <img src='/img/baroudeuse/baroudeuse-3.jpeg' style="border-radius: 8px;display:block; margin:auto;
+padding-top:10px"><br>
        Je pense que La Baroudeuse est une 
        course assez géniale pour le cadre féerique qu'elle nous propose. Malheureusement j'ai eu de la pluie 
        en continue, je n'ai pas eu le temps d'en profiter, mais je reviendrai... pour le paysage!<br>
@@ -72,15 +73,23 @@ footer: top5
        <div id="spacer"></div>
        <div class="row">
        <h4>Itinéraire de la Baroudeuse, le Mercantour en boucle</h4>
-       <div class="col-sm-6">
+       <div class="col-sm-12">
        <p>
-       Et voici ma tack enregistrée par mon GPS. À noter que j'ai fait une étape de quelques heures à Allos. 
+       Et voici ma track enregistrée par mon GPS. À noter que j'ai fait une étape de quelques heures à Allos. 
        Et il manque les 15 derniers kilomètres de l'Escarène à Peille. Au bout de 13 heures, le GPS n'avait plus 
        de batterie. Moi non plus d'ailleurs, mais on retrouve des forces avec l'euphorie de l'arrivée.</p>
        </div>
-       <div class="col-sm-6">
-       <iframe width="100%" height="400" frameborder='0' allowtransparency='true' scrolling='no'
-       src='https://www.strava.com/activities/5306404210/embed/7032f06cb5492d17d11bdd83bd13f54930b7726b'></iframe>
+       <div class="col-sm-12">
+<img src="/img/baroudeuse_map.png" alt="baroudeuse race map" style="border-radius: 8px;display:block; margin:auto;">
+       </div>
+<div class="col-sm-12">
+<p>Au niveau du dénivelé, aucune surprise on est bien sur du 10k. </p>
+<img src="/img/baroudeuse_profile.png" alt="baroudeuse race profile" style="border-radius: 8px;display:block; margin:auto;">
+       </div>
+<div class="col-sm-12">
+<p>Au final j'ai roulé 39h avec une vitesse moyenne de 16 km/h et une pointe à 77 km/h. </p>
+<img src="/img/baroudeuse_performance.png" alt="baroudeuse race my performances" style="border-radius: 8px;display:block; margin:auto;">
+
        </div>
        </div>
 {% include btn-back-fr.html %}
